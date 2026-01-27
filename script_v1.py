@@ -15,6 +15,7 @@ import yaml
 DB_PATH = Path("briefing.db")
 FEEDS_YML = Path("feeds.yml")
 OUT_MD = Path("site/briefing.md")
+OUT_HTML = Path("site/briefing.html")
 
 # How many recent items per topic in the markdown output
 MAX_ITEMS_PER_TOPIC = 12
@@ -200,6 +201,94 @@ def write_briefing_md(items_by_topic: Dict[str, List[Dict[str, Any]]]) -> None:
     OUT_MD.write_text("\n".join(lines), encoding="utf-8")
 
 
+def render_md_to_html(md_path: Path, html_path: Path, page_title: str = "Daily Media Briefing") -> None:
+    import markdown
+    from datetime import datetime, timezone
+
+    md_text = md_path.read_text(encoding="utf-8")
+    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    body = markdown.markdown(
+        md_text,
+        extensions=["extra", "tables", "toc"]
+    )
+
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{page_title}</title>
+  <style>
+    body {{
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 980px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+    }}
+    h1, h2, h3 {{ line-height: 1.25; }}
+    a {{ color: #0366d6; text-decoration: none; }}
+    a:hover {{ text-decoration: underline; }}
+    .meta {{ color: #666; font-size: 0.9em; margin: 0.5rem 0 2rem; }}
+    code, pre {{ background: #f6f8fa; }}
+    pre {{ padding: 0.75rem; overflow-x: auto; border-radius: 8px; }}
+    table {{ border-collapse: collapse; }}
+    th, td {{ border: 1px solid #ddd; padding: 6px 10px; }}
+  </style>
+</head>
+<body>
+  <div class="meta">Last updated: {generated_at} · <a href="briefing.md">Markdown</a></div>
+  {body}
+</body>
+</html>
+"""
+    html_path.parent.mkdir(parents=True, exist_ok=True)
+    html_path.write_text(html, encoding="utf-8")
+
+
+def write_index_html() -> None:
+    from datetime import datetime, timezone
+    from pathlib import Path
+
+    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Media Briefing</title>
+  <style>
+    body {{
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+    }}
+    .meta {{ color: #666; font-size: 0.9em; margin-bottom: 1.5rem; }}
+    a {{ color: #0366d6; text-decoration: none; }}
+    a:hover {{ text-decoration: underline; }}
+  </style>
+</head>
+<body>
+  <h1>Daily Media Briefing</h1>
+  <div class="meta">Last updated: {generated_at}</div>
+
+  <ul>
+    <li><a href="briefing.html">Open latest briefing (HTML)</a></li>
+    <li><a href="briefing.md">Open latest briefing (Markdown)</a></li>
+  </ul>
+
+</body>
+</html>
+"""
+    site_dir = Path("site")
+    site_dir.mkdir(parents=True, exist_ok=True)
+    (site_dir / "index.html").write_text(html, encoding="utf-8")
+
+
 def main() -> None:
     feeds = load_feeds()
 
@@ -223,6 +312,8 @@ def main() -> None:
 
         items_by_topic = get_latest_items_by_topic(conn)
         write_briefing_md(items_by_topic)
+        render_md_to_html(OUT_MD, OUT_HTML)
+        write_index_html()
 
         print(f"\nDone. New items inserted: {total_inserted}")
         print(f"DB: {DB_PATH.resolve()}")
@@ -230,23 +321,6 @@ def main() -> None:
     finally:
         conn.close()
 
-def write_index_html() -> None:
-    # super simple HTML that links to the markdown
-    html = """<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Daily Media Briefing</title>
-</head>
-<body>
-  <h1>Daily Media Briefing</h1>
-  <p><a href="briefing.md">Open latest briefing (Markdown)</a></p>
-</body>
-</html>
-"""
-    Path("site").mkdir(parents=True, exist_ok=True)
-    Path("site/index.html").write_text(html, encoding="utf-8")
 
 
 if __name__ == "__main__":
