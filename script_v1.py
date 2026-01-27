@@ -14,7 +14,7 @@ import yaml
 
 DB_PATH = Path("briefing.db")
 FEEDS_YML = Path("feeds.yml")
-OUT_MD = Path("briefing.md")
+OUT_MD = Path("site/briefing.md")
 
 # How many recent items per topic in the markdown output
 MAX_ITEMS_PER_TOPIC = 12
@@ -229,6 +229,24 @@ def main() -> None:
         print(f"Output: {OUT_MD.resolve()}")
     finally:
         conn.close()
+
+def write_index_html() -> None:
+    # super simple HTML that links to the markdown
+    html = """<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Media Briefing</title>
+</head>
+<body>
+  <h1>Daily Media Briefing</h1>
+  <p><a href="briefing.md">Open latest briefing (Markdown)</a></p>
+</body>
+</html>
+"""
+    Path("site").mkdir(parents=True, exist_ok=True)
+    Path("site/index.html").write_text(html, encoding="utf-8")
 
 
 if __name__ == "__main__":
