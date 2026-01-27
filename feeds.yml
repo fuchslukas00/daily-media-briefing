@@ -1,0 +1,13 @@
+international:
+  - name: BBC World
+    url: http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml
+    language: en
+    paywall: no
+
+germany:
+  - name: tagesschau
+    url: https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml
+    language: de
+    paywall: no
+
+
