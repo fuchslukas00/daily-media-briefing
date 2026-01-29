@@ -219,30 +219,35 @@ def render_md_to_html(md_path: Path, html_path: Path, page_title: str = "Daily M
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{page_title}</title>
-  <style>
-    body {{
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-      max-width: 980px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      line-height: 1.6;
-    }}
-    h1, h2, h3 {{ line-height: 1.25; }}
-    a {{ color: #0366d6; text-decoration: none; }}
-    a:hover {{ text-decoration: underline; }}
-    .meta {{ color: #666; font-size: 0.9em; margin: 0.5rem 0 2rem; }}
-    code, pre {{ background: #f6f8fa; }}
-    pre {{ padding: 0.75rem; overflow-x: auto; border-radius: 8px; }}
-    table {{ border-collapse: collapse; }}
-    th, td {{ border: 1px solid #ddd; padding: 6px 10px; }}
-  </style>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-  <div class="meta">Last updated: {generated_at} · <a href="briefing.md">Markdown</a></div>
+
+<header class="header">
+  <div class="container">
+    <div class="nav">
+      <strong>Daily Briefing</strong>
+      <a href="./">Home</a>
+      <a href="briefing.html">Latest</a>
+      <a href="briefing.md">Markdown</a>
+    </div>
+  </div>
+</header>
+
+<main class="main">
+  <div class="meta">
+    Last updated: {generated_at}
+  </div>
+
   {body}
+</main>
+
 </body>
 </html>
 """
+
     html_path.parent.mkdir(parents=True, exist_ok=True)
     html_path.write_text(html, encoding="utf-8")
 
