@@ -1,6 +1,6 @@
 # Daily Briefing
 
-_Generated: 2026-01-29 20:50 UTC_
+_Generated: 2026-01-29 21:00 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
