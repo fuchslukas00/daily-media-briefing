@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-01-28 07:01 UTC_
+_Generated: 2026-01-29 07:25 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **tagesschau** — [Marktbericht: DAX vor anrollender Zahlenflut verhalten](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-102.html)  
-  _Wed, 28 Jan 2026 07:49:24 +0100_ · paywall: `False`
-- **tagesschau** — [Antrag: CDU will Mindestlohn-Ausnahmen für Saisonarbeiter](https://www.tagesschau.de/inland/innenpolitik/cdu-mindestlohn-saisonarbeiter-100.html)  
-  _Wed, 28 Jan 2026 07:15:19 +0100_ · paywall: `False`
-- **tagesschau** — [11KM-Podcast: Ukraine am Limit - Wie Putin Wetter als Waffe einsetzt](https://www.tagesschau.de/ausland/europa/podcast-11km-ukraine-krieg-100.html)  
-  _Wed, 28 Jan 2026 06:22:05 +0100_ · paywall: `False`
-- **tagesschau** — [Welche Chancen deutsche Autobauer in Indien haben](https://www.tagesschau.de/wirtschaft/weltwirtschaft/indien-handelsabkommen-100.html)  
-  _Wed, 28 Jan 2026 06:21:38 +0100_ · paywall: `False`
-- **tagesschau** — [CARE-Report: Wenig Aufmerksamkeit für Krisen in Afrika](https://www.tagesschau.de/ausland/afrika/care-report-krisen-100.html)  
-  _Wed, 28 Jan 2026 06:00:24 +0100_ · paywall: `False`
-- **tagesschau** — [Warum die Aufarbeitung von NS-Verbrechen immer schwieriger wird](https://www.tagesschau.de/inland/gesellschaft/aufarbeitung-holocaust-nationalsozialismus-100.html)  
-  _Wed, 28 Jan 2026 03:32:42 +0100_ · paywall: `False`
-- **tagesschau** — [Einigung auf Minderheitsregierung in den Niederlanden](https://www.tagesschau.de/ausland/europa/niederlande-minderheitsregierung-102.html)  
-  _Wed, 28 Jan 2026 02:48:00 +0100_ · paywall: `False`
-- **tagesschau** — [Erschossener Krankenpfleger war laut US-Präsident Trump kein Attentäter](https://www.tagesschau.de/ausland/amerika/trump-pretti-minneapolis-100.html)  
-  _Wed, 28 Jan 2026 07:51:23 +0100_ · paywall: `False`
-- **tagesschau** — [EU-Indien-Abkommen: Eine Botschaft an die Trumps, Xis und Putins der Welt](https://www.tagesschau.de/kommentar/kommentar-abkommen-indien-eu-100.html)  
-  _Tue, 27 Jan 2026 20:37:13 +0100_ · paywall: `False`
-- **tagesschau** — [EU-Abkommen mit Indien: Eine neue Welthandelsordnung entsteht](https://www.tagesschau.de/wirtschaft/weltwirtschaft/indien-eu-freihandel-abkommen-100.html)  
-  _Tue, 27 Jan 2026 20:23:11 +0100_ · paywall: `False`
-- **tagesschau** — [Mehrere Tote durch russische Angriffe in der Ukraine](https://www.tagesschau.de/ausland/europa/ukraine-todesopfer-russland-100.html)  
-  _Tue, 27 Jan 2026 21:27:03 +0100_ · paywall: `False`
-- **tagesschau** — [Steinmeier zu Gedenktag: "Es kommt jetzt darauf an, dass wir Haltung zeigen"](https://www.tagesschau.de/inland/holocaust-gedenktag-steinmeier-100.html)  
-  _Tue, 27 Jan 2026 19:08:39 +0100_ · paywall: `False`
+- **tagesschau** — [Unterrichtsausfälle: Lehrkräfte streiken und gehen auf die Straße](https://www.tagesschau.de/inland/gesellschaft/bildung-streik-100.html)  
+  _Thu, 29 Jan 2026 08:17:34 +0100_ · paywall: `False`
+- **tagesschau** — [US-Demokraten fordern Bodycams und Maskenverbot für ICE-Mitarbeiter](https://www.tagesschau.de/ausland/amerika/forderungen-demokraten-ice-100.html)  
+  _Thu, 29 Jan 2026 08:14:36 +0100_ · paywall: `False`
+- **tagesschau** — [Marktbericht: Anleger nehmen Bilanzen ins Visier](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-aktienmarkt-geldanlage-tesla-meta-100.html)  
+  _Thu, 29 Jan 2026 07:53:34 +0100_ · paywall: `False`
+- **tagesschau** — [EU-Treffen: Weg frei für Terroreinstufung von Irans Revolutionsgarden](https://www.tagesschau.de/ausland/europa/eu-aussenminister-iran-100.html)  
+  _Thu, 29 Jan 2026 07:38:21 +0100_ · paywall: `False`
+- **tagesschau** — [Rasanter Wertzuwachs: Warum Silber jetzt Gold abhängt](https://www.tagesschau.de/wirtschaft/finanzen/silberpreis-rekordhoch-gold-2026-100.html)  
+  _Thu, 29 Jan 2026 07:06:06 +0100_ · paywall: `False`
+- **tagesschau** — [Krypto-Plattform - Unterlagen liefern Einblicke in Bitpandas Interna](https://www.tagesschau.de/investigativ/ndr-wdr/bitpanda-bafin-investmentbanking-100.html)  
+  _Thu, 29 Jan 2026 06:02:37 +0100_ · paywall: `False`
+- **tagesschau** — [Wie Apps wie Letterboxd & Co. das Hobby zum Hustle machen](https://www.tagesschau.de/inland/gesellschaft/hobby-tracking-apps-100.html)  
+  _Thu, 29 Jan 2026 05:57:39 +0100_ · paywall: `False`
+- **tagesschau** — [Klöckner für strengere Sicherheitsprüfungen im Bundestag](https://www.tagesschau.de/inland/innenpolitik/sicherheit-bundestag-kloeckner-100.html)  
+  _Thu, 29 Jan 2026 05:39:54 +0100_ · paywall: `False`
+- **tagesschau** — [Sachsen-Anhalts Landeschef Schulze: "Richte Arbeit nicht an Umfragen aus"](https://www.tagesschau.de/inland/schulze-sachsen-anhalt-interview-100.html)  
+  _Wed, 28 Jan 2026 22:50:24 +0100_ · paywall: `False`
+- **tagesschau** — [Koalition will kritische Infrastruktur besser schützen](https://www.tagesschau.de/inland/innenpolitik/koalitonsausschuss-infrastruktur-100.html)  
+  _Wed, 28 Jan 2026 22:30:30 +0100_ · paywall: `False`
+- **tagesschau** — [Schulzes Wahl: Mehr politische Bürde ist kaum vorstellbar](https://www.tagesschau.de/kommentar/schulze-wahl-sachsen-anhalt-100.html)  
+  _Wed, 28 Jan 2026 22:16:23 +0100_ · paywall: `False`
+- **tagesschau** — [Zwei US-Einsatzkräfte nach Schüssen in Minneapolis suspendiert](https://www.tagesschau.de/ausland/ice-minnesota-suspendierung-100.html)  
+  _Wed, 28 Jan 2026 21:45:57 +0100_ · paywall: `False`
 
 ## international
 
-- **BBC World** — [Trump says government will 'de-escalate' in Minnesota following Pretti shooting](https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 05:38:48 GMT_ · paywall: `False`
-- **BBC World** — [Minnesota congresswoman Ilhan Omar attacked with unknown liquid during town hall](https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 03:25:28 GMT_ · paywall: `False`
-- **BBC World** — [South Korea's ex-first lady jailed 20 months for bribery](https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 06:53:01 GMT_ · paywall: `False`
-- **BBC World** — [Republicans criticise immigration force but steer clear of Trump attacks](https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 02:29:26 GMT_ · paywall: `False`
-- **BBC World** — ['We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown](https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 00:46:53 GMT_ · paywall: `False`
-- **BBC World** — [Former French senator found guilty of drugging MP](https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss)  
-  _Tue, 27 Jan 2026 22:04:40 GMT_ · paywall: `False`
-- **BBC World** — [Zelensky condemns deadly Russian drone strike on passenger train](https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss)  
-  _Tue, 27 Jan 2026 21:48:09 GMT_ · paywall: `False`
-- **BBC World** — [Mexico president asks South Korea for more BTS concerts](https://www.bbc.com/news/articles/cz7y2gy4p24o?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 03:07:18 GMT_ · paywall: `False`
-- **BBC World** — [Trump says US will 'no longer help Iraq' if it picks Maliki as PM](https://www.bbc.com/news/articles/cn0kpk3drgjo?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 01:54:51 GMT_ · paywall: `False`
-- **BBC World** — [Neil Young offers Greenlanders free access to his archives](https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss)  
-  _Wed, 28 Jan 2026 03:34:43 GMT_ · paywall: `False`
-- **BBC World** — [Spain plans to give half a million undocumented migrants legal status](https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss)  
-  _Tue, 27 Jan 2026 16:59:49 GMT_ · paywall: `False`
-- **BBC World** — [US to send ICE agents to Winter Olympics, prompting Italian anger](https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss)  
-  _Tue, 27 Jan 2026 19:13:55 GMT_ · paywall: `False`
+- **BBC World** — [Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf](https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss)  
+  _Thu, 29 Jan 2026 05:47:03 GMT_ · paywall: `False`
+- **BBC World** — ['Don't take us to a hospital': Iran protesters treated in secret to avoid arrest](https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 17:28:08 GMT_ · paywall: `False`
+- **BBC World** — [Border agents involved in fatal shooting of Alex Pretti placed on leave](https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss)  
+  _Thu, 29 Jan 2026 06:33:41 GMT_ · paywall: `False`
+- **BBC World** — [Panic on crowded Ukraine train - passenger describes moment of Russian drone strike](https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 16:59:02 GMT_ · paywall: `False`
+- **BBC World** — [Plane crashes in Colombia, killing all 15 on board](https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 22:48:52 GMT_ · paywall: `False`
+- **BBC World** — [At least five killed after Storm Kristin hits Portugal](https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 22:59:48 GMT_ · paywall: `False`
+- **BBC World** — [Iran's internet is returning - but not for everyone](https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 17:54:08 GMT_ · paywall: `False`
+- **BBC World** — [Europe must act urgently and stop outsourcing defence, says EU's Kallas](https://www.bbc.com/news/articles/czej2z3zz9jo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 14:45:56 GMT_ · paywall: `False`
+- **BBC World** — [Deutsche Bank offices raided in money laundering probe](https://www.bbc.com/news/articles/cx20199qzj9o?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 17:31:41 GMT_ · paywall: `False`
+- **BBC World** — ['I don't let bullies win,' says US congresswoman Omar after substance thrown at her](https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 13:01:10 GMT_ · paywall: `False`
+- **BBC World** — [Amazon confirms 16,000 job cuts after accidental email](https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 13:11:09 GMT_ · paywall: `False`
+- **BBC World** — [Ecuador says ICE agent attempted to enter its Minneapolis consulate](https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss)  
+  _Wed, 28 Jan 2026 11:43:04 GMT_ · paywall: `False`
