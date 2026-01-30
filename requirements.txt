@@ -3,3 +3,4 @@ PyYAML
 requests
 Markdown
 Jinja2
+scikit-learn

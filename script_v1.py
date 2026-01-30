@@ -306,6 +306,181 @@ def render_template(env: Environment, template_name: str, out_path: Path, **ctx)
     out_path.write_text(tpl.render(**ctx), encoding="utf-8")
 
 
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+
+def _build_story_text(item: dict) -> str:
+    """Text used for similarity: title + short summary/snippet."""
+    title = (item.get("title") or "").strip()
+    summary = (item.get("summary") or "").strip()
+    return f"{title}. {summary}".strip()
+
+
+def _shorten(text: str, max_len: int = 180) -> str:
+    text = " ".join((text or "").split())
+    if len(text) <= max_len:
+        return text
+    return text[: max_len - 1].rstrip() + "…"
+
+
+class _UnionFind:
+    def __init__(self, n: int):
+        self.parent = list(range(n))
+        self.rank = [0] * n
+
+    def find(self, x: int) -> int:
+        while self.parent[x] != x:
+            self.parent[x] = self.parent[self.parent[x]]
+            x = self.parent[x]
+        return x
+
+    def union(self, a: int, b: int) -> None:
+        ra, rb = self.find(a), self.find(b)
+        if ra == rb:
+            return
+        if self.rank[ra] < self.rank[rb]:
+            self.parent[ra] = rb
+        elif self.rank[ra] > self.rank[rb]:
+            self.parent[rb] = ra
+        else:
+            self.parent[rb] = ra
+            self.rank[ra] += 1
+
+
+def cluster_items(items: list[dict], *, threshold: float, stop_words=None) -> list[list[dict]]:
+    """
+    Clusters items by cosine similarity of TF-IDF vectors.
+    threshold: similarity cut-off to connect items into the same story component.
+    """
+    if not items:
+        return []
+
+    texts = [_build_story_text(it) for it in items]
+    # Edge case: if everything is empty
+    if all(not t for t in texts):
+        return [[it] for it in items]
+
+    vec = TfidfVectorizer(
+        lowercase=True,
+        stop_words=stop_words,     # 'english' for international, None for german v1
+        ngram_range=(1, 2),
+        max_df=0.90,
+        min_df=1,
+    )
+    X = vec.fit_transform(texts)
+    sim = cosine_similarity(X)
+
+    n = len(items)
+    uf = _UnionFind(n)
+    for i in range(n):
+        for j in range(i + 1, n):
+            if sim[i, j] >= threshold:
+                uf.union(i, j)
+
+    # group indices by root
+    groups: dict[int, list[int]] = {}
+    for i in range(n):
+        r = uf.find(i)
+        groups.setdefault(r, []).append(i)
+
+    # return clusters (largest first)
+    clusters = [[items[i] for i in idxs] for idxs in groups.values()]
+    clusters.sort(key=len, reverse=True)
+    return clusters
+
+
+def story_title_for_cluster(cluster: list[dict]) -> str:
+    """
+    v1 heuristic: choose the 'best' title among cluster items.
+    Prefer a title that is descriptive (not too short) and from a major source doesn't matter.
+    """
+    # If only one item, return its title.
+    if len(cluster) == 1:
+        return cluster[0].get("title") or "Untitled story"
+
+    # Choose longest reasonable title (often most descriptive)
+    titles = [(it.get("title") or "").strip() for it in cluster]
+    titles = [t for t in titles if t]
+    if not titles:
+        return "Untitled story"
+
+    # Avoid extremely long titles if present
+    titles_sorted = sorted(titles, key=lambda t: (min(len(t), 120), len(t)), reverse=True)
+    return titles_sorted[0]
+
+
+def story_summary_for_cluster(cluster: list[dict], max_sentences: int = 3) -> str:
+    """
+    v1 heuristic: build 2–3 short sentences from distinct sources' snippets if possible.
+    """
+    picked = []
+    seen_sources = set()
+
+    for it in cluster:
+        src = (it.get("source") or "").strip()
+        snip = (it.get("summary") or "").strip()
+        if not snip:
+            continue
+        if src and src in seen_sources:
+            continue
+        seen_sources.add(src)
+        picked.append(_shorten(snip, 180))
+        if len(picked) >= max_sentences:
+            break
+
+    # fallback: use titles if no snippets exist
+    if not picked:
+        for it in cluster[:max_sentences]:
+            picked.append(_shorten((it.get("title") or ""), 160))
+
+    # Ensure 2–3 sentences (join with spaces)
+    return " ".join(picked).strip()
+
+
+def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
+    """
+    Returns list of story dicts:
+      {title, summary, articles:[{source,title,link,published,paywall}]}
+    """
+    # Tunable thresholds: international tends to be more consistent in wording
+    if topic == "international":
+        threshold = 0.40
+        stop_words = "english"
+    else:
+        # german titles vary more; start slightly lower
+        threshold = 0.34
+        stop_words = None
+
+    clusters = cluster_items(items, threshold=threshold, stop_words=stop_words)
+
+    stories = []
+    for cluster in clusters:
+        # sort articles in cluster by published desc if you have it; else keep as-is
+        articles = []
+        for it in cluster:
+            articles.append({
+                "source": it.get("source"),
+                "title": it.get("title"),
+                "link": it.get("link"),
+                "published": it.get("published"),
+                "paywall": it.get("paywall"),
+            })
+
+        stories.append({
+            "title": story_title_for_cluster(cluster),
+            "summary": story_summary_for_cluster(cluster, max_sentences=3),
+            "articles": articles,
+            "n_articles": len(articles),
+        })
+
+    return stories
+
+
+def build_stories(items_by_topic: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    return {topic: build_stories_for_topic(topic, items) for topic, items in items_by_topic.items()}
+
+
 
 def main() -> None:
     feeds = load_feeds()
@@ -330,6 +505,8 @@ def main() -> None:
 
         # --- collect data for rendering ---
         items_by_topic = get_latest_items_by_topic(conn)
+        stories_by_topic = build_stories(items_by_topic)
+
 
         # --- markdown + html briefing ---
         write_briefing_md(items_by_topic)
@@ -372,7 +549,7 @@ def main() -> None:
         )
 
         # Individual topic pages
-        for topic, items in items_by_topic.items():
+        for topic, stories in stories_by_topic.items():
             render_template(
                 env,
                 "topic.html",
@@ -380,10 +557,9 @@ def main() -> None:
                 title=f"Topic: {topic}",
                 generated_at=generated_at,
                 topic=topic,
-                items=items,
+                stories=stories,
                 base_path="../",
-            )
-
+        )
         print(f"\nDone. New items inserted: {total_inserted}")
         print(f"DB: {DB_PATH.resolve()}")
         print(f"Site output: {Path('site').resolve()}")

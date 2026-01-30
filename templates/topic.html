@@ -4,30 +4,38 @@
   <h1>Topic: {{ topic }}</h1>
   <div class="meta">Last updated: {{ generated_at }}</div>
 
-  {% if items|length == 0 %}
-    <p>No items yet.</p>
+  {% if stories|length == 0 %}
+    <p>No stories yet.</p>
   {% else %}
-    {% for it in items %}
+    {% for st in stories %}
       <div class="card">
         <div class="meta">
-          <strong>{{ it.source }}</strong>
-          {% if it.published %} · {{ it.published }}{% endif %}
-          {% if it.paywall is not none %} · paywall: <code>{{ it.paywall }}</code>{% endif %}
+          <strong>{{ st.n_articles }}</strong> articles in this story
         </div>
 
-        <h3>
-          {% if it.link %}
-            <a href="{{ it.link }}">{{ it.title }}</a>
-          {% else %}
-            {{ it.title }}
-          {% endif %}
-        </h3>
+        <h2>{{ st.title }}</h2>
 
-        {% if it.summary %}
-          <p>{{ it.summary }}</p>
+        {% if st.summary %}
+          <p>{{ st.summary }}</p>
         {% endif %}
+
+        <ul>
+          {% for a in st.articles %}
+            <li>
+              <strong>{{ a.source }}</strong> —
+              {% if a.link %}
+                <a href="{{ a.link }}">{{ a.title }}</a>
+              {% else %}
+                {{ a.title }}
+              {% endif %}
+              {% if a.published %}<br><em>{{ a.published }}</em>{% endif %}
+              {% if a.paywall is not none %} · paywall: <code>{{ a.paywall }}</code>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
       </div>
     {% endfor %}
   {% endif %}
 {% endblock %}
+
 
