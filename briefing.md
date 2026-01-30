@@ -1,6 +1,6 @@
 # Daily Briefing
 
-_Generated: 2026-01-30 21:18 UTC_
+_Generated: 2026-01-30 21:40 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
@@ -33,6 +33,22 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
 
 ## international
 
+- **El País** — [Un pequeño tornado causa importantes daños materiales en Plasencia](https://elpais.com/espana/2026-01-30/un-pequeno-tornado-causa-importantes-danos-materiales-en-plasencia.html)  
+  _Fri, 30 Jan 2026 20:51:14 GMT_ · paywall: `mixed`
+- **El País** — [Detenido un teniente de la Guardia Civil en Valencia por agredir sexualmente y maltratar a su expareja](https://elpais.com/sociedad/2026-01-30/detenido-un-teniente-de-la-guardia-civil-en-valencia-por-agredir-sexualmente-y-maltratar-a-su-expareja.html)  
+  _Fri, 30 Jan 2026 15:35:09 GMT_ · paywall: `mixed`
+- **El País** — [La inflación vive su mayor caída en 10 meses y se modera al 2,4% en enero](https://elpais.com/economia/2026-01-31/la-inflacion-vive-su-mayor-caida-en-diez-meses-y-se-modera-al-24.html)  
+  _Fri, 30 Jan 2026 08:00:42 GMT_ · paywall: `mixed`
+- **El País** — [Muere el segundo joven accidentado este jueves por un alud en Cerler (Huesca)](https://elpais.com/espana/2026-01-30/muere-el-segundo-joven-accidentado-este-jueves-por-un-alud-en-cerler-huesca.html)  
+  _Fri, 30 Jan 2026 11:26:13 GMT_ · paywall: `mixed`
+- **El País** — [Las vidas segadas en las vías de Adamuz](https://elpais.com/espana/2026-01-22/las-vidas-segadas-en-las-vias-de-adamuz.html)  
+  _Wed, 28 Jan 2026 19:54:06 GMT_ · paywall: `mixed`
+- **El País** — [El comercio en tiempos de cólera](https://elpais.com/economia/2026-01-30/el-comercio-en-tiempos-de-colera.html)  
+  _Fri, 30 Jan 2026 18:56:55 GMT_ · paywall: `mixed`
+- **El País** — [Casa 47 sacará a concurso público este trimestre la construcción de 2.800 viviendas asequibles](https://elpais.com/economia/vivienda/2026-01-30/casa-47-sacara-a-concurso-publico-este-trimestre-la-construccion-de-2800-viviendas-asequibles.html)  
+  _Fri, 30 Jan 2026 13:01:35 GMT_ · paywall: `mixed`
+- **El País** — [El euríbor frena su racha de subidas y alivia a los hipotecados](https://elpais.com/economia/2026-01-30/el-euribor-frena-su-racha-de-subidas-y-alivia-a-los-hipotecados.html)  
+  _Fri, 30 Jan 2026 11:27:06 GMT_ · paywall: `mixed`
 - **The Guardian** — [Islamic State claims attack on international airport and airbase in Niger](https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state)  
   _Fri, 30 Jan 2026 15:57:44 GMT_ · paywall: `False`
 - **The Guardian** — [South Africa expels top Israeli diplomat over ‘insulting attacks’ on president](https://www.theguardian.com/world/2026/jan/30/south-africa-expels-israel-diplomat-insults-president)  
@@ -41,19 +57,3 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 30 Jan 2026 00:34:02 GMT_ · paywall: `False`
 - **The Guardian** — [Hundreds feared dead in attempt to cross Mediterranean during cyclone](https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry)  
   _Mon, 26 Jan 2026 14:54:36 GMT_ · paywall: `False`
-- **The Guardian** — [Crocodile warnings as floods devastate southern Africa](https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa)  
-  _Mon, 26 Jan 2026 13:44:51 GMT_ · paywall: `False`
-- **The Guardian** — [Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis](https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis)  
-  _Fri, 30 Jan 2026 18:08:10 GMT_ · paywall: `False`
-- **The Guardian** — [Panama supreme court cancels Hong Kong company’s canal contracts](https://www.theguardian.com/world/2026/jan/30/court-ends-hong-kong-china-panama-canal-contracts)  
-  _Fri, 30 Jan 2026 13:47:07 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela approves bill to open oil sector to foreign investment after US pressure](https://www.theguardian.com/world/2026/jan/30/venezuela-approves-bill-to-open-oil-sector-to-foreign-investment-after-us-pressure)  
-  _Fri, 30 Jan 2026 11:54:20 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Winter storms cause death and outages across eastern north America](https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america)  
-  _Fri, 30 Jan 2026 10:45:34 GMT_ · paywall: `False`
-- **The Guardian** — [Trump threatens tariffs on goods from countries that sell oil to Cuba](https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil)  
-  _Fri, 30 Jan 2026 01:06:44 GMT_ · paywall: `False`
-- **The Guardian** — [UK politics: Starmer shrugs off Trump’s criticism of ‘very dangerous’ deal with China – as it happened](https://www.theguardian.com/politics/live/2026/jan/30/donald-trump-keir-starmer-china-uk-us-trade-deals-tariffs-latest-news)  
-  _Fri, 30 Jan 2026 17:10:05 GMT_ · paywall: `False`
-- **The Guardian** — [China has lifted sanctions from six serving British MPs and peers, Starmer says](https://www.theguardian.com/world/2026/jan/30/china-lifts-sanctions-british-mps-peers)  
-  _Fri, 30 Jan 2026 14:37:28 GMT_ · paywall: `False`
