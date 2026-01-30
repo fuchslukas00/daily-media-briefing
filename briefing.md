@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-01-30 21:08 UTC_
+_Generated: 2026-01-30 21:18 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **tagesschau** — [Hollywood-Star Catherine O'Hara ist tot](https://www.tagesschau.de/ausland/amerika/schauspielerin-ohara-tod-100.html)  
-  _Fri, 30 Jan 2026 22:06:22 +0100_ · paywall: `False`
-- **tagesschau** — [US-Justizministerium veröffentlicht neue Epstein-Dokumente](https://www.tagesschau.de/ausland/amerika/epstein-dokumente-us-ministerium-100.html)  
-  _Fri, 30 Jan 2026 20:02:17 +0100_ · paywall: `False`
-- **tagesschau** — [Journalist Lemon in Zusammenhang mit Anti-ICE-Protest festgenommen](https://www.tagesschau.de/ausland/amerika/journalist-don-lemon-ice-festnahme-100.html)  
-  _Fri, 30 Jan 2026 21:32:17 +0100_ · paywall: `False`
-- **tagesschau** — [Friedensgespräche für die Ukraine werden am Sonntag fortgesetzt](https://www.tagesschau.de/ausland/europa/ukraine-russland-verhandlungen-abu-dhabi-100.html)  
-  _Fri, 30 Jan 2026 18:27:15 +0100_ · paywall: `False`
-- **tagesschau** — [Marktbericht: DAX berappelt sich](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-ausblick-100.html)  
-  _Fri, 30 Jan 2026 18:25:54 +0100_ · paywall: `False`
-- **tagesschau** — [Dänemark verschärft Abschieberegeln für kriminelle Migranten](https://www.tagesschau.de/ausland/europa/daenemark-abschiebung-menschenrechtskonvention-100.html)  
-  _Fri, 30 Jan 2026 17:34:13 +0100_ · paywall: `False`
-- **tagesschau** — [Nach Gewinneinbruch: Bei Bosch könnten noch mehr Stellen wegfallen](https://www.tagesschau.de/wirtschaft/unternehmen/bosch-gewinneinbruch-bilanz-100.html)  
-  _Fri, 30 Jan 2026 17:28:54 +0100_ · paywall: `False`
-- **tagesschau** — [Wer ist Donald Trumps Mann für die Fed-Spitze?](https://www.tagesschau.de/wirtschaft/weltwirtschaft/notenbank-fed-trump-100.html)  
-  _Fri, 30 Jan 2026 17:20:17 +0100_ · paywall: `False`
-- **tagesschau** — [Kommentar: Katherina Reiche - (leider) allein zu Haus](https://www.tagesschau.de/kommentar/regierungserklaerung-wirtschaftsministerin-reiche-100.html)  
-  _Fri, 30 Jan 2026 16:59:22 +0100_ · paywall: `False`
-- **tagesschau** — [Argentiniens Präsident Milei ruft wegen Waldbränden Notstand aus](https://www.tagesschau.de/ausland/amerika/argentinien-milei-waldbraende-paragonien-100.html)  
-  _Fri, 30 Jan 2026 16:57:41 +0100_ · paywall: `False`
-- **tagesschau** — [Jugendliche warten auf günstigeren Führerschein](https://www.tagesschau.de/inland/innenpolitik/fuehrerscheine-kosten-verkehrsgerichtstag-100.html)  
-  _Fri, 30 Jan 2026 16:14:59 +0100_ · paywall: `False`
-- **tagesschau** — ["Melania"-Doku fliegt aus dem Kino-Programm in Südafrika](https://www.tagesschau.de/ausland/afrika/melania-dokumentation-kino-100.html)  
-  _Fri, 30 Jan 2026 15:53:06 +0100_ · paywall: `False`
+- **ZDF heute** — [Wie das iranische Regime Mediziner gezielt ins Visier nimmt](https://www.zdfheute.de/politik/ausland/iran-proteste-aerzte-mediziner-revolutionsgarde-terrorliste-100.html)  
+  _Fri, 30 Jan 2026 22:01:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Wie hart trifft die Terrorlistung Teherans Machtapparat?](https://www.zdfheute.de/politik/iran-revolutionsgarden-eu-terrororganisation-folgen-100.html)  
+  _Fri, 30 Jan 2026 17:14:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Ein seltener Auftritt: Warum wird Melania jetzt politisch?](https://www.zdfheute.de/politik/ausland/melania-trump-dokumentation-usa-100.html)  
+  _Fri, 30 Jan 2026 22:01:00 +0100_ · paywall: `False`
+- **ZDF heute** — [US-Justizministerium veröffentlicht weitere Epstein-Akten](https://www.zdfheute.de/politik/ausland/epstein-veroeffentlichung-bilder-videos-justizministerium-usa-100.html)  
+  _Fri, 30 Jan 2026 19:33:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Schlagzeilen](https://www.zdfheute.de/newsticker/schlagzeilen-100.html)  
+  _Fri, 30 Jan 2026 20:56:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Norwegen: Mette-Marits Sohn vor Gericht](https://www.zdfheute.de/video/zdf-mittagsmagazin/norwegen-mette-marit-gericht-sohn-marius-100.html)  
+  _Fri, 30 Jan 2026 12:00:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Snooker-Wunderkind stellt zweiten Weltrekord auf](https://www.zdfheute.de/video/guinness-weltrekord-snooker-jude-owens-100.html)  
+  _Thu, 29 Jan 2026 23:44:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Hier kommt die Zeitung auf dem Pferd](https://www.zdfheute.de/video/zdfheute-xpress/zeitungs-pferd-wiedenrode-video-100.html)  
+  _Fri, 30 Jan 2026 18:21:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Hiddensee-Notverkehr: Eisbrecher im Einsatz](https://www.zdfheute.de/video/zdf-mittagsmagazin/eisbrecher-hiddensee-notverkehr-100.html)  
+  _Fri, 30 Jan 2026 12:00:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Schüler Konstantin zeigt Zivilcourage](https://www.zdfheute.de/video/hallo-deutschland/viertklaessler-zivilcourage-schwerverletzt-100.html)  
+  _Thu, 29 Jan 2026 17:10:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Serienräuber schlägt 67 mal in NRW zu](https://www.zdfheute.de/video/hallo-deutschland/serienraeuber-67-ueberfaelle-100.html)  
+  _Thu, 29 Jan 2026 17:10:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Polizei beschlagnahmt tonnenweise Cannabis](https://www.zdfheute.de/video/zdfheute-xpress/rekordfund-serbien-cannabis-video-100.html)  
+  _Fri, 30 Jan 2026 12:20:00 +0100_ · paywall: `False`
 
 ## international
 
-- **BBC World** — [UN risks 'imminent financial collapse', secretary general warns](https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 16:24:18 GMT_ · paywall: `False`
-- **BBC World** — [Trump picks Kevin Warsh to lead the US Federal Reserve](https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 16:22:59 GMT_ · paywall: `False`
-- **BBC World** — [Luigi Mangione will not face death penalty if convicted, judge rules](https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 17:02:16 GMT_ · paywall: `False`
-- **BBC World** — [Former CNN host Don Lemon arrested after anti-ICE protest at Minnesota church](https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 17:44:59 GMT_ · paywall: `False`
-- **BBC World** — [Civil rights investigation opened into Alex Pretti shooting](https://www.bbc.com/news/articles/c5yvw89p3p1o?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 19:23:45 GMT_ · paywall: `False`
-- **BBC World** — [Mali lawmaker jailed in Ivory Coast for insulting president](https://www.bbc.com/news/articles/c74vgxp0zr4o?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 18:09:20 GMT_ · paywall: `False`
-- **BBC World** — [Ukraine sees quieter night as Trump says Putin will not attack its cities](https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 13:46:23 GMT_ · paywall: `False`
-- **BBC World** — [At least 170 killed in air strikes during Myanmar's widely criticised election, UN says](https://www.bbc.com/news/articles/cg5gl8grv66o?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 13:12:25 GMT_ · paywall: `False`
-- **BBC World** — [Trump and his sons sue IRS and US Treasury over leaked tax information](https://www.bbc.com/news/articles/c23ryyrx40yo?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 02:37:40 GMT_ · paywall: `False`
-- **BBC World** — [Syrian government reaches deal with Kurdish-led forces](https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 12:42:37 GMT_ · paywall: `False`
-- **BBC World** — [South Africa and Israel expel each other's envoys in diplomatic row](https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 16:10:24 GMT_ · paywall: `False`
-- **BBC World** — [Panama voids Hong Kong-based firm's canal port contracts](https://www.bbc.com/news/articles/c338ygzl7meo?at_medium=RSS&at_campaign=rss)  
-  _Fri, 30 Jan 2026 13:16:05 GMT_ · paywall: `False`
+- **The Guardian** — [Islamic State claims attack on international airport and airbase in Niger](https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state)  
+  _Fri, 30 Jan 2026 15:57:44 GMT_ · paywall: `False`
+- **The Guardian** — [South Africa expels top Israeli diplomat over ‘insulting attacks’ on president](https://www.theguardian.com/world/2026/jan/30/south-africa-expels-israel-diplomat-insults-president)  
+  _Fri, 30 Jan 2026 14:11:55 GMT_ · paywall: `False`
+- **The Guardian** — [Niger’s military ruler vows retaliation after gunfire and explosions heard in capital](https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports)  
+  _Fri, 30 Jan 2026 00:34:02 GMT_ · paywall: `False`
+- **The Guardian** — [Hundreds feared dead in attempt to cross Mediterranean during cyclone](https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry)  
+  _Mon, 26 Jan 2026 14:54:36 GMT_ · paywall: `False`
+- **The Guardian** — [Crocodile warnings as floods devastate southern Africa](https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa)  
+  _Mon, 26 Jan 2026 13:44:51 GMT_ · paywall: `False`
+- **The Guardian** — [Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis](https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis)  
+  _Fri, 30 Jan 2026 18:08:10 GMT_ · paywall: `False`
+- **The Guardian** — [Panama supreme court cancels Hong Kong company’s canal contracts](https://www.theguardian.com/world/2026/jan/30/court-ends-hong-kong-china-panama-canal-contracts)  
+  _Fri, 30 Jan 2026 13:47:07 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuela approves bill to open oil sector to foreign investment after US pressure](https://www.theguardian.com/world/2026/jan/30/venezuela-approves-bill-to-open-oil-sector-to-foreign-investment-after-us-pressure)  
+  _Fri, 30 Jan 2026 11:54:20 GMT_ · paywall: `False`
+- **The Guardian** — [Weather tracker: Winter storms cause death and outages across eastern north America](https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america)  
+  _Fri, 30 Jan 2026 10:45:34 GMT_ · paywall: `False`
+- **The Guardian** — [Trump threatens tariffs on goods from countries that sell oil to Cuba](https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil)  
+  _Fri, 30 Jan 2026 01:06:44 GMT_ · paywall: `False`
+- **The Guardian** — [UK politics: Starmer shrugs off Trump’s criticism of ‘very dangerous’ deal with China – as it happened](https://www.theguardian.com/politics/live/2026/jan/30/donald-trump-keir-starmer-china-uk-us-trade-deals-tariffs-latest-news)  
+  _Fri, 30 Jan 2026 17:10:05 GMT_ · paywall: `False`
+- **The Guardian** — [China has lifted sanctions from six serving British MPs and peers, Starmer says](https://www.theguardian.com/world/2026/jan/30/china-lifts-sanctions-british-mps-peers)  
+  _Fri, 30 Jan 2026 14:37:28 GMT_ · paywall: `False`
