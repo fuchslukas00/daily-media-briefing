@@ -1,13 +1,88 @@
+germany:
+  - id: deutschlandfunk
+    name: Deutschlandfunk
+    url: https://www.deutschlandfunk.de/rss/nachrichten.xml
+    language: de
+    paywall: no
+
+  - id: zdf_heute
+    name: ZDF heute
+    url: https://www.zdf.de/rss/zdf/nachrichten
+    language: de
+    paywall: no
+
+  - id: sueddeutsche
+    name: Süddeutsche Zeitung
+    url: https://rss.sueddeutsche.de/rss/Topthemen
+    language: de
+    paywall: hard
+
+  - id: die_zeit
+    name: Die Zeit
+    url: https://newsfeed.zeit.de/index
+    language: de
+    paywall: hard
+
+  - id: faz
+    name: Frankfurter Allgemeine Zeitung
+    url: https://www.faz.net/rss/aktuell/
+    language: de
+    paywall: hard
+
+  - id: spiegel
+    name: Der Spiegel
+    url: https://www.spiegel.de/schlagzeilen/index.rss
+    language: de
+    paywall: mixed
+
+
 international:
-  - name: BBC World
-    url: http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml
+  - id: reuters
+    name: Reuters
+    url: https://www.reuters.com/rssFeed/topNews
     language: en
     paywall: no
 
-germany:
-  - name: tagesschau
-    url: https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml
-    language: de
+  - id: the_guardian
+    name: The Guardian
+    url: https://www.theguardian.com/world/rss
+    language: en
     paywall: no
+
+  - id: new_york_times
+    name: New York Times
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    language: en
+    paywall: hard
+
+  - id: al_jazeera
+    name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    language: en
+    paywall: no
+
+  - id: france24
+    name: France 24
+    url: https://www.france24.com/en/rss
+    language: en
+    paywall: no
+
+  - id: euronews
+    name: Euronews
+    url: https://www.euronews.com/rss
+    language: en
+    paywall: no
+
+  - id: politico_europe
+    name: Politico Europe
+    url: https://www.politico.eu/rss/
+    language: en
+    paywall: mixed
+
+  - id: el_pais
+    name: El País
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+    language: es
+    paywall: mixed
 
 
