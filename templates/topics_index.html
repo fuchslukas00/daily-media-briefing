@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Topics</h1>
+  <div class="meta">Last updated: {{ generated_at }}</div>
+
+  <div class="grid">
+    {% for t in topics %}
+      <div class="card">
+        <h2><a href="{{ base_path }}topics/{{ t }}.html">{{ t }}</a></h2>
+        <p>Browse the latest items in <strong>{{ t }}</strong>.</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

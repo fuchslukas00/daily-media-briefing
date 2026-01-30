@@ -6,6 +6,7 @@ import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import feedparser
 import requests
@@ -293,6 +294,18 @@ def write_index_html() -> None:
     site_dir.mkdir(parents=True, exist_ok=True)
     (site_dir / "index.html").write_text(html, encoding="utf-8")
 
+def build_env() -> Environment:
+    return Environment(
+        loader=FileSystemLoader("templates"),
+        autoescape=select_autoescape(["html", "xml"]),
+    )
+
+def render_template(env: Environment, template_name: str, out_path: Path, **ctx) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    tpl = env.get_template(template_name)
+    out_path.write_text(tpl.render(**ctx), encoding="utf-8")
+
+
 
 def main() -> None:
     feeds = load_feeds()
@@ -315,16 +328,69 @@ def main() -> None:
                 except Exception as ex:
                     print(f"[ERR] {topic} / {source.get('name')} ({url}): {ex}")
 
+        # --- collect data for rendering ---
         items_by_topic = get_latest_items_by_topic(conn)
+
+        # --- markdown + html briefing ---
         write_briefing_md(items_by_topic)
         render_md_to_html(OUT_MD, OUT_HTML)
-        write_index_html()
+
+        # --- render templated pages ---
+        env = build_env()
+        generated_at = utc_now_iso()
+
+        # Home page
+        render_template(
+            env,
+            "index.html",
+            Path("site/index.html"),
+            title="Daily Media Briefing",
+            generated_at=generated_at,
+            topics=sorted(items_by_topic.keys()),
+            base_path="./",
+        )
+
+        # Topics overview
+        render_template(
+            env,
+            "topics_index.html",
+            Path("site/topics/index.html"),
+            title="Topics",
+            generated_at=generated_at,
+            topics=sorted(items_by_topic.keys()),
+            base_path="../",
+        )
+
+        # About page
+        render_template(
+            env,
+            "about.html",
+            Path("site/about.html"),
+            title="About",
+            generated_at=generated_at,
+            base_path="./",
+        )
+
+        # Individual topic pages
+        for topic, items in items_by_topic.items():
+            render_template(
+                env,
+                "topic.html",
+                Path(f"site/topics/{topic}.html"),
+                title=f"Topic: {topic}",
+                generated_at=generated_at,
+                topic=topic,
+                items=items,
+                base_path="../",
+            )
 
         print(f"\nDone. New items inserted: {total_inserted}")
         print(f"DB: {DB_PATH.resolve()}")
-        print(f"Output: {OUT_MD.resolve()}")
+        print(f"Site output: {Path('site').resolve()}")
+
     finally:
         conn.close()
+
 
 
 

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>About</h1>
+  <div class="meta">Last updated: {{ generated_at }}</div>
+
+  <div class="card">
+    <p>
+      This website is generated automatically from RSS feeds. It groups items by topic
+      and provides links back to the original sources.
+    </p>
+    <p>
+      Future versions may add story clustering and summaries across sources.
+    </p>
+  </div>
+{% endblock %}

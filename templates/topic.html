@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Topic: {{ topic }}</h1>
+  <div class="meta">Last updated: {{ generated_at }}</div>
+
+  {% if items|length == 0 %}
+    <p>No items yet.</p>
+  {% else %}
+    {% for it in items %}
+      <div class="card">
+        <div class="meta">
+          <strong>{{ it.source }}</strong>
+          {% if it.published %} · {{ it.published }}{% endif %}
+          {% if it.paywall is not none %} · paywall: <code>{{ it.paywall }}</code>{% endif %}
+        </div>
+
+        <h3>
+          {% if it.link %}
+            <a href="{{ it.link }}">{{ it.title }}</a>
+          {% else %}
+            {{ it.title }}
+          {% endif %}
+        </h3>
+
+        {% if it.summary %}
+          <p>{{ it.summary }}</p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endblock %}
+
