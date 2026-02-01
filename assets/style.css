@@ -102,3 +102,25 @@ a:hover{ text-decoration: underline; }
   font-size: 0.9rem;
   padding: 1rem 0 2rem;
 }
+
+details summary{
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+details summary::-webkit-details-marker{
+  display: none;
+}
+
+details summary::before{
+  content: "▶";
+  display: inline-block;
+  margin-right: 0.5rem;
+  opacity: 0.8;
+}
+
+details[open] summary::before{
+  content: "▼";
+}
+
