@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-01-31 07:05 UTC_
+_Generated: 2026-02-01 07:22 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **ZDF heute** — [USA: Proteste gegen ICE weiten sich aufs ganze Land aus](https://www.zdfheute.de/politik/ausland/minneapolis-protest-ice-einsatz-100.html)  
-  _Sat, 31 Jan 2026 01:41:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Epstein-Überlebende: "Es ist noch nicht vorbei"](https://www.zdfheute.de/politik/ausland/epstein-veroeffentlichung-bilder-videos-justizministerium-usa-100.html)  
-  _Sat, 31 Jan 2026 03:01:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Olympia-Stimmung in Italien](https://www.zdfheute.de/video/heute-journal/olympia-in-italien-100.html)  
-  _Fri, 30 Jan 2026 22:00:00 +0100_ · paywall: `False`
-- **ZDF heute** — [US-Senat billigt Haushaltspaket](https://www.zdfheute.de/politik/ausland/usa-shutdown-einigung-haushaltsstreit-100.html)  
-  _Sat, 31 Jan 2026 04:10:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Welche Zuckerersatzstoffe sich zum Süßen eignen](https://www.zdfheute.de/ratgeber/zuckerersatz-suessstoff-ungesund-backen-schaedlich-100.html)  
-  _Sat, 31 Jan 2026 06:12:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Wolff: "Bin sauer ob der letzten 15 Minuten"](https://www.zdf.de/video/kurzfassungen/ehf-euro-em-europameisterschaft-live-livestream-spielplan-100/em-2026-stimmen-deutschland-wolff-gislason-knorr-100)  
-  _Fri, 30 Jan 2026 21:21:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Deutsche Deckung steht wie eine Mauer](https://www.zdfheute.de/sport/handball-em-2026-deutschland-kroatien-halbfinale-100.html)  
-  _Fri, 30 Jan 2026 23:22:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Dänemark kämpft Island nieder](https://www.zdf.de/video/kurzfassungen/ehf-euro-em-europameisterschaft-live-livestream-spielplan-100/em-2026-halbfinale-daenemark-island-zusammenfassung-highlights-100)  
-  _Fri, 30 Jan 2026 20:00:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Die Halbfinals zum Nachlesen](https://www.zdfheute.de/sport/handball-em-liveticker-tabelle-spielplan-ergebnisse-100.html)  
-  _Fri, 30 Jan 2026 17:45:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Hofmeister: Endet das Comeback des Jahres mit Gold?](https://www.zdfheute.de/sport/wintersport/snowboard-ramona-hofmeister-comeback-olympia-100.html)  
-  _Sat, 31 Jan 2026 06:20:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Digitale Nomaden kehren Deutschland Rücken](https://www.zdfheute.de/video/heute-journal/digitale-nomaden-deutschland-100.html)  
-  _Fri, 30 Jan 2026 22:00:00 +0100_ · paywall: `False`
-- **Süddeutsche Zeitung** — [Satire: Ein öffentlich-rechtlicher Witz](https://www.sueddeutsche.de/medien/extra-3-satire-flagge-groenland-nuuk-trump-usa-li.3378594)  
-  _Sat, 31 Jan 2026 06:30:18 GMT_ · paywall: `hard`
+- **ZDF heute** — [Iran erklärt EU-Streitkräfte zu "terroristischen Gruppen"](https://www.zdfheute.de/politik/ausland/iran-eu-terroristische-gruppen-100.html)  
+  _Sun, 1 Feb 2026 07:35:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Irans Präsident nach US-Drohungen: Streben keinen Krieg an](https://www.zdfheute.de/politik/ausland/iran-usa-konflikt-moegliche-verhandlungsbereitschaft-100.html)  
+  _Sun, 1 Feb 2026 06:08:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Fünfjähriger muss aus ICE-Gewahrsam freigelassen werden](https://www.zdfheute.de/politik/ausland/usa-einwanderungspolitik-ice-freilassung-fuenfjaehriger-gerichtsentscheidung-100.html)  
+  _Sun, 1 Feb 2026 06:50:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Buckwitz packt über OnlyFans und Depressionen aus](https://www.zdfheute.de/sport/wintersport/sportstudio-bob-olympiasiegerin-lisa-buckwitz-100.html)  
+  _Sun, 1 Feb 2026 07:51:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Saskia liebt KI-Avatar "Loki"](https://www.zdfheute.de/video/panorama-ki-virtuelle-liebe-100.html)  
+  _Fri, 30 Jan 2026 14:36:06 +0100_ · paywall: `False`
+- **ZDF heute** — [Punk-Legende John Lydon wird 70](https://www.zdfheute.de/video/heute-journal/john-lydon-geburtstag-100.html)  
+  _Sat, 31 Jan 2026 21:45:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Wocheneinkauf per Klick](https://www.zdfheute.de/video/heute-nachrichten/alltag-online-bestellungen-steigen-an-video-100.html)  
+  _Sat, 31 Jan 2026 19:00:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Neuheit in der Medizin: MRT für die Kleinsten](https://www.zdfheute.de/video/heute-nachrichten/mrt-fuer-kleinkinder-in-halle-video-100.html)  
+  _Sat, 31 Jan 2026 19:00:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Wer röhrt am besten?](https://www.zdfheute.de/video/panorama-hirschruf-meisterschaft-100.html)  
+  _Sat, 31 Jan 2026 15:51:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Mosambik: Hunderttausende auf der Flucht](https://www.zdfheute.de/video/zdfheute-xpress/mosambik-hochwasser-hunderttausende-auf-der-flucht-video-100.html)  
+  _Sat, 31 Jan 2026 12:01:00 +0100_ · paywall: `False`
+- **ZDF heute** — [13-jähriges Mädchen stirbt bei schwerem Busunfall in München](https://www.zdfheute.de/panorama/muenchen-unfall-bus-linienbus-dreizehnjaehrige-tot-100.html)  
+  _Sun, 1 Feb 2026 01:16:04 +0100_ · paywall: `False`
+- **ZDF heute** — ["Golden Dome": So viel Sci-Fi steckt in Trumps Mega-Projekt](https://www.zdfheute.de/politik/ausland/golden-dome-usa-trump-amerika-groenland-100.html)  
+  _Sat, 31 Jan 2026 18:43:00 +0100_ · paywall: `False`
 
 ## international
 
 - **The Guardian** — [More than 200 killed in coltan mine collapse in eastern DRC, officials say](https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say)  
   _Fri, 30 Jan 2026 22:11:57 GMT_ · paywall: `False`
+- **The Guardian** — [Living hell of North Korea’s ‘paradise on Earth’ scheme back in spotlight in Japan](https://www.theguardian.com/world/2026/feb/01/living-hell-of-north-koreas-paradise-on-earth-scheme-back-in-spotlight-in-japan)  
+  _Sun, 01 Feb 2026 05:00:17 GMT_ · paywall: `False`
 - **The Guardian** — [Starmer hopes his China trip will begin the thaw after recent ice age](https://www.theguardian.com/world/2026/jan/31/starmer-hopes-his-china-trip-will-begin-the-thaw-after-recent-ice-age)  
   _Sat, 31 Jan 2026 06:00:55 GMT_ · paywall: `False`
+- **The Guardian** — [Australia swelters through fourth hottest January on record – as it happened](https://www.theguardian.com/australia-news/live/2026/feb/01/news-live-australia-statement-israel-unrwa-ruston-liberal-party-nationals-sussan-ley-anthony-albanese-heatwave-weather-ntwnfb)  
+  _Sun, 01 Feb 2026 04:44:37 GMT_ · paywall: `False`
+- **The Guardian** — [Senior Liberals downplay prospect of leadership spill and urge colleagues ‘get on with the job’](https://www.theguardian.com/australia-news/2026/feb/01/senior-liberals-downplay-prospect-of-leadership-spill-and-urge-colleagues-get-on-with-the-job)  
+  _Sun, 01 Feb 2026 03:15:17 GMT_ · paywall: `False`
+- **The Guardian** — [NSW to remove ‘good character’ from being considered at sentencing hearings in nationwide first](https://www.theguardian.com/australia-news/2026/jan/31/nsw-to-remove-good-character-from-being-considered-at-sentencing-hearings-in-nationwide-first)  
+  _Sat, 31 Jan 2026 19:00:08 GMT_ · paywall: `False`
+- **The Guardian** — [NSW Greens to move bill to let councils better regulate berry industry as it continues rapid expansion](https://www.theguardian.com/australia-news/2026/jan/31/australia-berry-industry-bill-nsw-greens)  
+  _Sat, 31 Jan 2026 19:00:07 GMT_ · paywall: `False`
 - **The Guardian** — [Two men in their 20s found dead at Sydney property](https://www.theguardian.com/australia-news/2026/jan/31/two-men-in-their-20s-found-dead-at-sydney-property)  
   _Sat, 31 Jan 2026 03:45:20 GMT_ · paywall: `False`
-- **The Guardian** — [Heatwave across Australia’s south-east continues for eighth day ahead of a welcome cool change](https://www.theguardian.com/australia-news/2026/jan/31/australia-heatwave-bom-weather-forecast-hot-temperature-eighth-day-cool-change)  
-  _Sat, 31 Jan 2026 01:17:20 GMT_ · paywall: `False`
-- **The Guardian** — [UK and EU to explore renewed talks on defence cooperation](https://www.theguardian.com/politics/2026/jan/31/uk-and-eu-to-explore-renewed-talks-on-defence-cooperation)  
-  _Sat, 31 Jan 2026 07:00:54 GMT_ · paywall: `False`
-- **The Guardian** — [French MPs demand explanation over tech firm’s contract to help ICE in US](https://www.theguardian.com/us-news/2026/jan/31/french-mps-demand-explanation-over-tech-firm-capgemini-contract-ice)  
-  _Sat, 31 Jan 2026 06:00:52 GMT_ · paywall: `False`
-- **The Guardian** — [‘It’s like a gift from God’: undocumented foreign workers welcome Spanish amnesty](https://www.theguardian.com/world/2026/jan/31/undocumented-foreign-workers-welcome-spanish-amnesty)  
-  _Sat, 31 Jan 2026 05:00:49 GMT_ · paywall: `False`
-- **The Guardian** — [New type of Bordeaux wine to gain official status as result of climate pressure](https://www.theguardian.com/food/2026/jan/31/new-type-of-bordeaux-wine-to-gain-official-status-as-result-of-climate-pressure)  
-  _Sat, 31 Jan 2026 00:01:42 GMT_ · paywall: `False`
-- **The Guardian** — [UK new car buyers drive a bargain as average discount nears £6,000](https://www.theguardian.com/business/2026/jan/31/uk-new-car-buyers-bargain-discount-deals)  
-  _Sat, 31 Jan 2026 07:00:52 GMT_ · paywall: `False`
-- **The Guardian** — [‘Homes may have to be abandoned’: how climate crisis has reshaped Britain’s flood risk](https://www.theguardian.com/news/ng-interactive/2026/jan/31/climate-crisis-flood-risk-britain)  
-  _Sat, 31 Jan 2026 06:00:51 GMT_ · paywall: `False`
-- **The Guardian** — [Cambridge university accused of ‘obfuscation’ over arms investment](https://www.theguardian.com/education/2026/jan/31/cambridge-university-accused-obfuscation-arms-investment)  
-  _Sat, 31 Jan 2026 06:00:51 GMT_ · paywall: `False`
-- **The Guardian** — [One in seven food delivery businesses in England are ‘dark kitchens’, study shows](https://www.theguardian.com/business/2026/jan/31/one-in-seven-food-delivery-businesses-england-dark-kitchens)  
-  _Sat, 31 Jan 2026 00:01:42 GMT_ · paywall: `False`
+- **The Guardian** — [‘It’s not just about surviving’: the Ukrainian frontline city where life goes on under cover](https://www.theguardian.com/news/ng-interactive/2026/feb/01/ukraine-war-kherson-frontline-russian-bombs-drones-life-lived-underground)  
+  _Sun, 01 Feb 2026 06:00:20 GMT_ · paywall: `False`
+- **The Guardian** — [‘Keep on dreaming’: could Europe really defend itself without the US?](https://www.theguardian.com/world/2026/jan/31/european-defence-disarray-future-nato-trump)  
+  _Sat, 31 Jan 2026 13:00:59 GMT_ · paywall: `False`
+- **The Guardian** — [Impose sanctions on refineries that buy Russian crude oil to end war, says Bill Browder](https://www.theguardian.com/business/2026/jan/31/end-ukraine-war-sanction-refineries-buying-russian-crude-oil-bill-browder)  
+  _Sat, 31 Jan 2026 12:00:57 GMT_ · paywall: `False`
+- **The Guardian** — [Protesters to demand resignation of Hungarian politician for anti-Roma remark](https://www.theguardian.com/world/2026/jan/31/protest-janos-lazar-hungary-politician-anti-roma)  
+  _Sat, 31 Jan 2026 08:00:52 GMT_ · paywall: `False`
