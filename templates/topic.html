@@ -4,6 +4,14 @@
   <h1>Topic: {{ topic }}</h1>
   <div class="meta">Last updated: {{ generated_at }}</div>
 
+  {% if n_pages and n_pages > 1 %}
+    <div class="meta">
+      Page {{ page }} / {{ n_pages }}
+      {% if prev_url %} · <a href="{{ prev_url }}">← Previous</a>{% endif %}
+      {% if next_url %} · <a href="{{ next_url }}">Next →</a>{% endif %}
+    </div>
+  {% endif %}
+
   {% if stories_multi|length == 0 and stories_single|length == 0 %}
     <p>No stories yet.</p>
   {% endif %}

@@ -23,6 +23,9 @@ MAX_ITEMS_PER_TOPIC = 12
 
 USER_AGENT = "daily-briefing-bot/0.1 (+https://example.com)"
 
+def chunk_list(xs: list, size: int) -> list[list]:
+    return [xs[i:i+size] for i in range(0, len(xs), size)]
+
 
 def utc_now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -480,6 +483,22 @@ def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
 def build_stories(items_by_topic: dict[str, list[dict]]) -> dict[str, list[dict]]:
     return {topic: build_stories_for_topic(topic, items) for topic, items in items_by_topic.items()}
 
+def balance_items_by_source(items: list[dict], per_source: int = 8, total: int = 60) -> list[dict]:
+    """
+    Keep a balanced set of items: cap per source, then cap total.
+    Assumes items are already sorted by recency (newest first).
+    """
+    out = []
+    counts = {}
+    for it in items:
+        src = it.get("source") or "unknown"
+        if counts.get(src, 0) >= per_source:
+            continue
+        out.append(it)
+        counts[src] = counts.get(src, 0) + 1
+        if len(out) >= total:
+            break
+    return out
 
 
 def main() -> None:
@@ -505,6 +524,10 @@ def main() -> None:
 
         # --- collect data for rendering ---
         items_by_topic = get_latest_items_by_topic(conn)
+        for topic in list(items_by_topic.keys()):
+            items_by_topic[topic] = balance_items_by_source(items_by_topic[topic], per_source=8, total=80)
+            items_by_topic[topic].sort(key=lambda x: x.get("published") or x.get("fetched_at") or "", reverse=True)
+
         stories_by_topic = build_stories(items_by_topic)
 
         # --- reorder stories: multi-source stories first ---
@@ -556,24 +579,43 @@ def main() -> None:
 
         # Individual topic pages
         # Individual topic pages (with collapsible single-article stories)
-        MAX_MULTI = 25
-        MAX_SINGLE = 50
+        PAGE_SIZE = 12
+        MAX_PAGES = 5
 
         for topic, stories in stories_by_topic.items():
-            stories_multi = [s for s in stories if s["n_articles"] >= 2][:MAX_MULTI]
-            stories_single = [s for s in stories if s["n_articles"] == 1][:MAX_SINGLE]
+            stories_multi = [s for s in stories if s["n_articles"] >= 2]
+            stories_single = [s for s in stories if s["n_articles"] == 1]
 
-            render_template(
-                env,
-                "topic.html",
-                Path(f"site/topics/{topic}.html"),
-                title=f"Topic: {topic}",
-                generated_at=generated_at,
-                topic=topic,
-                stories_multi=stories_multi,
-                stories_single=stories_single,
-                base_path="../",
-            )
+            pages_multi = chunk_list(stories_multi, PAGE_SIZE)
+            pages_single = chunk_list(stories_single, PAGE_SIZE)
+
+            # Wir paginieren über "kombinierte" Stories (multi zuerst, dann single)
+            combined = stories_multi + stories_single
+            pages = chunk_list(combined, PAGE_SIZE)[:MAX_PAGES]
+
+            for page_idx, page_stories in enumerate(pages, start=1):
+                out_name = f"site/topics/{topic}.html" if page_idx == 1 else f"site/topics/{topic}_p{page_idx}.html"
+
+                # optional: wieder splitten für template (Top + Singles collapsible)
+                page_multi = [s for s in page_stories if s["n_articles"] >= 2]
+                page_single = [s for s in page_stories if s["n_articles"] == 1]
+
+                render_template(
+                    env,
+                    "topic.html",
+                    Path(out_name),
+                    title=f"Topic: {topic}",
+                    generated_at=generated_at,
+                    topic=topic,
+                    stories_multi=page_multi,
+                    stories_single=page_single,
+                    base_path="../",
+                    page=page_idx,
+                    n_pages=len(pages),
+                    next_url=(f"{topic}_p{page_idx+1}.html" if page_idx < len(pages) else None),
+                    prev_url=(f"{topic}_p{page_idx-1}.html" if page_idx > 1 else None),
+                )
+
 
         print(f"\nDone. New items inserted: {total_inserted}")
         print(f"DB: {DB_PATH.resolve()}")

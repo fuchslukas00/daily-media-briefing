@@ -78,11 +78,3 @@ international:
     url: https://www.politico.eu/rss/
     language: en
     paywall: mixed
-
-  - id: el_pais
-    name: El País
-    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
-    language: es
-    paywall: mixed
-
-
