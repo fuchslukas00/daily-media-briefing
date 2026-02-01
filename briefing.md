@@ -1,42 +1,34 @@
 # Daily Briefing
 
-_Generated: 2026-02-01 19:27 UTC_
+_Generated: 2026-02-01 19:46 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
 - **Deutschlandfunk** — [Ehemalige Bundestagspräsidentin - Rita Süssmuth gestorben - Würdigungen durch Staatsspitze](https://www.deutschlandfunk.de/rita-suessmuth-gestorben-wuerdigungen-durch-staatsspitze-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Riad - Engere Zusammenarbeit Deutschlands und Saudi-Arabien bei Energie vereinbart - Rostock neue Drehscheibe für Wasserstoff](https://www.deutschlandfunk.de/engere-zusammenarbeit-deutschlands-und-saudi-arabien-bei-energie-vereinbart-rostock-neue-drehscheibe-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Ukraine - SpaceX ergreift Maßnahmen gegen Starlink-Nutzung durch Russland](https://www.deutschlandfunk.de/spacex-ergreift-massnahmen-gegen-starlink-nutzung-durch-russland-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Russischer Angriffskrieg - Tote und Verletzte in der Ukraine - Auch Geburtsklinik getroffen](https://www.deutschlandfunk.de/tote-und-verletzte-in-der-ukraine-auch-geburtsklinik-getroffen-102.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Handball-EM - Deutschland verliert Finale gegen Dänemark](https://www.deutschlandfunk.de/deutschland-verliert-finale-gegen-daenemark-102.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Fußball-Bundesliga - Freiburg unterliegt Stuttgart, Dortmund gewinnt gegen Heidenheim](https://www.deutschlandfunk.de/freiburg-unterliegt-stuttgart-dortmund-gewinnt-gegen-heidenheim-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Prag - Zehntausende Tschechen demonstrieren für Präsident Pavel in Streit mit Babis-Regierung](https://www.deutschlandfunk.de/zehntausende-tschechen-demonstrieren-fuer-praesident-pavel-in-streit-mit-babis-regierung-102.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 - **Deutschlandfunk** — [Israel - Grenzübergang Rafah geöffnet - zunächst nur in eingeschränktem Umfang](https://www.deutschlandfunk.de/grenzuebergang-rafah-geoeffnet-zunaechst-nur-in-eingeschraenktem-umfang-104.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bagdad - Parlament im Irak scheitert erneut bei Präsidentenwahl](https://www.deutschlandfunk.de/parlament-im-irak-scheitert-erneut-bei-praesidentenwahl-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Schließung eines linken Kulturzentrums - Mehr als 100 Verletzte bei Krawallen in Turin](https://www.deutschlandfunk.de/mehr-als-100-verletzte-bei-krawallen-in-turin-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Baden-Württemberg - Gerichtsvollzieher bekommen Schutzwesten](https://www.deutschlandfunk.de/gerichtsvollzieher-bekommen-schutzwesten-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Crans-Montana - Zahl der Todesopfer nach Brandkatastrophe auf 41 gestiegen](https://www.deutschlandfunk.de/zahl-der-todesopfer-nach-brandkatastrophe-auf-41-gestiegen-100.html)  
-  _Sun, 01 Feb 2026 20:21:59 +0100_ · paywall: `False`
+  _Sun, 01 Feb 2026 20:29:21 +0100_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [More than 200 killed in coltan mine collapse in eastern DRC, officials say](https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say)  
-  _Fri, 30 Jan 2026 22:11:57 GMT_ · paywall: `False`
 - **The Guardian** — [Mexico moves to combat pollution following Guardian investigations](https://www.theguardian.com/us-news/2026/feb/01/mexico-moves-to-combat-pollution-following-guardian-investigations)  
   _Sun, 01 Feb 2026 17:08:27 GMT_ · paywall: `False`
+- **The Guardian** — [Spotlight remains on a Coalition in chaos as parliament returns, with splits and spills looming over policy](https://www.theguardian.com/australia-news/2026/feb/01/spotlight-remains-on-a-coalition-in-chaos-as-parliament-returns-with-splits-and-spills-looming-over-policy)  
+  _Sun, 01 Feb 2026 14:00:35 GMT_ · paywall: `False`
 - **The Guardian** — [Cuba on the brink as Trump turns up the pressure: ‘There is going to be a real blockade’](https://www.theguardian.com/world/2026/feb/01/cuba-fuel-shortage-trump-tariffs)  
   _Sun, 01 Feb 2026 13:00:27 GMT_ · paywall: `False`
 - **The Guardian** — [Costa Rica heads to polls amid fears of authoritarian turn](https://www.theguardian.com/world/2026/feb/01/costa-rica-polls-fears-authoritarian-turn-laura-fernandez)  
@@ -47,13 +39,5 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sun, 01 Feb 2026 05:00:17 GMT_ · paywall: `False`
 - **The Guardian** — [Starmer hopes his China trip will begin the thaw after recent ice age](https://www.theguardian.com/world/2026/jan/31/starmer-hopes-his-china-trip-will-begin-the-thaw-after-recent-ice-age)  
   _Sat, 31 Jan 2026 06:00:55 GMT_ · paywall: `False`
-- **The Guardian** — [Spotlight remains on a Coalition in chaos as parliament returns, with splits and spills looming over policy](https://www.theguardian.com/australia-news/2026/feb/01/spotlight-remains-on-a-coalition-in-chaos-as-parliament-returns-with-splits-and-spills-looming-over-policy)  
-  _Sun, 01 Feb 2026 14:00:35 GMT_ · paywall: `False`
-- **The Guardian** — [‘Frustrated’ by slow pace of gambling ads reform, Labor caucus wants Wells to act](https://www.theguardian.com/australia-news/2026/feb/02/government-gambling-ads-reform-labor-wells)  
-  _Sun, 01 Feb 2026 14:00:34 GMT_ · paywall: `False`
-- **The Guardian** — [Catch a falling star: cosmic dust may reveal how life began, and a Sydney lab is making it from scratch](https://www.theguardian.com/science/2026/feb/02/cosmic-dust-how-life-on-earth-began-meteorites-sydney-lab)  
-  _Sun, 01 Feb 2026 14:00:32 GMT_ · paywall: `False`
-- **The Guardian** — [Real estate agents in Australia using apps that leave millions of lease documents at risk, digital researcher says](https://www.theguardian.com/australia-news/2026/feb/02/real-estate-agents-in-australia-using-apps-that-leave-millions-of-lease-documents-at-risk-digital-researcher-says)  
-  _Sun, 01 Feb 2026 14:00:32 GMT_ · paywall: `False`
-- **The Guardian** — [Australia swelters through fourth hottest January on record – as it happened](https://www.theguardian.com/australia-news/live/2026/feb/01/news-live-australia-statement-israel-unrwa-ruston-liberal-party-nationals-sussan-ley-anthony-albanese-heatwave-weather-ntwnfb)  
-  _Sun, 01 Feb 2026 04:44:37 GMT_ · paywall: `False`
+- **The Guardian** — [More than 200 killed in coltan mine collapse in eastern DRC, officials say](https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say)  
+  _Fri, 30 Jan 2026 22:11:57 GMT_ · paywall: `False`
