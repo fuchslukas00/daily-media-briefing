@@ -1,7 +1,7 @@
 germany:
   - id: deutschlandfunk
     name: Deutschlandfunk
-    url: https://www.deutschlandfunk.de/rss/nachrichten.xml
+    url: https://www.deutschlandfunk.de/nachrichten-100.rss
     language: de
     paywall: no
 

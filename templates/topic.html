@@ -4,16 +4,20 @@
   <h1>Topic: {{ topic }}</h1>
   <div class="meta">Last updated: {{ generated_at }}</div>
 
-  {% if stories|length == 0 %}
+  {% if stories_multi|length == 0 and stories_single|length == 0 %}
     <p>No stories yet.</p>
-  {% else %}
-    {% for st in stories %}
+  {% endif %}
+
+  {% if stories_multi|length > 0 %}
+    <h2>Top stories</h2>
+
+    {% for st in stories_multi %}
       <div class="card">
         <div class="meta">
           <strong>{{ st.n_articles }}</strong> articles in this story
         </div>
 
-        <h2>{{ st.title }}</h2>
+        <h3>{{ st.title }}</h3>
 
         {% if st.summary %}
           <p>{{ st.summary }}</p>
@@ -36,6 +40,45 @@
       </div>
     {% endfor %}
   {% endif %}
+
+  {% if stories_single|length > 0 %}
+    <details class="card">
+      <summary>
+        <strong>Single-article stories</strong>
+        <span class="badge">{{ stories_single|length }}</span>
+      </summary>
+
+      <p class="meta">
+        These items did not match other sources strongly enough (yet).
+      </p>
+
+      {% for st in stories_single %}
+        <div class="card">
+          <h3>{{ st.title }}</h3>
+
+          {% if st.summary %}
+            <p>{{ st.summary }}</p>
+          {% endif %}
+
+          <ul>
+            {% for a in st.articles %}
+              <li>
+                <strong>{{ a.source }}</strong> —
+                {% if a.link %}
+                  <a href="{{ a.link }}">{{ a.title }}</a>
+                {% else %}
+                  {{ a.title }}
+                {% endif %}
+                {% if a.published %}<br><em>{{ a.published }}</em>{% endif %}
+                {% if a.paywall is not none %} · paywall: <code>{{ a.paywall }}</code>{% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+    </details>
+  {% endif %}
 {% endblock %}
+
 
 

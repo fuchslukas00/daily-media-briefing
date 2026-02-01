@@ -507,6 +507,12 @@ def main() -> None:
         items_by_topic = get_latest_items_by_topic(conn)
         stories_by_topic = build_stories(items_by_topic)
 
+        # --- reorder stories: multi-source stories first ---
+        for topic in list(stories_by_topic.keys()):
+            stories = stories_by_topic[topic]
+            multi = [s for s in stories if s["n_articles"] >= 2]
+            single = [s for s in stories if s["n_articles"] == 1]
+            stories_by_topic[topic] = multi + single
 
         # --- markdown + html briefing ---
         write_briefing_md(items_by_topic)
@@ -549,7 +555,14 @@ def main() -> None:
         )
 
         # Individual topic pages
+        # Individual topic pages (with collapsible single-article stories)
+        MAX_MULTI = 25
+        MAX_SINGLE = 50
+
         for topic, stories in stories_by_topic.items():
+            stories_multi = [s for s in stories if s["n_articles"] >= 2][:MAX_MULTI]
+            stories_single = [s for s in stories if s["n_articles"] == 1][:MAX_SINGLE]
+
             render_template(
                 env,
                 "topic.html",
@@ -557,9 +570,11 @@ def main() -> None:
                 title=f"Topic: {topic}",
                 generated_at=generated_at,
                 topic=topic,
-                stories=stories,
+                stories_multi=stories_multi,
+                stories_single=stories_single,
                 base_path="../",
-        )
+            )
+
         print(f"\nDone. New items inserted: {total_inserted}")
         print(f"DB: {DB_PATH.resolve()}")
         print(f"Site output: {Path('site').resolve()}")
