@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-02-04 10:13 UTC_
+_Generated: 2026-02-04 10:36 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Die Zeit** — [Nach tödlichem Angriff: Gewerkschaft: "Heute steht die Eisenbahnerfamilie still"](https://www.zeit.de/news/2026-02/04/zugbegleiter-stirbt-bei-angriff-fassungslos-und-traurig)  
-  _Wed, 04 Feb 2026 10:10:09 -0000_ · paywall: `hard`
-- **Die Zeit** — [Bewerbungen bis Ende Februar: Grenzprojekt sucht engagierte Vermittler](https://www.zeit.de/news/2026-02/04/grenzprojekt-sucht-engagierte-vermittler)  
-  _Wed, 04 Feb 2026 10:09:22 -0000_ · paywall: `hard`
-- **Die Zeit** — [Fußball-Bundesliga: Neuer Trainer gefunden? Werder vor Einigung mit Thioune](https://www.zeit.de/news/2026-02/04/neuer-trainer-gefunden-werder-vor-einigung-mit-thioune)  
-  _Wed, 04 Feb 2026 10:09:07 -0000_ · paywall: `hard`
+- **Deutschlandfunk** — [Russischer Angriffskrieg - Gespräche zwischen Ukraine und Russland in Abu Dhabi begonnen](https://www.deutschlandfunk.de/gespraeche-zwischen-ukraine-und-russland-in-abu-dhabi-begonnen-100.html)  
+  _Wed, 04 Feb 2026 11:13:48 +0100_ · paywall: `False`
+- **Die Zeit** — [Krebserkrankungen in Deutschland: Die Waffe gegen Krebs](https://www.zeit.de/2026/06/krebserkrankung-deutschland-gesundheitsschutz-praevention-forschung)  
+  _Wed, 04 Feb 2026 10:28:19 -0000_ · paywall: `hard`
+- **Die Zeit** — [Prozess: Vater wegen Mordversuchs an dreijähriger Tochter angeklagt](https://www.zeit.de/news/2026-02/04/vater-wegen-mordversuchs-an-dreijaehriger-tochter-angeklagt)  
+  _Wed, 04 Feb 2026 10:26:50 -0000_ · paywall: `hard`
+- **Die Zeit** — [Verkehr: Transporter landet in Graben - A27 bei Verden gesperrt](https://www.zeit.de/news/2026-02/04/transporter-landet-in-graben-a27-bei-verden-gesperrt)  
+  _Wed, 04 Feb 2026 10:26:14 -0000_ · paywall: `hard`
+- **Die Zeit** — [Baufällige Brücke: Marode Agra-Brücke bei Leipzig wird abgestützt](https://www.zeit.de/news/2026-02/04/marode-agra-bruecke-bei-leipzig-wird-abgestuetzt)  
+  _Wed, 04 Feb 2026 10:24:12 -0000_ · paywall: `hard`
+- **Die Zeit** — [Winterwetter: 110 Glätte-Unfälle zwischen Teutoburger Wald und Küste](https://www.zeit.de/news/2026-02/04/110-glaette-unfaelle-zwischen-teutoburger-wald-und-kueste)  
+  _Wed, 04 Feb 2026 10:22:56 -0000_ · paywall: `hard`
 - **Die Zeit** — [DWD-Vorhersage: Wetterdienst warnt vor Glätte in NRW](https://www.zeit.de/news/2026-02/04/wetterdienst-warnt-vor-glaette-in-nrw)  
-  _Wed, 04 Feb 2026 10:07:54 -0000_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Liveblog USA unter Trump: Brüder von Renée Good schildern von ICE verursachtes Leid](https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-brueder-von-renee-good-schildern-von-ice-verursachtes-leid-faz-19444916.html)  
-  _Wed, 04 Feb 2026 09:48:55 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Top-100-Plattformen: Wie KI die globale Machtbalance der Plattformen verschiebt](https://www.faz.net/pro/digitalwirtschaft/plattformen/wie-plattformen-und-ki-die-machtbalance-global-veraendern-accg-200502992.html)  
-  _Wed, 04 Feb 2026 06:03:34 GMT_ · paywall: `hard`
-- **ZDF heute** — [Deutscher KI-Forscher machte dank Epstein Karriere](https://www.zdfheute.de/politik/ausland/epstein-deutscher-forscher-foerderung-100.html)  
-  _Wed, 4 Feb 2026 11:00:00 +0100_ · paywall: `False`
-- **ZDF heute** — [Glatteis und Schnee in Teilen Deutschlands](https://www.zdfheute.de/ratgeber/wetterwarnung-schnee-glaette-eis-deutschland-100.html)  
-  _Wed, 4 Feb 2026 09:42:00 +0100_ · paywall: `False`
-- **Süddeutsche Zeitung** — [Deutsche Bahn: Zugbegleiter stirbt nach brutalem Angriff durch Fahrgast](https://www.sueddeutsche.de/panorama/deutsche-bahn-zugbegleiter-ticket-kontrolle-angriff-evg-li.3380896)  
-  _Wed, 04 Feb 2026 09:10:00 GMT_ · paywall: `hard`
-- **Die Zeit** — [Rheinland-Pfalz: Zugbegleiter stirbt nach Angriff bei Ticketkontrolle](https://www.zeit.de/gesellschaft/zeitgeschehen/2026-02/zugbegleiter-regionalexpress-ticketkontrolle-angriff-deutsche-bahn)  
-  _Wed, 04 Feb 2026 10:04:18 -0000_ · paywall: `hard`
-- **Die Zeit** — [Gesundheitsversorgung: Sachsen plant Milliarden-Investition in Kliniken bis 2030](https://www.zeit.de/news/2026-02/04/sachsen-plant-milliarden-investition-in-kliniken-bis-2030)  
-  _Wed, 04 Feb 2026 10:02:18 -0000_ · paywall: `hard`
-- **Die Zeit** — [Autobahn 9: Beine von Lastwagen überrollt - Arbeiter schwer verletzt](https://www.zeit.de/news/2026-02/04/beine-von-lastwagen-ueberrollt-arbeiter-schwer-verletzt)  
-  _Wed, 04 Feb 2026 10:02:14 -0000_ · paywall: `hard`
+  _Wed, 04 Feb 2026 10:21:43 -0000_ · paywall: `hard`
+- **Die Zeit** — [Brücken und Tunnel gesperrt: Winterdienst läuft trotz Warnstreik – dennoch viele Unfälle](https://www.zeit.de/news/2026-02/04/warnstreik-bei-strassenmeistereien-glatte-strassen-moeglich)  
+  _Wed, 04 Feb 2026 10:20:17 -0000_ · paywall: `hard`
+- **Die Zeit** — [Unfall: 13-Jähriger liefert sich im Auto der Eltern Verfolgungsfahrt](https://www.zeit.de/news/2026-02/04/13-jaehriger-liefert-sich-im-auto-der-eltern-verfolgungsfahrt)  
+  _Wed, 04 Feb 2026 10:18:29 -0000_ · paywall: `hard`
+- **Die Zeit** — [Spezialabteilung für Altfälle: Leichenspürhunde suchen nach vermisstem Studenten](https://www.zeit.de/news/2026-02/04/leichenspuerhunde-suchen-nach-vermisstem-studenten)  
+  _Wed, 04 Feb 2026 10:17:40 -0000_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Frau sagt gegen Høiby aus: „Ich konnte nicht verstehen, dass Marius mir so etwas antun konnte“](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/das-passiert-am-zweiten-prozesstag-gegen-marius-borg-hoiby-accg-200505363.html)  
+  _Wed, 04 Feb 2026 10:13:30 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Debatte um Boykott: EU-Abgeordnete fordern von der UEFA Positionierung zur WM](https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-in-den-usa-eu-abgeordnete-zur-boykottdebatte-accg-200505467.html)  
+  _Wed, 04 Feb 2026 09:59:37 GMT_ · paywall: `hard`
 
 ## international
 
@@ -39,21 +39,21 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 04 Feb 2026 10:00:40 GMT_ · paywall: `False`
 - **New York Times** — [For Peace, More Ukrainians Consider the Once Unthinkable: Surrendering Land](https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-war-donbas-region.html)  
   _Wed, 04 Feb 2026 10:07:26 +0000_ · paywall: `hard`
+- **Al Jazeera** — [ICE agents have no operational police role in Winter Olympics: Italy](https://www.aljazeera.com/sports/2026/2/4/ice-agents-have-no-operational-police-role-in-winter-olympics-italy?traffic_source=rss)  
+  _Wed, 04 Feb 2026 10:13:47 +0000_ · paywall: `False`
+- **Al Jazeera** — [Guardiola on Palestinian struggle and ICE protests in football briefing](https://www.aljazeera.com/video/newsfeed/2026/2/4/guardiola-on-palestinian-struggle-and-ice-protests-in-football-briefing?traffic_source=rss)  
+  _Wed, 04 Feb 2026 10:13:26 +0000_ · paywall: `False`
+- **Al Jazeera** — [Can US-Iran diplomacy work? Inside the narrow window for talks](https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss)  
+  _Wed, 04 Feb 2026 10:10:29 +0000_ · paywall: `False`
 - **Al Jazeera** — [‘No girl should ever endure what Epstein put them through’](https://www.aljazeera.com/video/quotable/2026/2/4/no-girl-should-ever-endure-what-epstein-put-them?traffic_source=rss)  
   _Wed, 04 Feb 2026 10:06:21 +0000_ · paywall: `False`
 - **Al Jazeera** — [Musk labels Spain PM ‘tyrant’ after Madrid proposes social media curbs](https://www.aljazeera.com/news/2026/2/4/musk-labels-spain-pm-tyrant-after-madrid-proposes-social-media-curbs?traffic_source=rss)  
   _Wed, 04 Feb 2026 09:56:00 +0000_ · paywall: `False`
 - **Al Jazeera** — [LIVE: Israeli attacks across Gaza kill 20 Palestinians since dawn](https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss)  
   _Wed, 04 Feb 2026 05:56:19 +0000_ · paywall: `False`
-- **France 24** — [Migrant boat collision kills at least 15](https://www.france24.com/en/migrant-boat-collision-kills-at-least-15)  
-  _Wed, 04 Feb 2026 10:09:18 GMT_ · paywall: `False`
-- **France 24** — [Trump hails talks with ‘terrific’ Colombian president Petro](https://www.france24.com/en/trump-hails-talks-with-terrific-colombian-president-petro)  
-  _Wed, 04 Feb 2026 10:07:39 GMT_ · paywall: `False`
-- **France 24** — [Live: Ukraine-Russia peace talks brokered by US begin in Abu Dhabi](https://www.france24.com/en/europe/20260204-live-ukraine-russia-set-to-meet-in-abu-dhabi-for-us-brokered-peace-talks)  
-  _Wed, 04 Feb 2026 05:59:23 GMT_ · paywall: `False`
-- **The Guardian** — [Streeting says Labour members feel ‘bitterly’ betrayed by Mandelson revelations in Epstein scandal – UK politics live](https://www.theguardian.com/politics/live/2026/feb/04/peter-mandelson-files-us-ambassador-jeffrey-epstein-keir-starmer-tories-uk-politics-live-news-updates)  
-  _Wed, 04 Feb 2026 09:50:02 GMT_ · paywall: `False`
-- **Euronews** — [Inside the Diriyah Biennale: Where processions, poetry and desert rhythms shape contemporary art](http://www.euronews.com/culture/2026/02/04/inside-the-diriyah-biennale-where-processions-poetry-and-desert-rhythms-shape-contemporary)  
-  _Wed, 04 Feb 2026 11:06:26 +0100_ · paywall: `False`
-- **Euronews** — [Watch the video: EU-UK relationship — friends with benefits?](http://www.euronews.com/my-europe/2026/02/04/watch-the-video-eu-uk-relationship-friends-with-benefits)  
-  _Wed, 04 Feb 2026 11:00:30 +0100_ · paywall: `False`
+- **France 24** — [US partial government shutdown ends, but DHS funding fight looms](https://www.france24.com/en/tv-shows/business/20260204-us-partial-government-shutdown-ends-but-dhs-funding-fight-looms)  
+  _Wed, 04 Feb 2026 10:27:10 GMT_ · paywall: `False`
+- **France 24** — [Libyan prosecutors open probe into killing of Gaddafi's son Seif al-Islam](https://www.france24.com/en/africa/20260204-libyan-prosecutors-open-probe-into-killing-of-gaddaffi-son-seif-al-islam)  
+  _Wed, 04 Feb 2026 10:26:37 GMT_ · paywall: `False`
+- **France 24** — [AI: Revolution in technology challenging our psychological, societal, and ethical boundaries](https://www.france24.com/en/ai-revolution-in-technology-challenging-our-psychological-societal-and-ethical-boundaries)  
+  _Wed, 04 Feb 2026 10:25:20 GMT_ · paywall: `False`
