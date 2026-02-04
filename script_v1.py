@@ -537,7 +537,7 @@ def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
         stop_words = "english"
     else:
         # german titles vary more; start slightly lower
-        threshold = 0.26
+        threshold = 0.22
         stop_words = None
 
     clusters = cluster_items(items, threshold=threshold, stop_words=stop_words)

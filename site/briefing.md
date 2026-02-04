@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-02-04 09:52 UTC_
+_Generated: 2026-02-04 10:11 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Frankfurter Allgemeine Zeitung** — [Thüringer Landtag: Auf dem Wahlzettel steht nur Björn Höcke](https://www.faz.net/aktuell/politik/inland/misstrauensvotum-in-thrueringen-nur-hoecke-auf-dem-wahlzettel-accg-200505355.html)  
-  _Wed, 04 Feb 2026 09:41:46 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [AFD-Fraktion im Kreistag: Fünf Jahre heiße Luft](https://www.faz.net/aktuell/rhein-main/region-und-hessen/afd-im-main-taunus-kreis-abgeordnete-im-kreistag-leisten-wenig-200501888.html)  
-  _Wed, 04 Feb 2026 09:40:54 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Rheinland-Pfalz: Zugbegleiter stirbt nach Angriff in Regionalexpress](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/zugbegleiter-nach-angriff-bei-ticketkontrolle-gestorben-accg-200505461.html)  
-  _Wed, 04 Feb 2026 09:47:39 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Dormagen: 14 Jahre alter Yosef starb an Stichen und Schnitten](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/obduktion-in-dormagen-der-14-jahre-alte-yosef-wurde-ermordet-accg-200505154.html)  
-  _Wed, 04 Feb 2026 09:08:05 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Epstein-Skandal: Melinda Gates froh, „weg vom Dreck“ zu sein](https://www.faz.net/aktuell/gesellschaft/menschen/melinda-gates-spricht-in-interview-ueber-ex-mann-bill-und-epstein-accg-200505450.html)  
-  _Wed, 04 Feb 2026 09:35:27 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Dschungelcamp-Kolumne: „Wenn es irgendwo noch einen Fußballer gibt – I’m free!“](https://www.faz.net/aktuell/stil/trends-nischen/das-haben-sie-an-tag-zwoelf-beim-dschungelcamp-verpasst-accg-200504922.html)  
-  _Wed, 04 Feb 2026 07:30:28 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Museumsdidaktik: Geprägt von Gewalt und Erotik](https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/abramovi-ausstellung-in-wien-so-werden-balkan-klischees-gepflegt-110829477.html)  
-  _Wed, 04 Feb 2026 09:36:00 GMT_ · paywall: `hard`
-- **Deutschlandfunk** — [Schnee und Glätte - Winterwetter führt zu Ausfällen bei der Bahn - Schulen etwa in Hessen stellen auf Distanzunterricht um](https://www.deutschlandfunk.de/winterwetter-fuehrt-zu-ausfaellen-bei-der-bahn-schulen-etwa-in-hessen-stellen-auf-distanzunterricht--100.html)  
-  _Wed, 04 Feb 2026 10:48:51 +0100_ · paywall: `False`
-- **ZDF heute** — [Wintereinbruch bringt Verkehrschaos](https://www.zdfheute.de/video/zdfheute-xpress/wintereinbruch-verkehr-stau-video-100.html)  
-  _Wed, 4 Feb 2026 10:30:00 +0100_ · paywall: `False`
-- **Süddeutsche Zeitung** — [USA: USA schießen iranische Drohne ab](https://www.sueddeutsche.de/politik/usa-news-liveblog-iran-drohne-haushalt-presse-li.3379075)  
-  _Wed, 04 Feb 2026 09:33:00 GMT_ · paywall: `hard`
-- **Die Zeit** — [Winterwetter: Glatte Straßen im Nordwesten: Viele Unfälle, keine Schule](https://www.zeit.de/news/2026-02/04/glatte-strassen-im-nordwesten-viele-unfaelle-keine-schule)  
-  _Wed, 04 Feb 2026 09:38:53 -0000_ · paywall: `hard`
-- **Die Zeit** — [Angriff bei Ticketkontrolle: Zugbegleiter stirbt bei Angriff – "fassungslos und traurig"](https://www.zeit.de/news/2026-02/04/zugbegleiter-stirbt-bei-angriff-fassungslos-und-traurig)  
-  _Wed, 04 Feb 2026 09:36:55 -0000_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Liveblog USA unter Trump: Brüder von Renée Good schildern von ICE verursachtes Leid](https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-brueder-von-renee-good-schildern-von-ice-verursachtes-leid-faz-19444916.html)  
+  _Wed, 04 Feb 2026 09:48:55 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Top-100-Plattformen: Wie KI die globale Machtbalance der Plattformen verschiebt](https://www.faz.net/pro/digitalwirtschaft/plattformen/wie-plattformen-und-ki-die-machtbalance-global-veraendern-accg-200502992.html)  
+  _Wed, 04 Feb 2026 06:03:34 GMT_ · paywall: `hard`
+- **ZDF heute** — [Deutscher KI-Forscher machte dank Epstein Karriere](https://www.zdfheute.de/politik/ausland/epstein-deutscher-forscher-foerderung-100.html)  
+  _Wed, 4 Feb 2026 11:00:00 +0100_ · paywall: `False`
+- **ZDF heute** — [Glatteis und Schnee in Teilen Deutschlands](https://www.zdfheute.de/ratgeber/wetterwarnung-schnee-glaette-eis-deutschland-100.html)  
+  _Wed, 4 Feb 2026 09:42:00 +0100_ · paywall: `False`
+- **Süddeutsche Zeitung** — [Deutsche Bahn: Zugbegleiter stirbt nach brutalem Angriff durch Fahrgast](https://www.sueddeutsche.de/panorama/deutsche-bahn-zugbegleiter-ticket-kontrolle-angriff-evg-li.3380896)  
+  _Wed, 04 Feb 2026 09:10:00 GMT_ · paywall: `hard`
+- **Die Zeit** — [Rheinland-Pfalz: Zugbegleiter stirbt nach Angriff bei Ticketkontrolle](https://www.zeit.de/gesellschaft/zeitgeschehen/2026-02/zugbegleiter-regionalexpress-ticketkontrolle-angriff-deutsche-bahn)  
+  _Wed, 04 Feb 2026 10:04:18 -0000_ · paywall: `hard`
+- **Die Zeit** — [Gesundheitsversorgung: Sachsen plant Milliarden-Investition in Kliniken bis 2030](https://www.zeit.de/news/2026-02/04/sachsen-plant-milliarden-investition-in-kliniken-bis-2030)  
+  _Wed, 04 Feb 2026 10:02:18 -0000_ · paywall: `hard`
+- **Die Zeit** — [Autobahn 9: Beine von Lastwagen überrollt - Arbeiter schwer verletzt](https://www.zeit.de/news/2026-02/04/beine-von-lastwagen-ueberrollt-arbeiter-schwer-verletzt)  
+  _Wed, 04 Feb 2026 10:02:14 -0000_ · paywall: `hard`
+- **Die Zeit** — [2. Fußball-Bundesliga: Fortuna Düsseldorf muss Corona-Hilfe nicht zurückzahlen](https://www.zeit.de/news/2026-02/04/fortuna-duesseldorf-muss-corona-hilfe-nicht-zurueckzahlen)  
+  _Wed, 04 Feb 2026 10:02:03 -0000_ · paywall: `hard`
+- **Die Zeit** — [Auftragsplus im Inland: Warum der Maschinenbau Hoffnung auf Erholung schöpft](https://www.zeit.de/news/2026-02/04/warum-der-maschinenbau-hoffnung-auf-erholung-schoepft)  
+  _Wed, 04 Feb 2026 10:00:28 -0000_ · paywall: `hard`
+- **Die Zeit** — [Pflegereform: Müller will Pflege-Eigenanteil nach Einkommen staffeln](https://www.zeit.de/news/2026-02/04/mueller-will-pflege-eigenanteil-nach-einkommen-staffeln)  
+  _Wed, 04 Feb 2026 09:57:26 -0000_ · paywall: `hard`
+- **Die Zeit** — [Fußball-Regionalliga Nordost: Sind wieder frei: Rot-Weiß Erfurt beendet Insolvenzverfahren](https://www.zeit.de/news/2026-02/04/sind-wieder-frei-rot-weiss-erfurt-beendet-insolvenzverfahren)  
+  _Wed, 04 Feb 2026 09:56:12 -0000_ · paywall: `hard`
 
 ## international
 
-- **The Guardian** — [Starmer orders release of files relating to Mandelson US ambassador decision](https://www.theguardian.com/politics/2026/feb/04/keir-starmer-release-files-peter-mandelson-us-ambassador-appointment)  
-  _Wed, 04 Feb 2026 09:40:39 GMT_ · paywall: `False`
-- **Al Jazeera** — [Israeli attacks on Gaza kill 18 in one of deadliest days since ‘ceasefire’](https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss)  
-  _Wed, 04 Feb 2026 08:35:09 +0000_ · paywall: `False`
-- **Euronews** — [Zelenskyy calls on Trump to respond to Russia’s massive attack as talks resume in Abu Dhabi](http://www.euronews.com/2026/02/04/zelenskyy-calls-on-trump-to-respond-to-russias-massive-attack-as-talks-resume-in-abu-dhabi)  
-  _Wed, 04 Feb 2026 10:45:45 +0100_ · paywall: `False`
-- **Euronews** — [Privacy push: Where do Europeans restrict access to their personal data the most?](http://www.euronews.com/my-europe/2026/02/04/privacy-push-where-do-europeans-restrict-access-to-their-personal-data-the-most)  
-  _Wed, 04 Feb 2026 10:17:37 +0100_ · paywall: `False`
-- **France 24** — [Police raid Paris offices of Musk's X over child sexual deepfakes](https://www.france24.com/en/tv-shows/truth-or-fake/20260203-police-raid-paris-offices-of-musk-s-x-over-child-sexual-deepfakes)  
-  _Tue, 03 Feb 2026 20:38:01 GMT_ · paywall: `False`
-- **New York Times** — [Gloves Come Off in Gulf as Trump’s Closest Arab Allies Clash](https://www.nytimes.com/2026/02/04/world/middleeast/emirates-saudi-arabia-rift.html)  
-  _Wed, 04 Feb 2026 09:25:45 +0000_ · paywall: `hard`
-- **Al Jazeera** — [Trump hits out at reporter for question on Epstein survivors](https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-hits-out-at-reporter-for-question-on-epstein-survivors?traffic_source=rss)  
-  _Wed, 04 Feb 2026 09:13:05 +0000_ · paywall: `False`
-- **Al Jazeera** — [How Israel destroyed Gaza’s health system ‘deliberately and methodically’](https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss)  
-  _Wed, 04 Feb 2026 09:00:53 +0000_ · paywall: `False`
-- **Al Jazeera** — [How Israel is trying to hinder NGOs from working in Gaza](https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss)  
-  _Wed, 04 Feb 2026 08:56:24 +0000_ · paywall: `False`
-- **Al Jazeera** — [Israel kills 18 people, one of the deadliest attacks since Gaza ‘truce’](https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss)  
-  _Wed, 04 Feb 2026 08:35:09 +0000_ · paywall: `False`
-- **The Guardian** — [Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says](https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch)  
-  _Wed, 04 Feb 2026 00:01:28 GMT_ · paywall: `False`
-- **The Guardian** — [Handful of sick and wounded Palestinians allowed through Rafah crossing on first day](https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza)  
-  _Mon, 02 Feb 2026 23:49:01 GMT_ · paywall: `False`
+- **The Guardian** — [Streeting says Labour members feel ‘bitterly’ betrayed by Mandelson revelations in Epstein scandal – UK politics live](https://www.theguardian.com/politics/live/2026/feb/04/peter-mandelson-files-us-ambassador-jeffrey-epstein-keir-starmer-tories-uk-politics-live-news-updates)  
+  _Wed, 04 Feb 2026 09:50:02 GMT_ · paywall: `False`
+- **Euronews** — [Inside the Diriyah Biennale: Where processions, poetry and desert rhythms shape contemporary art](http://www.euronews.com/culture/2026/02/04/inside-the-diriyah-biennale-where-processions-poetry-and-desert-rhythms-shape-contemporary)  
+  _Wed, 04 Feb 2026 11:06:26 +0100_ · paywall: `False`
+- **Euronews** — [Watch the video: EU-UK relationship — friends with benefits?](http://www.euronews.com/my-europe/2026/02/04/watch-the-video-eu-uk-relationship-friends-with-benefits)  
+  _Wed, 04 Feb 2026 11:00:30 +0100_ · paywall: `False`
+- **Euronews** — [Greek coast guard vessel and speedboat carrying migrants collide, killing 15 people](http://www.euronews.com/2026/02/04/greek-coast-guard-vessel-and-speedboat-carrying-migrants-collide-killing-15-people)  
+  _Wed, 04 Feb 2026 10:55:43 +0100_ · paywall: `False`
+- **The Guardian** — [Pinterest sacks two engineers for creating software to identify fired workers](https://www.theguardian.com/technology/2026/feb/04/pinterest-sacks-two-engineers-for-software-identify-fired-workers)  
+  _Wed, 04 Feb 2026 09:48:34 GMT_ · paywall: `False`
+- **New York Times** — [Bulgarians Adopt the Euro With a Whisper of Melancholy but Few Tears](https://www.nytimes.com/2026/02/04/world/europe/bulgaria-euro-lev-european-union.html)  
+  _Wed, 04 Feb 2026 10:04:28 +0000_ · paywall: `hard`
+- **New York Times** — [Here’s How the U.S. Accepted Danish Control of Greenland 100 Years Ago.](https://www.nytimes.com/2026/02/04/world/americas/what-to-know-us-west-indies-greenland-history-denmark.html)  
+  _Wed, 04 Feb 2026 10:00:59 +0000_ · paywall: `hard`
+- **New York Times** — [In Afghanistan, a Trail of Hunger and Death Behind U.S. Aid Cuts](https://www.nytimes.com/2026/02/04/world/asia/afghanistan-us-aid-cuts.html)  
+  _Wed, 04 Feb 2026 10:00:51 +0000_ · paywall: `hard`
+- **New York Times** — [A Journalist Who Looks for Clues in Plain Sight](https://www.nytimes.com/2026/02/04/insider/christiaan-triebert-visual-investigations.html)  
+  _Wed, 04 Feb 2026 10:00:11 +0000_ · paywall: `hard`
+- **Al Jazeera** — [Australian boy swims for hours in rough seas to save his family](https://www.aljazeera.com/video/newsfeed/2026/2/4/australian-boy-swims-for-hours-in-rough-seas-to-save-his-family?traffic_source=rss)  
+  _Wed, 04 Feb 2026 09:30:31 +0000_ · paywall: `False`
+- **France 24** — [Ukraine, Russia and United States gather in Abu Dhabi](https://www.france24.com/en/ukraine-russia-and-united-states-gather-in-abu-dhabi)  
+  _Wed, 04 Feb 2026 10:05:13 GMT_ · paywall: `False`
+- **France 24** — [Digital sovereignty: 'An opportunity to have technology serve society'](https://www.france24.com/en/tv-shows/a-propos/20260203-digital-sovereignty-an-opportunity-to-have-technology-serve-society-1)  
+  _Tue, 03 Feb 2026 22:16:24 GMT_ · paywall: `False`
