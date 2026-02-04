@@ -1,43 +1,47 @@
 # Daily Briefing
 
-_Generated: 2026-02-03 07:27 UTC_
+_Generated: 2026-02-04 07:29 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Gasspeicher - Dachverband der Energiewirtschaft für Notfallreserve - Bundesnetzagentur erwartet steigende Gaspreise](https://www.deutschlandfunk.de/dachverband-der-energiewirtschaft-fuer-notfallreserve-bundesnetzagentur-erwartet-steigende-gaspreise-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Verhandlungen in Istanbul - Iran-Expertin Sahebi erwartet Abkommen mit den USA: "Regime in Teheran fürchtet um seine Existenz"](https://www.deutschlandfunk.de/iran-expertin-sahebi-erwartet-abkommen-mit-den-usa-regime-in-teheran-fuerchtet-um-seine-existenz-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Altersvorsorge - Merz kündigt Einleitung einer umfassenden Rentenreform noch dieses Jahr an](https://www.deutschlandfunk.de/merz-kuendigt-einleitung-einer-umfassenden-rentenreform-noch-dieses-jahr-an-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Warnstreiks - Öffentlicher Nahverkehr heute früh wieder angelaufen](https://www.deutschlandfunk.de/oeffentlicher-nahverkehr-heute-frueh-wieder-angelaufen-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Reporter ohne Grenzen" - Mehr als 50 Angriffe auf Pressevertreter in Deutschland im vergangenen Jahr](https://www.deutschlandfunk.de/mehr-als-50-angriffe-auf-pressevertreter-in-deutschland-im-vergangenen-jahr-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Einwanderungsrazzien: Bundesbeamte in Minneapolis bekommen Körperkameras](https://www.deutschlandfunk.de/einwanderungsrazzien-bundesbeamte-in-minneapolis-bekommen-koerperkameras-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Musk legt Unternehmen SpaceX und xAI zusammen](https://www.deutschlandfunk.de/musk-legt-unternehmen-spacex-und-xai-zusammen-100.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Handelsabkommen - Zölle zwischen USA und Indien sollen sinken - bald auch kein russisches Öl mehr?](https://www.deutschlandfunk.de/zoelle-zwischen-usa-und-indien-sollen-sinken-bald-auch-kein-russisches-oel-mehr-102.html)  
-  _Tue, 03 Feb 2026 08:23:37 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Russischer Angriffskrieg - Ukraine und Russland sprechen wieder in Abu Dhabi](https://www.deutschlandfunk.de/ukraine-und-russland-sprechen-wieder-in-abu-dhabi-102.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Misstrauensantrag in Erfurt - AfD-Politiker Höcke fordert Thüringens Ministerpräsident Voigt heraus](https://www.deutschlandfunk.de/afd-politiker-hoecke-fordert-thueringens-ministerpraesident-voigt-heraus-100.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA und Kolumbien - Trump und Petro finden nach persönlichem Treffen erstmals freundliche Worte](https://www.deutschlandfunk.de/trump-und-petro-finden-nach-persoenlichem-treffen-erstmals-freundliche-worte-102.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Saudi-Arabien - Bundeskanzler Merz bricht zu erster Reise in die Golfregion auf](https://www.deutschlandfunk.de/bundeskanzler-merz-bricht-zu-erster-reise-in-die-golfregion-auf-102.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Seltene Erden - USA schmieden Allianz für kritische Rohstoffe gegen China](https://www.deutschlandfunk.de/usa-schmieden-allianz-fuer-kritische-rohstoffe-gegen-china-102.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Umfrage - Gesetzlich Krankenversicherte haben 2024 im Schnitt 42 Tage auf Facharzttermin gewartet](https://www.deutschlandfunk.de/gesetzlich-krankenversicherte-haben-2024-im-schnitt-42-tage-auf-facharzttermin-gewartet-104.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Winterwetter - Eis und Schnee schränken den Verkehr in Hessen und Niedersachsen ein](https://www.deutschlandfunk.de/eis-und-schnee-schraenken-den-verkehr-in-hessen-und-niedersachsen-ein-100.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Elektromobilität - Anteil von E-Autos in Deutschland wächst, aber zu langsam](https://www.deutschlandfunk.de/anteil-von-e-autos-in-deutschland-waechst-aber-zu-langsam-102.html)  
+  _Wed, 04 Feb 2026 08:18:24 +0100_ · paywall: `False`
 
 ## international
 
+- **Politico Europe** — [Das Zittern der CDU vor den Wahlkämpfen](https://www.politico.eu/podcast/berlin-playbook-podcast/das-zittern-der-cdu-vor-den-wahlkampfen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Wed, 04 Feb 2026 04:51:50 +0000_ · paywall: `mixed`
+- **Politico Europe** — [Is Putin ready for peace? Abu Dhabi talks will tell.](https://www.politico.eu/article/is-vladimir-putin-ready-for-peace-abu-dhabi-talks-will-tell/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Wed, 04 Feb 2026 03:02:00 +0000_ · paywall: `mixed`
+- **Politico Europe** — [Greece pushes to recruit tens of thousands more Asian migrant workers](https://www.politico.eu/article/greece-recruit-asia-migrant-worker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Wed, 04 Feb 2026 03:01:00 +0000_ · paywall: `mixed`
+- **Politico Europe** — [He refused to fight for Putin. Germany says it’s safe for him to go back.](https://www.politico.eu/article/georgy-avaliani-russia-ukraine-war-germany-return-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Wed, 04 Feb 2026 03:00:00 +0000_ · paywall: `mixed`
+- **Politico Europe** — [5 times the Winter Olympics got super political](https://www.politico.eu/article/5-times-the-winter-olympics-got-political/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Wed, 04 Feb 2026 03:00:00 +0000_ · paywall: `mixed`
+- **The Guardian** — [Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says](https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch)  
+  _Wed, 04 Feb 2026 00:01:28 GMT_ · paywall: `False`
+- **Politico Europe** — [Ursula von der Leyen to travel to Australia to seal EU security, trade deal](https://www.politico.eu/article/ursula-von-der-leyen-eu-australia-trip-security-trade-deal-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Tue, 03 Feb 2026 23:40:01 +0000_ · paywall: `mixed`
+- **Politico Europe** — [Trump’s Greenland gambit could undermine critical minerals meeting](https://www.politico.com/news/2026/02/03/trumps-greenland-gambit-could-undermine-critical-minerals-meeting-00761029?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Tue, 03 Feb 2026 23:05:00 +0000_ · paywall: `mixed`
+- **Politico Europe** — [Rising ovarian cancer burden in Europe demands action now](https://www.politico.eu/sponsored-content/rising-ovarian-cancer-burden-in-europe-demands-action-now/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)  
+  _Tue, 03 Feb 2026 23:00:00 +0000_ · paywall: `mixed`
 - **The Guardian** — [Handful of sick and wounded Palestinians allowed through Rafah crossing on first day](https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza)  
   _Mon, 02 Feb 2026 23:49:01 GMT_ · paywall: `False`
-- **The Guardian** — [Mexico’s president pledges to send aid to Cuba despite US efforts to cut oil access](https://www.theguardian.com/world/2026/feb/02/claudia-sheinbaum-mexico-oil-cuba-trump)  
-  _Mon, 02 Feb 2026 21:17:03 GMT_ · paywall: `False`
-- **The Guardian** — [Brazilian influencer who defended US immigration crackdown arrested by ICE](https://www.theguardian.com/us-news/2026/feb/02/rightwing-brazilian-influencer-junior-pena-arrested-by-ice)  
-  _Mon, 02 Feb 2026 15:10:48 GMT_ · paywall: `False`
-- **The Guardian** — [Trump’s Greenland threats open old wounds for Inuit across Arctic](https://www.theguardian.com/world/2026/feb/02/indigenous-views-trump-greenland-push-inuits-arctic)  
-  _Mon, 02 Feb 2026 13:59:23 GMT_ · paywall: `False`
-- **The Guardian** — [Fernández wins Costa Rican presidency, steering Latin America further right](https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing)  
-  _Mon, 02 Feb 2026 13:08:59 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes](https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods)  
-  _Mon, 02 Feb 2026 12:25:58 GMT_ · paywall: `False`
-- **The Guardian** — [International law meant to limit effects of war at breaking point, study finds](https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study)  
-  _Mon, 02 Feb 2026 05:00:48 GMT_ · paywall: `False`
-- **The Guardian** — [More than 200 killed in coltan mine collapse in eastern DRC, officials say](https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say)  
-  _Fri, 30 Jan 2026 22:11:57 GMT_ · paywall: `False`
