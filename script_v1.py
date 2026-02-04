@@ -537,7 +537,7 @@ def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
         stop_words = "english"
     else:
         # german titles vary more; start slightly lower
-        threshold = 0.28
+        threshold = 0.26
         stop_words = None
 
     clusters = cluster_items(items, threshold=threshold, stop_words=stop_words)
@@ -709,8 +709,12 @@ def main() -> None:
                     base_path="../",
                     page=page_idx,
                     n_pages=len(pages),
-                    next_url=(f"{topic}_p{page_idx+1}.html" if page_idx < len(pages) else None),
-                    prev_url=(f"{topic}_p{page_idx-1}.html" if page_idx > 1 else None),
+                    next_url=(
+                        f"{topic}_p{page_idx+1}.html" if page_idx < len(pages) else None
+                    ),
+                    prev_url=(
+                        f"{topic}.html" if page_idx == 2 else f"{topic}_p{page_idx-1}.html"
+                    ) if page_idx > 1 else None,
                 )
 
 
