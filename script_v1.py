@@ -11,6 +11,8 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 import feedparser
 import requests
 import yaml
+import re
+from html import unescape
 
 
 DB_PATH = Path("briefing.db")
@@ -19,12 +21,69 @@ OUT_MD = Path("site/briefing.md")
 OUT_HTML = Path("site/briefing.html")
 
 # How many recent items per topic in the markdown output
-MAX_ITEMS_PER_TOPIC = 12
+MAX_ITEMS_BRIEFING_MD = 12
+MAX_ITEMS_SITE = 100
 
 USER_AGENT = "daily-briefing-bot/0.1 (+https://example.com)"
 
 def chunk_list(xs: list, size: int) -> list[list]:
     return [xs[i:i+size] for i in range(0, len(xs), size)]
+
+_IMG_RE = re.compile(r'<img[^>]+src="([^"]+)"', re.IGNORECASE)
+
+def extract_first_image_url(html: str) -> str | None:
+    if not html:
+        return None
+    html = unescape(html)
+    m = _IMG_RE.search(html)
+    return m.group(1) if m else None
+
+def extract_image_url_from_entry(e: feedparser.FeedParserDict) -> str | None:
+    # 1) HTML in summary/description
+    summary_raw = (e.get("summary") or e.get("description") or "").strip()
+    img = extract_first_image_url(summary_raw)
+    if img:
+        return img
+
+    # 2) Media RSS: media_content / media_thumbnail
+    mc = e.get("media_content")
+    if isinstance(mc, list) and mc:
+        url = (mc[0].get("url") or "").strip()
+        if url:
+            return url
+
+    mt = e.get("media_thumbnail")
+    if isinstance(mt, list) and mt:
+        url = (mt[0].get("url") or "").strip()
+        if url:
+            return url
+
+    # 3) Enclosures
+    enc = e.get("enclosures")
+    if isinstance(enc, list):
+        for x in enc:
+            url = (x.get("url") or "").strip()
+            typ = (x.get("type") or "").lower()
+            if url and ("image" in typ or url.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))):
+                return url
+
+    return None
+
+
+_TAG_RE = re.compile(r"<[^>]+>")
+
+def clean_html_to_text(s: str) -> str:
+    """
+    Convert HTML-ish RSS summaries to plain text.
+    - removes tags (<img>, <p>, ...)
+    - unescapes entities (&amp; etc.)
+    - normalizes whitespace
+    """
+    s = s or ""
+    s = unescape(s)
+    s = _TAG_RE.sub("", s)
+    s = " ".join(s.split())
+    return s.strip()
 
 
 def utc_now_iso() -> str:
@@ -51,12 +110,20 @@ def init_db(conn: sqlite3.Connection) -> None:
             link TEXT,
             published TEXT,
             summary TEXT,
+            image_url TEXT,
             language TEXT,
             paywall TEXT,
             fetched_at TEXT NOT NULL
         )
         """
     )
+
+    # add image_url column if DB already existed
+    try:
+        conn.execute("ALTER TABLE items ADD COLUMN image_url TEXT")
+    except sqlite3.OperationalError:
+        pass
+
     conn.execute("CREATE INDEX IF NOT EXISTS idx_items_topic ON items(topic)")
     conn.execute("CREATE INDEX IF NOT EXISTS idx_items_fetched ON items(fetched_at)")
     conn.commit()
@@ -108,7 +175,11 @@ def upsert_items(
     for e in entries:
         title = (e.get("title") or "").strip()
         link = (e.get("link") or "").strip()
-        summary = (e.get("summary") or e.get("description") or "").strip()
+        summary_raw = (e.get("summary") or e.get("description") or "").strip()
+        image_url = extract_image_url_from_entry(e)
+
+        summary = clean_html_to_text(summary_raw)  # <— wichtig: damit HTML rausfliegt
+
 
         # published can be in various fields
         published = (e.get("published") or e.get("updated") or "").strip()
@@ -121,11 +192,17 @@ def upsert_items(
         try:
             conn.execute(
                 """
-                INSERT INTO items (uid, topic, source, title, link, published, summary, language, paywall, fetched_at)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                INSERT INTO items (
+                    uid, topic, source, title, link, published,
+                    summary, image_url, language, paywall, fetched_at
+                )
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
-                (uid, topic, source_name, title, link, published, summary, language, paywall, fetched_at),
-            )
+                (
+                    uid, topic, source_name, title, link, published,
+                    summary, image_url, language, paywall, fetched_at
+                ),
+)
             inserted += 1
         except sqlite3.IntegrityError:
             # already exists (duplicate)
@@ -135,7 +212,7 @@ def upsert_items(
     return inserted
 
 
-def get_latest_items_by_topic(conn: sqlite3.Connection) -> Dict[str, List[Dict[str, Any]]]:
+def get_latest_items_by_topic(conn: sqlite3.Connection, limit_per_topic: int) -> Dict[str, List[Dict[str, Any]]]:
     """
     Grab recent items per topic. Since RSS dates are messy, we sort by fetched_at (reliable).
     """
@@ -145,13 +222,13 @@ def get_latest_items_by_topic(conn: sqlite3.Connection) -> Dict[str, List[Dict[s
     for topic in sorted(topics):
         rows = conn.execute(
             """
-            SELECT source, title, link, published, summary, language, paywall, fetched_at
+            SELECT source, title, link, published, summary, image_url, language, paywall, fetched_at
             FROM items
             WHERE topic = ?
             ORDER BY fetched_at DESC
             LIMIT ?
             """,
-            (topic, MAX_ITEMS_PER_TOPIC),
+            (topic, limit_per_topic),
         ).fetchall()
 
         out[topic] = [
@@ -161,9 +238,10 @@ def get_latest_items_by_topic(conn: sqlite3.Connection) -> Dict[str, List[Dict[s
                 "link": r[2],
                 "published": r[3],
                 "summary": r[4],
-                "language": r[5],
-                "paywall": r[6],
-                "fetched_at": r[7],
+                "image_url": r[5],
+                "language": r[6],
+                "paywall": r[7],
+                "fetched_at": r[8],
             }
             for r in rows
         ]
@@ -313,10 +391,17 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
+def _normalize_de_text(s: str) -> str:
+    s = (s or "").lower()
+    s = s.replace("ß", "ss")
+    for ch in ["-", "–", "—", ":", "|", "•", "“", "”", '"', "'", "’"]:
+        s = s.replace(ch, " ")
+    s = " ".join(s.split())
+    return s
+
 def _build_story_text(item: dict) -> str:
-    """Text used for similarity: title + short summary/snippet."""
-    title = (item.get("title") or "").strip()
-    summary = (item.get("summary") or "").strip()
+    title = _normalize_de_text(item.get("title") or "")
+    summary = _normalize_de_text(item.get("summary") or "")
     return f"{title}. {summary}".strip()
 
 
@@ -448,11 +533,11 @@ def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
     """
     # Tunable thresholds: international tends to be more consistent in wording
     if topic == "international":
-        threshold = 0.40
+        threshold = 0.30
         stop_words = "english"
     else:
         # german titles vary more; start slightly lower
-        threshold = 0.34
+        threshold = 0.28
         stop_words = None
 
     clusters = cluster_items(items, threshold=threshold, stop_words=stop_words)
@@ -461,13 +546,20 @@ def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
     for cluster in clusters:
         # sort articles in cluster by published desc if you have it; else keep as-is
         articles = []
+        story_image = None
+
         for it in cluster:
+            img = it.get("image_url")
+            if not story_image and img:
+                story_image = img
+
             articles.append({
                 "source": it.get("source"),
                 "title": it.get("title"),
                 "link": it.get("link"),
                 "published": it.get("published"),
                 "paywall": it.get("paywall"),
+                "image_url": img,
             })
 
         stories.append({
@@ -475,6 +567,7 @@ def build_stories_for_topic(topic: str, items: list[dict]) -> list[dict]:
             "summary": story_summary_for_cluster(cluster, max_sentences=3),
             "articles": articles,
             "n_articles": len(articles),
+            "image_url": story_image,
         })
 
     return stories
@@ -522,13 +615,16 @@ def main() -> None:
                 except Exception as ex:
                     print(f"[ERR] {topic} / {source.get('name')} ({url}): {ex}")
 
-        # --- collect data for rendering ---
-        items_by_topic = get_latest_items_by_topic(conn)
-        for topic in list(items_by_topic.keys()):
-            items_by_topic[topic] = balance_items_by_source(items_by_topic[topic], per_source=8, total=80)
-            items_by_topic[topic].sort(key=lambda x: x.get("published") or x.get("fetched_at") or "", reverse=True)
+        
+        # 1) Many items for site -> enables pagination
+        items_site = get_latest_items_by_topic(conn, limit_per_topic=MAX_ITEMS_SITE)
 
-        stories_by_topic = build_stories(items_by_topic)
+        for topic in list(items_site.keys()):
+            # balance sources so one outlet can't dominate the first pages
+            items_site[topic] = balance_items_by_source(items_site[topic], per_source=8, total=200)
+            items_site[topic].sort(key=lambda x: x.get("published") or x.get("fetched_at") or "", reverse=True)
+
+        stories_by_topic = build_stories(items_site)
 
         # --- reorder stories: multi-source stories first ---
         for topic in list(stories_by_topic.keys()):
@@ -537,8 +633,9 @@ def main() -> None:
             single = [s for s in stories if s["n_articles"] == 1]
             stories_by_topic[topic] = multi + single
 
-        # --- markdown + html briefing ---
-        write_briefing_md(items_by_topic)
+        # 2) Few items for markdown + briefing.html
+        items_md = get_latest_items_by_topic(conn, limit_per_topic=MAX_ITEMS_BRIEFING_MD)
+        write_briefing_md(items_md)
         render_md_to_html(OUT_MD, OUT_HTML)
 
         # --- render templated pages ---
@@ -552,7 +649,7 @@ def main() -> None:
             Path("site/index.html"),
             title="Daily Media Briefing",
             generated_at=generated_at,
-            topics=sorted(items_by_topic.keys()),
+            topics=sorted(items_site.keys()),
             base_path="./",
         )
 
@@ -563,7 +660,7 @@ def main() -> None:
             Path("site/topics/index.html"),
             title="Topics",
             generated_at=generated_at,
-            topics=sorted(items_by_topic.keys()),
+            topics=sorted(items_site.keys()),
             base_path="../",
         )
 

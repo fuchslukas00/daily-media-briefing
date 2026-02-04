@@ -27,6 +27,10 @@
 
         <h3>{{ st.title }}</h3>
 
+        {% if st.image_url %}
+          <img class="story-image" src="{{ st.image_url }}" alt="">
+        {% endif %}
+
         {% if st.summary %}
           <p>{{ st.summary }}</p>
         {% endif %}
@@ -64,6 +68,10 @@
         <div class="card">
           <h3>{{ st.title }}</h3>
 
+          {% if st.image_url %}
+            <img class="story-image" src="{{ st.image_url }}" alt="">
+          {% endif %}
+
           {% if st.summary %}
             <p>{{ st.summary }}</p>
           {% endif %}
@@ -87,6 +95,7 @@
     </details>
   {% endif %}
 {% endblock %}
+
 
 
 
