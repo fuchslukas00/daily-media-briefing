@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-02-04 10:36 UTC_
+_Generated: 2026-02-05 07:33 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Russischer Angriffskrieg - Gespräche zwischen Ukraine und Russland in Abu Dhabi begonnen](https://www.deutschlandfunk.de/gespraeche-zwischen-ukraine-und-russland-in-abu-dhabi-begonnen-100.html)  
-  _Wed, 04 Feb 2026 11:13:48 +0100_ · paywall: `False`
-- **Die Zeit** — [Krebserkrankungen in Deutschland: Die Waffe gegen Krebs](https://www.zeit.de/2026/06/krebserkrankung-deutschland-gesundheitsschutz-praevention-forschung)  
-  _Wed, 04 Feb 2026 10:28:19 -0000_ · paywall: `hard`
-- **Die Zeit** — [Prozess: Vater wegen Mordversuchs an dreijähriger Tochter angeklagt](https://www.zeit.de/news/2026-02/04/vater-wegen-mordversuchs-an-dreijaehriger-tochter-angeklagt)  
-  _Wed, 04 Feb 2026 10:26:50 -0000_ · paywall: `hard`
-- **Die Zeit** — [Verkehr: Transporter landet in Graben - A27 bei Verden gesperrt](https://www.zeit.de/news/2026-02/04/transporter-landet-in-graben-a27-bei-verden-gesperrt)  
-  _Wed, 04 Feb 2026 10:26:14 -0000_ · paywall: `hard`
-- **Die Zeit** — [Baufällige Brücke: Marode Agra-Brücke bei Leipzig wird abgestützt](https://www.zeit.de/news/2026-02/04/marode-agra-bruecke-bei-leipzig-wird-abgestuetzt)  
-  _Wed, 04 Feb 2026 10:24:12 -0000_ · paywall: `hard`
-- **Die Zeit** — [Winterwetter: 110 Glätte-Unfälle zwischen Teutoburger Wald und Küste](https://www.zeit.de/news/2026-02/04/110-glaette-unfaelle-zwischen-teutoburger-wald-und-kueste)  
-  _Wed, 04 Feb 2026 10:22:56 -0000_ · paywall: `hard`
-- **Die Zeit** — [DWD-Vorhersage: Wetterdienst warnt vor Glätte in NRW](https://www.zeit.de/news/2026-02/04/wetterdienst-warnt-vor-glaette-in-nrw)  
-  _Wed, 04 Feb 2026 10:21:43 -0000_ · paywall: `hard`
-- **Die Zeit** — [Brücken und Tunnel gesperrt: Winterdienst läuft trotz Warnstreik – dennoch viele Unfälle](https://www.zeit.de/news/2026-02/04/warnstreik-bei-strassenmeistereien-glatte-strassen-moeglich)  
-  _Wed, 04 Feb 2026 10:20:17 -0000_ · paywall: `hard`
-- **Die Zeit** — [Unfall: 13-Jähriger liefert sich im Auto der Eltern Verfolgungsfahrt](https://www.zeit.de/news/2026-02/04/13-jaehriger-liefert-sich-im-auto-der-eltern-verfolgungsfahrt)  
-  _Wed, 04 Feb 2026 10:18:29 -0000_ · paywall: `hard`
-- **Die Zeit** — [Spezialabteilung für Altfälle: Leichenspürhunde suchen nach vermisstem Studenten](https://www.zeit.de/news/2026-02/04/leichenspuerhunde-suchen-nach-vermisstem-studenten)  
-  _Wed, 04 Feb 2026 10:17:40 -0000_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Frau sagt gegen Høiby aus: „Ich konnte nicht verstehen, dass Marius mir so etwas antun konnte“](https://www.faz.net/aktuell/gesellschaft/kriminalitaet/das-passiert-am-zweiten-prozesstag-gegen-marius-borg-hoiby-accg-200505363.html)  
-  _Wed, 04 Feb 2026 10:13:30 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Debatte um Boykott: EU-Abgeordnete fordern von der UEFA Positionierung zur WM](https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-in-den-usa-eu-abgeordnete-zur-boykottdebatte-accg-200505467.html)  
-  _Wed, 04 Feb 2026 09:59:37 GMT_ · paywall: `hard`
+- **Deutschlandfunk** — [Deutschland - Merz will engere Partnerschaften mit arabischer Halbinsel](https://www.deutschlandfunk.de/merz-will-engere-partnerschaften-mit-arabischer-halbinsel-100.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Treffen in Washington - USA, EU und Japan wollen Handelspartnerschaft für Rohstoffe bilden - "Abhängigkeiten reduzieren"](https://www.deutschlandfunk.de/usa-eu-und-japan-wollen-handelspartnerschaft-fuer-rohstoffe-bilden-abhaengigkeiten-reduzieren-102.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Wadephul in Canberra - Rohstoff-Partnerschaft mit Australien angestrebt](https://www.deutschlandfunk.de/rohstoff-partnerschaft-mit-australien-angestrebt-102.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — ["Wargame" - "Ernstfall - Was, wenn Russland uns angreift?" - Uni und Medienmarke simulieren mögliche Attacken auf Deutschland](https://www.deutschlandfunk.de/ernstfall-was-wenn-russland-uns-angreift-uni-und-medienmarke-simulieren-moegliche-attacken-auf-deuts-100.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Tarifkonflikt im Öffentlichen Dienst - Warnstreiks werden heute fortgesetzt](https://www.deutschlandfunk.de/warnstreiks-werden-heute-fortgesetzt-100.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Epstein-Akten - Bill Gates nennt Treffen mit Sexualstraftäter einen "Fehler"](https://www.deutschlandfunk.de/bill-gates-nennt-treffen-mit-sexualstraftaeter-einen-fehler-102.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Atomwaffen - Vorsitzender der Münchner Sicherheitskonferenz: "Ende des New-Start-Vertrags ist gefährliche Entwicklung"](https://www.deutschlandfunk.de/vorsitzender-der-muenchner-sicherheitskonferenz-ende-des-new-start-vertrags-ist-gefaehrliche-entwick-100.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Kritik - CDU ändert Antrag zu Teilzeit für den Bundesparteitag](https://www.deutschlandfunk.de/cdu-aendert-antrag-zu-teilzeit-fuer-den-bundesparteitag-102.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Medienrecherche - Chef der Identitären Bewegung auch AfD-Mitglied](https://www.deutschlandfunk.de/chef-der-identitaeren-bewegung-auch-afd-mitglied-104.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach dem tödlichen Angriff im Zug - Gewerkschaft der Polizei dringt auf mehr Personal](https://www.deutschlandfunk.de/gewerkschaft-der-polizei-dringt-auf-mehr-personal-102.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Raumfahrt - Söder übergibt 58 Millionen Euro für Mondzentrum](https://www.deutschlandfunk.de/soeder-uebergibt-58-millionen-euro-fuer-mondzentrum-106.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sturmtief "Leonardo" - Starkregen und Sturm in Portugal und Spanien](https://www.deutschlandfunk.de/starkregen-und-sturm-in-portugal-und-spanien-104.html)  
+  _Thu, 05 Feb 2026 08:28:46 +0100_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Death of Nigerian singer highlights crisis of ‘preventable’ snakebite fatalities](https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities)  
+- **The Guardian** — [Gunmen kill more than 160 people in attacks on two west Nigeria villages](https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross)  
+  _Wed, 04 Feb 2026 17:40:32 GMT_ · paywall: `False`
+- **The Guardian** — [Ugandan opposition leader still in hiding as feud with president’s son escalates](https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud)  
+  _Wed, 04 Feb 2026 12:07:57 GMT_ · paywall: `False`
+- **The Guardian** — [Death of Nigerian singer after snakebite highlights crisis of ‘preventable’ fatalities](https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities)  
   _Wed, 04 Feb 2026 10:00:39 GMT_ · paywall: `False`
-- **The Guardian** — [Woody Allen’s wife, Soon-Yi Previn, told Epstein that #MeToo movement ‘went too far’](https://www.theguardian.com/us-news/2026/feb/04/soon-yi-previn-jeffrey-epstein-emails)  
-  _Wed, 04 Feb 2026 10:00:40 GMT_ · paywall: `False`
-- **New York Times** — [For Peace, More Ukrainians Consider the Once Unthinkable: Surrendering Land](https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-war-donbas-region.html)  
-  _Wed, 04 Feb 2026 10:07:26 +0000_ · paywall: `hard`
-- **Al Jazeera** — [ICE agents have no operational police role in Winter Olympics: Italy](https://www.aljazeera.com/sports/2026/2/4/ice-agents-have-no-operational-police-role-in-winter-olympics-italy?traffic_source=rss)  
-  _Wed, 04 Feb 2026 10:13:47 +0000_ · paywall: `False`
-- **Al Jazeera** — [Guardiola on Palestinian struggle and ICE protests in football briefing](https://www.aljazeera.com/video/newsfeed/2026/2/4/guardiola-on-palestinian-struggle-and-ice-protests-in-football-briefing?traffic_source=rss)  
-  _Wed, 04 Feb 2026 10:13:26 +0000_ · paywall: `False`
-- **Al Jazeera** — [Can US-Iran diplomacy work? Inside the narrow window for talks](https://www.aljazeera.com/news/2026/2/4/can-us-iran-diplomacy-work-inside-the-narrow-window-for-talks?traffic_source=rss)  
-  _Wed, 04 Feb 2026 10:10:29 +0000_ · paywall: `False`
-- **Al Jazeera** — [‘No girl should ever endure what Epstein put them through’](https://www.aljazeera.com/video/quotable/2026/2/4/no-girl-should-ever-endure-what-epstein-put-them?traffic_source=rss)  
-  _Wed, 04 Feb 2026 10:06:21 +0000_ · paywall: `False`
-- **Al Jazeera** — [Musk labels Spain PM ‘tyrant’ after Madrid proposes social media curbs](https://www.aljazeera.com/news/2026/2/4/musk-labels-spain-pm-tyrant-after-madrid-proposes-social-media-curbs?traffic_source=rss)  
-  _Wed, 04 Feb 2026 09:56:00 +0000_ · paywall: `False`
-- **Al Jazeera** — [LIVE: Israeli attacks across Gaza kill 20 Palestinians since dawn](https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss)  
-  _Wed, 04 Feb 2026 05:56:19 +0000_ · paywall: `False`
-- **France 24** — [US partial government shutdown ends, but DHS funding fight looms](https://www.france24.com/en/tv-shows/business/20260204-us-partial-government-shutdown-ends-but-dhs-funding-fight-looms)  
-  _Wed, 04 Feb 2026 10:27:10 GMT_ · paywall: `False`
-- **France 24** — [Libyan prosecutors open probe into killing of Gaddafi's son Seif al-Islam](https://www.france24.com/en/africa/20260204-libyan-prosecutors-open-probe-into-killing-of-gaddaffi-son-seif-al-islam)  
-  _Wed, 04 Feb 2026 10:26:37 GMT_ · paywall: `False`
-- **France 24** — [AI: Revolution in technology challenging our psychological, societal, and ethical boundaries](https://www.france24.com/en/ai-revolution-in-technology-challenging-our-psychological-societal-and-ethical-boundaries)  
-  _Wed, 04 Feb 2026 10:25:20 GMT_ · paywall: `False`
+- **The Guardian** — [Be ‘prudent’ about supplying arms to Taiwan, Xi tells Trump in call](https://www.theguardian.com/world/2026/feb/05/xi-jinping-donald-trump-phone-call-china-us-taiwan-relationship)  
+  _Thu, 05 Feb 2026 06:31:37 GMT_ · paywall: `False`
+- **The Guardian** — [Green energy sector drove more than 90% of China’s investment growth last year, analysis finds](https://www.theguardian.com/world/2026/feb/05/china-green-energy-sector-investment-growth)  
+  _Thu, 05 Feb 2026 00:01:14 GMT_ · paywall: `False`
+- **The Guardian** — [Greens senator claims One Nation the party of ‘billionaires, not battlers’ – as it happened](https://www.theguardian.com/australia-news/live/2026/feb/05/australian-politics-live-anthony-albanese-sussan-ley-labor-liberal-question-time-chalmers-budget-cost-of-living-marles-defence-leadership-challenge-spill-ntwnfb)  
+  _Thu, 05 Feb 2026 07:01:07 GMT_ · paywall: `False`
+- **The Guardian** — [‘Major failing’ in psychiatric care before Joel Cauchi stabbed six people at Bondi Junction, coroner finds](https://www.theguardian.com/australia-news/2026/feb/05/major-failing-in-psychiatric-care-before-joel-cauchi-stabbed-six-people-at-bondi-junction-coroner-finds)  
+  _Thu, 05 Feb 2026 06:12:21 GMT_ · paywall: `False`
+- **The Guardian** — [South Australian anti-abortion activist posts image of aborted foetus she claims was taken at Townsville hospital](https://www.theguardian.com/australia-news/2026/feb/05/anti-abortion-activist-joanna-howe-foetus-photo-ntwnfb)  
+  _Thu, 05 Feb 2026 06:12:10 GMT_ · paywall: `False`
+- **The Guardian** — [Suspect identified in disappearance of four-year-old Gus Lamont in outback South Australia](https://www.theguardian.com/australia-news/2026/feb/05/gus-lamont-disappearance-four-year-old-outback-major-crime-ntwnfb)  
+  _Thu, 05 Feb 2026 05:22:30 GMT_ · paywall: `False`
+- **The Guardian** — [Queensland man charged with 596 child abuse offences allegedly groomed children online, police say](https://www.theguardian.com/australia-news/2026/feb/05/maryborough-man-queensland-charged-596-child-abuse-offences-ntwnfb)  
+  _Thu, 05 Feb 2026 04:59:21 GMT_ · paywall: `False`
+- **The Guardian** — [Sanctions having ‘significant impact’ on Russian economy, says EU special envoy](https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan)  
+  _Thu, 05 Feb 2026 05:00:21 GMT_ · paywall: `False`
+- **The Guardian** — [Ukraine and Russia hold ‘productive’ first day of US-led peace talks in Abu Dhabi](https://www.theguardian.com/world/2026/feb/04/ukraine-russia-second-round-peace-talks-abu-dhabi)  
+  _Wed, 04 Feb 2026 23:38:14 GMT_ · paywall: `False`
