@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-02-10 07:40 UTC_
+_Generated: 2026-02-11 07:36 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [USA - Epstein-Komplizin Maxwell verweigert Aussage und fordert Begnadigung durch Trump](https://www.deutschlandfunk.de/epstein-komplizin-maxwell-verweigert-aussage-und-fordert-begnadigung-durch-trump-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Großbritannien - Epstein-Affäre: Starmer will um sein Amt kämpfen und lehnt Rücktritt weiter ab](https://www.deutschlandfunk.de/epstein-affaere-starmer-will-um-sein-amt-kaempfen-und-lehnt-ruecktritt-weiter-ab-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Rückzug der USA - Europäer sollen offenbar Leitung von zwei NATO-Kommandoposten übernehmen](https://www.deutschlandfunk.de/europaeer-sollen-offenbar-leitung-von-zwei-nato-kommandoposten-uebernehmen-110.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Tarifkonflikt - Neue Warnstreiks im öffentlichen Dienst vor dritter Verhandlungsrunde](https://www.deutschlandfunk.de/neue-warnstreiks-im-oeffentlichen-dienst-vor-dritter-verhandlungsrunde-106.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Transparency International - Korruptionsindex: Deutschland verbessert sich auf Rang zehn - Dänemark erneut Spitze](https://www.deutschlandfunk.de/korruptionsindex-deutschland-verbessert-sich-auf-rang-zehn-daenemark-erneut-spitze-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Olympia - Skispringer Philipp Raimund gewinnt überraschend Gold](https://www.deutschlandfunk.de/skispringer-philipp-raimund-gewinnt-ueberraschend-gold-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Olympische Spiele - Kritik an Trump: Hass-Botschaften gegen US-Sportler nehmen nach Verbandsangaben zu](https://www.deutschlandfunk.de/kritik-an-trump-hass-botschaften-gegen-us-sportler-nehmen-nach-verbandsangaben-zu-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [EU-Kommission - Neuer Aktionsplan gegen Cybermobbing soll vorgestellt werden](https://www.deutschlandfunk.de/neuer-aktionsplan-gegen-cybermobbing-soll-vorgestellt-werden-102.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krankheitstage häufen sich - Polizei-Gewerkschaft GdP warnt vor Sicherheitsproblem durch Überlastung](https://www.deutschlandfunk.de/polizei-gewerkschaft-gdp-warnt-vor-sicherheitsproblem-durch-ueberlastung-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Spiegel"-Bericht - Verdächtiger randalierte bereits vor tödlichem Angriff auf Zugbegleiter](https://www.deutschlandfunk.de/verdaechtiger-randalierte-bereits-vor-toedlichem-angriff-auf-zugbegleiter-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [LBV - Mehr Lebensraum für Rebhühner verlangt nach Wegfall von EU-Vorgabe](https://www.deutschlandfunk.de/mehr-lebensraum-fuer-rebhuehner-verlangt-nach-wegfall-von-eu-vorgabe-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Rüstungsprojekt - Macron sieht deutsch-französisches Kampfjet FCAS trotz andauernder Abstimmungsprobleme nicht vor dem Aus](https://www.deutschlandfunk.de/macron-sieht-deutsch-franzoesisches-kampfjet-fcas-trotz-andauernder-abstimmungsprobleme-nicht-vor-de-100.html)  
-  _Tue, 10 Feb 2026 08:30:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigung - London will 1.000 Soldaten zusätzlich nach Norwegen verlegen](https://www.deutschlandfunk.de/london-will-1-000-soldaten-zusaetzlich-nach-norwegen-verlegen-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Luftkampfsystem - SPD-Verteidigungspolitikerin Möller glaubt an Zukunft des Rüstungsprojekts FCAS](https://www.deutschlandfunk.de/spd-verteidigungspolitikerin-moeller-glaubt-an-zukunft-des-ruestungsprojekts-fcas-102.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kanada - Tote und Verletzte durch Schüsse an Schule in British Columbia](https://www.deutschlandfunk.de/tote-und-verletzte-durch-schuesse-an-schule-in-british-columbia-104.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [47. Jahrestag - Irans Oberster Führer Chamenei will Islamische Revolution feiern lassen](https://www.deutschlandfunk.de/irans-oberster-fuehrer-chamenei-will-islamische-revolution-feiern-lassen-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Häusliche Gewalt - Nach Dunkelfeldstudie: Verbände rufen zum Handeln auf](https://www.deutschlandfunk.de/nach-dunkelfeldstudie-verbaende-rufen-zum-handeln-auf-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Potsdam - Dritte Tarifverhandlungsrunde für den Öffentlichen Dienst der Länder](https://www.deutschlandfunk.de/dritte-tarifverhandlungsrunde-fuer-den-oeffentlichen-dienst-der-laender-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Lufthansa und Cityline - Streiks von Piloten und Kabinenpersonal am Donnerstag](https://www.deutschlandfunk.de/streiks-von-piloten-und-kabinenpersonal-am-donnerstag-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Vier Tote bei russischem Angriff nahe Charkiw](https://www.deutschlandfunk.de/vier-tote-bei-russischem-angriff-nahe-charkiw-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Trump hält an Handelsminister Lutnick fest - trotz neuer Details über Epstein-Kontakte](https://www.deutschlandfunk.de/trump-haelt-an-handelsminister-lutnick-fest-trotz-neuer-details-ueber-epstein-kontakte-102.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Portugal - Innenministerin Amaral nach Kritik an Umgang mit Unwetterfolgen zurückgetreten](https://www.deutschlandfunk.de/innenministerin-amaral-nach-kritik-an-umgang-mit-unwetterfolgen-zurueckgetreten-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Fahrschulkosten - Minister Schnieder legt weiterentwickelte Reformvorschläge zum Führerschein vor](https://www.deutschlandfunk.de/minister-schnieder-legt-weiterentwickelte-reformvorschlaege-zum-fuehrerschein-vor-100.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Baku - USA und Aserbaidschan vereinbaren eine strategische Partnerschaft](https://www.deutschlandfunk.de/usa-und-aserbaidschan-vereinbaren-eine-strategische-partnerschaft-106.html)  
+  _Wed, 11 Feb 2026 08:16:20 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 07 Feb 2026 20:03:07 GMT_ · paywall: `False`
 - **The Guardian** — [Thousands of Malawi businesses close in protest over tax changes](https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system)  
   _Sat, 07 Feb 2026 12:00:01 GMT_ · paywall: `False`
+- **The Guardian** — [Mia Amor Mottley on course for third term, as Barbados heads to the polls](https://www.theguardian.com/world/2026/feb/11/mia-amor-mottley-on-course-for-third-term-as-barbados-heads-to-the-polls)  
+  _Wed, 11 Feb 2026 07:00:11 GMT_ · paywall: `False`
+- **The Guardian** — [Canada shooting: 10 dead including suspect in attack on Tumbler Ridge high school, police say](https://www.theguardian.com/world/2026/feb/11/canada-school-shooting-ten-dead-including-suspect-in-attack-on-tumbler-ridge-secondary-school-and-residence-police-say)  
+  _Wed, 11 Feb 2026 06:38:51 GMT_ · paywall: `False`
+- **The Guardian** — [Mark Carney reminds Trump that Canada paid for key border bridge US president says he won’t open](https://www.theguardian.com/us-news/2026/feb/10/trump-canada-windsor-detroit-bridge)  
+  _Tue, 10 Feb 2026 18:28:59 GMT_ · paywall: `False`
+- **The Guardian** — [Astronomers celebrate cancellation of $10bn Chile project that threatened clearest skies in the world](https://www.theguardian.com/world/2026/feb/10/project-cancelled-chile-worlds-clearest-skies)  
+  _Tue, 10 Feb 2026 12:48:41 GMT_ · paywall: `False`
 - **The Guardian** — [Trump threatens to block new bridge in latest tirade against Canada](https://www.theguardian.com/us-news/2026/feb/09/trump-gordie-howe-bridge-canada)  
   _Tue, 10 Feb 2026 02:15:44 GMT_ · paywall: `False`
-- **The Guardian** — [US says two people killed in military strike on boat in Pacific](https://www.theguardian.com/us-news/2026/feb/09/us-military-strike-pacific)  
-  _Tue, 10 Feb 2026 01:57:04 GMT_ · paywall: `False`
-- **The Guardian** — [Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access](https://www.theguardian.com/world/2026/feb/09/air-canada-cancels-cuba-flights-fuel)  
-  _Mon, 09 Feb 2026 21:00:03 GMT_ · paywall: `False`
-- **The Guardian** — [Prominent Venezuelan opposition politician detained hours after release](https://www.theguardian.com/world/2026/feb/09/machado-ally-juan-pablo-guanipa-kidnapped-venezuela)  
-  _Mon, 09 Feb 2026 18:27:09 GMT_ · paywall: `False`
-- **The Guardian** — [World’s largest pencil maker accuses Costa Rica of misusing old factory as detention center](https://www.theguardian.com/world/2026/feb/09/faber-castell-costa-rica-trump-asylum)  
-  _Mon, 09 Feb 2026 12:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [Parents of Melbourne methanol-poisoning victims ‘shocked’ by $185 fines handed to Laos hostel staff](https://www.theguardian.com/world/2026/feb/10/parents-of-melbourne-methanol-poisoning-victims-shocked-by-185-fines-handed-to-laos-hostel-staff)  
-  _Tue, 10 Feb 2026 00:20:33 GMT_ · paywall: `False`
-- **The Guardian** — [US judges dismiss lawsuits accusing Neil Gaiman of sexual assault](https://www.theguardian.com/books/2026/feb/09/us-judges-lawsuits-neil-gaiman)  
-  _Tue, 10 Feb 2026 00:01:52 GMT_ · paywall: `False`
+- **The Guardian** — [Father of pro-democracy activist Anna Kwok first to be convicted under Hong Kong national security law](https://www.theguardian.com/world/2026/feb/11/kwok-yin-sang-father-hong-kong-activist-anna-kwok-convicted)  
+  _Wed, 11 Feb 2026 04:05:42 GMT_ · paywall: `False`
+- **The Guardian** — [‘Wake-up call’ for Greece as air force officer accused of spying for China](https://www.theguardian.com/world/2026/feb/10/greek-air-force-officer-arrested-on-suspicion-of-spying-for-china)  
+  _Tue, 10 Feb 2026 19:04:29 GMT_ · paywall: `False`
