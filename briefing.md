@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-02-12 07:36 UTC_
+_Generated: 2026-02-13 07:33 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Münchner Sicherheitskonferenz - CDU-Außenpolitiker Röttgen erwartet erneut deutliche Kritik der USA an Europa](https://www.deutschlandfunk.de/cdu-aussenpolitiker-roettgen-erwartet-erneut-deutliche-kritik-der-usa-an-europa-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Belgien - EU-Staats- und -Regierungschefs beraten über wirtschaftliche Lage - Wirtschaftskommissar: "Müssen Komfortzone verlassen"](https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-beraten-ueber-wirtschaftliche-lage-wirtschaftskommissar-muessen-komfor-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [SPD-Vorschläge - Beamtenbund: Forderung nach Einzahlung in Rentenkasse ist "populistischer Unfug"](https://www.deutschlandfunk.de/beamtenbund-forderung-nach-einzahlung-in-rentenkasse-ist-populistischer-unfug-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Gewinn bei Mercedes Benz halbiert - Erholung für 2026 in Sicht](https://www.deutschlandfunk.de/gewinn-bei-mercedes-benz-halbiert-erholung-fuer-2026-in-sicht-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Brauchtum - Straßenkarneval im Rheinland beginnt mit Weiberfastnacht](https://www.deutschlandfunk.de/strassenkarneval-im-rheinland-beginnt-mit-weiberfastnacht-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Erneut nächtliche Raketenangriffe Russlands - Verletzte und Schäden in Kiew sowie Odessa](https://www.deutschlandfunk.de/erneut-naechtliche-raketenangriffe-russlands-verletzte-und-schaeden-in-kiew-sowie-odessa-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Zentralafrika - Schwerster Cholera-Ausbruch im Kongo seit einem Vierteljahrhundert](https://www.deutschlandfunk.de/schwerster-cholera-ausbruch-im-kongo-seit-einem-vierteljahrhundert-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Demokratie - Bangladesch: Erste Parlamentswahl nach Sturz Hasinas und wegweisendes Referendum](https://www.deutschlandfunk.de/bangladesch-erste-parlamentswahl-nach-sturz-hasinas-und-wegweisendes-referendum-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [HRANA - Menschenrechts-Aktivisten: Mehr als 7.000 Tote bei Protesten gegen das Regime im Iran](https://www.deutschlandfunk.de/menschenrechts-aktivisten-mehr-als-7-000-tote-bei-protesten-gegen-das-regime-im-iran-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Prozess gegen Social-Media-Konzerne: Instagram-Chef bestreitet Suchtpotenzial](https://www.deutschlandfunk.de/prozess-gegen-social-media-konzerne-instagram-chef-bestreitet-suchtpotenzial-102.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Venezuela - US-Energieminister Wright in Caracas: Öl- und Gasförderung soll drastisch gesteigert werden](https://www.deutschlandfunk.de/us-energieminister-wright-in-caracas-oel-und-gasfoerderung-soll-drastisch-gesteigert-werden-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Trump will Grundlage für Klimaschutz kippen - Treibhausgase sollen nicht mehr als gesundheitsschädlich gelten](https://www.deutschlandfunk.de/trump-will-grundlage-fuer-klimaschutz-kippen-treibhausgase-sollen-nicht-mehr-als-gesundheitsschaedli-100.html)  
-  _Thu, 12 Feb 2026 08:29:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Sondergipfel - EU will Binnenmarkt und private Aktieninvestments stärken - von der Leyen kündigt Vorschläge bis März an](https://www.deutschlandfunk.de/eu-will-binnenmarkt-und-private-aktieninvestments-staerken-von-der-leyen-kuendigt-vorschlaege-bis-ma-100.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [EU-Gipfel - Keine Eurobonds: Bundeskanzler Merz lehnt gemeinsame europäische Schulden kategorisch ab](https://www.deutschlandfunk.de/keine-eurobonds-bundeskanzler-merz-lehnt-gemeinsame-europaeische-schulden-kategorisch-ab-102.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Rotes Kreuz - Humanitäres Völkerrecht seit Zweitem Weltkrieg noch nie so ausgehöhlt gewesen wie heute: IKRK-Präsidentin beklagt Weltlage](https://www.deutschlandfunk.de/humanitaeres-voelkerrecht-seit-zweitem-weltkrieg-noch-nie-so-ausgehoehlt-gewesen-wie-heute-ikrk-prae-100.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Aussagen über Israel - Deutschland und Frankreich fordern Rücktritt von UNO-Berichterstatterin Albanese](https://www.deutschlandfunk.de/deutschland-und-frankreich-fordern-ruecktritt-von-uno-berichterstatterin-albanese-102.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Weiberfastnacht - Beginn von Straßenkarneval und Straßenfastnacht überwiegend friedlich gefeiert](https://www.deutschlandfunk.de/beginn-von-strassenkarneval-und-strassenfastnacht-ueberwiegend-friedlich-gefeiert-100.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Politik - Vorwurf der Vetternwirtschaft: AfD diskutiert über Anstellung von Familienangehörigen von Parteifreunden](https://www.deutschlandfunk.de/vorwurf-der-vetternwirtschaft-afd-diskutiert-ueber-anstellung-von-familienangehoerigen-von-parteifre-100.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Jeff Bezos - Konkurrenz für Elon Musks "Starlink" steigt: Ariane-Rakete der ESA bringt Amazon Leo-Satelliten ins All](https://www.deutschlandfunk.de/konkurrenz-fuer-elon-musks-starlink-steigt-ariane-rakete-der-esa-bringt-amazon-leo-satelliten-ins-al-100.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach tödlichem Angriff auf Zugbegleiter - GdP für mehr Polizei-Streifen in Zügen - Sicherheitsgipfel in Berlin](https://www.deutschlandfunk.de/gdp-fuer-mehr-polizei-streifen-in-zuegen-sicherheitsgipfel-in-berlin-102.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Klimaschutz - Bundesumweltminister Schneider kritisiert Aufweichen der Regeln für Treibhausgase in den USA](https://www.deutschlandfunk.de/bundesumweltminister-schneider-kritisiert-aufweichen-der-regeln-fuer-treibhausgase-in-den-usa-102.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Präsident Trump kippt Grundlage für Klimaschutz - Treibhausgase sollen nicht mehr als gesundheitsschädlich gelten](https://www.deutschlandfunk.de/praesident-trump-kippt-grundlage-fuer-klimaschutz-treibhausgase-sollen-nicht-mehr-als-gesundheitssch-108.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Berichte - USA schicken weiteren Flugzeugträger in Richtung Iran](https://www.deutschlandfunk.de/usa-schicken-weiteren-flugzeugtraeger-in-richtung-iran-100.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bangladesch - Parlamentswahl: Mitte-Rechts Partei erklärt Wahlsieg in Bangladesch](https://www.deutschlandfunk.de/parlamentswahl-mitte-rechts-partei-erklaert-wahlsieg-in-bangladesch-102.html)  
+  _Fri, 13 Feb 2026 08:27:54 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 07 Feb 2026 20:03:07 GMT_ · paywall: `False`
 - **The Guardian** — [Thousands of Malawi businesses close in protest over tax changes](https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system)  
   _Sat, 07 Feb 2026 12:00:01 GMT_ · paywall: `False`
-- **The Guardian** — [Canadian police identify suspect in school massacre that left nine dead](https://www.theguardian.com/world/2026/feb/11/tumbler-ridge-canada-shooting-school-mark-carney)  
-  _Thu, 12 Feb 2026 00:55:08 GMT_ · paywall: `False`
-- **The Guardian** — [US House backs bid to block Canada tariffs in rebuke of Trump](https://www.theguardian.com/us-news/2026/feb/11/us-house-vote-trump-canada-tariffs)  
-  _Thu, 12 Feb 2026 00:48:09 GMT_ · paywall: `False`
-- **The Guardian** — [Tumbler Ridge school shooting: police identify suspect in Canada attack as 18-year-old local resident – as it happened](https://www.theguardian.com/world/live/2026/feb/11/tumbler-ridge-school-shooting-live-updates-number-dead-suspect-deceased)  
-  _Wed, 11 Feb 2026 22:34:36 GMT_ · paywall: `False`
-- **The Guardian** — [Canada shooting: Nine dead including suspect in attack on Tumbler Ridge high school, police say](https://www.theguardian.com/world/2026/feb/11/canada-school-shooting-ten-dead-including-suspect-in-attack-on-tumbler-ridge-secondary-school-and-residence-police-say)  
-  _Wed, 11 Feb 2026 21:54:40 GMT_ · paywall: `False`
-- **The Guardian** — [Alleged drones in El Paso airspace cast spotlight on Mexican cartels’ growing arsenals](https://www.theguardian.com/world/2026/feb/11/mexican-cartel-drones-el-paso)  
-  _Wed, 11 Feb 2026 19:57:56 GMT_ · paywall: `False`
-- **The Guardian** — [Father of activist Anna Kwok convicted under Hong Kong national security law](https://www.theguardian.com/world/2026/feb/11/kwok-yin-sang-father-hong-kong-activist-anna-kwok-convicted)  
-  _Wed, 11 Feb 2026 15:02:58 GMT_ · paywall: `False`
-- **The Guardian** — [‘Wake-up call’ for Greece as air force officer accused of spying for China](https://www.theguardian.com/world/2026/feb/10/greek-air-force-officer-arrested-on-suspicion-of-spying-for-china)  
-  _Tue, 10 Feb 2026 19:04:29 GMT_ · paywall: `False`
+- **The Guardian** — [‘The tears just keep flowing’: child victims of Tumbler Ridge shooting remembered as Carney heads to join vigil](https://www.theguardian.com/world/2026/feb/13/tumbler-ridge-shooting-victims-remembered-canada)  
+  _Fri, 13 Feb 2026 04:34:54 GMT_ · paywall: `False`
+- **The Guardian** — [Police visited home of Canada school shooting suspect multiple times over mental health concerns](https://www.theguardian.com/world/2026/feb/12/police-visited-home-of-tumbler-ridge-suspect-multiple-times-over-mental-health-concerns)  
+  _Thu, 12 Feb 2026 22:26:53 GMT_ · paywall: `False`
+- **The Guardian** — [Mexico sends aid to Cuba as Sheinbaum walks diplomatic tightrope with US](https://www.theguardian.com/world/2026/feb/12/mexico-cuba-aid-oil-trump)  
+  _Thu, 12 Feb 2026 20:09:27 GMT_ · paywall: `False`
+- **The Guardian** — [‘Big step forwards’: emboldened activists take to the streets of Venezuela](https://www.theguardian.com/world/2026/feb/12/venezuela-protests-activists-nicolas-maduro-donald-trump-caracas)  
+  _Thu, 12 Feb 2026 17:05:49 GMT_ · paywall: `False`
+- **The Guardian** — [São Paulo names new law after dog that stayed by owner’s grave for 10 years](https://www.theguardian.com/world/2026/feb/12/sao-paulo-law-dogs-bond)  
+  _Thu, 12 Feb 2026 16:50:20 GMT_ · paywall: `False`
+- **The Guardian** — [Japan seizes Chinese fishing boat inside its economic waters amid rift with Beijing](https://www.theguardian.com/world/2026/feb/13/japan-seizes-chinese-fishing-boat)  
+  _Fri, 13 Feb 2026 04:19:57 GMT_ · paywall: `False`
+- **The Guardian** — [Kim close to naming teenage daughter as future North Korean leader, South believes](https://www.theguardian.com/world/2026/feb/12/kim-jong-un-daughter-future-leader-north-korea-south)  
+  _Thu, 12 Feb 2026 14:32:41 GMT_ · paywall: `False`
