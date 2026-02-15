@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-02-14 07:12 UTC_
+_Generated: 2026-02-15 07:22 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Transatlantische Beziehungen - US-Außenminister Rubio hält Rede auf der Münchner Sicherheitskonferenz](https://www.deutschlandfunk.de/us-aussenminister-rubio-haelt-rede-auf-der-muenchner-sicherheitskonferenz-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Am Rande der Sicherheitskonferenz - 100.000 Teilnehmer bei heutiger Demonstration in München gegen iranisches Regime erwartet](https://www.deutschlandfunk.de/100-000-teilnehmer-bei-heutiger-demonstration-in-muenchen-gegen-iranisches-regime-erwartet-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Sicherheit in Zügen - Baden-Württembergs Verkehrsminister Hermann begrüßt Einführung von Bodycams](https://www.deutschlandfunk.de/baden-wuerttembergs-verkehrsminister-hermann-begruesst-einfuehrung-von-bodycams-102.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Haushalt - Rechnungshof kritisiert Zweckentfremdung bei Sondervermögen](https://www.deutschlandfunk.de/rechnungshof-kritisiert-zweckentfremdung-bei-sondervermoegen-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Kriminalität - Hubig (SPD) gegen Senkung der Strafmündigkeit bei Kindern](https://www.deutschlandfunk.de/hubig-spd-gegen-senkung-der-strafmuendigkeit-bei-kindern-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Konflikt um ICE-Behörde - Teil-Haushaltssperre in den USA hat begonnen](https://www.deutschlandfunk.de/teil-haushaltssperre-in-den-usa-hat-begonnen-102.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Geheimdienst - BND-Chef Jäger für Gegenaktionen nach hybriden Angriffen Russlands](https://www.deutschlandfunk.de/bnd-chef-jaeger-fuer-gegenaktionen-nach-hybriden-angriffen-russlands-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Trump will Wahlreform notfalls per Dekret durchsetzen](https://www.deutschlandfunk.de/trump-will-wahlreform-notfalls-per-dekret-durchsetzen-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Tarifstreit - Deutliche Annäherung bei Verhandlungen zwischen Bahn und Lokführergewerkschaft](https://www.deutschlandfunk.de/deutliche-annaeherung-bei-verhandlungen-zwischen-bahn-und-lokfuehrergewerkschaft-102.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Erneuter Angriff auf ein angebliches Drogenschiff in der Karibik](https://www.deutschlandfunk.de/erneuter-angriff-auf-ein-angebliches-drogenschiff-in-der-karibik-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Dresden - Widerstand gegen rechtsextremen Aufmarsch](https://www.deutschlandfunk.de/widerstand-gegen-rechtsextremen-aufmarsch-100.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Brasilien - Karneval in Rio startet mit berühmten Umzügen im Sambodrom](https://www.deutschlandfunk.de/karneval-in-rio-startet-mit-beruehmten-umzuegen-im-sambodrom-104.html)  
-  _Sat, 14 Feb 2026 08:02:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Rassistisches Affen-Video - "Zutiefst verstörend": Obama beklagt fehlende Scham in der Politik](https://www.deutschlandfunk.de/zutiefst-verstoerend-obama-beklagt-fehlende-scham-in-der-politik-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Deutschland - Mindestlohn: Zoll deckt Tausende Verstöße auf](https://www.deutschlandfunk.de/mindestlohn-zoll-deckt-tausende-verstoesse-auf-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sozialstaatsdebatte - CDU-Arbeitnehmerflügel fordert mehr Führung von Merz](https://www.deutschlandfunk.de/cdu-arbeitnehmerfluegel-fordert-mehr-fuehrung-von-merz-102.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Schwarz-rote Koalition - CDU-Generalsekretär Linnemann dringt auf Steuerreform und veränderte Anreize beim Bürgergeld](https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-dringt-auf-steuerreform-und-veraenderte-anreize-beim-buergergeld-102.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Chronisch Kranke - Bundesgesundheitsministerin Warken will zügige Verständigung für Jahresrezepte](https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-will-zuegige-verstaendigung-fuer-jahresrezepte-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Zeitungsbericht - Tausende Gewaltdelikte in Zügen und an Bahnhöfen](https://www.deutschlandfunk.de/tausende-gewaltdelikte-in-zuegen-und-an-bahnhoefen-102.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Süd-Libanon - Israel greift erneut Hisbollah-Ziele an](https://www.deutschlandfunk.de/israel-greift-erneut-hisbollah-ziele-an-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Internationale Raumstation - Neue Besatzung auf ISS angekommen](https://www.deutschlandfunk.de/neue-besatzung-auf-iss-angekommen-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Epstein-Akten - Französische Staatsanwaltschaft bildet Sondereinheit](https://www.deutschlandfunk.de/franzoesische-staatsanwaltschaft-bildet-sondereinheit-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Atomverhandlungen - Genf wird Ort der nächsten Vermittlung zwischen USA und Iran](https://www.deutschlandfunk.de/genf-wird-ort-der-naechsten-vermittlung-zwischen-usa-und-iran-100.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kiel - Großeinsatz der Feuerwehr bei Einkaufszentrum - ein Todesopfer](https://www.deutschlandfunk.de/grosseinsatz-der-feuerwehr-bei-einkaufszentrum-ein-todesopfer-102.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Venezuela - Angehörige von politischen Gefangenen treten in den Hungerstreik](https://www.deutschlandfunk.de/angehoerige-von-politischen-gefangenen-treten-in-den-hungerstreik-102.html)  
+  _Sun, 15 Feb 2026 08:14:07 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Assailants kill at least 32 in north-west Nigerian villages, residents say](https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say)  
+  _Sun, 15 Feb 2026 03:14:42 GMT_ · paywall: `False`
 - **The Guardian** — [53 people dead or missing after migrant boat capsizes in Mediterranean](https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya)  
   _Mon, 09 Feb 2026 14:43:13 GMT_ · paywall: `False`
 - **The Guardian** — [Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90](https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 09 Feb 2026 11:00:20 GMT_ · paywall: `False`
 - **The Guardian** — [RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group](https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people)  
   _Sat, 07 Feb 2026 20:03:07 GMT_ · paywall: `False`
-- **The Guardian** — [Thousands of Malawi businesses close in protest over tax changes](https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system)  
-  _Sat, 07 Feb 2026 12:00:01 GMT_ · paywall: `False`
-- **The Guardian** — [Mark Carney joins hands with Canada opposition leader as he pays tribute to school shooting victims](https://www.theguardian.com/world/2026/feb/14/mark-carney-joins-hands-with-canada-opposition-leader-as-he-pays-tribute-to-school-shooting-victims)  
-  _Sat, 14 Feb 2026 04:42:11 GMT_ · paywall: `False`
-- **The Guardian** — [‘What word is there for this?’ Tumbler Ridge reaches for unity in storm of grief](https://www.theguardian.com/world/2026/feb/13/tumbler-ridge-school-shooting-canada-unity-grief)  
-  _Fri, 13 Feb 2026 16:54:11 GMT_ · paywall: `False`
-- **The Guardian** — [Haiti’s Winter Olympics kit redesigned at last minute to fit IOC guidelines](https://www.theguardian.com/world/2026/feb/13/haiti-winter-olympics-ski-uniform-redesigned-ioc-guidelines)  
-  _Fri, 13 Feb 2026 16:00:28 GMT_ · paywall: `False`
-- **The Guardian** — [Canada school deaths suspect created shooting simulator on gaming platform](https://www.theguardian.com/world/2026/feb/13/canada-school-deaths-suspect-created-shooting-simulator-roblox)  
-  _Fri, 13 Feb 2026 14:43:33 GMT_ · paywall: `False`
-- **The Guardian** — [‘The tears just keep flowing’: child victims of Tumbler Ridge shooting remembered as Carney heads to join vigil](https://www.theguardian.com/world/2026/feb/13/tumbler-ridge-shooting-victims-remembered-canada)  
-  _Fri, 13 Feb 2026 04:34:54 GMT_ · paywall: `False`
+- **The Guardian** — [No fuel, no tourists, no cash - this was the week the Cuban crisis got real](https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana)  
+  _Sun, 15 Feb 2026 06:00:15 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuelan deportee can return to US but fears repeat of ordeal: ‘I’m not over that nightmare yet’](https://www.theguardian.com/us-news/2026/feb/14/venezuelan-illegally-deported-return-fears)  
+  _Sat, 14 Feb 2026 17:34:47 GMT_ · paywall: `False`
+- **The Guardian** — [US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid)  
+  _Sat, 14 Feb 2026 16:15:02 GMT_ · paywall: `False`
+- **The Guardian** — [Chief mouser Palmerston dies after swapping Foreign Office for Bermuda](https://www.theguardian.com/lifeandstyle/2026/feb/14/cat-chief-mouser-uk-foreign-office-dies-bermuda-palmerston)  
+  _Sat, 14 Feb 2026 16:08:59 GMT_ · paywall: `False`
+- **The Guardian** — [Brazil’s Pinheiro Braathen wins gold – and South America’s first Winter Olympics medal](https://www.theguardian.com/sport/2026/feb/14/winter-olympics-brazils-pinheiro-braathen-sambas-down-slope-for-south-americas-first-medal)  
+  _Sat, 14 Feb 2026 15:25:09 GMT_ · paywall: `False`
+- **The Guardian** — [New Zealand officials warn more flooding could hit north island as man killed after heavy rain](https://www.theguardian.com/world/2026/feb/15/new-zealand-officials-warn-more-flooding-could-hit-north-island-as-man-killed-after-heavy-rain)  
+  _Sun, 15 Feb 2026 06:42:05 GMT_ · paywall: `False`
 - **The Guardian** — [University expels student who called for accountability over Hong Kong fire](https://www.theguardian.com/world/2026/feb/13/university-expels-student-who-called-for-accountability-over-hong-kong-fire-miles-kwan)  
   _Fri, 13 Feb 2026 17:58:12 GMT_ · paywall: `False`
-- **The Guardian** — [Beijing pastry shop overrun by shoppers after Xi Jinping’s visit](https://www.theguardian.com/world/2026/feb/13/beijing-pastry-shop-overrun-shoppers-xi-jinping-visit-lunar-new-year)  
-  _Fri, 13 Feb 2026 15:17:36 GMT_ · paywall: `False`
