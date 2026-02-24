@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-02-23 07:38 UTC_
+_Generated: 2026-02-24 07:33 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Handel - International herrscht weiter Unklarheit über US-Zollpolitik nach Urteil des Supreme Courts](https://www.deutschlandfunk.de/international-herrscht-weiter-unklarheit-ueber-us-zollpolitik-nach-urteil-des-supreme-courts-100.html)  
-  _Mon, 23 Feb 2026 03:30:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [BBC-Interview - Selenskyj: Gebietsabtretungen würden ukrainische Gesellschaft spalten](https://www.deutschlandfunk.de/selenskyj-gebietsabtretungen-wuerden-ukrainische-gesellschaft-spalten-100.html)  
-  _Mon, 23 Feb 2026 00:22:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Drei Tote nach russischen Luftangriffen in Odessa und Saporischschja](https://www.deutschlandfunk.de/drei-tote-nach-russischen-luftangriffen-in-odessa-und-saporischschja-102.html)  
-  _Mon, 23 Feb 2026 08:24:16 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Klimaschutz - Union und SPD wollen Eckpunkte zum Heizungsgesetz vorstellen](https://www.deutschlandfunk.de/union-und-spd-wollen-eckpunkte-zum-heizungsgesetz-vorstellen-100.html)  
-  _Sun, 22 Feb 2026 23:53:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheitspolitik - Kassenärzte-Chef Gassen fordert Abschaffung freiwilliger Leistungen](https://www.deutschlandfunk.de/kassenaerzte-chef-gassen-fordert-abschaffung-freiwilliger-leistungen-100.html)  
-  _Mon, 23 Feb 2026 08:24:16 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Lateinamerika - Unruhen und Gewaltausbrüche in Mexiko nach Tötung von gesuchtem Drogenboss "El Mencho"](https://www.deutschlandfunk.de/unruhen-und-gewaltausbrueche-in-mexiko-nach-toetung-von-gesuchtem-drogenboss-el-mencho-100.html)  
-  _Mon, 23 Feb 2026 02:55:08 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Kathmandu - Viele Tote bei Busunglück in Nepal](https://www.deutschlandfunk.de/viele-tote-bei-busunglueck-in-nepal-100.html)  
-  _Mon, 23 Feb 2026 08:24:16 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - Ministerpräsident Schulze bekräftigt Unvereinbarkeitsbeschluss mit AfD und Linken](https://www.deutschlandfunk.de/ministerpraesident-schulze-bekraeftigt-unvereinbarkeitsbeschluss-mit-afd-und-linken-102.html)  
-  _Mon, 23 Feb 2026 08:15:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wintersturm - Mehrere Bundesstaaten im Nordosten der USA warnen vor Blizzard](https://www.deutschlandfunk.de/mehrere-bundesstaaten-im-nordosten-der-usa-warnen-vor-blizzard-100.html)  
-  _Mon, 23 Feb 2026 04:14:53 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Florida - Bewaffneter Mann am Tor von Trumps Privatanwesen erschossen](https://www.deutschlandfunk.de/bewaffneter-mann-am-tor-von-trumps-privatanwesen-erschossen-112.html)  
-  _Sun, 22 Feb 2026 23:53:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [NATO-Ostflanke - Litauen prüft Kauf ukrainischer Langstreckenwaffen](https://www.deutschlandfunk.de/litauen-prueft-kauf-ukrainischer-langstreckenwaffen-102.html)  
-  _Sun, 22 Feb 2026 23:53:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Parlamentswahl - König vereidigt neue Regierung der Niederlande](https://www.deutschlandfunk.de/koenig-vereidigt-neue-regierung-der-niederlande-100.html)  
-  _Sun, 22 Feb 2026 23:53:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Umweltschutz - Brasilianische Regierung stoppt Pläne für Ausbau der Wasserwege im Amazonasgebiet](https://www.deutschlandfunk.de/brasilianische-regierung-stoppt-plaene-fuer-ausbau-der-wasserwege-im-amazonasgebiet-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Jahrestag der russischen Invasion - Verteidigungsminister Pistorius: Ukrainer haben "unglaublichen Durchhaltewillen"](https://www.deutschlandfunk.de/verteidigungsminister-pistorius-ukrainer-haben-unglaublichen-durchhaltewillen-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [World Vision Deutschland - Hilfswerk warnt vor langfristigen Auswirkungen des Kriegs auf ukrainische Kinder](https://www.deutschlandfunk.de/hilfswerk-warnt-vor-langfristigen-auswirkungen-des-kriegs-auf-ukrainische-kinder-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Europäische Union - Blockade von Ukraine-Hilfen: Forderungen nach Stimmrechtsentzug für Ungarn](https://www.deutschlandfunk.de/blockade-von-ukraine-hilfen-forderungen-nach-stimmrechtsentzug-fuer-ungarn-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Handelspolitik - Transatlantik-Koordinator stellt Bedingungen für Abkommen mit USA](https://www.deutschlandfunk.de/transatlantik-koordinator-stellt-bedingungen-fuer-abkommen-mit-usa-108.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Urteil gegen Trumps Zölle - US-Lieferunternehmen Fedex verklagt US-Regierung](https://www.deutschlandfunk.de/us-lieferunternehmen-fedex-verklagt-us-regierung-102.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Streit über US-Äußerungen - Amerikanischer Botschafter Kushner verliert Zugang zu französischer Regierung](https://www.deutschlandfunk.de/amerikanischer-botschafter-kushner-verliert-zugang-zu-franzoesischer-regierung-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Justiz - Südkoreas Ex-Präsident Yoon legt Berufung gegen lebenslange Haftstrafe ein](https://www.deutschlandfunk.de/suedkoreas-ex-praesident-yoon-legt-berufung-gegen-lebenslange-haftstrafe-ein-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaftsstreit - China verhängt Handelsbeschränkungen gegen japanische Firmen](https://www.deutschlandfunk.de/china-verhaengt-handelsbeschraenkungen-gegen-japanische-firmen-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Russland - Zwei Tote und mehrere Verletzte bei Sprengstoffanschlag in Moskau](https://www.deutschlandfunk.de/zwei-tote-und-mehrere-verletzte-bei-sprengstoffanschlag-in-moskau-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Internationales Gedenken an vierten Jahrestag des russischen Überfalls](https://www.deutschlandfunk.de/internationales-gedenken-an-vierten-jahrestag-des-russischen-ueberfalls-100.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Russischer Angriffskrieg gegen die Ukraine - Vier Jahre Krieg - wie geht es weiter?](https://www.deutschlandfunk.de/vier-jahre-krieg-wie-geht-es-weiter-102.html)  
+  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Robert Mugabe’s son charged with attempted murder over Johannesburg shooting](https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes)  
+  _Mon, 23 Feb 2026 13:48:51 GMT_ · paywall: `False`
 - **The Guardian** — [RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds](https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur)  
   _Thu, 19 Feb 2026 17:59:17 GMT_ · paywall: `False`
 - **The Guardian** — [More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says](https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 18 Feb 2026 17:57:22 GMT_ · paywall: `False`
 - **The Guardian** — [Kenyan authorities used Israeli tech to crack activist’s phone, report claims](https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report)  
   _Tue, 17 Feb 2026 11:01:02 GMT_ · paywall: `False`
-- **The Guardian** — [How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast](https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast)  
-  _Mon, 16 Feb 2026 03:00:39 GMT_ · paywall: `False`
+- **The Guardian** — [Mexican drug cartel boss ‘El Mencho’ tracked through romantic partner](https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence)  
+  _Tue, 24 Feb 2026 00:25:30 GMT_ · paywall: `False`
+- **The Guardian** — [Canada seeks answers from OpenAI for failing to alert police after suspending school shooter’s account](https://www.theguardian.com/world/2026/feb/23/openai-tumber-ridge-shooter-account-suspended)  
+  _Mon, 23 Feb 2026 22:56:00 GMT_ · paywall: `False`
+- **The Guardian** — [Mexico faces uphill battle to appease kingpin Trump after cartel boss’s killing](https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss-killing)  
+  _Mon, 23 Feb 2026 20:08:31 GMT_ · paywall: `False`
 - **The Guardian** — [Who was El Mencho, the former police officer who co-founded an ultraviolent cartel in Mexico?](https://www.theguardian.com/world/2026/feb/23/who-was-el-mencho-drug-cartel-boss-killed-mexico)  
   _Mon, 23 Feb 2026 02:52:09 GMT_ · paywall: `False`
-- **The Guardian** — [Violence erupts after Mexican security forces kill drug cartel boss ‘El Mencho’](https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho)  
+- **The Guardian** — [Mexican security forces kill drug cartel boss ‘El Mencho’](https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho)  
   _Mon, 23 Feb 2026 00:39:49 GMT_ · paywall: `False`
-- **The Guardian** — [Floreana giant tortoise reintroduced to Galápagos island after almost 200 years](https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years)  
-  _Fri, 20 Feb 2026 21:00:49 GMT_ · paywall: `False`
-- **The Guardian** — [Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence](https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance)  
-  _Fri, 20 Feb 2026 04:10:29 GMT_ · paywall: `False`
-- **The Guardian** — [Leftist who defended child marriage elected as Peru’s interim president](https://www.theguardian.com/world/2026/feb/19/jose-maria-balcazar-elected-peru-interim-president)  
-  _Thu, 19 Feb 2026 14:57:48 GMT_ · paywall: `False`
-- **The Guardian** — [The tragedy of Punch the monkey: why do mother animals abandon their offspring?](https://www.theguardian.com/world/2026/feb/23/punch-monkey-japan-macaque-why-do-mother-animals-abandon-offspring)  
-  _Mon, 23 Feb 2026 06:13:56 GMT_ · paywall: `False`
-- **The Guardian** — [Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins](https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb)  
-  _Mon, 23 Feb 2026 01:32:59 GMT_ · paywall: `False`
+- **The Guardian** — [BTS comeback show sells out immediately as 260,000 fans set to descend on Seoul](https://www.theguardian.com/music/2026/feb/24/bts-comeback-show-sells-out-immediately-as-260000-fans-set-to-descend-on-seoul)  
+  _Tue, 24 Feb 2026 04:10:07 GMT_ · paywall: `False`
+- **The Guardian** — [US accuses China of ‘massively’ expanding nuclear arsenal amid fears of new arms race](https://www.theguardian.com/world/2026/feb/24/us-accuses-china-of-massively-expanding-nuclear-arsenal-amid-fears-of-new-arms-race)  
+  _Tue, 24 Feb 2026 01:06:59 GMT_ · paywall: `False`
