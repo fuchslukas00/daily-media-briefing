@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-02-24 07:33 UTC_
+_Generated: 2026-02-25 07:35 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Umweltschutz - Brasilianische Regierung stoppt Pläne für Ausbau der Wasserwege im Amazonasgebiet](https://www.deutschlandfunk.de/brasilianische-regierung-stoppt-plaene-fuer-ausbau-der-wasserwege-im-amazonasgebiet-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Jahrestag der russischen Invasion - Verteidigungsminister Pistorius: Ukrainer haben "unglaublichen Durchhaltewillen"](https://www.deutschlandfunk.de/verteidigungsminister-pistorius-ukrainer-haben-unglaublichen-durchhaltewillen-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [World Vision Deutschland - Hilfswerk warnt vor langfristigen Auswirkungen des Kriegs auf ukrainische Kinder](https://www.deutschlandfunk.de/hilfswerk-warnt-vor-langfristigen-auswirkungen-des-kriegs-auf-ukrainische-kinder-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Europäische Union - Blockade von Ukraine-Hilfen: Forderungen nach Stimmrechtsentzug für Ungarn](https://www.deutschlandfunk.de/blockade-von-ukraine-hilfen-forderungen-nach-stimmrechtsentzug-fuer-ungarn-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Handelspolitik - Transatlantik-Koordinator stellt Bedingungen für Abkommen mit USA](https://www.deutschlandfunk.de/transatlantik-koordinator-stellt-bedingungen-fuer-abkommen-mit-usa-108.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Urteil gegen Trumps Zölle - US-Lieferunternehmen Fedex verklagt US-Regierung](https://www.deutschlandfunk.de/us-lieferunternehmen-fedex-verklagt-us-regierung-102.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Streit über US-Äußerungen - Amerikanischer Botschafter Kushner verliert Zugang zu französischer Regierung](https://www.deutschlandfunk.de/amerikanischer-botschafter-kushner-verliert-zugang-zu-franzoesischer-regierung-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Justiz - Südkoreas Ex-Präsident Yoon legt Berufung gegen lebenslange Haftstrafe ein](https://www.deutschlandfunk.de/suedkoreas-ex-praesident-yoon-legt-berufung-gegen-lebenslange-haftstrafe-ein-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaftsstreit - China verhängt Handelsbeschränkungen gegen japanische Firmen](https://www.deutschlandfunk.de/china-verhaengt-handelsbeschraenkungen-gegen-japanische-firmen-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Russland - Zwei Tote und mehrere Verletzte bei Sprengstoffanschlag in Moskau](https://www.deutschlandfunk.de/zwei-tote-und-mehrere-verletzte-bei-sprengstoffanschlag-in-moskau-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Internationales Gedenken an vierten Jahrestag des russischen Überfalls](https://www.deutschlandfunk.de/internationales-gedenken-an-vierten-jahrestag-des-russischen-ueberfalls-100.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Russischer Angriffskrieg gegen die Ukraine - Vier Jahre Krieg - wie geht es weiter?](https://www.deutschlandfunk.de/vier-jahre-krieg-wie-geht-es-weiter-102.html)  
-  _Tue, 24 Feb 2026 08:26:49 +0100_ · paywall: `False`
+- **Frankfurter Allgemeine Zeitung** — [State of the Union: Trump nimmt die Heimatfront ins Visier](https://www.faz.net/aktuell/politik/usa-unter-trump/state-of-the-union-donald-trump-feiert-seine-erfolge-in-der-innenpolitik-accg-200571602.html)  
+  _Wed, 25 Feb 2026 07:08:13 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Liveblog USA unter Trump: Trump: Demokraten wollen betrügen und haben betrogen](https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-beschimpft-demokraten-in-state-of-the-union-als-betrueger-faz-19444916.html)  
+  _Wed, 25 Feb 2026 06:02:47 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Nach Einigung: Erleichterung bis Entsetzen über die neuen Heizungspläne](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/erleichterung-bis-entsetzen-ueber-die-neuen-heizungsplaene-der-bundesregierung-accg-200570844.html)  
+  _Wed, 25 Feb 2026 06:37:54 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Deutschland-Blog: Grüne warnen vor „neuer Heizkostenfalle“](https://www.faz.net/aktuell/politik/inland/deutschland-blog-gruene-warnen-vor-neuer-heizkostenfalle-faz-110093143.html)  
+  _Wed, 25 Feb 2026 05:41:32 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Koalition einigt sich: „Der Heizungskeller wird wieder zur Privatsache“](https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/habecks-65-prozent-regel-fuer-heizungen-wird-abgeschafft-200568355.html)  
+  _Tue, 24 Feb 2026 19:05:05 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [TV-Kritik: „Maischberger“: Blamage mit Anlauf](https://www.faz.net/aktuell/feuilleton/medien-und-film/annalena-baerbock-bei-sandra-maischberger-blamage-mit-anlauf-accg-200571552.html)  
+  _Wed, 25 Feb 2026 05:44:33 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [China dominiert Weltmarkt: Friedrich Merz im Land der Roboter](https://www.faz.net/aktuell/wirtschaft/unternehmen/friedrich-merz-besucht-das-land-der-roboter-accg-110843393.html)  
+  _Wed, 25 Feb 2026 06:47:01 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Wenn Angst krank macht: „Panikattacken können sich wie ein Herzinfarkt anfühlen“](https://www.faz.net/aktuell/gesellschaft/gesundheit/ob-panikattacke-oder-hoehenangst-wie-entstehen-angsterkrankungen-und-was-hilft-dagegen-accg-110839601.html)  
+  _Wed, 25 Feb 2026 04:35:18 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Arbeitszeitgesetz: „Elf Stunden Ruhezeit müssen sein“](https://www.faz.net/aktuell/rhein-main/wirtschaft/arbeitszeitgesetz-juristin-ueber-streitfaelle-und-unbezahlte-ueberstunden-accg-200549022.html)  
+  _Wed, 25 Feb 2026 06:40:00 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [TRiell in Baden-württemberg: Es fehlt der Triggerpunkt](https://www.faz.net/aktuell/politik/wahl-in-baden-wuerttemberg/cem-oezdemir-und-manuel-hagel-im-swr-triell-kein-harter-triggerpunkt-accg-200570961.html)  
+  _Wed, 25 Feb 2026 05:03:28 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [Anredeform im Wandel: Die Epidemie des Duzens](https://www.faz.net/aktuell/feuilleton/debatten/anredeform-woher-kommt-die-duz-epidemie-accg-110841460.html)  
+  _Wed, 25 Feb 2026 07:21:06 GMT_ · paywall: `hard`
+- **Frankfurter Allgemeine Zeitung** — [2.630.000.000.000 Dollar: Warum die Welt so aufrüstet](https://www.faz.net/aktuell/politik/ukraine/2-630-000-000-000-dollar-warum-die-welt-so-aufruestet-110843341.html)  
+  _Wed, 25 Feb 2026 05:48:45 GMT_ · paywall: `hard`
 
 ## international
 
+- **The Guardian** — [Royal Artillery under fire after denying access to looted Asante treasure](https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana)  
+  _Tue, 24 Feb 2026 13:45:27 GMT_ · paywall: `False`
 - **The Guardian** — [Robert Mugabe’s son charged with attempted murder over Johannesburg shooting](https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes)  
   _Mon, 23 Feb 2026 13:48:51 GMT_ · paywall: `False`
 - **The Guardian** — [RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds](https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 19 Feb 2026 14:39:41 GMT_ · paywall: `False`
 - **The Guardian** — [Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne](https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne)  
   _Wed, 18 Feb 2026 17:57:22 GMT_ · paywall: `False`
-- **The Guardian** — [Kenyan authorities used Israeli tech to crack activist’s phone, report claims](https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report)  
-  _Tue, 17 Feb 2026 11:01:02 GMT_ · paywall: `False`
+- **The Guardian** — [Caribbean leaders call for ‘de-escalation and dialogue’ amid US oil embargo on Cuba](https://www.theguardian.com/world/2026/feb/25/caricom-summit-2026-caribbean-leaders-us-military-strikes)  
+  _Wed, 25 Feb 2026 02:51:16 GMT_ · paywall: `False`
+- **The Guardian** — [Floods and landslides in Brazil kill at least 30 after record rainfall](https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall)  
+  _Tue, 24 Feb 2026 23:28:09 GMT_ · paywall: `False`
+- **The Guardian** — [Brazilian politicians accused of ordering murder of Rio councillor go on trial](https://www.theguardian.com/world/2026/feb/24/brazil-supreme-court-trial-rio-marielle-franco-murder)  
+  _Tue, 24 Feb 2026 18:35:54 GMT_ · paywall: `False`
+- **The Guardian** — [Mexico pledges safety for World Cup after violence erupts from cartel boss’s killing](https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho)  
+  _Tue, 24 Feb 2026 17:18:58 GMT_ · paywall: `False`
 - **The Guardian** — [Mexican drug cartel boss ‘El Mencho’ tracked through romantic partner](https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence)  
   _Tue, 24 Feb 2026 00:25:30 GMT_ · paywall: `False`
-- **The Guardian** — [Canada seeks answers from OpenAI for failing to alert police after suspending school shooter’s account](https://www.theguardian.com/world/2026/feb/23/openai-tumber-ridge-shooter-account-suspended)  
-  _Mon, 23 Feb 2026 22:56:00 GMT_ · paywall: `False`
-- **The Guardian** — [Mexico faces uphill battle to appease kingpin Trump after cartel boss’s killing](https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss-killing)  
-  _Mon, 23 Feb 2026 20:08:31 GMT_ · paywall: `False`
-- **The Guardian** — [Who was El Mencho, the former police officer who co-founded an ultraviolent cartel in Mexico?](https://www.theguardian.com/world/2026/feb/23/who-was-el-mencho-drug-cartel-boss-killed-mexico)  
-  _Mon, 23 Feb 2026 02:52:09 GMT_ · paywall: `False`
-- **The Guardian** — [Mexican security forces kill drug cartel boss ‘El Mencho’](https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho)  
-  _Mon, 23 Feb 2026 00:39:49 GMT_ · paywall: `False`
-- **The Guardian** — [BTS comeback show sells out immediately as 260,000 fans set to descend on Seoul](https://www.theguardian.com/music/2026/feb/24/bts-comeback-show-sells-out-immediately-as-260000-fans-set-to-descend-on-seoul)  
-  _Tue, 24 Feb 2026 04:10:07 GMT_ · paywall: `False`
-- **The Guardian** — [US accuses China of ‘massively’ expanding nuclear arsenal amid fears of new arms race](https://www.theguardian.com/world/2026/feb/24/us-accuses-china-of-massively-expanding-nuclear-arsenal-amid-fears-of-new-arms-race)  
-  _Tue, 24 Feb 2026 01:06:59 GMT_ · paywall: `False`
+- **The Guardian** — [Japan to deploy missiles to island near Taiwan by 2031, says defence minister](https://www.theguardian.com/world/2026/feb/25/japan-missiles-yonaguni-island-near-taiwan-2031-defence-minister)  
+  _Wed, 25 Feb 2026 05:50:27 GMT_ · paywall: `False`
+- **The Guardian** — [South Korea’s birthrate rises for second year with experts saying ‘echo boomers’ behind boost](https://www.theguardian.com/world/2026/feb/25/south-korea-birth-rate-increase-rise-echo-boomers)  
+  _Wed, 25 Feb 2026 03:52:58 GMT_ · paywall: `False`
