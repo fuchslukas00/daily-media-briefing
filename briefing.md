@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-02-28 07:03 UTC_
+_Generated: 2026-03-01 07:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Koalitionspläne - SPD macht Mieterschutz zur Bedingung für Heizungsgesetz, Grüne warnen vor teurem Heizen](https://www.deutschlandfunk.de/spd-macht-mieterschutz-zur-bedingung-fuer-heizungsgesetz-gruene-warnen-vor-teurem-heizen-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Republikaner bezeichnen Epstein-Befragung von Ex-Präsident Clinton als produktiv](https://www.deutschlandfunk.de/republikaner-bezeichnen-epstein-befragung-von-ex-praesident-clinton-als-produktiv-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - Gesundheitsministerin Warken: Alle Seiten, auch Ärzte und Apotheken, müssen sich für eine Reform bewegen](https://www.deutschlandfunk.de/gesundheitsministerin-warken-alle-seiten-auch-aerzte-und-apotheken-muessen-sich-fuer-eine-reform-bew-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bolivien - Mindestens 15 Tote bei Flugzeugabsturz](https://www.deutschlandfunk.de/mindestens-15-tote-bei-flugzeugabsturz-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Konflikt - EU-Außenbeauftragte Kallas ruft zur Deeskalation zwischen Afghanistan und Pakistan auf - USA betonten pakistanisches Selbstverteidigungsrecht](https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-ruft-zur-deeskalation-zwischen-afghanistan-und-pakistan-auf-usa-betonten-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [UNO - Sicherheitsrat hebt Sanktionen gegen syrische HTS-Miliz auf](https://www.deutschlandfunk.de/sicherheitsrat-hebt-sanktionen-gegen-syrische-hts-miliz-auf-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Außenminister Rubio - USA beschuldigen Iran der Geiseldiplomatie](https://www.deutschlandfunk.de/usa-beschuldigen-iran-der-geiseldiplomatie-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Gerichtsentscheidung - Unionsfraktionsvize hält AfD-Verbot für "eher unwahrscheinlich"](https://www.deutschlandfunk.de/unionsfraktionsvize-haelt-afd-verbot-fuer-eher-unwahrscheinlich-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbranche - Warner Bros. Discovery stimmt Übernahme durch Paramount zu](https://www.deutschlandfunk.de/warner-bros-discovery-stimmt-uebernahme-durch-paramount-zu-106.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Streit um militärische Nutzung - US-Regierung arbeitet nicht länger mit KI-Unternehmen Anthropic zusammen](https://www.deutschlandfunk.de/us-regierung-arbeitet-nicht-laenger-mit-ki-unternehmen-anthropic-zusammen-100.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gerichtsentscheidung - Verbot für Hilfsorganisationen im Gazastreifen vorerst ausgesetzt](https://www.deutschlandfunk.de/verbot-fuer-hilfsorganisationen-im-gazastreifen-vorerst-ausgesetzt-104.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Warnstreik - Noch bis Sonntagmorgen Einschränkungen bei Bussen und Bahnen im Nahverkehr](https://www.deutschlandfunk.de/noch-bis-sonntagmorgen-einschraenkungen-bei-bussen-und-bahnen-im-nahverkehr-102.html)  
-  _Sat, 28 Feb 2026 07:56:26 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Newsblog zur Eskalation in der Golfregion - Nach Tod Chameneis: Trio um Präsident Peseschkian soll Iran führen](https://www.deutschlandfunk.de/nach-tod-chameneis-trio-um-praesident-peseschkian-soll-iran-fuehren-100.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg in der Golfregion - Iran greift Israel erneut mit Raketen an - Israel startet neue Angriffswelle](https://www.deutschlandfunk.de/iran-greift-israel-erneut-mit-raketen-an-israel-startet-neue-angriffswelle-100.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Warnstreiks - Betrieb im Nahverkehr läuft wieder an](https://www.deutschlandfunk.de/betrieb-im-nahverkehr-laeuft-wieder-an-102.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [New York - UNO-Sicherheitsrat berät in Sondersitzung über israelisch-amerikanische Angriffe auf den Iran](https://www.deutschlandfunk.de/uno-sicherheitsrat-beraet-in-sondersitzung-ueber-israelisch-amerikanische-angriffe-auf-den-iran-106.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Montag - Sondersitzung der Internationalen Atombehörde zum Iran](https://www.deutschlandfunk.de/sondersitzung-der-internationalen-atombehoerde-zum-iran-100.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Eskalation in der Golfregion - Iranische Angriffe auf Vereinigte Arabische Emirate](https://www.deutschlandfunk.de/iranische-angriffe-auf-vereinigte-arabische-emirate-100.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg - Angriffe im Nahen Osten legen weltweiten Flugverkehr teilweise lahm](https://www.deutschlandfunk.de/angriffe-im-nahen-osten-legen-weltweiten-flugverkehr-teilweise-lahm-102.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Außerordentliche Sitzung - EU-Außenminister beraten über Lage im Iran](https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-lage-im-iran-102.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Reaktionen - US-Demokraten kritisieren "illegalen" Angriff im Iran - China fordert Stopp der Militärschläge](https://www.deutschlandfunk.de/us-demokraten-kritisieren-illegalen-angriff-im-iran-china-fordert-stopp-der-militaerschlaege-100.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Was über den Stand von Irans Atomprogramm bekannt ist](https://www.deutschlandfunk.de/was-ueber-den-stand-von-irans-atomprogramm-bekannt-ist-102.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Wie weit fortgeschritten ist Irans Raketenprogramm?](https://www.deutschlandfunk.de/wie-weit-fortgeschritten-ist-irans-raketenprogramm-102.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Naher Osten - Israel schließt Grenzen zum Gazastreifen](https://www.deutschlandfunk.de/israel-schliesst-grenzen-zum-gazastreifen-106.html)  
+  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 26 Feb 2026 05:00:21 GMT_ · paywall: `False`
 - **The Guardian** — [US accused of ‘shameless exploitation’ over proposed Zambian health aid deal](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets)  
   _Wed, 25 Feb 2026 13:00:36 GMT_ · paywall: `False`
+- **The Guardian** — [‘Adventurism has had its day’: speedboat shootout leaves Miami’s exiled Cubans bewildered](https://www.theguardian.com/world/2026/feb/28/miami-exiled-cubans-speedboat-shootout)  
+  _Sat, 28 Feb 2026 10:00:08 GMT_ · paywall: `False`
 - **The Guardian** — [At least 20 killed as cash-laden military cargo plane crashes in Bolivia](https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia)  
   _Sat, 28 Feb 2026 03:05:37 GMT_ · paywall: `False`
 - **The Guardian** — [Trump suggests US could carry out ‘friendly takeover’ of Cuba](https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change)  
@@ -51,8 +53,6 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 27 Feb 2026 14:37:19 GMT_ · paywall: `False`
 - **The Guardian** — [‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws](https://www.theguardian.com/world/2026/feb/27/argentina-labor-law-overhaul)  
   _Fri, 27 Feb 2026 09:00:37 GMT_ · paywall: `False`
-- **The Guardian** — [Cuba vows to fight ‘terrorist aggression’ after attack from US-registered boat](https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack)  
-  _Thu, 26 Feb 2026 19:15:22 GMT_ · paywall: `False`
 - **The Guardian** — [‘You can’t hide from the invisible’: why Bangkok police make arrests in disguise](https://www.theguardian.com/world/2026/feb/28/bangkok-police-arrests-in-disguise)  
   _Sat, 28 Feb 2026 05:00:02 GMT_ · paywall: `False`
 - **The Guardian** — [North Korea’s ‘most beloved’ child: what the key congress revealed about Kim Jong-un’s succession plans](https://www.theguardian.com/world/2026/feb/27/north-korea-kim-jong-un-daughter-ju-ae-succession)  
