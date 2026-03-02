@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-03-01 07:10 UTC_
+_Generated: 2026-03-02 07:32 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Newsblog zur Eskalation in der Golfregion - Nach Tod Chameneis: Trio um Präsident Peseschkian soll Iran führen](https://www.deutschlandfunk.de/nach-tod-chameneis-trio-um-praesident-peseschkian-soll-iran-fuehren-100.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg in der Golfregion - Iran greift Israel erneut mit Raketen an - Israel startet neue Angriffswelle](https://www.deutschlandfunk.de/iran-greift-israel-erneut-mit-raketen-an-israel-startet-neue-angriffswelle-100.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Warnstreiks - Betrieb im Nahverkehr läuft wieder an](https://www.deutschlandfunk.de/betrieb-im-nahverkehr-laeuft-wieder-an-102.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [New York - UNO-Sicherheitsrat berät in Sondersitzung über israelisch-amerikanische Angriffe auf den Iran](https://www.deutschlandfunk.de/uno-sicherheitsrat-beraet-in-sondersitzung-ueber-israelisch-amerikanische-angriffe-auf-den-iran-106.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Montag - Sondersitzung der Internationalen Atombehörde zum Iran](https://www.deutschlandfunk.de/sondersitzung-der-internationalen-atombehoerde-zum-iran-100.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Eskalation in der Golfregion - Iranische Angriffe auf Vereinigte Arabische Emirate](https://www.deutschlandfunk.de/iranische-angriffe-auf-vereinigte-arabische-emirate-100.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg - Angriffe im Nahen Osten legen weltweiten Flugverkehr teilweise lahm](https://www.deutschlandfunk.de/angriffe-im-nahen-osten-legen-weltweiten-flugverkehr-teilweise-lahm-102.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Außerordentliche Sitzung - EU-Außenminister beraten über Lage im Iran](https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-lage-im-iran-102.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Reaktionen - US-Demokraten kritisieren "illegalen" Angriff im Iran - China fordert Stopp der Militärschläge](https://www.deutschlandfunk.de/us-demokraten-kritisieren-illegalen-angriff-im-iran-china-fordert-stopp-der-militaerschlaege-100.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Was über den Stand von Irans Atomprogramm bekannt ist](https://www.deutschlandfunk.de/was-ueber-den-stand-von-irans-atomprogramm-bekannt-ist-102.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Wie weit fortgeschritten ist Irans Raketenprogramm?](https://www.deutschlandfunk.de/wie-weit-fortgeschritten-ist-irans-raketenprogramm-102.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Naher Osten - Israel schließt Grenzen zum Gazastreifen](https://www.deutschlandfunk.de/israel-schliesst-grenzen-zum-gazastreifen-106.html)  
-  _Sun, 01 Mar 2026 07:21:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Reaktion auf Beschuss durch Hisbollah - Offenbar mehr als 30 Tote bei israelischen Angriffen im Libanon](https://www.deutschlandfunk.de/offenbar-mehr-als-30-tote-bei-israelischen-angriffen-im-libanon-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Neue iranische Angriffe gegen Golfstaaten - diese betonen Recht auf Selbstverteidigung](https://www.deutschlandfunk.de/neue-iranische-angriffe-gegen-golfstaaten-diese-betonen-recht-auf-selbstverteidigung-102.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Newsblog zur Eskalation in der Golfregion - Israel greift weitere Ziele in Teheran an - Iran lehnt Verhandlungen mit den USA ab](https://www.deutschlandfunk.de/israel-greift-weitere-ziele-in-teheran-an-iran-lehnt-verhandlungen-mit-den-usa-ab-102.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesaußenminister - Wadephul zu Angriffen auf Iran: "Erhebliche völkerrechtliche Fragen" - aber Verweis auf iranisches Raketenprogramm](https://www.deutschlandfunk.de/wadephul-zu-angriffen-auf-iran-erhebliche-voelkerrechtliche-fragen-aber-verweis-auf-iranisches-raket-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach KI-Streit in den USA - SPD-Digitalexperte will Anthropic nach Europa holen](https://www.deutschlandfunk.de/spd-digitalexperte-will-anthropic-nach-europa-holen-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Verkehr - Palla: Brauchen zehn Jahre, um Schiene in Ordnung zu bringen](https://www.deutschlandfunk.de/palla-brauchen-zehn-jahre-um-schiene-in-ordnung-zu-bringen-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Oppositionsführerin - Machado kündigt baldige Rückkehr nach Venezuela an](https://www.deutschlandfunk.de/machado-kuendigt-baldige-rueckkehr-nach-venezuela-an-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Argentinien - Milei will Wirtschaft weiter deregulieren](https://www.deutschlandfunk.de/milei-will-wirtschaft-weiter-deregulieren-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Deutscher Reiseverband - 30.000 Touristen von Eskalation in der Golfregion betroffen](https://www.deutschlandfunk.de/30-000-touristen-von-eskalation-in-der-golfregion-betroffen-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Austin - "Pro-iranische Gesinnung" - USA prüfen Terrorverdacht nach Anschlag in Texas](https://www.deutschlandfunk.de/pro-iranische-gesinnung-usa-pruefen-terrorverdacht-nach-anschlag-in-texas-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [New York - Melania Trump leitet heute Sitzung des UNO-Sicherheitsrats](https://www.deutschlandfunk.de/melania-trump-leitet-heute-sitzung-des-uno-sicherheitsrats-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Diplomatie - Merz reist zu Trump nach Washington](https://www.deutschlandfunk.de/merz-reist-zu-trump-nach-washington-100.html)  
+  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 27 Feb 2026 14:37:19 GMT_ · paywall: `False`
 - **The Guardian** — [‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws](https://www.theguardian.com/world/2026/feb/27/argentina-labor-law-overhaul)  
   _Fri, 27 Feb 2026 09:00:37 GMT_ · paywall: `False`
+- **The Guardian** — [Shark culls brought in after fatal attack cause division and anger in New Caledonia](https://www.theguardian.com/world/2026/mar/02/new-caledonia-shark-attack-culling)  
+  _Mon, 02 Mar 2026 04:20:27 GMT_ · paywall: `False`
 - **The Guardian** — [‘You can’t hide from the invisible’: why Bangkok police make arrests in disguise](https://www.theguardian.com/world/2026/feb/28/bangkok-police-arrests-in-disguise)  
   _Sat, 28 Feb 2026 05:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [North Korea’s ‘most beloved’ child: what the key congress revealed about Kim Jong-un’s succession plans](https://www.theguardian.com/world/2026/feb/27/north-korea-kim-jong-un-daughter-ju-ae-succession)  
-  _Fri, 27 Feb 2026 05:53:53 GMT_ · paywall: `False`
