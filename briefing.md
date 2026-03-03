@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-03-02 07:32 UTC_
+_Generated: 2026-03-03 07:26 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Reaktion auf Beschuss durch Hisbollah - Offenbar mehr als 30 Tote bei israelischen Angriffen im Libanon](https://www.deutschlandfunk.de/offenbar-mehr-als-30-tote-bei-israelischen-angriffen-im-libanon-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Neue iranische Angriffe gegen Golfstaaten - diese betonen Recht auf Selbstverteidigung](https://www.deutschlandfunk.de/neue-iranische-angriffe-gegen-golfstaaten-diese-betonen-recht-auf-selbstverteidigung-102.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Newsblog zur Eskalation in der Golfregion - Israel greift weitere Ziele in Teheran an - Iran lehnt Verhandlungen mit den USA ab](https://www.deutschlandfunk.de/israel-greift-weitere-ziele-in-teheran-an-iran-lehnt-verhandlungen-mit-den-usa-ab-102.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesaußenminister - Wadephul zu Angriffen auf Iran: "Erhebliche völkerrechtliche Fragen" - aber Verweis auf iranisches Raketenprogramm](https://www.deutschlandfunk.de/wadephul-zu-angriffen-auf-iran-erhebliche-voelkerrechtliche-fragen-aber-verweis-auf-iranisches-raket-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach KI-Streit in den USA - SPD-Digitalexperte will Anthropic nach Europa holen](https://www.deutschlandfunk.de/spd-digitalexperte-will-anthropic-nach-europa-holen-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Verkehr - Palla: Brauchen zehn Jahre, um Schiene in Ordnung zu bringen](https://www.deutschlandfunk.de/palla-brauchen-zehn-jahre-um-schiene-in-ordnung-zu-bringen-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Oppositionsführerin - Machado kündigt baldige Rückkehr nach Venezuela an](https://www.deutschlandfunk.de/machado-kuendigt-baldige-rueckkehr-nach-venezuela-an-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Argentinien - Milei will Wirtschaft weiter deregulieren](https://www.deutschlandfunk.de/milei-will-wirtschaft-weiter-deregulieren-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Deutscher Reiseverband - 30.000 Touristen von Eskalation in der Golfregion betroffen](https://www.deutschlandfunk.de/30-000-touristen-von-eskalation-in-der-golfregion-betroffen-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Austin - "Pro-iranische Gesinnung" - USA prüfen Terrorverdacht nach Anschlag in Texas](https://www.deutschlandfunk.de/pro-iranische-gesinnung-usa-pruefen-terrorverdacht-nach-anschlag-in-texas-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [New York - Melania Trump leitet heute Sitzung des UNO-Sicherheitsrats](https://www.deutschlandfunk.de/melania-trump-leitet-heute-sitzung-des-uno-sicherheitsrats-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Diplomatie - Merz reist zu Trump nach Washington](https://www.deutschlandfunk.de/merz-reist-zu-trump-nach-washington-100.html)  
-  _Mon, 02 Mar 2026 08:29:09 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Deutscher Reiseverband geht von mehr als 30.000 festsitzenden Touristen aus - Kritik wegen Reisen in Krisenregion zurückgewiesen](https://www.deutschlandfunk.de/deutscher-reiseverband-geht-von-mehr-als-30-000-festsitzenden-touristen-aus-kritik-wegen-reisen-in-k-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Wirtschaftsweise Grimm warnt vor "Energieschock" - Drohungen der iranischen Revolutionsgarden gegen die Schifffahrt](https://www.deutschlandfunk.de/wirtschaftsweise-grimm-warnt-vor-energieschock-drohungen-der-iranischen-revolutionsgarden-gegen-die--100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Newsblog zum Krieg im Nahen und Mittleren Osten - US-Außenministerium ordnet Evakuierung von Botschaftspersonal aus mehreren Staaten an](https://www.deutschlandfunk.de/us-aussenministerium-ordnet-evakuierung-von-botschaftspersonal-aus-mehreren-staaten-an-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Steigende Energie-Preise - Grüne halten Bundesregierung wegen Iran-Krieg Festhalten an Öl und Gas vor](https://www.deutschlandfunk.de/gruene-halten-bundesregierung-wegen-iran-krieg-festhalten-an-oel-und-gas-vor-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Irankrieg - Israel greift iranischen Staatsrundfunk in Teheran an - Armee: Kommunikationszentrum des Terror-Regimes zerstört](https://www.deutschlandfunk.de/israel-greift-iranischen-staatsrundfunk-in-teheran-an-armee-kommunikationszentrum-des-terror-regimes-108.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Naher und Mittlerer Osten - Zentralrat der Juden ruft Deutschland zur Unterstützung des Kriegs gegen Iran auf](https://www.deutschlandfunk.de/zentralrat-der-juden-ruft-deutschland-zur-unterstuetzung-des-kriegs-gegen-iran-auf-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Renaturierung - Bau von Rheinwasserleitung zum Tagebau Hambach hat begonnen - zweitgrößter See Deutschlands soll entstehen](https://www.deutschlandfunk.de/bau-von-rheinwasserleitung-zum-tagebau-hambach-hat-begonnen-zweitgroesster-see-deutschlands-soll-ent-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Tourismusmesse ITB beginnt](https://www.deutschlandfunk.de/tourismusmesse-itb-beginnt-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Filmfestival - Tricia Tuttle lehnt Rückstritt ab und will Berlinale-Chefin bleiben](https://www.deutschlandfunk.de/tricia-tuttle-lehnt-rueckstritt-ab-und-will-berlinale-chefin-bleiben-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundeswehr - Fehlende Soldaten, verschimmelte Duschen, gesperrte Truppenküchen: Wehrbeauftragter Otte stellt Jahresbericht vor](https://www.deutschlandfunk.de/fehlende-soldaten-verschimmelte-duschen-gesperrte-truppenkuechen-wehrbeauftragter-otte-stellt-jahres-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Irankrieg - US-Botschaft in der saudi-arabischen Hauptstadt Riad von Drohnen angegriffen - "Kleinerer Brand und geringer Sachschaden"](https://www.deutschlandfunk.de/us-botschaft-in-der-saudi-arabischen-hauptstadt-riad-von-drohnen-angegriffen-kleinerer-brand-und-ger-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA-Reise - Bundeskanzler Merz trifft US-Präsident Trump in Washington](https://www.deutschlandfunk.de/bundeskanzler-merz-trifft-us-praesident-trump-in-washington-100.html)  
+  _Tue, 03 Mar 2026 08:22:51 +0100_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 27 Feb 2026 14:37:19 GMT_ · paywall: `False`
 - **The Guardian** — [‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws](https://www.theguardian.com/world/2026/feb/27/argentina-labor-law-overhaul)  
   _Fri, 27 Feb 2026 09:00:37 GMT_ · paywall: `False`
-- **The Guardian** — [Shark culls brought in after fatal attack cause division and anger in New Caledonia](https://www.theguardian.com/world/2026/mar/02/new-caledonia-shark-attack-culling)  
-  _Mon, 02 Mar 2026 04:20:27 GMT_ · paywall: `False`
-- **The Guardian** — [‘You can’t hide from the invisible’: why Bangkok police make arrests in disguise](https://www.theguardian.com/world/2026/feb/28/bangkok-police-arrests-in-disguise)  
-  _Sat, 28 Feb 2026 05:00:02 GMT_ · paywall: `False`
+- **The Guardian** — [Trump’s show of force in the Middle East creates a weakness China can exploit](https://www.theguardian.com/world/2026/mar/03/trump-us-iran-middle-east-china)  
+  _Tue, 03 Mar 2026 04:36:38 GMT_ · paywall: `False`
+- **The Guardian** — [China’s Two Sessions to reveal Xi’s economic and defence plans as military purge casts shadow](https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology)  
+  _Tue, 03 Mar 2026 01:44:04 GMT_ · paywall: `False`
