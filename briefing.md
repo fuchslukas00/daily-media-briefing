@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-03-04 07:23 UTC_
+_Generated: 2026-03-05 07:26 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Deutschlandfunk-Recherche - Bundesumweltministerium streicht zeitliches Ziel für Atommüllendlager](https://www.deutschlandfunk.de/bundesumweltministerium-streicht-zeitliches-ziel-fuer-atommuellendlager-106.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Newsblog zum Krieg im Nahen und Mittleren Osten - Bundesregierung startet Rückholaktion: Erster Flug aus Oman geplant](https://www.deutschlandfunk.de/bundesregierung-startet-rueckholaktion-erster-flug-aus-oman-geplant-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Erste Touristen wieder zurück in Deutschland – Bundesregierung startet heute Rückholflüge aus Golfregion](https://www.deutschlandfunk.de/erste-touristen-wieder-zurueck-in-deutschland-bundesregierung-startet-heute-rueckholfluege-aus-golfr-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iran - New York Times: Sohn von Ayatollah Ali Chamenei ist Favorit für dessen Nachfolge](https://www.deutschlandfunk.de/new-york-times-sohn-von-ayatollah-ali-chamenei-ist-favorit-fuer-dessen-nachfolge-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg im Nahen Osten - Erste Bilanz der US-Angriffe auf Iran: Auch 17 Kriegsschiffe zerstört](https://www.deutschlandfunk.de/erste-bilanz-der-us-angriffe-auf-iran-auch-17-kriegsschiffe-zerstoert-104.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundeswehr - Abbruchquote von Rekruten - Lugk: "Kein Grund zur Panik"](https://www.deutschlandfunk.de/abbruchquote-von-rekruten-lugk-kein-grund-zur-panik-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - Deutsche verlieren an Kaufkraft und Wohlstand - Einkommen stiegen seit 2020 deutlich langsamer als Inflation](https://www.deutschlandfunk.de/deutsche-verlieren-an-kaufkraft-und-wohlstand-einkommen-stiegen-seit-2020-deutlich-langsamer-als-inf-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Zentralverband - Deutschen Handwerksbetrieben fehlen geschätzt 200.000 Mitarbeiter](https://www.deutschlandfunk.de/deutschen-handwerksbetrieben-fehlen-geschaetzt-200-000-mitarbeiter-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Signalstörung - Bahnstrecke Leipzig-Erfurt nach Kabeldiebstahl bis nachmittags gesperrt](https://www.deutschlandfunk.de/bahnstrecke-leipzig-erfurt-nach-kabeldiebstahl-bis-nachmittags-gesperrt-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Treffen in Washington - Merz weist Trumps Drohungen gegen Spanien zurück](https://www.deutschlandfunk.de/merz-weist-trumps-drohungen-gegen-spanien-zurueck-102.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Israel fliegt weitere Angriffswelle gegen Iran](https://www.deutschlandfunk.de/israel-fliegt-weitere-angriffswelle-gegen-iran-100.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Iran attackiert erneut US-Ziele in Golfregion](https://www.deutschlandfunk.de/iran-attackiert-erneut-us-ziele-in-golfregion-102.html)  
-  _Wed, 04 Mar 2026 08:09:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Gestrandete Urlauber - Erste Maschine mit Bundesbürgern aus Golfregion in Frankfurt gelandet](https://www.deutschlandfunk.de/erste-maschine-mit-bundesbuergern-aus-golfregion-in-frankfurt-gelandet-100.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Hohe Preise für Kraftstoff: Reiche schaltet Bundeskartellamt ein](https://www.deutschlandfunk.de/hohe-preise-fuer-kraftstoff-reiche-schaltet-bundeskartellamt-ein-100.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Pflege - DAK: Jeder dritte Pflegeheim-Bewohner auf Sozialhilfe angewiesen](https://www.deutschlandfunk.de/dak-jeder-dritte-pflegeheim-bewohner-auf-sozialhilfe-angewiesen-102.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Newsblog zum Krieg im Nahen und Mittleren Osten - US-Senat unterstützt mehrheitlich Iran-Krieg](https://www.deutschlandfunk.de/us-senat-unterstuetzt-mehrheitlich-iran-krieg-100.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg in Nahost - Israel verstärkt Angriffe im Libanon](https://www.deutschlandfunk.de/israel-verstaerkt-angriffe-im-libanon-108.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Naher Osten - Iran feuert erneut Raketen auf Stellungen kurdischer Gruppen](https://www.deutschlandfunk.de/iran-feuert-erneut-raketen-auf-stellungen-kurdischer-gruppen-102.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg in Nahost - US-Außenminister Rubio nennt Angriffe auf Türkei "inakzeptabel"](https://www.deutschlandfunk.de/us-aussenminister-rubio-nennt-angriffe-auf-tuerkei-inakzeptabel-102.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Mexiko - Verteidigungsministerium muss weitere Akten zu verschwundenen Studenten freigeben](https://www.deutschlandfunk.de/verteidigungsministerium-muss-weitere-akten-zu-verschwundenen-studenten-freigeben-102.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach dem Urteil des Supreme Court - US-Unternehmen hat Anspruch auf Zoll-Rückzahlung](https://www.deutschlandfunk.de/us-unternehmen-hat-anspruch-auf-zoll-rueckzahlung-100.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Himalaya-Staat - Nepal wählt ein neues Parlament](https://www.deutschlandfunk.de/nepal-waehlt-ein-neues-parlament-102.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Trotz gestiegener Gesamtausgaben - Krankenkassen haben 2025 mit 3,5 Milliarden im Plus abgeschlossen](https://www.deutschlandfunk.de/krankenkassen-haben-2025-mit-3-5-milliarden-im-plus-abgeschlossen-102.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundestag - Bas verteidigt Umgestaltung von Bürgergeld zu Grundsicherung](https://www.deutschlandfunk.de/bas-verteidigt-umgestaltung-von-buergergeld-zu-grundsicherung-108.html)  
+  _Thu, 05 Mar 2026 08:19:06 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 27 Feb 2026 07:00:34 GMT_ · paywall: `False`
 - **The Guardian** — [Two women arrested in Uganda for allegedly kissing in public could face life sentence](https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws)  
   _Thu, 26 Feb 2026 08:00:23 GMT_ · paywall: `False`
+- **The Guardian** — [Blackout in Cuba leaves millions without power amid US oil chokehold](https://www.theguardian.com/world/2026/mar/04/blackout-cuba-us-oil)  
+  _Wed, 04 Mar 2026 19:42:57 GMT_ · paywall: `False`
 - **The Guardian** — [Cuba charges six exiles with terrorism in wake of deadly speedboat attack](https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack)  
   _Wed, 04 Mar 2026 07:01:11 GMT_ · paywall: `False`
 - **The Guardian** — [US military launches operation in Ecuador to combat drug trafficking](https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 28 Feb 2026 10:00:08 GMT_ · paywall: `False`
 - **The Guardian** — [At least 20 killed as cash-laden military cargo plane crashes in Bolivia](https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia)  
   _Sat, 28 Feb 2026 03:05:37 GMT_ · paywall: `False`
-- **The Guardian** — [Trump suggests US could carry out ‘friendly takeover’ of Cuba](https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change)  
-  _Fri, 27 Feb 2026 23:39:01 GMT_ · paywall: `False`
-- **The Guardian** — [Jordanian arrested for visa offences after alleged Bondi attackers visited his coffee shop during Philippines stay](https://www.theguardian.com/australia-news/2026/mar/04/jordanian-national-arrested-philippines-suspected-akrams-alleged-bondi-shooting-attackers-ntwnfb)  
-  _Wed, 04 Mar 2026 06:18:21 GMT_ · paywall: `False`
-- **The Guardian** — [China’s Two Sessions: what are the meetings and why do they matter?](https://www.theguardian.com/world/2026/mar/04/china-two-sessions-2026-meeting-what-are-they-when-is-it-explainer)  
-  _Tue, 03 Mar 2026 23:50:15 GMT_ · paywall: `False`
+- **The Guardian** — [Social climber: Punch the monkey starts to outgrow his Ikea plushie](https://www.theguardian.com/world/2026/mar/05/punch-the-monkey-outgrowing-ikea-plushie-djungelskog)  
+  _Thu, 05 Mar 2026 06:05:00 GMT_ · paywall: `False`
+- **The Guardian** — [China sets lowest GDP growth target for decades as it braces for economic slowdown](https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown)  
+  _Thu, 05 Mar 2026 05:47:08 GMT_ · paywall: `False`
