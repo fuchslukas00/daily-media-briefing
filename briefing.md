@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-03-06 07:24 UTC_
+_Generated: 2026-03-07 07:05 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Designierter US-Heimatschutzminister - Wer ist Markwayne Mullin und was ist politisch von ihm zu erwarten?](https://www.deutschlandfunk.de/wer-ist-markwayne-mullin-und-was-ist-politisch-von-ihm-zu-erwarten-100.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Vor der Landtagswahl - AfD in Sachsen-Anhalt kritisiert Parlamentsreform](https://www.deutschlandfunk.de/afd-in-sachsen-anhalt-kritisiert-parlamentsreform-102.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Newsblog zum Krieg im Nahen und Mittleren Osten - US-Admiral: "Bislang mehr als 30 iranische Schiffe versenkt"](https://www.deutschlandfunk.de/us-admiral-bislang-mehr-als-30-iranische-schiffe-versenkt-100.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg gegen die Ukraine - Tote und Verletzte bei ukrainischen Drohnenangriffen auf von Russland besetzte Gebiete](https://www.deutschlandfunk.de/tote-und-verletzte-bei-ukrainischen-drohnenangriffen-auf-von-russland-besetzte-gebiete-102.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Kuba - Millionen Menschen weiter ohne Strom - Reparaturen laufen](https://www.deutschlandfunk.de/millionen-menschen-weiter-ohne-strom-reparaturen-laufen-100.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Hongkong - Demokratie-Aktivist Jimmy Lai legt keine Berufung gegen Verurteilung zu 20 Jahren Haft ein](https://www.deutschlandfunk.de/demokratie-aktivist-jimmy-lai-legt-keine-berufung-gegen-verurteilung-zu-20-jahren-haft-ein-100.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaftspolitik - Verbände sehen Konjunktur an Kipppunkt - Appell an Regierung](https://www.deutschlandfunk.de/verbaende-sehen-konjunktur-an-kipppunkt-appell-an-regierung-102.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Washington - US-Verteidigungsministerium stuft KI-Unternehmen Anthropic als Risiko für die Lieferkette ein](https://www.deutschlandfunk.de/us-verteidigungsministerium-stuft-ki-unternehmen-anthropic-als-risiko-fuer-die-lieferkette-ein-102.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Söder: "Bundesregierung tut zu wenig für gestrandete Urlauber in Nahost"](https://www.deutschlandfunk.de/soeder-bundesregierung-tut-zu-wenig-fuer-gestrandete-urlauber-in-nahost-104.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Zwei Monate nach Maduros Festsetzung - USA und Venezuela vereinbaren Wiederaufnahme diplomatischer Beziehungen](https://www.deutschlandfunk.de/usa-und-venezuela-vereinbaren-wiederaufnahme-diplomatischer-beziehungen-100.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheitspolitik - Bundestag entscheidet über Änderungen an Krankenhausreform](https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-aenderungen-an-krankenhausreform-104.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Abkommen - EU und Schweiz verstärken Zusammenarbeit bei Außen- und Verteidigungspolitik](https://www.deutschlandfunk.de/eu-und-schweiz-verstaerken-zusammenarbeit-bei-aussen-und-verteidigungspolitik-102.html)  
-  _Fri, 06 Mar 2026 08:17:06 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Newsblog zum Krieg im Nahen und Mittleren Osten - USA und Israel verstärken Angriffe auf Iran](https://www.deutschlandfunk.de/usa-und-israel-verstaerken-angriffe-auf-iran-100.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Libanon - Drei Unifil-Soldaten bei Beschuss verletzt](https://www.deutschlandfunk.de/drei-unifil-soldaten-bei-beschuss-verletzt-100.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Medienbericht - Chinesische Hacker dringen in FBI-Netzwerk ein](https://www.deutschlandfunk.de/chinesische-hacker-dringen-in-fbi-netzwerk-ein-100.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Tierschutz - Videoüberwachung soll Pflicht in großen Schlachthöfen werden](https://www.deutschlandfunk.de/videoueberwachung-soll-pflicht-in-grossen-schlachthoefen-werden-100.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Heizungsgesetz - Justizministerin Hubig will Mieter vor überhöhten Nebenkosten schützen](https://www.deutschlandfunk.de/justizministerin-hubig-will-mieter-vor-ueberhoehten-nebenkosten-schuetzen-102.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg gegen die Ukraine - Präsident Selenskyj warnt vor russischer Frühlingsoffensive](https://www.deutschlandfunk.de/praesident-selenskyj-warnt-vor-russischer-fruehlingsoffensive-100.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Rüstungsunternehmen wollen Produktion steigern](https://www.deutschlandfunk.de/ruestungsunternehmen-wollen-produktion-steigern-100.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Venezuela - USA erlauben Handel mit Gold aus Venezuela unter Auflagen](https://www.deutschlandfunk.de/usa-erlauben-handel-mit-gold-aus-venezuela-unter-auflagen-104.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Soziales - Merz: Rente an Lebensarbeitszeit knüpfen](https://www.deutschlandfunk.de/merz-rente-an-lebensarbeitszeit-knuepfen-106.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Medien - Indonesien beschließt Social-Media-Verbot für Kinder und Jugendliche unter 16 Jahren](https://www.deutschlandfunk.de/indonesien-beschliesst-social-media-verbot-fuer-kinder-und-jugendliche-unter-16-jahren-102.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Paket-Explosionen - Anklage gegen fünf Personen in Litauen](https://www.deutschlandfunk.de/anklage-gegen-fuenf-personen-in-litauen-104.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Tarifstreit - Gewerkschaft leitet Urabstimmung bei Eurowings ein](https://www.deutschlandfunk.de/gewerkschaft-leitet-urabstimmung-bei-eurowings-ein-108.html)  
+  _Sat, 07 Mar 2026 07:40:54 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Weight-loss jab could be made for $3 a month, study finds](https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study)  
+  _Fri, 06 Mar 2026 09:00:16 GMT_ · paywall: `False`
 - **The Guardian** — [Three men deported by US file legal case against Eswatini over detention](https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention)  
   _Thu, 05 Mar 2026 19:17:48 GMT_ · paywall: `False`
 - **The Guardian** — [South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’](https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 05 Mar 2026 13:37:15 GMT_ · paywall: `False`
 - **The Guardian** — [South Sudan risks return to full-blown civil war as violence escalates](https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates)  
   _Tue, 03 Mar 2026 15:49:36 GMT_ · paywall: `False`
-- **The Guardian** — [‘Imperialist undertones’: global south condemns US-Israeli war with Iran](https://www.theguardian.com/world/2026/mar/03/global-south-condemns-us-israeli-war-with-iran)  
-  _Tue, 03 Mar 2026 13:11:17 GMT_ · paywall: `False`
+- **The Guardian** — [Peruvian state responsible for mother’s death in forced sterilisation, court rules](https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules)  
+  _Fri, 06 Mar 2026 17:41:07 GMT_ · paywall: `False`
+- **The Guardian** — [Iranian mathematician missing in Canada may have been targeted by Tehran, activists say](https://www.theguardian.com/world/2026/mar/06/missing-iranian-canada-masood-masjoody)  
+  _Fri, 06 Mar 2026 15:28:12 GMT_ · paywall: `False`
+- **The Guardian** — [Iran is not Venezuela, despite Trump’s hopes of repeating ‘regime capture’ strategy](https://www.theguardian.com/world/2026/mar/06/iran-venezuela-trump-regime-capture)  
+  _Fri, 06 Mar 2026 14:00:23 GMT_ · paywall: `False`
+- **The Guardian** — [US and Venezuela move to restore diplomatic ties two months after Maduro’s capture](https://www.theguardian.com/us-news/2026/mar/06/us-venezuela-diplomatic-ties-relations-delcy-rodriguez)  
+  _Fri, 06 Mar 2026 06:59:29 GMT_ · paywall: `False`
 - **The Guardian** — [Dismay as Hegseth urges Latin American allies to join ‘offense’ against cartels](https://www.theguardian.com/us-news/2026/mar/05/hegseth-latin-america-drug-cartels)  
   _Thu, 05 Mar 2026 19:50:26 GMT_ · paywall: `False`
-- **The Guardian** — [‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation](https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation)  
-  _Thu, 05 Mar 2026 14:01:39 GMT_ · paywall: `False`
-- **The Guardian** — [Blackout in Cuba leaves millions without power amid US oil chokehold](https://www.theguardian.com/world/2026/mar/04/blackout-cuba-us-oil)  
-  _Wed, 04 Mar 2026 19:42:57 GMT_ · paywall: `False`
-- **The Guardian** — [Cuba charges six exiles with terrorism in wake of deadly speedboat attack](https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack)  
-  _Wed, 04 Mar 2026 07:01:11 GMT_ · paywall: `False`
-- **The Guardian** — [US military launches operation in Ecuador to combat drug trafficking](https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador)  
-  _Wed, 04 Mar 2026 04:06:48 GMT_ · paywall: `False`
-- **The Guardian** — [Jimmy Lai will not appeal conviction, paving way for political negotiations over release](https://www.theguardian.com/world/2026/mar/06/jimmy-lai-will-not-appeal-conviction-paving-way-for-political-neogtiations-over-release)  
-  _Fri, 06 Mar 2026 04:09:47 GMT_ · paywall: `False`
-- **The Guardian** — [Vanuatu moves forward with UN climate resolution despite Trump opposition](https://www.theguardian.com/world/2026/mar/05/vanuatu-un-climate-crisis-trump)  
-  _Thu, 05 Mar 2026 11:00:02 GMT_ · paywall: `False`
+- **The Guardian** — [Indonesia to ban social media for children under 16](https://www.theguardian.com/technology/2026/mar/06/indonesia-social-media-ban-children)  
+  _Fri, 06 Mar 2026 16:25:53 GMT_ · paywall: `False`
+- **The Guardian** — [Philippines orders energy cuts in response to Middle East war](https://www.theguardian.com/world/2026/mar/06/philippines-orders-energy-cuts-middle-east-war-fuel-prices)  
+  _Fri, 06 Mar 2026 08:26:46 GMT_ · paywall: `False`
