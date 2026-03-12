@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-03-11 07:27 UTC_
+_Generated: 2026-03-12 07:29 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Porsche - Sportwagenbauer meldet fast 93 Prozent Gewinneinbruch](https://www.deutschlandfunk.de/sportwagenbauer-meldet-fast-93-prozent-gewinneinbruch-102.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Berichte über Seeminen - Sorge um Energiesicherheit wächst - US-Militär versenkt iranische Schiffe in der Straße von Hormus](https://www.deutschlandfunk.de/sorge-um-energiesicherheit-waechst-us-militaer-versenkt-iranische-schiffe-in-der-strasse-von-hormus-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Wadephul rechnet nicht mit schnellem Kriegsende - Besuch in Saudi-Arabien](https://www.deutschlandfunk.de/wadephul-rechnet-nicht-mit-schnellem-kriegsende-besuch-in-saudi-arabien-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Reiseverband rechnet mit baldiger Ausreise von deutschen Touristen aus Golfregion](https://www.deutschlandfunk.de/reiseverband-rechnet-mit-baldiger-ausreise-von-deutschen-touristen-aus-golfregion-106.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Kiew - Bundestagspräsidentin Klöckner in der ukrainischen Hauptstadt eingetroffen](https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-in-der-ukrainischen-hauptstadt-eingetroffen-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Tarifkonflikt - Gewerkschaft VC ruft zu Streiks bei Lufthansa am Donnerstag und Freitag auf](https://www.deutschlandfunk.de/gewerkschaft-vc-ruft-zu-streiks-bei-lufthansa-am-donnerstag-und-freitag-auf-102.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Forbes" - Mehr als 400 neue Milliardäre binnen eines Jahres - Elon Musk verdoppelt Vermögen](https://www.deutschlandfunk.de/mehr-als-400-neue-milliardaere-binnen-eines-jahres-elon-musk-verdoppelt-vermoegen-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Menschenrechte - Juristengruppe wirft El Salvador Verbrechen gegen die Menschlichkeit vor](https://www.deutschlandfunk.de/juristengruppe-wirft-el-salvador-verbrechen-gegen-die-menschlichkeit-vor-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Schweiz - Bus in Flammen: Sechs Tote und mehrere Verletzte - Polizei geht von Vorsatz aus](https://www.deutschlandfunk.de/bus-in-flammen-sechs-tote-und-mehrere-verletzte-polizei-geht-von-vorsatz-aus-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Asien - Erster Zug seit sechs Jahren zwischen Peking und Pjöngjang fährt am Donnerstag](https://www.deutschlandfunk.de/erster-zug-seit-sechs-jahren-zwischen-peking-und-pjoengjang-faehrt-am-donnerstag-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj meldet Angriff auf russische Rüstungsfabrik in Brjansk - mehrere Tote](https://www.deutschlandfunk.de/selenskyj-meldet-angriff-auf-russische-ruestungsfabrik-in-brjansk-mehrere-tote-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Union und SPD - Koalitionsausschuss berät über Haushalt und Wettbewerbsfähigkeit](https://www.deutschlandfunk.de/koalitionsausschuss-beraet-ueber-haushalt-und-wettbewerbsfaehigkeit-100.html)  
-  _Wed, 11 Mar 2026 08:19:45 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Energieversorgung - Iran-Krieg: Ölpreis steigt trotz Rekordfreigabe der IEA-Reserven](https://www.deutschlandfunk.de/iran-krieg-oelpreis-steigt-trotz-rekordfreigabe-der-iea-reserven-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg im Nahen Osten - Im Irak werden alle Ölterminals geschlossen](https://www.deutschlandfunk.de/im-irak-werden-alle-oelterminals-geschlossen-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Resolution - UNO-Sicherheitsrat verurteilt Irans Angriffe auf Golfstaaten](https://www.deutschlandfunk.de/uno-sicherheitsrat-verurteilt-irans-angriffe-auf-golfstaaten-108.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - DIHK-Außenwirtschaftschef Treier begrüßt internationale Freigabe von Ölreserven](https://www.deutschlandfunk.de/dihk-aussenwirtschaftschef-treier-begruesst-internationale-freigabe-von-oelreserven-102.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Duisburg - Hauptbahnhof nach kontrollierter Sprengung einer Weltkriegsbombe wieder in Betrieb - weiter Auswirkungen auf Zugverkehr](https://www.deutschlandfunk.de/hauptbahnhof-nach-kontrollierter-sprengung-einer-weltkriegsbombe-wieder-in-betrieb-weiter-auswirkung-102.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Tourismus - EU-Parlament stimmt heute über Richtlinie zu Pauschalreisen ab](https://www.deutschlandfunk.de/eu-parlament-stimmt-heute-ueber-richtlinie-zu-pauschalreisen-ab-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — ["Infrastrukturkonferenz Ostdeutschland" - Ministerpräsidenten fordern fairen Umgang mit ostdeutschen Bundesländern](https://www.deutschlandfunk.de/ministerpraesidenten-fordern-fairen-umgang-mit-ostdeutschen-bundeslaendern-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Medien - Manipulierte Fotos in Berichten zu Iran entdeckt](https://www.deutschlandfunk.de/manipulierte-fotos-in-berichten-zu-iran-entdeckt-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Koalitionsausschuss geht ohne konkrete Beschlüsse zu Ende](https://www.deutschlandfunk.de/koalitionsausschuss-geht-ohne-konkrete-beschluesse-zu-ende-102.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Wiesbaden - 75 Jahre BKA - Heute Festakt mit Kanzler und Innenminister](https://www.deutschlandfunk.de/75-jahre-bka-heute-festakt-mit-kanzler-und-innenminister-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Tarifkonflikt - Zweitägiger Pilotenstreik bei Lufthansa hat begonnen](https://www.deutschlandfunk.de/zweitaegiger-pilotenstreik-bei-lufthansa-hat-begonnen-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [IW-Studie - Iranerinnen und Iraner in Deutschland überdurchschnittlich gut in Arbeitsmarkt integriert](https://www.deutschlandfunk.de/iranerinnen-und-iraner-in-deutschland-ueberdurchschnittlich-gut-in-arbeitsmarkt-integriert-100.html)  
+  _Thu, 12 Mar 2026 08:24:02 +0100_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community](https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community)  
-  _Wed, 11 Mar 2026 06:00:12 GMT_ · paywall: `False`
-- **The Guardian** — [Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem](https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos)  
-  _Tue, 10 Mar 2026 16:13:35 GMT_ · paywall: `False`
-- **The Guardian** — [Descendants of Zimbabwe resistance heroes urge UK to locate looted skulls](https://www.theguardian.com/world/2026/mar/07/descendants-of-zimbabwe-resistance-heroes-urge-uk-to-locate-looted-skulls)  
-  _Sat, 07 Mar 2026 17:00:56 GMT_ · paywall: `False`
-- **The Guardian** — [Weight-loss jab could be made for $3 a month, study finds](https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study)  
-  _Fri, 06 Mar 2026 09:00:16 GMT_ · paywall: `False`
-- **The Guardian** — [Three men deported by US file legal case against Eswatini over detention](https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention)  
-  _Thu, 05 Mar 2026 19:17:48 GMT_ · paywall: `False`
+- **The Guardian** — [‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts](https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts)  
+  _Thu, 12 Mar 2026 06:00:11 GMT_ · paywall: `False`
+- **The Guardian** — [At least 17 killed after drone strikes school in Sudan](https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan)  
+  _Wed, 11 Mar 2026 19:08:31 GMT_ · paywall: `False`
+- **The Guardian** — [French aid worker among three killed in dronestrike in east DRC, M23 rebels say](https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels)  
+  _Wed, 11 Mar 2026 15:06:01 GMT_ · paywall: `False`
+- **The Guardian** — [At least 65 Nigerian soldiers killed in jihadist raids in country’s north-east](https://www.theguardian.com/world/2026/mar/11/nigerian-soldiers-killed-jihadist-raids-north-east)  
+  _Wed, 11 Mar 2026 13:18:05 GMT_ · paywall: `False`
+- **The Guardian** — [Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr](https://www.theguardian.com/us-news/2026/mar/11/rfk-vaccine-trials-guinea-bissau)  
+  _Wed, 11 Mar 2026 11:00:01 GMT_ · paywall: `False`
+- **The Guardian** — [Quit fossil fuels to stem deadly floods in Brazil’s coffee heartland, say scientists](https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists)  
+  _Thu, 12 Mar 2026 03:01:06 GMT_ · paywall: `False`
+- **The Guardian** — [El Salvador’s mass arrest policy may have led to crimes against humanity, study shows](https://www.theguardian.com/world/2026/mar/11/el-salvador-mass-incarceration-crimes-against-humanity-study)  
+  _Wed, 11 Mar 2026 15:00:44 GMT_ · paywall: `False`
+- **The Guardian** — [Argentina grants asylum to Brasília rioter in move that may sway Brazil vote](https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections)  
+  _Wed, 11 Mar 2026 14:11:07 GMT_ · paywall: `False`
+- **The Guardian** — [José Antonio Kast, the Pinochet fan about to swerve Chile to the far right](https://www.theguardian.com/world/2026/mar/11/jose-antonio-kast-pinochet-fan-chile-far-right)  
+  _Wed, 11 Mar 2026 08:00:12 GMT_ · paywall: `False`
 - **The Guardian** — [Haiti president’s assassination driven by greed and power, US prosecutors say](https://www.theguardian.com/world/2026/mar/10/haiti-president-jovenel-moise-trial)  
   _Tue, 10 Mar 2026 19:37:44 GMT_ · paywall: `False`
-- **The Guardian** — [Shots fired at US consulate in Canada in what police call ‘national security incident’](https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto)  
-  _Tue, 10 Mar 2026 17:15:57 GMT_ · paywall: `False`
-- **The Guardian** — [Family of Tumbler Ridge shooting victim sues OpenAI alleging it could have prevented attack](https://www.theguardian.com/world/2026/mar/10/tumbler-ridge-shooting-victim-sues-openai-canada)  
-  _Tue, 10 Mar 2026 15:16:17 GMT_ · paywall: `False`
-- **The Guardian** — [Fears for women’s rights in Chile as anti-abortion president set to take office](https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast)  
-  _Tue, 10 Mar 2026 10:00:24 GMT_ · paywall: `False`
-- **The Guardian** — [‘We thought we were doomed’: Canadian fishers in dramatic rescue after ice shelf floats away](https://www.theguardian.com/world/2026/mar/09/canada-ice-shelf-rescue-fishers-ontario)  
-  _Mon, 09 Mar 2026 19:14:07 GMT_ · paywall: `False`
-- **The Guardian** — [‘My lovely distraction’: live stream of kākāpō – world’s fattest parrot – and her chicks captivates New Zealand](https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand)  
-  _Wed, 11 Mar 2026 01:03:28 GMT_ · paywall: `False`
-- **The Guardian** — [China-North Korea trains to restart, six years after Covid brought them to stop](https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak)  
-  _Tue, 10 Mar 2026 10:13:40 GMT_ · paywall: `False`
+- **The Guardian** — [A young girl is knocked over at Tokyo crossing – what’s behind Japan’s ‘bumping’ trend?](https://www.theguardian.com/world/2026/mar/12/japan-butsukari-otoko-bumping-man-trend-explained-tokyo-girl-shoved)  
+  _Thu, 12 Mar 2026 05:00:11 GMT_ · paywall: `False`
+- **The Guardian** — [Asia scrambles to confront energy crisis unleashed by Iran war – with no end in sight](https://www.theguardian.com/world/2026/mar/12/asia-energy-crisis-iran-war)  
+  _Thu, 12 Mar 2026 03:40:56 GMT_ · paywall: `False`
