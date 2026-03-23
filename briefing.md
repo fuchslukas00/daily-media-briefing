@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-03-22 07:23 UTC_
+_Generated: 2026-03-23 07:45 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Iran-Krieg - Trump stellt Ultimatum zur Freigabe der Straße von Hormus](https://www.deutschlandfunk.de/trump-stellt-ultimatum-zur-freigabe-der-strasse-von-hormus-116.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Politik - Bürger in Rheinland-Pfalz wählen neuen Landtag](https://www.deutschlandfunk.de/buerger-in-rheinland-pfalz-waehlen-neuen-landtag-100.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaftskongress in Peking - Chinesischer Ministerpräsident verspricht ausländischen Firmen Gleichbehandlung](https://www.deutschlandfunk.de/chinesischer-ministerpraesident-verspricht-auslaendischen-firmen-gleichbehandlung-100.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - Rund 90 Verletzte im Süden Israels bei iranischem Raketenangriff](https://www.deutschlandfunk.de/rund-90-verletzte-im-sueden-israels-bei-iranischem-raketenangriff-100.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Abstimmung - Slowenien wählt ein neues Parlament](https://www.deutschlandfunk.de/slowenien-waehlt-ein-neues-parlament-100.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wissenschaft - Forschende finden bei Unterwasser-Expedition in Karibik unbekannte Tierarten und "blaues Loch"](https://www.deutschlandfunk.de/forschende-finden-bei-unterwasser-expedition-in-karibik-unbekannte-tierarten-und-blaues-loch-102.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Literatur - Leipziger Buchmesse geht zu Ende](https://www.deutschlandfunk.de/leipziger-buchmesse-geht-zu-ende-102.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Folgen des Iran-Kriegs - EU-Kommission senkt Zielvorgabe für die Befüllung von Gasspeichern](https://www.deutschlandfunk.de/eu-kommission-senkt-zielvorgabe-fuer-die-befuellung-von-gasspeichern-106.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [EU-Antirassismusbeauftragte Moua - Struktureller Rassismus in Europa tief verwurzelt](https://www.deutschlandfunk.de/struktureller-rassismus-in-europa-tief-verwurzelt-104.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Italien - Volksabstimmung über Justizreform beginnt](https://www.deutschlandfunk.de/volksabstimmung-ueber-justizreform-beginnt-100.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Tschechien - Zehntausende demonstrieren in Prag gegen "Aushöhlung der Demokratie" durch die Regierung Babis](https://www.deutschlandfunk.de/zehntausende-demonstrieren-in-prag-gegen-aushoehlung-der-demokratie-durch-die-regierung-babis-104.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Ex-FBI-Direktor Mueller gestorben](https://www.deutschlandfunk.de/ex-fbi-direktor-mueller-gestorben-102.html)  
-  _Sun, 22 Mar 2026 08:21:12 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Landtagswahl in Rheinland-Pfalz - Vorläufiges Endergebnis: CDU gewinnt klar vor SPD](https://www.deutschlandfunk.de/vorlaeufiges-endergebnis-cdu-gewinnt-klar-vor-spd-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Newsblog zur Landtagswahl in Rheinland-Pfalz - Schweitzer kritisiert Bundes-SPD für mangelnden Rückenwind](https://www.deutschlandfunk.de/schweitzer-kritisiert-bundes-spd-fuer-mangelnden-rueckenwind-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Landtagswahl in Rheinland-Pfalz - Rehlinger: "Menschen sehen SPD nicht mehr als Partei der Arbeitnehmer"](https://www.deutschlandfunk.de/rehlinger-menschen-sehen-spd-nicht-mehr-als-partei-der-arbeitnehmer-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - Iran setzt Angriffe auf Israel und Ziele in den Golfstaaten fort](https://www.deutschlandfunk.de/iran-setzt-angriffe-auf-israel-und-ziele-in-den-golfstaaten-fort-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Macron warnt vor "unkontrollierbarer" Eskalation](https://www.deutschlandfunk.de/macron-warnt-vor-unkontrollierbarer-eskalation-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Russland attackiert Odessa - russisches Treibstofflager nach ukrainischem Angriff in Brand](https://www.deutschlandfunk.de/russland-attackiert-odessa-russisches-treibstofflager-nach-ukrainischem-angriff-in-brand-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kuba - Stromnetz vollständig wiederhergestellt](https://www.deutschlandfunk.de/stromnetz-vollstaendig-wiederhergestellt-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [New York - Flugzeug stößt auf Landebahn mit Fahrzeug zusammen - 2 Tote sowie Verletzte](https://www.deutschlandfunk.de/flugzeug-stoesst-auf-landebahn-mit-fahrzeug-zusammen-2-tote-sowie-verletzte-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Protesttag - Viele Apotheken bleiben heute geschlossen](https://www.deutschlandfunk.de/viele-apotheken-bleiben-heute-geschlossen-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kommunalwahlen in Bayern - München wählt Grünen-Kandidat Krause zum neuen Oberbürgermeister](https://www.deutschlandfunk.de/muenchen-waehlt-gruenen-kandidat-krause-zum-neuen-oberbuergermeister-102.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - IEA-Direktor Birol warnt vor massiven Folgen für die Weltwirtschaft](https://www.deutschlandfunk.de/iea-direktor-birol-warnt-vor-massiven-folgen-fuer-die-weltwirtschaft-104.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Australien - Von der Leyen zu Gesprächen über Handelsabkommen eingetroffen](https://www.deutschlandfunk.de/von-der-leyen-zu-gespraechen-ueber-handelsabkommen-eingetroffen-100.html)  
+  _Mon, 23 Mar 2026 08:40:10 +0100_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 20 Mar 2026 09:15:43 GMT_ · paywall: `False`
 - **The Guardian** — [Seven-year-old Canadian girl with autism and mother detained by ICE in Texas](https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas)  
   _Fri, 20 Mar 2026 00:02:00 GMT_ · paywall: `False`
+- **The Guardian** — [New Zealand PM’s ratings dip as fragile economy fails to impress before November election, poll shows](https://www.theguardian.com/world/2026/mar/23/new-zealand-pm-luxon-ratings-dip-fragile-economy-november-election-poll)  
+  _Mon, 23 Mar 2026 03:22:55 GMT_ · paywall: `False`
 - **The Guardian** — [At least 14 people killed in fire at South Korean car parts factory](https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory)  
   _Sat, 21 Mar 2026 10:44:53 GMT_ · paywall: `False`
-- **The Guardian** — [BTS release new album Arirang ahead of comeback concert](https://www.theguardian.com/music/2026/mar/20/bts-arirang-new-album-comeback-concert-kpop)  
-  _Fri, 20 Mar 2026 05:33:59 GMT_ · paywall: `False`
