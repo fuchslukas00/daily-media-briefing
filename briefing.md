@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-03-26 07:43 UTC_
+_Generated: 2026-03-27 07:43 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Klimaschutzprogramm der Regierung - Grünen-Chef Banaszak: "Zielverfehlung mit Ansage"](https://www.deutschlandfunk.de/gruenen-chef-banaszak-zielverfehlung-mit-ansage-102.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bauwirtschaft - IG-BAU befürchtet, dass Zahl neuer Wohnungen auf unter 200.000 sinkt](https://www.deutschlandfunk.de/ig-bau-befuerchtet-dass-zahl-neuer-wohnungen-auf-unter-200-000-sinkt-100.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gesellschaft - Merz führt "explodierende Gewalt" auch auf Zuwanderung zurück - Kanzler erneut in der Kritik](https://www.deutschlandfunk.de/merz-fuehrt-explodierende-gewalt-auch-auf-zuwanderung-zurueck-kanzler-erneut-in-der-kritik-100.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg - USA melden mehr als 10.000 Angriffe auf den Iran](https://www.deutschlandfunk.de/usa-melden-mehr-als-10-000-angriffe-auf-den-iran-100.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Verteidigungsminister - Pistorius bereit zur Absicherung einer Waffenruhe im Iran-Krieg](https://www.deutschlandfunk.de/pistorius-bereit-zur-absicherung-einer-waffenruhe-im-iran-krieg-102.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Energiepolitik - Bundestag entscheidet über Maßnahmenpaket zu Kraftstoffpreisen](https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-massnahmenpaket-zu-kraftstoffpreisen-102.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Reformvorschläge - Kanzleramtschef Frei lobt SPD-Chef Klingbeil](https://www.deutschlandfunk.de/kanzleramtschef-frei-lobt-spd-chef-klingbeil-118.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Rheinland-Pfalz - CDU und SPD beginnen Sondierungen](https://www.deutschlandfunk.de/cdu-und-spd-beginnen-sondierungen-102.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bildungsministerin - Prien verteidigt Neuausrichtung von "Demokratie Leben!"-Programm: "Vielfalt kein staatliches Förderziel"](https://www.deutschlandfunk.de/prien-verteidigt-neuausrichtung-von-demokratie-leben-programm-vielfalt-kein-staatliches-foerderziel-100.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Lübecker Bucht - Weiterer Rettungsversuch mit Baggern für Buckelwal](https://www.deutschlandfunk.de/weiterer-rettungsversuch-mit-baggern-fuer-buckelwal-102.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Debatte - Ernährungsxperten werben kurz vor Bundesratssitzung erneut für Zuckersteuer](https://www.deutschlandfunk.de/ernaehrungsxperten-werben-kurz-vor-bundesratssitzung-erneut-fuer-zuckersteuer-100.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Womöglich wegweisendes Urteil in den USA - Instagram und YouTube verlieren Prozess wegen Social-Media-Sucht](https://www.deutschlandfunk.de/instagram-und-youtube-verlieren-prozess-wegen-social-media-sucht-100.html)  
-  _Thu, 26 Mar 2026 08:23:04 +0100_ · paywall: `False`
+- **Süddeutsche Zeitung** — [Krieg in Iran: Berichte: Pentagon könnte 10 000 weitere Soldaten senden](https://www.sueddeutsche.de/politik/iran-liveblog-news-pentagon-us-soldaten-10-000-entsendung-li.3458356)  
+  _Fri, 27 Mar 2026 07:17:00 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Lübecker Bucht: Buckelwal am Ostseestrand hat sich befreit](https://www.sueddeutsche.de/wissen/timmendorfer-strand-wal-rettungsaktion-gestrandet-li.3459352)  
+  _Fri, 27 Mar 2026 06:08:00 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Volker Wissing: „Da kommen Sie nicht ohne Schrammen heraus“](https://www.sueddeutsche.de/leben/volker-wissing-fdp-austritt-ampel-koalition-interview-li.3451828)  
+  _Fri, 27 Mar 2026 06:02:00 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Bundespolitik: Miersch zu Merz: „Gewalt gegen Frauen hat keine Herkunft“](https://www.sueddeutsche.de/politik/bundesregierung-liveblog-miersch-merz-kritik-gewalt-migranten-li.3457776)  
+  _Fri, 27 Mar 2026 06:01:00 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Satire: „Tote Faschisten muss man in Deutschland bejubeln dürfen“](https://www.sueddeutsche.de/medien/sebastian-hotz-el-hotzo-donald-trump-faschisten-sterben-deutschland-urteil-berlin-li.3459158)  
+  _Thu, 26 Mar 2026 21:24:53 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Sexuelle Gewalt gegen Frauen: „Lasst uns die Mauer des Schweigens einreißen“](https://www.sueddeutsche.de/panorama/collien-fernandes-demo-hamburg-frauen-li.3458470)  
+  _Thu, 26 Mar 2026 20:28:36 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Assistierter Suizid: „Ich halte diese Familie nicht mehr aus, ich halte den Schmerz nicht mehr aus“](https://www.sueddeutsche.de/panorama/spanien-sterbehilfe-noelia-castillo-schicksal-gestorben-li.3459322)  
+  _Thu, 26 Mar 2026 19:09:48 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Deutsche Bahn: Bahn muss neue Finanzvorständin suchen](https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-finanzvorstaendin-karin-dohm-li.3459123)  
+  _Thu, 26 Mar 2026 18:16:46 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Ehemalige RAF-Terroristin: Generalbundesanwalt klagt Daniela Klette an](https://www.sueddeutsche.de/politik/raf-klette-terrorismus-kriminalitaet-li.3459329)  
+  _Thu, 26 Mar 2026 16:59:00 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Union und SPD: Planlos in den Frühling der Reformen](https://www.sueddeutsche.de/politik/union-spd-reformen-klingbeil-li.3459071)  
+  _Thu, 26 Mar 2026 16:15:00 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Social Media: Ein erster Schritt](https://www.sueddeutsche.de/medien/los-angeles-urteil-social-media-sucht-meta-google-mark-zuckerberg-li.3459076)  
+  _Thu, 26 Mar 2026 16:11:24 GMT_ · paywall: `hard`
+- **Süddeutsche Zeitung** — [Entwicklungshilfe: Globale Solidarität – offenbar passé](https://www.sueddeutsche.de/politik/entwicklungshilfe-deutschland-oecd-li.3459093)  
+  _Thu, 26 Mar 2026 15:59:53 GMT_ · paywall: `hard`
 
 ## international
 
+- **The Guardian** — [Nigeria takes its place on world stage in quest to become regional superpower](https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties)  
+  _Thu, 26 Mar 2026 14:45:44 GMT_ · paywall: `False`
+- **The Guardian** — [Two drone strikes on civilian targets kill 28 people in Sudan](https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck)  
+  _Thu, 26 Mar 2026 10:24:21 GMT_ · paywall: `False`
 - **The Guardian** — [Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas](https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas)  
   _Thu, 26 Mar 2026 06:51:05 GMT_ · paywall: `False`
 - **The Guardian** — [UN votes to describe slave trade as ‘gravest crime against humanity’](https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice)  
   _Wed, 25 Mar 2026 19:16:41 GMT_ · paywall: `False`
 - **The Guardian** — [Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation](https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit)  
   _Wed, 25 Mar 2026 03:06:10 GMT_ · paywall: `False`
-- **The Guardian** — [‘Extraordinary event’ for mountain gorillas as new twins born in DRC](https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe)  
-  _Tue, 24 Mar 2026 12:42:56 GMT_ · paywall: `False`
-- **The Guardian** — [Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports](https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports)  
-  _Sat, 21 Mar 2026 23:15:04 GMT_ · paywall: `False`
-- **The Guardian** — [Mark Carney rebukes Air Canada chief over English-only crash message](https://www.theguardian.com/world/2026/mar/25/mark-carney-air-canada-fire-truck-crash)  
-  _Wed, 25 Mar 2026 19:47:43 GMT_ · paywall: `False`
-- **The Guardian** — [Canadian woman held with daughter by ICE warns all immigrants to ‘lie low’](https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants)  
-  _Tue, 24 Mar 2026 20:20:08 GMT_ · paywall: `False`
-- **The Guardian** — [Jailed Bolsonaro granted ‘humanitarian house arrest’ amid failing health](https://www.theguardian.com/world/2026/mar/24/brazil-jair-bolsonaro-house-arrest-health)  
-  _Tue, 24 Mar 2026 19:03:16 GMT_ · paywall: `False`
-- **The Guardian** — [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash)  
-  _Tue, 24 Mar 2026 13:33:42 GMT_ · paywall: `False`
-- **The Guardian** — [‘A miracle’: Canadian flight attendant ejected from plane survives New York crash](https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia)  
-  _Tue, 24 Mar 2026 01:09:29 GMT_ · paywall: `False`
+- **The Guardian** — [Two humanitarian aid boats heading to Cuba have gone missing, Mexico says](https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing)  
+  _Fri, 27 Mar 2026 02:21:37 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuelans deported by US detail fresh claims of torture and abuse at El Salvador mega-prison](https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition)  
+  _Thu, 26 Mar 2026 22:16:01 GMT_ · paywall: `False`
+- **The Guardian** — [Flatterers out in force to fill Trump’s head with Venezuelan statue dreams](https://www.theguardian.com/us-news/2026/mar/26/trump-venezuela-statue)  
+  _Thu, 26 Mar 2026 20:37:28 GMT_ · paywall: `False`
+- **The Guardian** — [Nicolás Maduro appears again in New York court on ‘narco-terrorism’ charges](https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case)  
+  _Thu, 26 Mar 2026 17:58:53 GMT_ · paywall: `False`
+- **The Guardian** — [Lawmakers call for Air Canada chief to resign after English-only message to plane crash victims](https://www.theguardian.com/us-news/2026/mar/26/air-canada-apology-rousseau-lga-plane-crash)  
+  _Thu, 26 Mar 2026 17:30:44 GMT_ · paywall: `False`
+- **The Guardian** — [Australia will be left with no submarines if it abandons Aukus, senior defence official warns](https://www.theguardian.com/world/2026/mar/27/australia-will-be-left-with-no-submarines-if-it-abandons-aukus-senior-defence-official-warns)  
+  _Fri, 27 Mar 2026 03:54:28 GMT_ · paywall: `False`
 - **The Guardian** — [Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war](https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may)  
   _Thu, 26 Mar 2026 00:39:27 GMT_ · paywall: `False`
-- **The Guardian** — [Australia refuses to say how many Chinese nationals are arriving by boat, saying it may damage bilateral relations](https://www.theguardian.com/australia-news/2026/mar/25/australia-chinese-nationals-arriving-by-boat-indonesia-reports-surge)  
-  _Wed, 25 Mar 2026 14:00:09 GMT_ · paywall: `False`
