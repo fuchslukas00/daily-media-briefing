@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-03-29 07:34 UTC_
+_Generated: 2026-03-30 08:09 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Russland - Weiterer ukrainischer Angriff auf Ölexport-Hafen an der Ostsee](https://www.deutschlandfunk.de/weiterer-ukrainischer-angriff-auf-oelexport-hafen-an-der-ostsee-102.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - EU-Mission warnt vor Huthi-Angriffen auf Schifffahrt](https://www.deutschlandfunk.de/eu-mission-warnt-vor-huthi-angriffen-auf-schifffahrt-102.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheitspolitik - Krankenkassen gegen Einsparungen zuerst bei Patienten](https://www.deutschlandfunk.de/krankenkassen-gegen-einsparungen-zuerst-bei-patienten-100.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - "No Kings": Millionen Menschen demonstrieren wieder gegen Trump - Kundgebungen auch in Deutschland](https://www.deutschlandfunk.de/no-kings-millionen-menschen-demonstrieren-wieder-gegen-trump-kundgebungen-auch-in-deutschland-100.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Formel 1 - 19-jähriger Kimi Antonelli gewinnt in Suzuka und setzt sich an die Spitze der Fahrer-WM](https://www.deutschlandfunk.de/19-jaehriger-kimi-antonelli-gewinnt-in-suzuka-und-setzt-sich-an-die-spitze-der-fahrer-wm-100.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kultur - Rheingau Musik Preis 2026 für Opernstar Rolando Villazón](https://www.deutschlandfunk.de/rheingau-musik-preis-2026-fuer-opernstar-rolando-villaz-n-100.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Havanna - Schiffe mit Hilfslieferungen aus Mexiko in Kuba eingetroffen](https://www.deutschlandfunk.de/schiffe-mit-hilfslieferungen-aus-mexiko-in-kuba-eingetroffen-102.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Weiterer Angriff der Huthi-Miliz auf Israel](https://www.deutschlandfunk.de/weiterer-angriff-der-huthi-miliz-auf-israel-100.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Iran erlaubt Durchfahrt von 20 Schiffen unter pakistanischer Flagge durch Straße von Hormus](https://www.deutschlandfunk.de/iran-erlaubt-durchfahrt-von-20-schiffen-unter-pakistanischer-flagge-durch-strasse-von-hormus-106.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Westjordanland - Presseverband wirft israelischer Armee aggressives Verhalten gegenüber CNN-Team vor](https://www.deutschlandfunk.de/presseverband-wirft-israelischer-armee-aggressives-verhalten-gegenueber-cnn-team-vor-102.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Israel - Hunderte Menschen protestieren gegen Iran-Krieg](https://www.deutschlandfunk.de/hunderte-menschen-protestieren-gegen-iran-krieg-100.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Earth Hour - Beleuchtung an vielen Orten ausgeschaltet - Zeichen für Klima- und Umweltschutz](https://www.deutschlandfunk.de/beleuchtung-an-vielen-orten-ausgeschaltet-zeichen-fuer-klima-und-umweltschutz-106.html)  
-  _Sun, 29 Mar 2026 09:28:16 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Staatsbesuch von Al-Scharaa: Warum Deutschland sich so für Syrien einsetzt](https://www.deutschlandfunk.de/staatsbesuch-von-al-scharaa-warum-deutschland-sich-so-fuer-syrien-einsetzt-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reformen im Gesundheitssystem - Grünen-Politiker Dahmen fordert Eile von Regierung](https://www.deutschlandfunk.de/gruenen-politiker-dahmen-fordert-eile-von-regierung-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Frühere CDU-Chefin - Kramp-Karrenbauer fordert CDU zu klarer Abgrenzung von AfD auf](https://www.deutschlandfunk.de/kramp-karrenbauer-fordert-cdu-zu-klarer-abgrenzung-von-afd-auf-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Israel - Armee suspendiert Bataillon nach mutmaßlicher Gewalt gegen Reporter](https://www.deutschlandfunk.de/armee-suspendiert-bataillon-nach-mutmasslicher-gewalt-gegen-reporter-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Zentrum russischer Drohnenindustrie angegriffen](https://www.deutschlandfunk.de/zentrum-russischer-drohnenindustrie-angegriffen-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Israel meldet iranischen Raketenbeschuss und Angriffe auf Teheran](https://www.deutschlandfunk.de/israel-meldet-iranischen-raketenbeschuss-und-angriffe-auf-teheran-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - Neue Inflationsdaten erwartet: Preiswelle mit Iran-Krieg?](https://www.deutschlandfunk.de/neue-inflationsdaten-erwartet-preiswelle-mit-iran-krieg-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reform der gesetzlichen Krankenversicherung - Expertenkommission legt Empfehlungen vor](https://www.deutschlandfunk.de/expertenkommission-legt-empfehlungen-vor-114.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Innenpolitische Reformen - Middelberg offen für Vorschläge](https://www.deutschlandfunk.de/middelberg-offen-fuer-vorschlaege-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ifo-Institut - Mehr Unternehmen wollen Preise wegen Iran-Krieg erhöhen](https://www.deutschlandfunk.de/mehr-unternehmen-wollen-preise-wegen-iran-krieg-erhoehen-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundeswirtschaftsministerium - Neue Regeln für Spritpreise sollen ab Mittwoch gelten](https://www.deutschlandfunk.de/neue-regeln-fuer-spritpreise-sollen-ab-mittwoch-gelten-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Referentenentwurf - Prien will Kinder- und Jugendhilfe umfassend reformieren](https://www.deutschlandfunk.de/prien-will-kinder-und-jugendhilfe-umfassend-reformieren-100.html)  
+  _Mon, 30 Mar 2026 09:57:13 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Urgent action needed to prevent surge in digital violence in Africa, experts say](https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say)  
+  _Mon, 30 Mar 2026 04:00:16 GMT_ · paywall: `False`
 - **The Guardian** — [Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions](https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions)  
   _Sun, 29 Mar 2026 04:00:46 GMT_ · paywall: `False`
 - **The Guardian** — [UN’s landmark slavery ruling energises African Union’s fight for reparations](https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis)  
@@ -41,8 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 27 Mar 2026 07:42:21 GMT_ · paywall: `False`
 - **The Guardian** — [Nigeria takes its place on world stage in quest to become regional superpower](https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties)  
   _Thu, 26 Mar 2026 14:45:44 GMT_ · paywall: `False`
-- **The Guardian** — [Two drone strikes on civilian targets kill 28 people in Sudan](https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck)  
-  _Thu, 26 Mar 2026 10:24:21 GMT_ · paywall: `False`
+- **The Guardian** — [Trump appears to relax de facto oil blockade on Cuba as Russian oil tanker nears island](https://www.theguardian.com/us-news/2026/mar/29/us-russian-oil-tanker-cuba-blockade)  
+  _Sun, 29 Mar 2026 22:41:49 GMT_ · paywall: `False`
 - **The Guardian** — [US embassy in Mexico prompts outrage with AI video promoting ‘self-deportation’](https://www.theguardian.com/us-news/2026/mar/28/us-embassy-mexico-outrage-ai-video-self-deportation)  
   _Sat, 28 Mar 2026 12:00:27 GMT_ · paywall: `False`
 - **The Guardian** — [Scientists film whale giving birth while other whales work together to help her](https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 27 Mar 2026 15:19:07 GMT_ · paywall: `False`
 - **The Guardian** — [Two humanitarian aid boats heading to Cuba have gone missing, Mexico says](https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing)  
   _Fri, 27 Mar 2026 02:21:37 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuelans deported by US detail fresh claims of torture and abuse at El Salvador mega-prison](https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition)  
-  _Thu, 26 Mar 2026 22:16:01 GMT_ · paywall: `False`
-- **The Guardian** — [Australia will be left with no submarines if it abandons Aukus, senior defence official warns](https://www.theguardian.com/world/2026/mar/27/australia-will-be-left-with-no-submarines-if-it-abandons-aukus-senior-defence-official-warns)  
-  _Fri, 27 Mar 2026 03:54:28 GMT_ · paywall: `False`
-- **The Guardian** — [Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war](https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may)  
-  _Thu, 26 Mar 2026 00:39:27 GMT_ · paywall: `False`
+- **The Guardian** — [Price of oil hits $116 a barrel after Trump says he wants to ‘take the oil in Iran’](https://www.theguardian.com/business/2026/mar/30/price-of-oil-trump-iran-stock-markets-middle-east)  
+  _Mon, 30 Mar 2026 07:28:08 GMT_ · paywall: `False`
+- **The Guardian** — [China’s ‘teapot’ oil refineries keep economy brewing – but surging crude prices leave them strained](https://www.theguardian.com/world/2026/mar/30/china-teapot-refineries-crude-oil-iran-war)  
+  _Mon, 30 Mar 2026 00:00:09 GMT_ · paywall: `False`
