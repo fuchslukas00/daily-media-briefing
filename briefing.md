@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-03-31 07:52 UTC_
+_Generated: 2026-04-01 08:02 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Rückkehr von 80 Prozent der Syrer - Kritik an Merz-Ansage zur Ausreise von Syrern](https://www.deutschlandfunk.de/kritik-an-merz-ansage-zur-ausreise-von-syrern-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bericht - Tausende US-Fallschirmjäger in Nahost angekommen, möglicher Einsatz offen](https://www.deutschlandfunk.de/tausende-us-fallschirmjaeger-in-nahost-angekommen-moeglicher-einsatz-offen-102.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Angriffe auf den Iran - Netanjahu: "Mehr als die Hälfte der Kriegsziele im Iran sind erreicht"](https://www.deutschlandfunk.de/netanjahu-mehr-als-die-haelfte-der-kriegsziele-im-iran-sind-erreicht-106.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Mittlerer Osten - Öltanker im Hafen von Dubai durch iranische Luftangriffe beschädigt](https://www.deutschlandfunk.de/oeltanker-im-hafen-von-dubai-durch-iranische-luftangriffe-beschaedigt-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Irankrieg - CDU-Politiker Asghari hält Krieg gegen den Iran für alternativlos](https://www.deutschlandfunk.de/cdu-politiker-asghari-haelt-krieg-gegen-den-iran-fuer-alternativlos-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Tod von Blauhelmsoldaten im Libanon - Indonesien fordert Einhaltung des Völkerrechts](https://www.deutschlandfunk.de/indonesien-fordert-einhaltung-des-voelkerrechts-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Europarat - Generalsekretär Berset: Todesstrafe für Terroristen in Israel ist "zivilisatorischer Rückschritt"](https://www.deutschlandfunk.de/generalsekretaer-berset-todesstrafe-fuer-terroristen-in-israel-ist-zivilisatorischer-rueckschritt-114.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Jubel und Entsetzen - Israel weitet Todesstrafe aus](https://www.deutschlandfunk.de/israel-weitet-todesstrafe-aus-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Russlands Krieg in der Ukraine - Wie Europa zum Jahrestag des Butscha-Massakers Solidarität zeigt](https://www.deutschlandfunk.de/wie-europa-zum-jahrestag-des-butscha-massakers-solidaritaet-zeigt-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vorschläge zur Finanzierung der Krankenversicherung - Gesetzliche Krankenkassen fordern rasche Umsetzung einer Reform](https://www.deutschlandfunk.de/gesetzliche-krankenkassen-fordern-rasche-umsetzung-einer-reform-102.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fahrdienstleiter - Deutsche Bahn: Personalmangel in Stellwerken weitgehend behoben](https://www.deutschlandfunk.de/deutsche-bahn-personalmangel-in-stellwerken-weitgehend-behoben-100.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Abschaffung der Schuldenbremse" - Ex-FDP-Abgeordnete mit Verfassungsbeschwerde gegen milliardenschwere Sonderschulden](https://www.deutschlandfunk.de/ex-fdp-abgeordnete-mit-verfassungsbeschwerde-gegen-milliardenschwere-sonderschulden-102.html)  
-  _Tue, 31 Mar 2026 08:50:56 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesverband Energie - Ökostrom deckt derzeit mehr als die Hälfte des Verbrauchs](https://www.deutschlandfunk.de/oekostrom-deckt-derzeit-mehr-als-die-haelfte-des-verbrauchs-100.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Tankstellen dürfen Preise von heute an nur noch einmal täglich erhöhen](https://www.deutschlandfunk.de/tankstellen-duerfen-preise-von-heute-an-nur-noch-einmal-taeglich-erhoehen-104.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Energiekrise - SPD-Politikerin Scheer will zügigeren Ausbau der erneuerbaren Energien](https://www.deutschlandfunk.de/spd-politikerin-scheer-will-zuegigeren-ausbau-der-erneuerbaren-energien-100.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Studie - Greenpeace: Krisengewinne der Mineralölkonzerne vor allem in reicheren Ländern](https://www.deutschlandfunk.de/greenpeace-krisengewinne-der-mineraloelkonzerne-vor-allem-in-reicheren-laendern-102.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Evaluations-Bericht - Teillegalisierung von Cannabis führt bislang nicht zu mehr Konsum](https://www.deutschlandfunk.de/teillegalisierung-von-cannabis-fuehrt-bislang-nicht-zu-mehr-konsum-100.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Trump unterzeichnet Dekret zur Erschwerung der Briefwahl](https://www.deutschlandfunk.de/trump-unterzeichnet-dekret-zur-erschwerung-der-briefwahl-100.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Oberstes Gericht verhandelt heute Sammelklage gegen Trump-Dekret zum Geburtsrecht](https://www.deutschlandfunk.de/oberstes-gericht-verhandelt-heute-sammelklage-gegen-trump-dekret-zum-geburtsrecht-102.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Gericht bremst Trumps Pläne für Ballsaal am Weißen Haus aus](https://www.deutschlandfunk.de/gericht-bremst-trumps-plaene-fuer-ballsaal-am-weissen-haus-aus-102.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Kein Deal nötig" - Trump: Ende der US-Angriffe im Iran in wenigen Wochen](https://www.deutschlandfunk.de/trump-ende-der-us-angriffe-im-iran-in-wenigen-wochen-100.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Knesset-Beschluss - Israels Botschafter kritisiert Menschenrechtsbeauftragten der Bundesregierung scharf](https://www.deutschlandfunk.de/israels-botschafter-kritisiert-menschenrechtsbeauftragten-der-bundesregierung-scharf-102.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - Erneut Luftangriffe auf Teheran - Iran attackiert Flughafen von Kuwait-Stadt](https://www.deutschlandfunk.de/erneut-luftangriffe-auf-teheran-iran-attackiert-flughafen-von-kuwait-stadt-102.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Migration - Städtetag erwartet Regelung für Verbleib von syrischen Fachkräften](https://www.deutschlandfunk.de/staedtetag-erwartet-regelung-fuer-verbleib-von-syrischen-fachkraeften-100.html)  
+  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 30 Mar 2026 04:00:16 GMT_ · paywall: `False`
 - **The Guardian** — [Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions](https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions)  
   _Sun, 29 Mar 2026 04:00:46 GMT_ · paywall: `False`
+- **The Guardian** — [Stephen Lewis, Canadian politician and social activist, dies aged 88](https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88)  
+  _Wed, 01 Apr 2026 01:31:04 GMT_ · paywall: `False`
+- **The Guardian** — [‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico](https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species)  
+  _Tue, 31 Mar 2026 15:26:49 GMT_ · paywall: `False`
 - **The Guardian** — [Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods](https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties)  
   _Tue, 31 Mar 2026 00:56:20 GMT_ · paywall: `False`
 - **The Guardian** — [At least 70 people killed and 30 injured in Haiti gang attack](https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate)  
   _Mon, 30 Mar 2026 20:46:36 GMT_ · paywall: `False`
 - **The Guardian** — [Avi Lewis, elected to lead Canada’s New Democratic party, promises ‘NDP comeback’](https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party)  
   _Mon, 30 Mar 2026 17:39:53 GMT_ · paywall: `False`
-- **The Guardian** — [US reopens embassy in Venezuela in significant thawing of relations](https://www.theguardian.com/world/2026/mar/30/us-reopens-embassy-venezuela)  
-  _Mon, 30 Mar 2026 17:27:57 GMT_ · paywall: `False`
-- **The Guardian** — [Air Canada CEO to resign after backlash to video tribute of pilots killed in crash](https://www.theguardian.com/world/2026/mar/30/air-canada-ceo-resignation)  
-  _Mon, 30 Mar 2026 16:06:42 GMT_ · paywall: `False`
-- **The Guardian** — [China to ban storing remains of dead in ‘bone ash apartments’](https://www.theguardian.com/world/2026/mar/31/china-bans-storing-ashes-apartments)  
-  _Tue, 31 Mar 2026 04:54:45 GMT_ · paywall: `False`
-- **The Guardian** — [US-based dissident artist put on trial in China over satirical Mao sculptures, says rights group](https://www.theguardian.com/world/2026/mar/31/dissident-artist-gao-zhen-tried-china-satirical-mao-sculptures-rights-group)  
-  _Tue, 31 Mar 2026 04:07:23 GMT_ · paywall: `False`
+- **The Guardian** — [Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war](https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal)  
+  _Wed, 01 Apr 2026 05:05:00 GMT_ · paywall: `False`
+- **The Guardian** — [Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry](https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand)  
+  _Wed, 01 Apr 2026 03:23:43 GMT_ · paywall: `False`
