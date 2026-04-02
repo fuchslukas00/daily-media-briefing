@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-04-01 08:02 UTC_
+_Generated: 2026-04-02 07:48 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Bundesverband Energie - Ökostrom deckt derzeit mehr als die Hälfte des Verbrauchs](https://www.deutschlandfunk.de/oekostrom-deckt-derzeit-mehr-als-die-haelfte-des-verbrauchs-100.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Tankstellen dürfen Preise von heute an nur noch einmal täglich erhöhen](https://www.deutschlandfunk.de/tankstellen-duerfen-preise-von-heute-an-nur-noch-einmal-taeglich-erhoehen-104.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiekrise - SPD-Politikerin Scheer will zügigeren Ausbau der erneuerbaren Energien](https://www.deutschlandfunk.de/spd-politikerin-scheer-will-zuegigeren-ausbau-der-erneuerbaren-energien-100.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Studie - Greenpeace: Krisengewinne der Mineralölkonzerne vor allem in reicheren Ländern](https://www.deutschlandfunk.de/greenpeace-krisengewinne-der-mineraloelkonzerne-vor-allem-in-reicheren-laendern-102.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Evaluations-Bericht - Teillegalisierung von Cannabis führt bislang nicht zu mehr Konsum](https://www.deutschlandfunk.de/teillegalisierung-von-cannabis-fuehrt-bislang-nicht-zu-mehr-konsum-100.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Trump unterzeichnet Dekret zur Erschwerung der Briefwahl](https://www.deutschlandfunk.de/trump-unterzeichnet-dekret-zur-erschwerung-der-briefwahl-100.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Oberstes Gericht verhandelt heute Sammelklage gegen Trump-Dekret zum Geburtsrecht](https://www.deutschlandfunk.de/oberstes-gericht-verhandelt-heute-sammelklage-gegen-trump-dekret-zum-geburtsrecht-102.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Gericht bremst Trumps Pläne für Ballsaal am Weißen Haus aus](https://www.deutschlandfunk.de/gericht-bremst-trumps-plaene-fuer-ballsaal-am-weissen-haus-aus-102.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Kein Deal nötig" - Trump: Ende der US-Angriffe im Iran in wenigen Wochen](https://www.deutschlandfunk.de/trump-ende-der-us-angriffe-im-iran-in-wenigen-wochen-100.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Knesset-Beschluss - Israels Botschafter kritisiert Menschenrechtsbeauftragten der Bundesregierung scharf](https://www.deutschlandfunk.de/israels-botschafter-kritisiert-menschenrechtsbeauftragten-der-bundesregierung-scharf-102.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - Erneut Luftangriffe auf Teheran - Iran attackiert Flughafen von Kuwait-Stadt](https://www.deutschlandfunk.de/erneut-luftangriffe-auf-teheran-iran-attackiert-flughafen-von-kuwait-stadt-102.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Migration - Städtetag erwartet Regelung für Verbleib von syrischen Fachkräften](https://www.deutschlandfunk.de/staedtetag-erwartet-regelung-fuer-verbleib-von-syrischen-fachkraeften-100.html)  
-  _Wed, 01 Apr 2026 09:56:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Raumfahrt - Erstmals seit über 50 Jahren Menschen auf dem Weg zum Mond](https://www.deutschlandfunk.de/erstmals-seit-ueber-50-jahren-menschen-auf-dem-weg-zum-mond-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rede an die Nation - Trump: US-Ziele im Iran-Krieg stehen "kurz vor der Vollendung" - Bartsch: "Trump weiß nicht mehr, was er tut"](https://www.deutschlandfunk.de/trump-us-ziele-im-iran-krieg-stehen-kurz-vor-der-vollendung-bartsch-trump-weiss-nicht-mehr-was-er-tu-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Israelische Armee meldet drei Angriffswellen mit Raketen aus dem Iran](https://www.deutschlandfunk.de/israelische-armee-meldet-drei-angriffswellen-mit-raketen-aus-dem-iran-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Wirtschaftsministerin Reiche sieht keine Gefahr für die Energieversorgung](https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-sieht-keine-gefahr-fuer-die-energieversorgung-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sicherheitslage - Deutsches Rotes Kreuz kritisiert Defizite im Bevölkerungsschutz](https://www.deutschlandfunk.de/deutsches-rotes-kreuz-kritisiert-defizite-im-bevoelkerungsschutz-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Umweltverbände fordern Abkehr von fossilen Energieträgern](https://www.deutschlandfunk.de/umweltverbaende-fordern-abkehr-von-fossilen-energietraegern-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj spricht mit US-Unterhändlern über Friedensprozess - Moskau will Gebiet Luhansk vollständig eingenommen haben](https://www.deutschlandfunk.de/selenskyj-spricht-mit-us-unterhaendlern-ueber-friedensprozess-moskau-will-gebiet-luhansk-vollstaendi-114.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - CDU-Wirtschaftspolitiker Bilger mahnt schnelle Reformen an](https://www.deutschlandfunk.de/cdu-wirtschaftspolitiker-bilger-mahnt-schnelle-reformen-an-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Cape Canaveral - Artemis 2: Erste bemannte Mondmission der NASA seit mehr als 50 Jahren gestartet](https://www.deutschlandfunk.de/artemis-2-erste-bemannte-mondmission-der-nasa-seit-mehr-als-50-jahren-gestartet-116.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienberichte - Nächster Schritt für Rekord-Börsengang von SpaceX - Raumfahrtunternehmen stellt vertraulich Antrag](https://www.deutschlandfunk.de/naechster-schritt-fuer-rekord-boersengang-von-spacex-raumfahrtunternehmen-stellt-vertraulich-antrag-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kundenschutz - Verbraucherzentrale fordert mehr Transparenz bei Lebensmittelpreisen](https://www.deutschlandfunk.de/verbraucherzentrale-fordert-mehr-transparenz-bei-lebensmittelpreisen-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [US-Wahlen - Demokraten klagen gegen Trumps Dekret zur Briefwahl](https://www.deutschlandfunk.de/demokraten-klagen-gegen-trumps-dekret-zur-briefwahl-100.html)  
+  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 30 Mar 2026 20:46:36 GMT_ · paywall: `False`
 - **The Guardian** — [Avi Lewis, elected to lead Canada’s New Democratic party, promises ‘NDP comeback’](https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party)  
   _Mon, 30 Mar 2026 17:39:53 GMT_ · paywall: `False`
-- **The Guardian** — [Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war](https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal)  
-  _Wed, 01 Apr 2026 05:05:00 GMT_ · paywall: `False`
-- **The Guardian** — [Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry](https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand)  
-  _Wed, 01 Apr 2026 03:23:43 GMT_ · paywall: `False`
+- **The Guardian** — [One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia](https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert)  
+  _Thu, 02 Apr 2026 05:23:28 GMT_ · paywall: `False`
+- **The Guardian** — [New Zealand signs defence pact with Cook Islands after quarrel over China deal](https://www.theguardian.com/world/2026/apr/02/new-zealand-cook-islands-defense)  
+  _Thu, 02 Apr 2026 01:55:07 GMT_ · paywall: `False`
