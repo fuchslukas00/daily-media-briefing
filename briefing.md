@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-04-02 07:48 UTC_
+_Generated: 2026-04-03 07:44 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Raumfahrt - Erstmals seit über 50 Jahren Menschen auf dem Weg zum Mond](https://www.deutschlandfunk.de/erstmals-seit-ueber-50-jahren-menschen-auf-dem-weg-zum-mond-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Rede an die Nation - Trump: US-Ziele im Iran-Krieg stehen "kurz vor der Vollendung" - Bartsch: "Trump weiß nicht mehr, was er tut"](https://www.deutschlandfunk.de/trump-us-ziele-im-iran-krieg-stehen-kurz-vor-der-vollendung-bartsch-trump-weiss-nicht-mehr-was-er-tu-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Israelische Armee meldet drei Angriffswellen mit Raketen aus dem Iran](https://www.deutschlandfunk.de/israelische-armee-meldet-drei-angriffswellen-mit-raketen-aus-dem-iran-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Wirtschaftsministerin Reiche sieht keine Gefahr für die Energieversorgung](https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-sieht-keine-gefahr-fuer-die-energieversorgung-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sicherheitslage - Deutsches Rotes Kreuz kritisiert Defizite im Bevölkerungsschutz](https://www.deutschlandfunk.de/deutsches-rotes-kreuz-kritisiert-defizite-im-bevoelkerungsschutz-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Umweltverbände fordern Abkehr von fossilen Energieträgern](https://www.deutschlandfunk.de/umweltverbaende-fordern-abkehr-von-fossilen-energietraegern-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj spricht mit US-Unterhändlern über Friedensprozess - Moskau will Gebiet Luhansk vollständig eingenommen haben](https://www.deutschlandfunk.de/selenskyj-spricht-mit-us-unterhaendlern-ueber-friedensprozess-moskau-will-gebiet-luhansk-vollstaendi-114.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - CDU-Wirtschaftspolitiker Bilger mahnt schnelle Reformen an](https://www.deutschlandfunk.de/cdu-wirtschaftspolitiker-bilger-mahnt-schnelle-reformen-an-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Cape Canaveral - Artemis 2: Erste bemannte Mondmission der NASA seit mehr als 50 Jahren gestartet](https://www.deutschlandfunk.de/artemis-2-erste-bemannte-mondmission-der-nasa-seit-mehr-als-50-jahren-gestartet-116.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medienberichte - Nächster Schritt für Rekord-Börsengang von SpaceX - Raumfahrtunternehmen stellt vertraulich Antrag](https://www.deutschlandfunk.de/naechster-schritt-fuer-rekord-boersengang-von-spacex-raumfahrtunternehmen-stellt-vertraulich-antrag-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kundenschutz - Verbraucherzentrale fordert mehr Transparenz bei Lebensmittelpreisen](https://www.deutschlandfunk.de/verbraucherzentrale-fordert-mehr-transparenz-bei-lebensmittelpreisen-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [US-Wahlen - Demokraten klagen gegen Trumps Dekret zur Briefwahl](https://www.deutschlandfunk.de/demokraten-klagen-gegen-trumps-dekret-zur-briefwahl-100.html)  
-  _Thu, 02 Apr 2026 09:41:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Wegen hoher Spritpreise: Wirtschaftsweise Grimm schlägt Tempolimit vor](https://www.deutschlandfunk.de/wegen-hoher-spritpreise-wirtschaftsweise-grimm-schlaegt-tempolimit-vor-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [UNO-Sicherheitsrat - Debatte über Schutz von Schiffen in der Straße von Hormus - Abstimmung verschoben](https://www.deutschlandfunk.de/debatte-ueber-schutz-von-schiffen-in-der-strasse-von-hormus-abstimmung-verschoben-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Staatsmedien - Acht Tote bei US-Angriffen auf Autobahnbrücke im Iran - Trump droht mit weiterer Zerstörung von Infrastruktur](https://www.deutschlandfunk.de/acht-tote-bei-us-angriffen-auf-autobahnbruecke-im-iran-trump-droht-mit-weiterer-zerstoerung-von-infr-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigungsbündnis - Wadephul besorgt über Trumps NATO-Austrittsdrohung](https://www.deutschlandfunk.de/wadephul-besorgt-ueber-trumps-nato-austrittsdrohung-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Havanna - Kuba begnadigt mehr als 2.000 Gefangene](https://www.deutschlandfunk.de/kuba-begnadigt-mehr-als-2-000-gefangene-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Burkina Faso - Juntachef Traoré: Menschen sollen Demokratie und Wahlen "vergessen"](https://www.deutschlandfunk.de/juntachef-traor-menschen-sollen-demokratie-und-wahlen-vergessen-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Interview der Woche" - Bischofskonferenz-Vorsitzender Wilmer: Gesellschaft würde ohne Christen zusammenbrechen](https://www.deutschlandfunk.de/bischofskonferenz-vorsitzender-wilmer-gesellschaft-wuerde-ohne-christen-zusammenbrechen-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Raumfahrt - Triebwerk gezündet: Artemis-2-Crew nun auf dem Weg Richtung Mond](https://www.deutschlandfunk.de/triebwerk-gezuendet-artemis-2-crew-nun-auf-dem-weg-richtung-mond-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg gegen die Ukraine - Russische Drohnenangriffe auf Charkiw und Saporischschja](https://www.deutschlandfunk.de/russische-drohnenangriffe-auf-charkiw-und-saporischschja-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Mitten im Iran-Krieg - US-Verteidigungsminister Hegseth tauscht Heereschef George aus](https://www.deutschlandfunk.de/us-verteidigungsminister-hegseth-tauscht-heereschef-george-aus-100.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Handel - USA erheben neue Zölle auf Medikamente - EU nicht betroffen](https://www.deutschlandfunk.de/usa-erheben-neue-zoelle-auf-medikamente-eu-nicht-betroffen-104.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Washington D.C. - US-Präsident Trump entlässt Justizministerin Bondi](https://www.deutschlandfunk.de/us-praesident-trump-entlaesst-justizministerin-bondi-106.html)  
+  _Fri, 03 Apr 2026 09:07:12 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Uganda receives first US deportation flight under third-country agreement](https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement)  
+  _Thu, 02 Apr 2026 16:37:12 GMT_ · paywall: `False`
 - **The Guardian** — [News outlets falsely report Somaliland called for extradition of Ilhan Omar](https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland)  
   _Mon, 30 Mar 2026 16:38:43 GMT_ · paywall: `False`
 - **The Guardian** — [Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas](https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 30 Mar 2026 09:31:31 GMT_ · paywall: `False`
 - **The Guardian** — [Urgent action needed to prevent surge in digital violence in Africa, experts say](https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say)  
   _Mon, 30 Mar 2026 04:00:16 GMT_ · paywall: `False`
-- **The Guardian** — [Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions](https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions)  
-  _Sun, 29 Mar 2026 04:00:46 GMT_ · paywall: `False`
+- **The Guardian** — [Canadian woman held with daughter by ICE is released after nearly three weeks of detention](https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released)  
+  _Fri, 03 Apr 2026 03:59:22 GMT_ · paywall: `False`
+- **The Guardian** — [Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster](https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada)  
+  _Thu, 02 Apr 2026 19:07:20 GMT_ · paywall: `False`
+- **The Guardian** — [Costa Rica strikes deal to accept third country deportees from US](https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal)  
+  _Thu, 02 Apr 2026 16:00:28 GMT_ · paywall: `False`
+- **The Guardian** — [US lifts sanctions on Venezuela’s acting president Delcy Rodríguez](https://www.theguardian.com/world/2026/apr/02/us-lifts-sanctions-on-venezuela-acting-president-delcy-rodriguez)  
+  _Thu, 02 Apr 2026 10:53:26 GMT_ · paywall: `False`
 - **The Guardian** — [Stephen Lewis, Canadian politician and social activist, dies aged 88](https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88)  
   _Wed, 01 Apr 2026 01:31:04 GMT_ · paywall: `False`
-- **The Guardian** — [‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico](https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species)  
-  _Tue, 31 Mar 2026 15:26:49 GMT_ · paywall: `False`
-- **The Guardian** — [Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods](https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties)  
-  _Tue, 31 Mar 2026 00:56:20 GMT_ · paywall: `False`
-- **The Guardian** — [At least 70 people killed and 30 injured in Haiti gang attack](https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate)  
-  _Mon, 30 Mar 2026 20:46:36 GMT_ · paywall: `False`
-- **The Guardian** — [Avi Lewis, elected to lead Canada’s New Democratic party, promises ‘NDP comeback’](https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party)  
-  _Mon, 30 Mar 2026 17:39:53 GMT_ · paywall: `False`
+- **The Guardian** — [A day in the life of Asia’s fuel crisis](https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers)  
+  _Fri, 03 Apr 2026 04:00:42 GMT_ · paywall: `False`
 - **The Guardian** — [One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia](https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert)  
   _Thu, 02 Apr 2026 05:23:28 GMT_ · paywall: `False`
-- **The Guardian** — [New Zealand signs defence pact with Cook Islands after quarrel over China deal](https://www.theguardian.com/world/2026/apr/02/new-zealand-cook-islands-defense)  
-  _Thu, 02 Apr 2026 01:55:07 GMT_ · paywall: `False`
