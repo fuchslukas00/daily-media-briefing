@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-04-05 07:39 UTC_
+_Generated: 2026-04-06 08:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Nach Absturz von Kampfflugzeug - Im Iran vermisster US-Soldat von Spezialkräften gerettet](https://www.deutschlandfunk.de/im-iran-vermisster-us-soldat-von-spezialkraeften-gerettet-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kandidatur angekündigt - Kubicki will neuer FDP-Chef werden](https://www.deutschlandfunk.de/kubicki-will-neuer-fdp-chef-werden-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Massenprotesten im Januar - Zwei weitere Todesurteile im Iran vollstreckt](https://www.deutschlandfunk.de/zwei-weitere-todesurteile-im-iran-vollstreckt-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Washington - Satellitenfirma hält auf Bitten der USA Bilder aus dem Nahen Osten zurück](https://www.deutschlandfunk.de/satellitenfirma-haelt-auf-bitten-der-usa-bilder-aus-dem-nahen-osten-zurueck-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Industrie fordert von Regierung umfassendes Reformpaket vor dem Sommer](https://www.deutschlandfunk.de/industrie-fordert-von-regierung-umfassendes-reformpaket-vor-dem-sommer-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - DAX-Konzerne zahlen so viel Dividende wie nie](https://www.deutschlandfunk.de/dax-konzerne-zahlen-so-viel-dividende-wie-nie-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Israel erneut von iranischen Raketen getroffen](https://www.deutschlandfunk.de/israel-erneut-von-iranischen-raketen-getroffen-110.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Tel Aviv - Israelische Polizei löst Anti-Kriegs-Demonstration auf](https://www.deutschlandfunk.de/israelische-polizei-loest-anti-kriegs-demonstration-auf-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Golfstaaten - Kuwait erneut unter iranischem Beschuss](https://www.deutschlandfunk.de/kuwait-erneut-unter-iranischem-beschuss-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Solarbranche - Bundesverband: Menschen wollen Ausbau der erneuerbaren Energien](https://www.deutschlandfunk.de/bundesverband-menschen-wollen-ausbau-der-erneuerbaren-energien-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - USA nehmen Verwandte von getötetem Militärkommandeur Soleimani fest](https://www.deutschlandfunk.de/usa-nehmen-verwandte-von-getoetetem-militaerkommandeur-soleimani-fest-108.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vatikan - Papst Leo XIV. feiert zum ersten Mal die Osternacht und sendet Friedensbotschaft](https://www.deutschlandfunk.de/papst-leo-xiv-feiert-zum-ersten-mal-die-osternacht-und-sendet-friedensbotschaft-100.html)  
-  _Sun, 05 Apr 2026 08:57:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Reuters und Axios berichten über diplomatische Bemühungen um Ende der Kampfhandlungen - zweistufiger Plan im Gespräch](https://www.deutschlandfunk.de/reuters-und-axios-berichten-ueber-diplomatische-bemuehungen-um-ende-der-kampfhandlungen-zweistufiger-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wehrpflichtgesetz - Verteidigungsministerium will Genehmigungspflicht für längere Auslandsaufenthalte von Männern vereinfachen](https://www.deutschlandfunk.de/verteidigungsministerium-will-genehmigungspflicht-fuer-laengere-auslandsaufenthalte-von-maennern-ver-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Höhere Pendlerpauschale - Arbeitnehmerflügel der CDU kritisiert Wirtschaftsministerin Reiche: "An der Lebensrealität vorbei"](https://www.deutschlandfunk.de/arbeitnehmerfluegel-der-cdu-kritisiert-wirtschaftsministerin-reiche-an-der-lebensrealitaet-vorbei-112.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Energie - Steigende Preise: So funktioniert der weltweite Handel mit Rohöl](https://www.deutschlandfunk.de/steigende-preise-so-funktioniert-der-weltweite-handel-mit-rohoel-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Libanon - Mindestens 15 Tote nach israelischen Angriffen](https://www.deutschlandfunk.de/mindestens-15-tote-nach-israelischen-angriffen-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg im Nahen Osten - Medienbericht: Iran setzt bei Angriffen auf Israel wieder Streumunition ein](https://www.deutschlandfunk.de/medienbericht-iran-setzt-bei-angriffen-auf-israel-wieder-streumunition-ein-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Drei Tote bei russischem Angriff auf Odessa](https://www.deutschlandfunk.de/drei-tote-bei-russischem-angriff-auf-odessa-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kürzungen im Gesundheitswesen - Kassenärztliche Bundesvereinigung warnt vor längeren Wartezeiten auf Facharzttermin](https://www.deutschlandfunk.de/kassenaerztliche-bundesvereinigung-warnt-vor-laengeren-wartezeiten-auf-facharzttermin-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Zweifel an Preisbildung - ADAC kritisiert steigende Kraftstoffpreise trotz geschlossener Handelsplätze](https://www.deutschlandfunk.de/adac-kritisiert-steigende-kraftstoffpreise-trotz-geschlossener-handelsplaetze-110.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Friedensbewegung - Abschluss der Ostermärsche mit Aktionen in mehr als 20 Städten](https://www.deutschlandfunk.de/abschluss-der-ostermaersche-mit-aktionen-in-mehr-als-20-staedten-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Orion-Raumkapsel - Artemis-2-Crew soll heute den Mond umfliegen](https://www.deutschlandfunk.de/artemis-2-crew-soll-heute-den-mond-umfliegen-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [EU-Einstimmigkeitsprinzip - Weber (CSU) lobt Wadephul-Initiative - Hofreiter (Grüne) für erweiterte Veto-Regel](https://www.deutschlandfunk.de/weber-csu-lobt-wadephul-initiative-hofreiter-gruene-fuer-erweiterte-veto-regel-100.html)  
+  _Mon, 06 Apr 2026 09:48:05 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 30 Mar 2026 15:34:49 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Thunderstorms drench UAE and Saudi Arabia](https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia)  
   _Mon, 30 Mar 2026 09:31:31 GMT_ · paywall: `False`
+- **The Guardian** — [Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain](https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain)  
+  _Sun, 05 Apr 2026 09:00:47 GMT_ · paywall: `False`
 - **The Guardian** — [Cubans study oil tanker diplomacy for signs of progress in secret talks with US](https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks)  
   _Sat, 04 Apr 2026 11:00:19 GMT_ · paywall: `False`
 - **The Guardian** — [One dead and dozens injured at Peru football stadium during pre-match event](https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 03 Apr 2026 16:01:54 GMT_ · paywall: `False`
 - **The Guardian** — [Canadian woman held with daughter by ICE is released after nearly three weeks of detention](https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released)  
   _Fri, 03 Apr 2026 03:59:22 GMT_ · paywall: `False`
-- **The Guardian** — [Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster](https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada)  
-  _Thu, 02 Apr 2026 19:07:20 GMT_ · paywall: `False`
+- **The Guardian** — [When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name](https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan)  
+  _Mon, 06 Apr 2026 04:57:17 GMT_ · paywall: `False`
 - **The Guardian** — [A day in the life of Asia’s fuel crisis](https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers)  
   _Fri, 03 Apr 2026 04:00:42 GMT_ · paywall: `False`
-- **The Guardian** — [One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia](https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert)  
-  _Thu, 02 Apr 2026 05:23:28 GMT_ · paywall: `False`
