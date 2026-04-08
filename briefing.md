@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-04-07 07:57 UTC_
+_Generated: 2026-04-08 08:00 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Reformdebatte - Roloff (SPD) für Preisdeckel bei Kraftstoffen - Ökonom Kooths: Sparsamer mit Rohstoff umgehen](https://www.deutschlandfunk.de/roloff-spd-fuer-preisdeckel-bei-kraftstoffen-oekonom-kooths-sparsamer-mit-rohstoff-umgehen-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wahlkampfhilfe - US-Vizepräsident Vance besucht Ungarn](https://www.deutschlandfunk.de/us-vizepraesident-vance-besucht-ungarn-112.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Erstmals seit zehn Jahren - Taiwanische Oppositionsführerin zu Besuch in China eingetroffen](https://www.deutschlandfunk.de/taiwanische-oppositionsfuehrerin-zu-besuch-in-china-eingetroffen-102.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Mondumrundung - Astronauten der "Artemis 2"-Mission sind auf dem Rückweg zur Erde](https://www.deutschlandfunk.de/astronauten-der-artemis-2-mission-sind-auf-dem-rueckweg-zur-erde-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Israelisches Militär warnt Iraner vor Nutzung von Zügen und Aufenthalt in der Nähe von Bahngleisen](https://www.deutschlandfunk.de/israelisches-militaer-warnt-iraner-vor-nutzung-von-zuegen-und-aufenthalt-in-der-naehe-von-bahngleise-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Bericht: Iran fordert Sicherheitsgarantien und Gebühren für Hormus-Passage](https://www.deutschlandfunk.de/bericht-iran-fordert-sicherheitsgarantien-und-gebuehren-fuer-hormus-passage-102.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - UNO warnt nach Trumps neuen Drohungen gegen Iran vor Verletzung des Völkerrechts](https://www.deutschlandfunk.de/uno-warnt-nach-trumps-neuen-drohungen-gegen-iran-vor-verletzung-des-voelkerrechts-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - Gegenseitige Angriffe fortgesetzt](https://www.deutschlandfunk.de/gegenseitige-angriffe-fortgesetzt-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg im Nahen und Mittleren Osten - Trump: Bei Rettungsmission für US-Piloten mehr als 150 Flugzeuge beteiligt](https://www.deutschlandfunk.de/trump-bei-rettungsmission-fuer-us-piloten-mehr-als-150-flugzeuge-beteiligt-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Mindestens elf Palästinenser im Gazastreifen getötet](https://www.deutschlandfunk.de/mindestens-elf-palaestinenser-im-gazastreifen-getoetet-106.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Palästinensergebiet - Mitarbeiter getötet: WHO stoppt Krankentransporte aus Gaza vorläufig](https://www.deutschlandfunk.de/mitarbeiter-getoetet-who-stoppt-krankentransporte-aus-gaza-vorlaeufig-102.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Russischer Angriffskrieg - Tote und Verletzte in Ukraine durch Beschuss und Sprengkörper](https://www.deutschlandfunk.de/tote-und-verletzte-in-ukraine-durch-beschuss-und-sprengkoerper-100.html)  
-  _Tue, 07 Apr 2026 09:50:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Mitteilung - Bundeskanzler Merz begrüßt Einigung auf Waffenruhe im Iran-Krieg](https://www.deutschlandfunk.de/bundeskanzler-merz-begruesst-einigung-auf-waffenruhe-im-iran-krieg-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - UNO mahnt Einhaltung der Waffenruhe an - Erleichterung in Asien](https://www.deutschlandfunk.de/uno-mahnt-einhaltung-der-waffenruhe-an-erleichterung-in-asien-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - USA, Iran und Israel akzeptieren pakistanischen Vorschlag für zweiwöchige Waffenruhe - Netanjahu: "Nicht für Libanon"](https://www.deutschlandfunk.de/usa-iran-und-israel-akzeptieren-pakistanischen-vorschlag-fuer-zweiwoechige-waffenruhe-netanjahu-nich-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Pakistan lädt nach erfolgreicher Vermittlung für Freitag zu Verhandlungen ein](https://www.deutschlandfunk.de/pakistan-laedt-nach-erfolgreicher-vermittlung-fuer-freitag-zu-verhandlungen-ein-112.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Waffenruhe im Iran-Krieg - Politologe Masala sieht strategische Niederlage der USA](https://www.deutschlandfunk.de/politologe-masala-sieht-strategische-niederlage-der-usa-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Entspannung bei Ölpreisen nach Waffenruhe-Ankündigung](https://www.deutschlandfunk.de/entspannung-bei-oelpreisen-nach-waffenruhe-ankuendigung-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hohe Kraftstoffpreise - Vizekanzler und Finanzminister Klingbeil lädt Wirtschaft und Gewerkschaften zu Krisengipfel](https://www.deutschlandfunk.de/vizekanzler-und-finanzminister-klingbeil-laedt-wirtschaft-und-gewerkschaften-zu-krisengipfel-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kraftstoffpreise - Pflegeverbände: Hohe Spritpreise gefährden Patientenversorgung](https://www.deutschlandfunk.de/pflegeverbaende-hohe-spritpreise-gefaehrden-patientenversorgung-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Energiekrise - IW-Chef Hüther warnt vor Deckel beim Spritpreis](https://www.deutschlandfunk.de/iw-chef-huether-warnt-vor-deckel-beim-spritpreis-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - Industrie verzeichnet im Februar wieder mehr Aufträge](https://www.deutschlandfunk.de/industrie-verzeichnet-im-februar-wieder-mehr-auftraege-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesnetzagentur - Post-Beschwerden in Deutschland auf Höchstwert - Anstieg um ein Viertel](https://www.deutschlandfunk.de/post-beschwerden-in-deutschland-auf-hoechstwert-anstieg-um-ein-viertel-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigungsminister - Pistorius zu Wehrdienstgesetz: "Alle dürfen selbstverständlich verreisen"](https://www.deutschlandfunk.de/pistorius-zu-wehrdienstgesetz-alle-duerfen-selbstverstaendlich-verreisen-100.html)  
+  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal](https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation)  
+  _Tue, 07 Apr 2026 22:06:51 GMT_ · paywall: `False`
+- **The Guardian** — [‘We still deserve due process,’ says Cambodian man deported by US to Eswatini](https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini)  
+  _Tue, 07 Apr 2026 16:13:07 GMT_ · paywall: `False`
 - **The Guardian** — [People of Burkina Faso should forget about democracy, says military ruler](https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore)  
   _Fri, 03 Apr 2026 10:18:56 GMT_ · paywall: `False`
 - **The Guardian** — [Uganda receives first US deportation flight under third-country agreement](https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement)  
   _Thu, 02 Apr 2026 16:37:12 GMT_ · paywall: `False`
 - **The Guardian** — [News outlets falsely report Somaliland called for extradition of Ilhan Omar](https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland)  
   _Mon, 30 Mar 2026 16:38:43 GMT_ · paywall: `False`
-- **The Guardian** — [Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas](https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant)  
-  _Mon, 30 Mar 2026 15:34:49 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Thunderstorms drench UAE and Saudi Arabia](https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia)  
-  _Mon, 30 Mar 2026 09:31:31 GMT_ · paywall: `False`
-- **The Guardian** — [House Democrats demand end to ‘cruel’ US energy blockade after visit to Cuba](https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats)  
-  _Mon, 06 Apr 2026 17:41:43 GMT_ · paywall: `False`
-- **The Guardian** — [Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain](https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain)  
-  _Sun, 05 Apr 2026 09:00:47 GMT_ · paywall: `False`
-- **The Guardian** — [Cubans study oil tanker diplomacy for signs of progress in secret talks with US](https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks)  
-  _Sat, 04 Apr 2026 11:00:19 GMT_ · paywall: `False`
-- **The Guardian** — [One dead and dozens injured at Peru football stadium during pre-match event](https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead)  
-  _Sat, 04 Apr 2026 10:00:05 GMT_ · paywall: `False`
-- **The Guardian** — [Cuba begins to free more than 2,000 prisoners as US eases fuel blockade](https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade)  
-  _Fri, 03 Apr 2026 16:01:54 GMT_ · paywall: `False`
-- **The Guardian** — [Thailand PM urges working from home amid fears over energy crisis](https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge)  
-  _Mon, 06 Apr 2026 11:29:43 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Warm March in US leaves snowpack critically low](https://www.theguardian.com/environment/2026/apr/06/weather-tracker-warm-march-in-us-leaves-snowpack-critically-low)  
-  _Mon, 06 Apr 2026 09:58:55 GMT_ · paywall: `False`
+- **The Guardian** — [Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas](https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas)  
+  _Tue, 07 Apr 2026 19:26:05 GMT_ · paywall: `False`
+- **The Guardian** — [Stork warning: woman gives birth midair on Jamaica-to-New York flight](https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york)  
+  _Tue, 07 Apr 2026 18:16:28 GMT_ · paywall: `False`
+- **The Guardian** — [First Nation asks court to block Alberta referendum on seceding from Canada](https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada)  
+  _Tue, 07 Apr 2026 16:43:13 GMT_ · paywall: `False`
+- **The Guardian** — [Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood](https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock)  
+  _Tue, 07 Apr 2026 14:07:18 GMT_ · paywall: `False`
+- **The Guardian** — [#MeToo movement brings wave of harassment claims across Colombia](https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia)  
+  _Tue, 07 Apr 2026 13:22:11 GMT_ · paywall: `False`
+- **The Guardian** — [Family pay tribute to British teenager killed in motorcycle crash in Vietnam](https://www.theguardian.com/uk-news/2026/apr/08/orla-wates-family-tribute-british-teenager-killed-motorcycle-crash-vietnam-ha-giang-loop)  
+  _Wed, 08 Apr 2026 07:49:29 GMT_ · paywall: `False`
+- **The Guardian** — [Tropical Cyclone Vaianu may bring life-threatening winds to New Zealand, forecasters warn](https://www.theguardian.com/world/2026/apr/08/tropical-cyclone-vaianu-forecast-path-track-fiji-new-zealand)  
+  _Wed, 08 Apr 2026 04:27:02 GMT_ · paywall: `False`
