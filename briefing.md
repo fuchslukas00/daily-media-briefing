@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-04-08 08:00 UTC_
+_Generated: 2026-04-09 08:05 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Mitteilung - Bundeskanzler Merz begrüßt Einigung auf Waffenruhe im Iran-Krieg](https://www.deutschlandfunk.de/bundeskanzler-merz-begruesst-einigung-auf-waffenruhe-im-iran-krieg-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - UNO mahnt Einhaltung der Waffenruhe an - Erleichterung in Asien](https://www.deutschlandfunk.de/uno-mahnt-einhaltung-der-waffenruhe-an-erleichterung-in-asien-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - USA, Iran und Israel akzeptieren pakistanischen Vorschlag für zweiwöchige Waffenruhe - Netanjahu: "Nicht für Libanon"](https://www.deutschlandfunk.de/usa-iran-und-israel-akzeptieren-pakistanischen-vorschlag-fuer-zweiwoechige-waffenruhe-netanjahu-nich-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Pakistan lädt nach erfolgreicher Vermittlung für Freitag zu Verhandlungen ein](https://www.deutschlandfunk.de/pakistan-laedt-nach-erfolgreicher-vermittlung-fuer-freitag-zu-verhandlungen-ein-112.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Waffenruhe im Iran-Krieg - Politologe Masala sieht strategische Niederlage der USA](https://www.deutschlandfunk.de/politologe-masala-sieht-strategische-niederlage-der-usa-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Entspannung bei Ölpreisen nach Waffenruhe-Ankündigung](https://www.deutschlandfunk.de/entspannung-bei-oelpreisen-nach-waffenruhe-ankuendigung-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hohe Kraftstoffpreise - Vizekanzler und Finanzminister Klingbeil lädt Wirtschaft und Gewerkschaften zu Krisengipfel](https://www.deutschlandfunk.de/vizekanzler-und-finanzminister-klingbeil-laedt-wirtschaft-und-gewerkschaften-zu-krisengipfel-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kraftstoffpreise - Pflegeverbände: Hohe Spritpreise gefährden Patientenversorgung](https://www.deutschlandfunk.de/pflegeverbaende-hohe-spritpreise-gefaehrden-patientenversorgung-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiekrise - IW-Chef Hüther warnt vor Deckel beim Spritpreis](https://www.deutschlandfunk.de/iw-chef-huether-warnt-vor-deckel-beim-spritpreis-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistik - Industrie verzeichnet im Februar wieder mehr Aufträge](https://www.deutschlandfunk.de/industrie-verzeichnet-im-februar-wieder-mehr-auftraege-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesnetzagentur - Post-Beschwerden in Deutschland auf Höchstwert - Anstieg um ein Viertel](https://www.deutschlandfunk.de/post-beschwerden-in-deutschland-auf-hoechstwert-anstieg-um-ein-viertel-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verteidigungsminister - Pistorius zu Wehrdienstgesetz: "Alle dürfen selbstverständlich verreisen"](https://www.deutschlandfunk.de/pistorius-zu-wehrdienstgesetz-alle-duerfen-selbstverstaendlich-verreisen-100.html)  
-  _Wed, 08 Apr 2026 09:27:20 +0200_ · paywall: `False`
+- **Der Spiegel** — [A6 bei Viernheim: Lkw durchbricht Baustellenabsperrung – Arbeiter stirbt](https://www.spiegel.de/panorama/a6-bei-viernheim-lkw-durchbricht-baustellenabsperrung-arbeiter-stirbt-a-8f571ab9-8c9f-4529-9969-3cb8a3e90fd4#ref=rss)  
+  _Thu, 9 Apr 2026 09:51:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Mario Adorf ist tot: Schauspieler wurde 95 Jahre alt](https://www.spiegel.de/kultur/kino/mario-adorf-ist-tot-schauspieler-wurde-95-jahre-alt-a-187c61b6-9b9e-44e2-8e03-25d8622a54ad#ref=rss)  
+  _Thu, 9 Apr 2026 09:45:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Artemis 2: Astronauten bereiten sich auf Rückkehr zur Erde vor](https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss)  
+  _Thu, 9 Apr 2026 09:08:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Bundeswehr: Vorsitzender des Verteidigungsausschusses fordert Pflichtwehrübungen für Reservisten](https://www.spiegel.de/politik/deutschland/bundeswehr-vorsitzender-des-verteidigungsausschusses-fordert-pflichtwehruebungen-fuer-reservisten-a-396de17a-156e-4fc2-bce0-f344a2e847e7#ref=rss)  
+  _Thu, 9 Apr 2026 08:27:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Frankreich: Rentner schießt von Gemeinde eingesetzte Drohne ab](https://www.spiegel.de/panorama/justiz/frankreich-rentner-schiesst-von-gemeinde-eingesetzte-drohne-ab-a-24d14567-43fd-42fa-8ca9-9d7a3d171c7c#ref=rss)  
+  _Thu, 9 Apr 2026 07:50:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Iran-Krieg: Wie Donald Trump als Dealmaker versagte](https://www.spiegel.de/ausland/krieg-im-nahen-osten-wie-donald-trump-als-dealmaker-versagte-a-698093b7-3331-419b-94e1-2fae5949511b#ref=rss)  
+  _Thu, 9 Apr 2026 07:26:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Mexiko: Bergmann aus Sinaloa fast zwei Wochen nach Mineneinsturz gerettet](https://www.spiegel.de/panorama/mexiko-bergmann-fast-zwei-wochen-nach-mineneinsturz-gerettet-a-86037178-5ca8-4ffe-8164-cb7ca941dfe9#ref=rss)  
+  _Thu, 9 Apr 2026 07:09:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Berufseinstieg als Airbnb-Vermieterin: »Überall lag Müll, wir fanden sogar benutzte Kondome«](https://www.spiegel.de/start/berufseinstieg-als-airbnb-vermieterin-ueberall-lag-muell-wir-fanden-sogar-benutzte-kondome-a-f2572302-70e5-4887-870b-9c29eed0bf79#ref=rss)  
+  _Thu, 9 Apr 2026 06:28:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Bundestag: Abgeordnete von Die Linke und AfD fehlen am häufigsten bei Abstimmungen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-von-die-linke-und-afd-fehlen-am-haeufigsten-bei-abstimmungen-a-94fb27c0-9a2f-45fa-8cda-328418050d4a#ref=rss)  
+  _Thu, 9 Apr 2026 06:23:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [News: Donald Trump, Mohammad Ghalibaf, JD Vance, Mark Rutte, Nato](https://www.spiegel.de/ausland/die-lage-am-morgen-donald-trump-mohammed-ghalibaf-jd-vance-mark-rutte-nato-taiwan-cheng-li-wun-a-cc2a84f2-3c6b-4db9-8d3f-f5a823cea198#ref=rss)  
+  _Thu, 9 Apr 2026 05:53:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Trauma wirksam behandeln mit Psychotherapie: »Jeder Mensch bricht irgendwann«](https://www.spiegel.de/psychologie/trauma-wirksam-behandeln-mit-psychotherapie-jeder-mensch-bricht-irgendwann-a-14b86bf5-c4b8-449f-a3a3-450133ddd95d#ref=rss)  
+  _Thu, 9 Apr 2026 05:30:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Umgang mit Adipositas: Mein Körper und ich sind Freunde geworden](https://www.spiegel.de/psychologie/umgang-mit-adipositas-mein-koerper-und-ich-sind-freunde-geworden-a-52bc82f4-2b06-4c29-b6d9-2e63d051f2a0#ref=rss)  
+  _Thu, 9 Apr 2026 05:30:00 +0200_ · paywall: `mixed`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 02 Apr 2026 16:37:12 GMT_ · paywall: `False`
 - **The Guardian** — [News outlets falsely report Somaliland called for extradition of Ilhan Omar](https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland)  
   _Mon, 30 Mar 2026 16:38:43 GMT_ · paywall: `False`
+- **The Guardian** — [Chile’s far-right government rips up plan for memorial at Pinochet torture site](https://www.theguardian.com/world/2026/apr/08/chile-torture-paul-schafer-villa-baviera)  
+  _Wed, 08 Apr 2026 13:00:32 GMT_ · paywall: `False`
 - **The Guardian** — [Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas](https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas)  
   _Tue, 07 Apr 2026 19:26:05 GMT_ · paywall: `False`
 - **The Guardian** — [Stork warning: woman gives birth midair on Jamaica-to-New York flight](https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Tue, 07 Apr 2026 16:43:13 GMT_ · paywall: `False`
 - **The Guardian** — [Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood](https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock)  
   _Tue, 07 Apr 2026 14:07:18 GMT_ · paywall: `False`
-- **The Guardian** — [#MeToo movement brings wave of harassment claims across Colombia](https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia)  
-  _Tue, 07 Apr 2026 13:22:11 GMT_ · paywall: `False`
-- **The Guardian** — [Family pay tribute to British teenager killed in motorcycle crash in Vietnam](https://www.theguardian.com/uk-news/2026/apr/08/orla-wates-family-tribute-british-teenager-killed-motorcycle-crash-vietnam-ha-giang-loop)  
-  _Wed, 08 Apr 2026 07:49:29 GMT_ · paywall: `False`
-- **The Guardian** — [Tropical Cyclone Vaianu may bring life-threatening winds to New Zealand, forecasters warn](https://www.theguardian.com/world/2026/apr/08/tropical-cyclone-vaianu-forecast-path-track-fiji-new-zealand)  
-  _Wed, 08 Apr 2026 04:27:02 GMT_ · paywall: `False`
+- **The Guardian** — [Oil price rises as markets question durability of Middle East ceasefire](https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran)  
+  _Thu, 09 Apr 2026 07:44:26 GMT_ · paywall: `False`
+- **The Guardian** — [Hundreds search for wolf that escaped from zoo in South Korea](https://www.theguardian.com/world/2026/apr/09/wolf-escaped-zoo-daejeon-south-korea)  
+  _Thu, 09 Apr 2026 04:26:07 GMT_ · paywall: `False`
