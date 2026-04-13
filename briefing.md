@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-04-12 07:50 UTC_
+_Generated: 2026-04-13 08:30 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Islamabad - Vance: Keine Einigung mit dem Iran erzielt](https://www.deutschlandfunk.de/vance-keine-einigung-mit-dem-iran-erzielt-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ungarn - Parlamentswahl hat begonnen - Niederlage Orbáns möglich](https://www.deutschlandfunk.de/parlamentswahl-hat-begonnen-niederlage-orb-ns-moeglich-100.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hohe Energiepreise - Weiteres Treffen zwischen Union und SPD zu Entlastungen](https://www.deutschlandfunk.de/weiteres-treffen-zwischen-union-und-spd-zu-entlastungen-100.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Peking - China fordert von Taiwan erneut politisches Bekenntnis gegen Unabhängigkeit](https://www.deutschlandfunk.de/china-fordert-von-taiwan-erneut-politisches-bekenntnis-gegen-unabhaengigkeit-100.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hohe Kosten für Diesel und Dünger - Bauernverband befürchtet Rückgang der Erntemengen und steigende Lebensmittelpreise](https://www.deutschlandfunk.de/bauernverband-befuerchtet-rueckgang-der-erntemengen-und-steigende-lebensmittelpreise-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Benin - Präsidentenwahl nach vereiteltem Putschversuch](https://www.deutschlandfunk.de/praesidentenwahl-nach-vereiteltem-putschversuch-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Proteste in Großbritannien - Londoner Polizei nimmt mehr als 500 Demonstranten fest](https://www.deutschlandfunk.de/londoner-polizei-nimmt-mehr-als-500-demonstranten-fest-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Karibik - Haiti: Mindestens 30 Tote bei Massenpanik in historischer Festung](https://www.deutschlandfunk.de/haiti-mindestens-30-tote-bei-massenpanik-in-historischer-festung-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheit - Bundesärztekammer für Kontrollen von Lachgasverbot](https://www.deutschlandfunk.de/bundesaerztekammer-fuer-kontrollen-von-lachgasverbot-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Raumfahrt - Artemis-2-Astronauten nach Rückkehr: Erde ist wie ein "Rettungsboot" im All](https://www.deutschlandfunk.de/artemis-2-astronauten-nach-rueckkehr-erde-ist-wie-ein-rettungsboot-im-all-100.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verteidigungspolitik - JU-Chef fordert Wehrpflicht ab Januar](https://www.deutschlandfunk.de/ju-chef-fordert-wehrpflicht-ab-januar-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Union Berlin - Nach Baumgart-Rauswurf wird Marie-Louise Eta erste Cheftrainerin der Bundesligageschichte](https://www.deutschlandfunk.de/nach-baumgart-rauswurf-wird-marie-louise-eta-erste-cheftrainerin-der-bundesligageschichte-102.html)  
-  _Sun, 12 Apr 2026 09:22:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hohe Kraftstoffpreise - Bundesregierung will Steuer für Diesel und Benzin um etwa 17 Cent pro Liter senken](https://www.deutschlandfunk.de/bundesregierung-will-steuer-fuer-diesel-und-benzin-um-etwa-17-cent-pro-liter-senken-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Parlamentswahl in Ungarn - Deutlicher Sieg für Partei von Oppositionsführer Magyar - Orbán räumt Niederlage ein](https://www.deutschlandfunk.de/deutlicher-sieg-fuer-partei-von-oppositionsfuehrer-magyar-orb-n-raeumt-niederlage-ein-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Parlamentswahl in Ungarn - Wofür steht der künftige Regierungschef Péter Magyar?](https://www.deutschlandfunk.de/wofuer-steht-der-kuenftige-regierungschef-p-ter-magyar-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Parlamentswahl in Ungarn - Erleichterung in der EU über Wahlsieg Magyars](https://www.deutschlandfunk.de/erleichterung-in-der-eu-ueber-wahlsieg-magyars-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - Ankündigung von US-Präsident Trump lässt Ölpreise wieder steigen](https://www.deutschlandfunk.de/ankuendigung-von-us-praesident-trump-laesst-oelpreise-wieder-steigen-102.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - USA: Teil-Blockade der Straße von Hormus soll am Nachmittag beginnen](https://www.deutschlandfunk.de/usa-teil-blockade-der-strasse-von-hormus-soll-am-nachmittag-beginnen-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Washington - Nach Friedensappellen: US-Präsident Trump kritisiert Papst Leo XIV.](https://www.deutschlandfunk.de/nach-friedensappellen-us-praesident-trump-kritisiert-papst-leo-xiv-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Militärische Entwicklung im Nahen Osten - UNDP warnt vor Armutsgefahr für weitere 30 Millionen Menschen](https://www.deutschlandfunk.de/undp-warnt-vor-armutsgefahr-fuer-weitere-30-millionen-menschen-102.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Tarifkonflikt - Zweitägiger Pilotenstreik bei der Lufthansa begonnen](https://www.deutschlandfunk.de/zweitaegiger-pilotenstreik-bei-der-lufthansa-begonnen-102.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Steigende Kosten - Eon: Iran-Krieg wirkt sich auch langfristig auf Gas- und Strompreise aus](https://www.deutschlandfunk.de/eon-iran-krieg-wirkt-sich-auch-langfristig-auf-gas-und-strompreise-aus-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Protestkundgebungen - Irische Regierung senkt erneut Kraftstoff-Steuern](https://www.deutschlandfunk.de/irische-regierung-senkt-erneut-kraftstoff-steuern-104.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Peru - Nachwahlbefragungen sehen Keiko Fujimori in Führung - Entscheidung wohl erst in Stichwahl](https://www.deutschlandfunk.de/nachwahlbefragungen-sehen-keiko-fujimori-in-fuehrung-entscheidung-wohl-erst-in-stichwahl-100.html)  
+  _Mon, 13 Apr 2026 10:28:53 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [‘This scene is alive’: Abidjan art week showcases city as growing cultural hub](https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture)  
+  _Mon, 13 Apr 2026 06:00:38 GMT_ · paywall: `False`
+- **The Guardian** — [Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians](https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram)  
+  _Sun, 12 Apr 2026 17:16:15 GMT_ · paywall: `False`
+- **The Guardian** — [Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover](https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover)  
+  _Sun, 12 Apr 2026 16:33:27 GMT_ · paywall: `False`
 - **The Guardian** — [Benin holds presidential election four months after failed coup](https://www.theguardian.com/world/2026/apr/12/benin-presidential-election)  
   _Sun, 12 Apr 2026 07:00:11 GMT_ · paywall: `False`
 - **The Guardian** — [Prince Harry sued for defamation by charity he co-founded](https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale)  
   _Fri, 10 Apr 2026 17:41:15 GMT_ · paywall: `False`
-- **The Guardian** — [Four men deported by US to Eswatini have right to see lawyer, court rules](https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule)  
-  _Fri, 10 Apr 2026 16:32:45 GMT_ · paywall: `False`
-- **The Guardian** — [Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups](https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe)  
-  _Thu, 09 Apr 2026 18:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’](https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention)  
-  _Thu, 09 Apr 2026 11:00:48 GMT_ · paywall: `False`
-- **The Guardian** — [Peruvians to go to polls hoping to break cycle of instability](https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability)  
-  _Sun, 12 Apr 2026 07:32:52 GMT_ · paywall: `False`
+- **The Guardian** — [Peruvians go to polls hoping to break cycle of instability](https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability)  
+  _Sun, 12 Apr 2026 12:00:31 GMT_ · paywall: `False`
+- **The Guardian** — [At least 30 killed in crush at historic fortress in Haiti](https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti)  
+  _Sun, 12 Apr 2026 11:26:29 GMT_ · paywall: `False`
 - **The Guardian** — [US man in Bahamian jail after wife disappears into Atlantic waters during boat trip](https://www.theguardian.com/world/2026/apr/11/lynette-brian-hooker-bahamas-jail)  
   _Sat, 11 Apr 2026 13:53:54 GMT_ · paywall: `False`
 - **The Guardian** — [Human rights groups decry US plan for Guantánamo camp for Cuban migrants](https://www.theguardian.com/us-news/2026/apr/10/trump-guantanamo-cuban-migrants)  
   _Fri, 10 Apr 2026 14:02:03 GMT_ · paywall: `False`
 - **The Guardian** — [Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat](https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley)  
   _Fri, 10 Apr 2026 10:00:16 GMT_ · paywall: `False`
-- **The Guardian** — [US accused of pressuring Latin America to cut ties with Cuban doctors program](https://www.theguardian.com/world/2026/apr/09/us-cuban-doctors-program)  
-  _Thu, 09 Apr 2026 17:59:43 GMT_ · paywall: `False`
+- **The Guardian** — [Anthony Albanese urges Israel to stop Lebanon attacks that intensified during Middle East ceasefire](https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire)  
+  _Sun, 12 Apr 2026 14:01:19 GMT_ · paywall: `False`
 - **The Guardian** — [Floods, power outages and hundreds evacuated as Cyclone Vaianu lashes New Zealand’s North Island](https://www.theguardian.com/world/2026/apr/12/cyclone-vaianu-new-zealand-north-island-floods-power-outages-hundreds-evacuated)  
   _Sun, 12 Apr 2026 06:41:52 GMT_ · paywall: `False`
-- **The Guardian** — [Albanese didn’t return with shiploads of diesel. That doesn’t mean his Singapore visit wasn’t a success](https://www.theguardian.com/australia-news/2026/apr/11/albanese-singapore-australia-fuel-supply-petrol-prices-diesel-analysis)  
-  _Sat, 11 Apr 2026 08:05:04 GMT_ · paywall: `False`
