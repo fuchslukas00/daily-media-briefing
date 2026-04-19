@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-04-18 07:42 UTC_
+_Generated: 2026-04-19 07:54 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Friedensbemühungen - Vermittlung zwischen Iran und USA: Pakistans Armeechef Munir beendet Besuch in Teheran](https://www.deutschlandfunk.de/vermittlung-zwischen-iran-und-usa-pakistans-armeechef-munir-beendet-besuch-in-teheran-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach iranischer Freigabe - Lage in der Straße von Hormus weiter unklar - Frachtschiffe kehren wieder um](https://www.deutschlandfunk.de/lage-in-der-strasse-von-hormus-weiter-unklar-frachtschiffe-kehren-wieder-um-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - CDU-Politiker Theis: "Eine Öffnung der Straße von Hormus liegt im weltweiten Interesse"](https://www.deutschlandfunk.de/cdu-politiker-theis-eine-oeffnung-der-strasse-von-hormus-liegt-im-weltweiten-interesse-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gedenken an den Holocaust - Bildungsstättenleiter Mendel: "Digitalen Raum nicht rechtsextremen Gruppen überlassen"](https://www.deutschlandfunk.de/bildungsstaettenleiter-mendel-digitalen-raum-nicht-rechtsextremen-gruppen-ueberlassen-102.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Klimaschutz - Demonstrationen für Erneuerbare Energien in Hamburg, Köln, Berlin und München](https://www.deutschlandfunk.de/demonstrationen-fuer-erneuerbare-energien-in-hamburg-koeln-berlin-und-muenchen-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ölhandel - USA verlängern Sanktionslockerungen für russisches Erdöl](https://www.deutschlandfunk.de/usa-verlaengern-sanktionslockerungen-fuer-russisches-erdoel-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Deutsche Bahn - Chefin Palla hält Wiedereinführung des 9-Euro-Tickets für nicht finanzierbar](https://www.deutschlandfunk.de/chefin-palla-haelt-wiedereinfuehrung-des-9-euro-tickets-fuer-nicht-finanzierbar-102.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Parlaments- und Präsidentschaftswahl - Staatsanwaltschaft durchsucht Lager mit Stimmzetteln in Peru](https://www.deutschlandfunk.de/staatsanwaltschaft-durchsucht-lager-mit-stimmzetteln-in-peru-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Vorerst keine weiteren Streiks bei der Lufthansa - Normalisierung des Flugbetriebs](https://www.deutschlandfunk.de/vorerst-keine-weiteren-streiks-bei-der-lufthansa-normalisierung-des-flugbetriebs-108.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Allianz - NATO-Generalsekretär Rutte: Mitgliedschaft der USA und Nuklearschirm für Europa stehen nicht infrage](https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-mitgliedschaft-der-usa-und-nuklearschirm-fuer-europa-stehen-nicht-infrag-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Frankreich und Großbritannien wollen Hormus-Mission leiten - Deutschland will sich beteiligen](https://www.deutschlandfunk.de/frankreich-und-grossbritannien-wollen-hormus-mission-leiten-deutschland-will-sich-beteiligen-102.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Afrika-Reise - Papst Leo XIV. besucht Angola](https://www.deutschlandfunk.de/papst-leo-xiv-besucht-angola-100.html)  
-  _Sat, 18 Apr 2026 09:22:55 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bulgarien - Parlaments-Neuwahl gestartet - Korruption war wichtigstes Wahlkampfthema](https://www.deutschlandfunk.de/parlaments-neuwahl-gestartet-korruption-war-wichtigstes-wahlkampfthema-100.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Iran: Trotz Fortschritten weit von endgültiger Einigung mit USA entfernt](https://www.deutschlandfunk.de/iran-trotz-fortschritten-weit-von-endgueltiger-einigung-mit-usa-entfernt-102.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Straße von Hormus: Iranische Revolutionsgarden schießen auf Tanker - auch TUI-Schiff bedroht](https://www.deutschlandfunk.de/strasse-von-hormus-iranische-revolutionsgarden-schiessen-auf-tanker-auch-tui-schiff-bedroht-104.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Treffen in Hannover - Merz und Lula wollen strategische Partnerschaft ausbauen](https://www.deutschlandfunk.de/merz-und-lula-wollen-strategische-partnerschaft-ausbauen-100.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Auswärtiges Amt - Bundesregierung verurteilt Angriff auf Unifil-Truppe im Libanon](https://www.deutschlandfunk.de/bundesregierung-verurteilt-angriff-auf-unifil-truppe-im-libanon-100.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kein europäischer Spitzenreiter mehr - Zahl der Asylanträge in Deutschland auf Rekordtief](https://www.deutschlandfunk.de/zahl-der-asylantraege-in-deutschland-auf-rekordtief-102.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Umfrage - Höhere Tierarztkosten belasten Tierheime](https://www.deutschlandfunk.de/hoehere-tierarztkosten-belasten-tierheime-102.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Koreanische Halbinsel - Nordkorea testet ballistische Raketen](https://www.deutschlandfunk.de/nordkorea-testet-ballistische-raketen-100.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Karibik - Spanien, Mexiko und Brasilien besorgt über "dramatische Situation" in Kuba](https://www.deutschlandfunk.de/spanien-mexiko-und-brasilien-besorgt-ueber-dramatische-situation-in-kuba-102.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Industrieschau - Hannover Messe wird eröffnet](https://www.deutschlandfunk.de/hannover-messe-wird-eroeffnet-102.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Olympische Spiele - Bürgerentscheide zu Bewerbungen in Nordrhein-Westfalen und Kiel enden](https://www.deutschlandfunk.de/buergerentscheide-zu-bewerbungen-in-nordrhein-westfalen-und-kiel-enden-100.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rückrufaktion - Rattengift in Hipp-Babygläschen in Österreich gefunden](https://www.deutschlandfunk.de/rattengift-in-hipp-babyglaeschen-in-oesterreich-gefunden-100.html)  
+  _Sun, 19 Apr 2026 09:52:44 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 15 Apr 2026 17:49:04 GMT_ · paywall: `False`
 - **The Guardian** — [Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar](https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar)  
   _Wed, 15 Apr 2026 15:14:13 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture](https://www.theguardian.com/world/2026/apr/18/venezuelas-machado-to-hold-madrid-rally-as-opposition-frozen-out-after-maduro-capture)  
+  _Sat, 18 Apr 2026 08:00:08 GMT_ · paywall: `False`
 - **The Guardian** — [Air Canada temporarily suspends some flights to New York and other locations](https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices)  
   _Fri, 17 Apr 2026 20:57:11 GMT_ · paywall: `False`
 - **The Guardian** — [Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand](https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 16 Apr 2026 03:56:32 GMT_ · paywall: `False`
 - **The Guardian** — [Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths](https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths)  
   _Wed, 15 Apr 2026 01:50:47 GMT_ · paywall: `False`
-- **The Guardian** — [Carney says it’s Canada’s ‘time to come together’ after Liberals secure majority](https://www.theguardian.com/world/2026/apr/14/mark-carney-canada-parliament-liberal)  
-  _Tue, 14 Apr 2026 15:36:39 GMT_ · paywall: `False`
+- **The Guardian** — [Humanoid robots show rapid advances as they race past humans in Beijing half-marathon](https://www.theguardian.com/sport/2026/apr/19/humanoid-robots-race-beijing-half-marathon)  
+  _Sun, 19 Apr 2026 04:57:14 GMT_ · paywall: `False`
 - **The Guardian** — [Inside smoky shelters, a fast-paced, illegal card game has taken off in Solomon Islands](https://www.theguardian.com/world/2026/apr/18/inside-smoky-shelters-a-fast-paced-card-game-has-taken-off-in-solomon-islands)  
   _Fri, 17 Apr 2026 23:00:01 GMT_ · paywall: `False`
-- **The Guardian** — [South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely](https://www.theguardian.com/world/2026/apr/17/south-korea-escaped-wolf-captured-returned-zoo-safely)  
-  _Fri, 17 Apr 2026 11:49:38 GMT_ · paywall: `False`
