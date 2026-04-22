@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-04-21 08:18 UTC_
+_Generated: 2026-04-22 08:16 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Altersvorsorge - Merz: Gesetzliche Rente wird künftig nur noch "Basisabsicherung" sein - SPD weist Vorstoß zurück](https://www.deutschlandfunk.de/merz-gesetzliche-rente-wird-kuenftig-nur-noch-basisabsicherung-sein-spd-weist-vorstoss-zurueck-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - US-Vizepräsident Vance will nach Pakistan reisen - Fortsetzung der Verhandlungen mit Teheran aber weiter ungewiss](https://www.deutschlandfunk.de/us-vizepraesident-vance-will-nach-pakistan-reisen-fortsetzung-der-verhandlungen-mit-teheran-aber-wei-102.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Neue Vorschriften - Japanische Regierung will den Export von deutlich mehr Rüstungsgütern erlauben](https://www.deutschlandfunk.de/japanische-regierung-will-den-export-von-deutlich-mehr-ruestungsguetern-erlauben-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Menschenrechtsorganisation - Amnesty International wirft Deutschland Ignorieren des Völkerrechts vor](https://www.deutschlandfunk.de/amnesty-international-wirft-deutschland-ignorieren-des-voelkerrechts-vor-102.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen - Ostbeauftragte der Bundesregierung kritisiert geplante Streichung der Förderung von Demokratieprojekten](https://www.deutschlandfunk.de/ostbeauftragte-der-bundesregierung-kritisiert-geplante-streichung-der-foerderung-von-demokratieproje-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiepolitik - Reiche: Versorgung mit Kerosin aktuell gesichert](https://www.deutschlandfunk.de/reiche-versorgung-mit-kerosin-aktuell-gesichert-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Petersberger Klimadialog beginnt - Umweltminister Schneider sieht aktuelle Lage als Chance für den Klimaschutz](https://www.deutschlandfunk.de/umweltminister-schneider-sieht-aktuelle-lage-als-chance-fuer-den-klimaschutz-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gehälter - Statistisches Bundesamt: Vollzeitbeschäftigte in Ostdeutschland verdienen 17 Prozent weniger](https://www.deutschlandfunk.de/statistisches-bundesamt-vollzeitbeschaeftigte-in-ostdeutschland-verdienen-17-prozent-weniger-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiekrise - Bundesratspräsident Bovenschulte für weitere Entlastungen von Bürgern](https://www.deutschlandfunk.de/bundesratspraesident-bovenschulte-fuer-weitere-entlastungen-von-buergern-100.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verteidigung - Präsident des Reservistenverbandes für Altersgrenze von 70 Jahren](https://www.deutschlandfunk.de/praesident-des-reservistenverbandes-fuer-altersgrenze-von-70-jahren-104.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Arbeitsministerin Chavez-DeRemer verlässt Trump-Kabinett](https://www.deutschlandfunk.de/arbeitsministerin-chavez-deremer-verlaesst-trump-kabinett-110.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vergiftete Babynahrung - Hersteller Hipp: "Sind Opfer einer Erpressung"](https://www.deutschlandfunk.de/hersteller-hipp-sind-opfer-einer-erpressung-112.html)  
-  _Tue, 21 Apr 2026 10:14:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Naher Osten - Trump verlängert Waffenruhe mit dem Iran](https://www.deutschlandfunk.de/trump-verlaengert-waffenruhe-mit-dem-iran-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Petersberger Klimadialog - EU-Kommissar Hoekstra: Wirtschaft und Klimaschutz zusammendenken](https://www.deutschlandfunk.de/eu-kommissar-hoekstra-wirtschaft-und-klimaschutz-zusammendenken-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Luftverkehr - Lufthansa streicht 20.000 Kurzstreckenflüge](https://www.deutschlandfunk.de/lufthansa-streicht-20-000-kurzstreckenfluege-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienberichte - Bundeskriminalamt liegen Listen Zehntausender mutmaßlicher IS-Mitglieder vor](https://www.deutschlandfunk.de/bundeskriminalamt-liegen-listen-zehntausender-mutmasslicher-is-mitglieder-vor-102.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [London - Militärs aus 30 Ländern planen Einsatz zur Sicherung der Straße von Hormus](https://www.deutschlandfunk.de/militaers-aus-30-laendern-planen-einsatz-zur-sicherung-der-strasse-von-hormus-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - BDA-Chef Kampeter: Brauchen Bürokratieabbau, Sozialreformen und Energiepreispolitik](https://www.deutschlandfunk.de/bda-chef-kampeter-brauchen-buerokratieabbau-sozialreformen-und-energiepreispolitik-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brüssel - Botschafter der EU-Länder stimmen über Auszahlung des Milliarden-Kredits für die Ukraine ab](https://www.deutschlandfunk.de/botschafter-der-eu-laender-stimmen-ueber-auszahlung-des-milliarden-kredits-fuer-die-ukraine-ab-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Präsident Maduro - Amnesty International: "Unterdrückungsapparat" in Venezuela besteht fort](https://www.deutschlandfunk.de/amnesty-international-unterdrueckungsapparat-in-venezuela-besteht-fort-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Altersabsicherung - CDU-Generalsekretär Linnemann zur Rente: "SPD muss Realitäten ins Auge blicken"](https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-zur-rente-spd-muss-realitaeten-ins-auge-blicken-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nordsee - Klage gegen Gasbohrungen vor Borkum ohne Erfolg](https://www.deutschlandfunk.de/klage-gegen-gasbohrungen-vor-borkum-ohne-erfolg-102.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Torgau - Bundespräsident Steinmeier spricht mit DDR-Heimkindern über ihr Schicksal](https://www.deutschlandfunk.de/bundespraesident-steinmeier-spricht-mit-ddr-heimkindern-ueber-ihr-schicksal-102.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ehrentag - Bundespräsident Steinmeier: Tag des Grundgesetzes soll "Mitmachtag" sein](https://www.deutschlandfunk.de/bundespraesident-steinmeier-tag-des-grundgesetzes-soll-mitmachtag-sein-100.html)  
+  _Wed, 22 Apr 2026 10:00:30 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Heatwaves, floods and wildfires pose rising threat to democracy, report finds](https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections)  
+  _Wed, 22 Apr 2026 05:00:09 GMT_ · paywall: `False`
+- **The Guardian** — [Trump officials consider sending 1,100 Afghans who aided US forces to Congo](https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo)  
+  _Tue, 21 Apr 2026 23:26:37 GMT_ · paywall: `False`
+- **The Guardian** — [Taiwan president blames China for forced cancellation of Eswatini trip](https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight)  
+  _Tue, 21 Apr 2026 18:22:29 GMT_ · paywall: `False`
 - **The Guardian** — [Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments](https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments)  
   _Mon, 20 Apr 2026 12:04:37 GMT_ · paywall: `False`
 - **The Guardian** — [Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew](https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime)  
   _Mon, 20 Apr 2026 04:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [Iranian American woman arrested in Los Angeles for alleged arms trafficking](https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa)  
-  _Sun, 19 Apr 2026 21:56:30 GMT_ · paywall: `False`
-- **The Guardian** — [Kenyan firm sacks more than 1,000 workers after losing Meta contract](https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers)  
-  _Fri, 17 Apr 2026 16:59:04 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: hail covers parts of Tunisia and Algeria like snow](https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow)  
-  _Fri, 17 Apr 2026 07:49:38 GMT_ · paywall: `False`
+- **The Guardian** — [El Salvador holds mass trial for 486 alleged members of notorious MS-13 gang](https://www.theguardian.com/world/2026/apr/22/el-salvador-mass-trial-alleged-members-ms-13-gang)  
+  _Wed, 22 Apr 2026 05:34:14 GMT_ · paywall: `False`
+- **The Guardian** — [Two US officials who died after Mexico drug raid reported to be CIA agents](https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation)  
+  _Tue, 21 Apr 2026 18:11:10 GMT_ · paywall: `False`
+- **The Guardian** — [Carney names broad team to advise on tense US-Canada trade talks](https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade)  
+  _Tue, 21 Apr 2026 16:15:39 GMT_ · paywall: `False`
+- **The Guardian** — [‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out](https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors)  
+  _Tue, 21 Apr 2026 11:00:47 GMT_ · paywall: `False`
 - **The Guardian** — [Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids](https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids)  
   _Tue, 21 Apr 2026 03:17:03 GMT_ · paywall: `False`
-- **The Guardian** — [Carney says Canada’s strong economic ties to US are ‘weakness’ to be corrected](https://www.theguardian.com/world/2026/apr/20/mark-carney-canada-us-economy-trade)  
-  _Mon, 20 Apr 2026 12:35:39 GMT_ · paywall: `False`
-- **The Guardian** — [US and Mexican officials assigned to cartel case killed in car accident](https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed)  
-  _Mon, 20 Apr 2026 12:11:25 GMT_ · paywall: `False`
-- **The Guardian** — [Canadian astronaut’s bon mots help heal wounds from French language row](https://www.theguardian.com/world/2026/apr/19/artemis-astronaut-jeremy-hansen-french-canada)  
-  _Sun, 19 Apr 2026 11:00:41 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture](https://www.theguardian.com/world/2026/apr/18/venezuelas-machado-to-hold-madrid-rally-as-opposition-frozen-out-after-maduro-capture)  
-  _Sat, 18 Apr 2026 08:00:08 GMT_ · paywall: `False`
-- **The Guardian** — [Music executive behind K-pop group BTS faces arrest in South Korea](https://www.theguardian.com/world/2026/apr/21/south-korea-music-executive-bang-si-hyuk-k-pop-bts-police)  
-  _Tue, 21 Apr 2026 07:04:42 GMT_ · paywall: `False`
-- **The Guardian** — [Japan tsunami alerts downgraded following powerful earthquake off northern coast – as it happened](https://www.theguardian.com/world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates)  
-  _Mon, 20 Apr 2026 14:16:49 GMT_ · paywall: `False`
+- **The Guardian** — [Condom prices could rise 30% due to Iran war, says world’s top producer Karex](https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex)  
+  _Tue, 21 Apr 2026 23:52:45 GMT_ · paywall: `False`
+- **The Guardian** — [Student allegedly jailed in China for six years after taking part in pro-democracy protests in Australia](https://www.theguardian.com/australia-news/2026/apr/21/student-allegedly-jailed-china-after-pro-democracy-protests-australia)  
+  _Tue, 21 Apr 2026 15:00:54 GMT_ · paywall: `False`
