@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-04-26 08:04 UTC_
+_Generated: 2026-04-27 09:05 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Washington - Bewaffneter Zwischenfall bei Dinner der White-House-Korrespondenten mit Präsident Trump - Täter wurde gefasst](https://www.deutschlandfunk.de/bewaffneter-zwischenfall-bei-dinner-der-white-house-korrespondenten-mit-praesident-trump-taeter-wurd-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fernverkehr - Bahn-Chefin Palla: ICE-Ticketpreise bleiben zwölf Monate stabil](https://www.deutschlandfunk.de/bahn-chefin-palla-ice-ticketpreise-bleiben-zwoelf-monate-stabil-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krankenkassen-Reform - Gesundheitsministerin Warken hofft auf sinkende Zusatzbeiträge](https://www.deutschlandfunk.de/gesundheitsministerin-warken-hofft-auf-sinkende-zusatzbeitraege-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niedersachsen - Größte Evakuierung seit dem Zweiten Weltkrieg: Bombenentschärfung in Hameln](https://www.deutschlandfunk.de/groesste-evakuierung-seit-dem-zweiten-weltkrieg-bombenentschaerfung-in-hameln-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Super-GAU - Gedenken an die Opfer der Reaktorkatastrophe in Tschernobyl vor 40 Jahren](https://www.deutschlandfunk.de/gedenken-an-die-opfer-der-reaktorkatastrophe-in-tschernobyl-vor-40-jahren-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kernkraft - Energieexperte Quaschning fordert Ausbau der Erneuerbaren statt Rückkehr der Atomenergie](https://www.deutschlandfunk.de/energieexperte-quaschning-fordert-ausbau-der-erneuerbaren-statt-rueckkehr-der-atomenergie-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Drei Tote bei russischen Drohnenangriffen](https://www.deutschlandfunk.de/drei-tote-bei-russischen-drohnenangriffen-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Afrika - UNO-Generalsekretär Guterres verurteilt Angriffe von Terrorgruppen in Mali](https://www.deutschlandfunk.de/uno-generalsekretaer-guterres-verurteilt-angriffe-von-terrorgruppen-in-mali-100.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Netanjahu ordnet weitere Angriffe auf Hisbollah im Libanon an](https://www.deutschlandfunk.de/netanjahu-ordnet-weitere-angriffe-auf-hisbollah-im-libanon-an-108.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Pakistans Diplomatie zwischen USA und Iran tritt auf der Stelle](https://www.deutschlandfunk.de/pakistans-diplomatie-zwischen-usa-und-iran-tritt-auf-der-stelle-106.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Palästinensische Gebiete - Kommunalwahlen im Westjordanland und im Gazastreifen](https://www.deutschlandfunk.de/kommunalwahlen-im-westjordanland-und-im-gazastreifen-118.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kolumbien - Bombenanschlag mit vielen Toten und Verletzten](https://www.deutschlandfunk.de/bombenanschlag-mit-vielen-toten-und-verletzten-106.html)  
-  _Sun, 26 Apr 2026 09:59:37 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Friedensforschung - Wieder Rekord bei weltweiten Rüstungsausgaben - Deutschland auf Platz 4](https://www.deutschlandfunk.de/wieder-rekord-bei-weltweiten-ruestungsausgaben-deutschland-auf-platz-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Fragen und Antworten - Dschihadisten und Tuareg-Rebellen greifen gemeinsam an: Darum geht es bei den Kämpfen in Mali](https://www.deutschlandfunk.de/dschihadisten-und-tuareg-rebellen-greifen-gemeinsam-an-darum-geht-es-bei-den-kaempfen-in-mali-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reise in die Golfregion - Nouripour (Grüne) kritisiert europäische Haltung zum Iran-Krieg als zu passiv](https://www.deutschlandfunk.de/nouripour-gruene-kritisiert-europaeische-haltung-zum-iran-krieg-als-zu-passiv-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reise in die USA - Diplomatischer Spagat: König Charles III. trifft Trump zu Gesprächen in Washington](https://www.deutschlandfunk.de/diplomatischer-spagat-koenig-charles-iii-trifft-trump-zu-gespraechen-in-washington-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Unklare Vorwürfe - Russisches Außenministerium bestellt Botschafter Lambsdorff ein](https://www.deutschlandfunk.de/russisches-aussenministerium-bestellt-botschafter-lambsdorff-ein-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ungarn - Magyar wirft Oligarchen aus Orbán-Umfeld Kapitalflucht vor](https://www.deutschlandfunk.de/magyar-wirft-oligarchen-aus-orb-n-umfeld-kapitalflucht-vor-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - Jedes sechste Todesopfer im Straßenverkehr ist Fahrradfahrer](https://www.deutschlandfunk.de/jedes-sechste-todesopfer-im-strassenverkehr-ist-fahrradfahrer-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesregierung - Klingbeil will härter gegen Steuerbetrug vorgehen](https://www.deutschlandfunk.de/klingbeil-will-haerter-gegen-steuerbetrug-vorgehen-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krankenkassenreform - CSU verlangt Nachbesserungen am Entwurf von Gesundheitsministerin Warken](https://www.deutschlandfunk.de/csu-verlangt-nachbesserungen-am-entwurf-von-gesundheitsministerin-warken-102.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wohnindex - Preissteigerungen auf dem Wohnungsmarkt lassen nach](https://www.deutschlandfunk.de/preissteigerungen-auf-dem-wohnungsmarkt-lassen-nach-102.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Verbraucher in Deutschland sind so pessimistisch wie zuletzt Anfang 2023](https://www.deutschlandfunk.de/verbraucher-in-deutschland-sind-so-pessimistisch-wie-zuletzt-anfang-102.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Umwelt - Minister Schneider reist nach Albanien und Montenegro](https://www.deutschlandfunk.de/minister-schneider-reist-nach-albanien-und-montenegro-100.html)  
+  _Mon, 27 Apr 2026 11:03:22 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Mali defence minister killed amid flurry of insurgent attacks](https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks)  
+  _Sun, 26 Apr 2026 22:55:11 GMT_ · paywall: `False`
 - **The Guardian** — [Militants and separatists launch coordinated attacks across Mali](https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali)  
   _Sat, 25 Apr 2026 20:22:14 GMT_ · paywall: `False`
 - **The Guardian** — [‘Astonishing’ discovery could help save children from deadly disfiguring condition](https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria)  
@@ -41,8 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 24 Apr 2026 18:09:03 GMT_ · paywall: `False`
 - **The Guardian** — [British woman died in Ghana trying to recoup money from scammers, inquest told](https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told)  
   _Wed, 22 Apr 2026 16:13:00 GMT_ · paywall: `False`
-- **The Guardian** — [Heatwaves, floods and wildfires pose rising threat to democracy, report finds](https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections)  
-  _Wed, 22 Apr 2026 05:00:09 GMT_ · paywall: `False`
+- **The Guardian** — [US strike kills three on alleged narco boat as campaign death toll hits 185](https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific)  
+  _Mon, 27 Apr 2026 03:11:41 GMT_ · paywall: `False`
 - **The Guardian** — [What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’](https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban)  
   _Sat, 25 Apr 2026 14:00:47 GMT_ · paywall: `False`
 - **The Guardian** — [Altman apologizes after OpenAI failed to alert police before fatal Canada shooting](https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 25 Apr 2026 02:03:31 GMT_ · paywall: `False`
 - **The Guardian** — [UK position on Falklands will not change, No 10 says after leaked Pentagon memo](https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo)  
   _Sat, 25 Apr 2026 01:34:25 GMT_ · paywall: `False`
-- **The Guardian** — [Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse](https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction)  
-  _Fri, 24 Apr 2026 13:56:43 GMT_ · paywall: `False`
-- **The Guardian** — [The tortoise and the hare: will China beat the US in the race back to the moon?](https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon)  
-  _Sun, 26 Apr 2026 06:00:07 GMT_ · paywall: `False`
-- **The Guardian** — [‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time](https://www.theguardian.com/environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe)  
-  _Sat, 25 Apr 2026 05:00:40 GMT_ · paywall: `False`
+- **The Guardian** — [HSBC ‘reviewing’ private school perk for bankers in Hong Kong](https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong)  
+  _Mon, 27 Apr 2026 08:31:05 GMT_ · paywall: `False`
+- **The Guardian** — [Record bear sightings in Japan cause alarm as hibernation ends](https://www.theguardian.com/world/2026/apr/27/bear-sightings-warning-japan)  
+  _Mon, 27 Apr 2026 05:42:20 GMT_ · paywall: `False`
