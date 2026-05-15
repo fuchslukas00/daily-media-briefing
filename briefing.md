@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-05-14 09:16 UTC_
+_Generated: 2026-05-15 09:31 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Peking - Xi warnt bei Besuch von Trump vor Konfrontation wegen Taiwan](https://www.deutschlandfunk.de/xi-warnt-bei-besuch-von-trump-vor-konfrontation-wegen-taiwan-102.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kritik an Gesetzentwurf - Normenkontrollrat: Gebäudemodernisierungsgesetz "unnötig kompliziert"](https://www.deutschlandfunk.de/normenkontrollrat-gebaeudemodernisierungsgesetz-unnoetig-kompliziert-106.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Koalition - Merkel ruft zu mehr Toleranz für Debatten innerhalb der Bundesregierung auf](https://www.deutschlandfunk.de/merkel-ruft-zu-mehr-toleranz-fuer-debatten-innerhalb-der-bundesregierung-auf-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Für mehr Vertrauen der Bürger - Städte- und Gemeindebund fordert von der Bundesregierung bessere Kommunikation und Kompromissbereitschaft](https://www.deutschlandfunk.de/staedte-und-gemeindebund-fordert-von-der-bundesregierung-bessere-kommunikation-und-kompromissbereits-104.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vor Verleihung des Karlspreises - "Abgrund der eigenen Eitelkeiten": Aachener Bischof kritisiert indirekt Trump, Xi und Putin](https://www.deutschlandfunk.de/abgrund-der-eigenen-eitelkeiten-aachener-bischof-kritisiert-indirekt-trump-xi-und-putin-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["New York Times" - Raketenarsenal des Iran in besserem Zustand als von Washington behauptet](https://www.deutschlandfunk.de/raketenarsenal-des-iran-in-besserem-zustand-als-von-washington-behauptet-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Israel fordert erneut Bevölkerung in libanesischen Orten zur Evakuierung auf](https://www.deutschlandfunk.de/israel-fordert-erneut-bevoelkerung-in-libanesischen-orten-zur-evakuierung-auf-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Antrag auf Auflösung der Knesset - Netanjahu strebt Neuwahlen in Israel an](https://www.deutschlandfunk.de/netanjahu-strebt-neuwahlen-in-israel-an-102.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Ex-Präsidialamtschef Jermak in Untersuchungshaft](https://www.deutschlandfunk.de/ex-praesidialamtschef-jermak-in-untersuchungshaft-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Drohnen und Raketen - Anhaltende russische Angriffe in der Ukraine](https://www.deutschlandfunk.de/anhaltende-russische-angriffe-in-der-ukraine-102.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Podcast of the Year" - "Die Peter Thiel Story" und "Kakadu" gewinnen beim Deutschen Podcast Award](https://www.deutschlandfunk.de/die-peter-thiel-story-und-kakadu-gewinnen-beim-deutschen-podcast-award-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kuba - Berichte über Proteste in Havanna wegen massiver Stromausfälle](https://www.deutschlandfunk.de/berichte-ueber-proteste-in-havanna-wegen-massiver-stromausfaelle-100.html)  
-  _Thu, 14 May 2026 11:12:23 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Bundesregierung erwartet deutlichen Konjunkturdämpfer im zweiten Quartal](https://www.deutschlandfunk.de/bundesregierung-erwartet-deutlichen-konjunkturdaempfer-im-zweiten-quartal-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Zippelius (CDU) sieht Xi und Trump um konstruktive Beziehung bemüht](https://www.deutschlandfunk.de/zippelius-cdu-sieht-xi-und-trump-um-konstruktive-beziehung-bemueht-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Israels Armee ruft Bewohner von fünf libanesischen Ortschaften zur Evakuierung auf](https://www.deutschlandfunk.de/israels-armee-ruft-bewohner-von-fuenf-libanesischen-ortschaften-zur-evakuierung-auf-102.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Drei Tote bei ukrainischen Angriffen in Rjasan](https://www.deutschlandfunk.de/drei-tote-bei-ukrainischen-angriffen-in-rjasan-106.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Finnland - Wegen Drohnenwarnung: Betrieb am Flughafen Helsinki vorübergehend eingestellt](https://www.deutschlandfunk.de/wegen-drohnenwarnung-betrieb-am-flughafen-helsinki-voruebergehend-eingestellt-102.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Demokratische Republik Kongo - Neuer Ebola-Ausbruch bestätigt](https://www.deutschlandfunk.de/neuer-ebola-ausbruch-bestaetigt-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Veranstaltungen - Bundesjustizministerin Hubig kündigt schärfe Regeln für den Ticketzweitmarkt an](https://www.deutschlandfunk.de/bundesjustizministerin-hubig-kuendigt-schaerfe-regeln-fuer-den-ticketzweitmarkt-an-102.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Landtagswahlen - AfD will hunderte Behördenstellen neubesetzen im Fall einer Regierungsübernahme in Sachsen-Anhalt](https://www.deutschlandfunk.de/afd-will-hunderte-behoerdenstellen-neubesetzen-im-fall-einer-regierungsuebernahme-in-sachsen-anhalt-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Organisierte Kriminalität - Suchtbeauftragter Streeck fordert hartes Vorgehen gegen illegales Glücksspiel](https://www.deutschlandfunk.de/suchtbeauftragter-streeck-fordert-hartes-vorgehen-gegen-illegales-gluecksspiel-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Umwelt - Dutzende Staaten beraten in Japan über Schutz der Antarktis](https://www.deutschlandfunk.de/dutzende-staaten-beraten-in-japan-ueber-schutz-der-antarktis-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kattegat - Toter Buckelwal vor dänischer Insel Anholt entdeckt](https://www.deutschlandfunk.de/toter-buckelwal-vor-daenischer-insel-anholt-entdeckt-102.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Israel - Unter "Tod den Arabern"-Rufen ziehen zehntausende Nationalisten am Jerusalem-Tag zur Klagemauer](https://www.deutschlandfunk.de/unter-tod-den-arabern-rufen-ziehen-zehntausende-nationalisten-am-jerusalem-tag-zur-klagemauer-100.html)  
+  _Fri, 15 May 2026 11:27:52 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Remains of second US soldier who went missing during military exercises in Morocco have been recovered](https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco)  
+- **The Guardian** — [Judge orders Trump administration to return Colombian woman deported to DRC back to the US](https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc)  
+  _Thu, 14 May 2026 18:49:23 GMT_ · paywall: `False`
+- **The Guardian** — [UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’](https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees)  
+  _Thu, 14 May 2026 11:00:25 GMT_ · paywall: `False`
+- **The Guardian** — [Remains of second US soldier who went missing in Morocco recovered](https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco)  
   _Wed, 13 May 2026 23:01:13 GMT_ · paywall: `False`
 - **The Guardian** — [‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown](https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights)  
   _Wed, 13 May 2026 04:00:20 GMT_ · paywall: `False`
 - **The Guardian** — [Internal displacements caused by violence or conflict at record high in 2025](https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025)  
   _Tue, 12 May 2026 08:01:28 GMT_ · paywall: `False`
-- **The Guardian** — [Gaborone gold rush: how Botswana rose to the top of men’s sprinting](https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics)  
-  _Tue, 12 May 2026 07:17:30 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)  
-  _Mon, 11 May 2026 08:18:29 GMT_ · paywall: `False`
-- **The Guardian** — [Cartel corruption claims push US-Mexico relations to breaking point](https://www.theguardian.com/world/2026/may/13/cartel-corruption-claims-push-us-mexico-relations-to-breaking-point)  
-  _Wed, 13 May 2026 21:31:52 GMT_ · paywall: `False`
-- **The Guardian** — [Les Simpson: return of Québécois show spares viewers from ‘European French’](https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns)  
-  _Wed, 13 May 2026 15:54:48 GMT_ · paywall: `False`
-- **The Guardian** — [US man accused of killing rock singer in 1993 arrested after decades on the run](https://www.theguardian.com/us-news/2026/may/13/man-arrested-rock-singer-death-1993)  
-  _Wed, 13 May 2026 15:34:08 GMT_ · paywall: `False`
-- **The Guardian** — [Trump urged to rule out ‘unlawful’ Cuba takeover and stop using Guantánamo Bay for migrant detention](https://www.theguardian.com/us-news/2026/may/13/trump-cuba-takeover-guantanamo-bay-migrants)  
-  _Wed, 13 May 2026 14:47:40 GMT_ · paywall: `False`
-- **The Guardian** — [Bahamas re-elects Progressive Liberal party’s Philip Davis as prime minister](https://www.theguardian.com/world/2026/may/13/the-bahamas-reelects-progressive-liberal-party-philip-davis-as-prime-minister)  
-  _Wed, 13 May 2026 13:24:48 GMT_ · paywall: `False`
-- **The Guardian** — [Trump China visit live: Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled, state media reports](https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news)  
-  _Thu, 14 May 2026 08:56:35 GMT_ · paywall: `False`
-- **The Guardian** — [Xi warns Trump of ‘clashes and even conflicts’ with US over Taiwan](https://www.theguardian.com/world/2026/may/14/trump-xi-jinping-meet-beijing-ahead-of-summit-trade-iran-war-ai-talks)  
-  _Thu, 14 May 2026 08:45:52 GMT_ · paywall: `False`
+- **The Guardian** — [CIA director has met officials in Havana for talks, Cuba claims](https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims)  
+  _Fri, 15 May 2026 00:39:47 GMT_ · paywall: `False`
+- **The Guardian** — [Canada is welcome to join Eurovision, says song contest director](https://www.theguardian.com/tv-and-radio/2026/may/15/canada-eurovision-song-contest)  
+  _Thu, 14 May 2026 23:58:31 GMT_ · paywall: `False`
+- **The Guardian** — [Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father](https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro)  
+  _Thu, 14 May 2026 21:58:29 GMT_ · paywall: `False`
+- **The Guardian** — [Florida crew recounts ‘miraculous’ Atlantic plane rescue with fuel low](https://www.theguardian.com/us-news/2026/may/14/florida-atlantic-plane-rescue-fuel-low)  
+  _Thu, 14 May 2026 18:33:39 GMT_ · paywall: `False`
+- **The Guardian** — [Canadian officer accused of spying for China acquitted of charges](https://www.theguardian.com/world/2026/may/14/canada-police-spying-china-acquitted)  
+  _Thu, 14 May 2026 15:03:53 GMT_ · paywall: `False`
+- **The Guardian** — [Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit](https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news)  
+  _Fri, 15 May 2026 09:12:28 GMT_ · paywall: `False`
+- **The Guardian** — [‘Stone-cold racism’: Newsom condemns GOP redistricting efforts; Louisiana approves plan to erase majority-Black district – as it happened](https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news)  
+  _Thu, 14 May 2026 23:26:27 GMT_ · paywall: `False`
