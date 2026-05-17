@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-05-16 08:24 UTC_
+_Generated: 2026-05-17 08:37 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Deutsche Unternehmen - Mercedes erwägt Einstieg in Rüstungsproduktion](https://www.deutschlandfunk.de/mercedes-erwaegt-einstieg-in-ruestungsproduktion-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundeskanzler - Neue Debatte über Merz-Äußerungen zu USA - trotz selbstkritischer Worte des Kanzlers zu seinem Kommunikationsstil](https://www.deutschlandfunk.de/neue-debatte-ueber-merz-aeusserungen-zu-usa-trotz-selbstkritischer-worte-des-kanzlers-zu-seinem-komm-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Neuaufstellung - Höne zieht Kandidatur für FDP-Vorsitz zurück - Strack-Zimmermann zeigt sich von Entscheidung überrascht](https://www.deutschlandfunk.de/hoene-zieht-kandidatur-fuer-fdp-vorsitz-zurueck-strack-zimmermann-zeigt-sich-von-entscheidung-ueberr-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Schwarz-rote Koalition - CDU-Politiker Nacke: Gerechtigkeitselement bei Reformen immer mitdenken](https://www.deutschlandfunk.de/cdu-politiker-nacke-gerechtigkeitselement-bei-reformen-immer-mitdenken-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundestagspräsidentin - Klöckner (CDU): Kirche muss mehr bieten, als Äußerungen zu tagesaktuellen Fragen](https://www.deutschlandfunk.de/kloeckner-cdu-kirche-muss-mehr-bieten-als-aeusserungen-zu-tagesaktuellen-fragen-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Dschihadisten-Gruppe - Trump: Haben in Nigeria zweithöchsten Befehlshaber des IS getötet](https://www.deutschlandfunk.de/trump-haben-in-nigeria-zweithoechsten-befehlshaber-des-is-getoetet-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - Bosnien-Beauftragter Schmidt nennt persönliche Gründe für Rückzug aus dem Amt](https://www.deutschlandfunk.de/bosnien-beauftragter-schmidt-nennt-persoenliche-gruende-fuer-rueckzug-aus-dem-amt-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [NS-Geschichte - Direktor der Arolsen Archives, Wein, sieht Interesse an NS-Geschichte](https://www.deutschlandfunk.de/direktor-der-arolsen-archives-wein-sieht-interesse-an-ns-geschichte-102.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Weltwirtschaft - Außenhandelsexperte Treier fordert bessere Bedingungen für deutsche Unternehmen](https://www.deutschlandfunk.de/aussenhandelsexperte-treier-fordert-bessere-bedingungen-fuer-deutsche-unternehmen-102.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Gewinne der Dax-Konzerne im ersten Quartal gestiegen](https://www.deutschlandfunk.de/gewinne-der-dax-konzerne-im-ersten-quartal-gestiegen-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - Besorgte Reaktionen aus der Bundespolitik auf AfD-Pläne](https://www.deutschlandfunk.de/besorgte-reaktionen-aus-der-bundespolitik-auf-afd-plaene-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Gießkanne keine Dauerlösung" - SPD-Fraktionschef Miersch stellt Verlängerung des Tankrabatts in Frage](https://www.deutschlandfunk.de/spd-fraktionschef-miersch-stellt-verlaengerung-des-tankrabatts-in-frage-100.html)  
-  _Sat, 16 May 2026 09:59:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Russland - Ukrainische Drohenangriffe auf Moskau und Sewastopol - mehrere Tote und Verletzte](https://www.deutschlandfunk.de/ukrainische-drohenangriffe-auf-moskau-und-sewastopol-mehrere-tote-und-verletzte-102.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Pforzheim - Nach Fund von Weltkriegsbombe müssen 30.000 Menschen ihre Wohnungen verlassen](https://www.deutschlandfunk.de/nach-fund-von-weltkriegsbombe-muessen-30-000-menschen-ihre-wohnungen-verlassen-102.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Weltgesundheitsorganisation - Nach Ebola-Ausbruch im Kongo und in Uganda: WHO ruft internationale Gesundheitsnotlage aus](https://www.deutschlandfunk.de/nach-ebola-ausbruch-im-kongo-und-in-uganda-who-ruft-internationale-gesundheitsnotlage-aus-102.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Flugzeugträger "USS Gerald R. Ford" kehrt nach 326-tägigem Einsatz zurück](https://www.deutschlandfunk.de/flugzeugtraeger-uss-gerald-r-ford-kehrt-nach-326-taegigem-einsatz-zurueck-102.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Regenbogenflagge weht auf dem Bundestag](https://www.deutschlandfunk.de/regenbogenflagge-weht-auf-dem-bundestag-106.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Proteste - Sicherheitskräfte gehen im bolivianischen La Paz gegen Demonstranten vor](https://www.deutschlandfunk.de/sicherheitskraefte-gehen-im-bolivianischen-la-paz-gegen-demonstranten-vor-100.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Italien - Auto rast in Modena in Menschenmenge - eine Deutsche unter den Verletzten](https://www.deutschlandfunk.de/auto-rast-in-modena-in-menschenmenge-eine-deutsche-unter-den-verletzten-100.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Studie - Deutschland schneidet bei Kinderwohl unterdurchschnittlich ab](https://www.deutschlandfunk.de/deutschland-schneidet-bei-kinderwohl-unterdurchschnittlich-ab-100.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [ESC-Finale - Bulgarien gewinnt Eurovision Song Contest in Wien - Deutschland auf Platz 23](https://www.deutschlandfunk.de/bulgarien-gewinnt-eurovision-song-contest-in-wien-deutschland-auf-platz-100.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Internationaler Museumstag - Freier Eintritt und Sonderprogramm an diesem Sonntag in vielen Museen](https://www.deutschlandfunk.de/freier-eintritt-und-sonderprogramm-an-diesem-sonntag-in-vielen-museen-102.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sachsen-Anhalt - Mehr Vermittlungen von Facharztterminen über Terminservicestelle gebucht](https://www.deutschlandfunk.de/mehr-vermittlungen-von-facharztterminen-ueber-terminservicestelle-gebucht-100.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hohe Energiepreise durch Iran-Krieg - USA lassen Ausnahme von Sanktionen auf russisches Öl auslaufen](https://www.deutschlandfunk.de/usa-lassen-ausnahme-von-sanktionen-auf-russisches-oel-auslaufen-100.html)  
+  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 14 May 2026 18:49:23 GMT_ · paywall: `False`
 - **The Guardian** — [UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’](https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees)  
   _Thu, 14 May 2026 11:00:25 GMT_ · paywall: `False`
+- **The Guardian** — [‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era](https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela)  
+  _Sun, 17 May 2026 05:00:29 GMT_ · paywall: `False`
+- **The Guardian** — [Canada confirms first hantavirus case in isolation in British Columbia](https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia)  
+  _Sat, 16 May 2026 20:12:56 GMT_ · paywall: `False`
 - **The Guardian** — [Threatened indictment of Raúl Castro ratchets up US pressure on Cuba](https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump)  
   _Fri, 15 May 2026 17:31:49 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes](https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes)  
   _Fri, 15 May 2026 10:04:50 GMT_ · paywall: `False`
 - **The Guardian** — [13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’](https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities)  
   _Fri, 15 May 2026 10:00:37 GMT_ · paywall: `False`
-- **The Guardian** — [CIA director has met officials in Havana for talks, Cuba claims](https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims)  
-  _Fri, 15 May 2026 00:39:47 GMT_ · paywall: `False`
-- **The Guardian** — [Canada is welcome to join Eurovision, says song contest director](https://www.theguardian.com/tv-and-radio/2026/may/15/canada-eurovision-song-contest)  
-  _Thu, 14 May 2026 23:58:31 GMT_ · paywall: `False`
+- **The Guardian** — [At least eight people killed in Bangkok rail crossing collision](https://www.theguardian.com/world/2026/may/16/thailand-bangkok-rail-crossing-collision-freight-train-bus)  
+  _Sat, 16 May 2026 14:17:14 GMT_ · paywall: `False`
 - **The Guardian** — [Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping](https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping)  
   _Sat, 16 May 2026 03:28:49 GMT_ · paywall: `False`
-- **The Guardian** — [Colorado governor commuted Tina Peters’ sentence after Trump blocked funding for clean water project, Lauren Boebert claims – as it happened](https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news)  
-  _Sat, 16 May 2026 01:58:49 GMT_ · paywall: `False`
