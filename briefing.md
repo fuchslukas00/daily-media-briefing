@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-05-17 08:37 UTC_
+_Generated: 2026-05-18 10:46 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Russland - Ukrainische Drohenangriffe auf Moskau und Sewastopol - mehrere Tote und Verletzte](https://www.deutschlandfunk.de/ukrainische-drohenangriffe-auf-moskau-und-sewastopol-mehrere-tote-und-verletzte-102.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Pforzheim - Nach Fund von Weltkriegsbombe müssen 30.000 Menschen ihre Wohnungen verlassen](https://www.deutschlandfunk.de/nach-fund-von-weltkriegsbombe-muessen-30-000-menschen-ihre-wohnungen-verlassen-102.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Weltgesundheitsorganisation - Nach Ebola-Ausbruch im Kongo und in Uganda: WHO ruft internationale Gesundheitsnotlage aus](https://www.deutschlandfunk.de/nach-ebola-ausbruch-im-kongo-und-in-uganda-who-ruft-internationale-gesundheitsnotlage-aus-102.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Flugzeugträger "USS Gerald R. Ford" kehrt nach 326-tägigem Einsatz zurück](https://www.deutschlandfunk.de/flugzeugtraeger-uss-gerald-r-ford-kehrt-nach-326-taegigem-einsatz-zurueck-102.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Regenbogenflagge weht auf dem Bundestag](https://www.deutschlandfunk.de/regenbogenflagge-weht-auf-dem-bundestag-106.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Proteste - Sicherheitskräfte gehen im bolivianischen La Paz gegen Demonstranten vor](https://www.deutschlandfunk.de/sicherheitskraefte-gehen-im-bolivianischen-la-paz-gegen-demonstranten-vor-100.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Italien - Auto rast in Modena in Menschenmenge - eine Deutsche unter den Verletzten](https://www.deutschlandfunk.de/auto-rast-in-modena-in-menschenmenge-eine-deutsche-unter-den-verletzten-100.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Studie - Deutschland schneidet bei Kinderwohl unterdurchschnittlich ab](https://www.deutschlandfunk.de/deutschland-schneidet-bei-kinderwohl-unterdurchschnittlich-ab-100.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [ESC-Finale - Bulgarien gewinnt Eurovision Song Contest in Wien - Deutschland auf Platz 23](https://www.deutschlandfunk.de/bulgarien-gewinnt-eurovision-song-contest-in-wien-deutschland-auf-platz-100.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Internationaler Museumstag - Freier Eintritt und Sonderprogramm an diesem Sonntag in vielen Museen](https://www.deutschlandfunk.de/freier-eintritt-und-sonderprogramm-an-diesem-sonntag-in-vielen-museen-102.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - Mehr Vermittlungen von Facharztterminen über Terminservicestelle gebucht](https://www.deutschlandfunk.de/mehr-vermittlungen-von-facharztterminen-ueber-terminservicestelle-gebucht-100.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hohe Energiepreise durch Iran-Krieg - USA lassen Ausnahme von Sanktionen auf russisches Öl auslaufen](https://www.deutschlandfunk.de/usa-lassen-ausnahme-von-sanktionen-auf-russisches-oel-auslaufen-100.html)  
-  _Sun, 17 May 2026 10:29:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Baubranche - Zahl der Baugenehmigungen für Wohnungen im ersten Quartal deutlich gestiegen](https://www.deutschlandfunk.de/zahl-der-baugenehmigungen-fuer-wohnungen-im-ersten-quartal-deutlich-gestiegen-104.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nigeria - Regierungstruppen gehen mit US-Hilfe erneut gegen Terrormiliz IS vor](https://www.deutschlandfunk.de/regierungstruppen-gehen-mit-us-hilfe-erneut-gegen-terrormiliz-is-vor-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brot für die Welt - Bericht: Staaten mit Freiheitsrechten sind in der Minderzahl](https://www.deutschlandfunk.de/bericht-staaten-mit-freiheitsrechten-sind-in-der-minderzahl-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kultur - Theatertreffen schafft Frauenquote wieder ab](https://www.deutschlandfunk.de/theatertreffen-schafft-frauenquote-wieder-ab-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Russischer Angriffskrieg - Chinesischer Frachter im Hafen von Odessa getroffen](https://www.deutschlandfunk.de/chinesischer-frachter-im-hafen-von-odessa-getroffen-104.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brandenburg - Einrichtung eines Bürgerrats zum öffentlich-rechtlichen Rundfunk geplant](https://www.deutschlandfunk.de/einrichtung-eines-buergerrats-zum-oeffentlich-rechtlichen-rundfunk-geplant-102.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medien - Digitalkonferenz re:publica startet](https://www.deutschlandfunk.de/digitalkonferenz-re-publica-startet-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Digitales - Bürger-Hackathon soll Verwaltung vereinfachen](https://www.deutschlandfunk.de/buerger-hackathon-soll-verwaltung-vereinfachen-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rheinland-Pfalz - Konstituierende Landtagssitzung - Wahl des Ministerpräsidenten](https://www.deutschlandfunk.de/konstituierende-landtagssitzung-wahl-des-ministerpraesidenten-102.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Klimaschutz - Expertenrat: Deutschland verfehlt Ziele zu Treibhausgas-Emissionen](https://www.deutschlandfunk.de/expertenrat-deutschland-verfehlt-ziele-zu-treibhausgas-emissionen-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Diäten - Bundestagsabgeordnete sollen dieses Jahr offenbar nicht mehr Geld bekommen](https://www.deutschlandfunk.de/bundestagsabgeordnete-sollen-dieses-jahr-offenbar-nicht-mehr-geld-bekommen-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Tausende bei christlich-fundamentalistisch geprägter Gebetsveranstaltung in Washington mit Trump, Vance und Hegseth](https://www.deutschlandfunk.de/tausende-bei-christlich-fundamentalistisch-gepraegter-gebetsveranstaltung-in-washington-mit-trump-va-100.html)  
+  _Mon, 18 May 2026 12:39:53 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 14 May 2026 18:49:23 GMT_ · paywall: `False`
 - **The Guardian** — [UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’](https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees)  
   _Thu, 14 May 2026 11:00:25 GMT_ · paywall: `False`
+- **The Guardian** — [Drones reshape war in Colombia as deaths and injuries mount](https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled)  
+  _Mon, 18 May 2026 09:00:04 GMT_ · paywall: `False`
 - **The Guardian** — [‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era](https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela)  
   _Sun, 17 May 2026 05:00:29 GMT_ · paywall: `False`
 - **The Guardian** — [Canada confirms first hantavirus case in isolation in British Columbia](https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 15 May 2026 17:31:49 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes](https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes)  
   _Fri, 15 May 2026 10:04:50 GMT_ · paywall: `False`
-- **The Guardian** — [13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’](https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities)  
-  _Fri, 15 May 2026 10:00:37 GMT_ · paywall: `False`
-- **The Guardian** — [At least eight people killed in Bangkok rail crossing collision](https://www.theguardian.com/world/2026/may/16/thailand-bangkok-rail-crossing-collision-freight-train-bus)  
-  _Sat, 16 May 2026 14:17:14 GMT_ · paywall: `False`
-- **The Guardian** — [Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping](https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping)  
-  _Sat, 16 May 2026 03:28:49 GMT_ · paywall: `False`
+- **The Guardian** — [Xi Jinping prepares to welcome Vladimir Putin to China, four days after hosting Donald Trump](https://www.theguardian.com/world/2026/may/18/xi-jinping-vladimir-putin-china-russia-four-days-after-donald-trump-us-visit)  
+  _Mon, 18 May 2026 03:52:20 GMT_ · paywall: `False`
+- **The Guardian** — [‘Tearing down barriers’: North Korean footballers arrive in Seoul for first time in eight years](https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon)  
+  _Sun, 17 May 2026 08:56:35 GMT_ · paywall: `False`
