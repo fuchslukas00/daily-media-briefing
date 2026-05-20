@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-05-19 10:24 UTC_
+_Generated: 2026-05-20 10:01 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Russischer Angriffskrieg - Ukraine und Russland melden wechselseitige umfangreiche Luftattacken](https://www.deutschlandfunk.de/ukraine-und-russland-melden-wechselseitige-umfangreiche-luftattacken-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Rückwirkend ab 1. Januar - Staatliches Förderprogramm für Elektroautos gestartet - Zuschüsse bis 6.000 Euro](https://www.deutschlandfunk.de/staatliches-foerderprogramm-fuer-elektroautos-gestartet-zuschuesse-bis-6-000-euro-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Politisch motivierte Kriminalität - Statistik der Bundesregierung: Angriffe auf Politiker haben massiv zugenommen](https://www.deutschlandfunk.de/statistik-der-bundesregierung-angriffe-auf-politiker-haben-massiv-zugenommen-102.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Verstaatlichung - Bund leitet Uniper-Wiederverkauf ein](https://www.deutschlandfunk.de/bund-leitet-uniper-wiederverkauf-ein-102.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ebola - Infizierter US-Bürger wird zur Behandlung nach Deutschland gebracht](https://www.deutschlandfunk.de/infizierter-us-buerger-wird-zur-behandlung-nach-deutschland-gebracht-102.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [München - Sammelklage gegen Amazon wegen Werbung im Streamingdienst](https://www.deutschlandfunk.de/sammelklage-gegen-amazon-wegen-werbung-im-streamingdienst-102.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Mobilität - Greenpeace-Untersuchung: Gut die Hälfte der Bevölkerung in Europa ist vom ÖPNV abgeschnitten](https://www.deutschlandfunk.de/greenpeace-untersuchung-gut-die-haelfte-der-bevoelkerung-in-europa-ist-vom-oepnv-abgeschnitten-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ex-Bundesgesundheitsminister - Lauterbach fordert mehr Forschung zu Impfstoffen gegen Ebola](https://www.deutschlandfunk.de/lauterbach-fordert-mehr-forschung-zu-impfstoffen-gegen-ebola-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Defizit - Deutsche Stiftung Patientenschutz wirft Bund Plünderung der Pflegeversicherung vor](https://www.deutschlandfunk.de/deutsche-stiftung-patientenschutz-wirft-bund-pluenderung-der-pflegeversicherung-vor-102.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistik - Zahl der Kreuzfahrtgäste von deutschen Seehäfen 2025 bei gut 1,5 Millionen](https://www.deutschlandfunk.de/zahl-der-kreuzfahrtgaeste-von-deutschen-seehaefen-2025-bei-gut-1-5-millionen-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fußball - "Bild": Manuel Neuer fährt als Nummer eins mit zur WM](https://www.deutschlandfunk.de/bild-manuel-neuer-faehrt-als-nummer-eins-mit-zur-wm-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Mehrere Tote nach Schusswaffenangriff auf Moscheegelände in San Diego - auch beide Täter laut Polizei tot](https://www.deutschlandfunk.de/mehrere-tote-nach-schusswaffenangriff-auf-moscheegelaende-in-san-diego-auch-beide-taeter-laut-polize-100.html)  
-  _Tue, 19 May 2026 12:14:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [München - Wissenschaftsspionage für China? Zwei Verdächtige festgenommen](https://www.deutschlandfunk.de/wissenschaftsspionage-fuer-china-zwei-verdaechtige-festgenommen-102.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundeskabinett - Ministerrunde beschließt Ausbau von Zivilschutz und Änderungen beim Führerschein](https://www.deutschlandfunk.de/ministerrunde-beschliesst-ausbau-von-zivilschutz-und-aenderungen-beim-fuehrerschein-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Planungssicherheit - Deutsche Wirtschaft begrüßt EU-Einigung zu US-Zöllen](https://www.deutschlandfunk.de/deutsche-wirtschaft-begruesst-eu-einigung-zu-us-zoellen-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Eurostat - Inflationsrate im Euroraum steigt auf 3,0 Prozent](https://www.deutschlandfunk.de/inflationsrate-im-euroraum-steigt-auf-3-0-prozent-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Grundsatzurteil - Bundesfinanzhof erklärt Neuregelung der Grundsteuer in Baden-Württemberg für rechtens](https://www.deutschlandfunk.de/bundesfinanzhof-erklaert-neuregelung-der-grundsteuer-in-baden-wuerttemberg-fuer-rechtens-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Epidemie - Hilfsorganisation IRC: "Kürzungen in Entwicklungshilfe leisten Ebola Vorschub"](https://www.deutschlandfunk.de/hilfsorganisation-irc-kuerzungen-in-entwicklungshilfe-leisten-ebola-vorschub-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Ausbruch im Kongo - Warum ein US-amerikanischer Ebola-Patient in der Berliner Charité behandelt wird](https://www.deutschlandfunk.de/warum-ein-us-amerikanischer-ebola-patient-in-der-berliner-charit-behandelt-wird-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Peking - Kreml-Chef Putin und Chinas Staatschef Xi unterzeichnen Abkommen für weitere Zusammenarbeit](https://www.deutschlandfunk.de/kreml-chef-putin-und-chinas-staatschef-xi-unterzeichnen-abkommen-fuer-weitere-zusammenarbeit-104.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Baltikum - Erneut Luftalarm in Litauen nach Drohnen-Sichtung](https://www.deutschlandfunk.de/erneut-luftalarm-in-litauen-nach-drohnen-sichtung-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Treffen mit Tusk und Nawrocki - Ungarns neuer Regierungschef Magyar in Polen](https://www.deutschlandfunk.de/ungarns-neuer-regierungschef-magyar-in-polen-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Südkorea - Großangelegter Streik bei Samsung rückt näher - weltweite Lieferengpässe befürchtet](https://www.deutschlandfunk.de/grossangelegter-streik-bei-samsung-rueckt-naeher-weltweite-lieferengpaesse-befuerchtet-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Internationale Energieagentur - Hohes Ölpreisniveau könnte zu E-Auto-Boom führen](https://www.deutschlandfunk.de/hohes-oelpreisniveau-koennte-zu-e-auto-boom-fuehren-100.html)  
+  _Wed, 20 May 2026 11:52:24 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts](https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola)  
+  _Tue, 19 May 2026 18:44:54 GMT_ · paywall: `False`
+- **The Guardian** — [WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)  
+  _Tue, 19 May 2026 16:06:56 GMT_ · paywall: `False`
+- **The Guardian** — [As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?](https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again)  
+  _Tue, 19 May 2026 12:51:20 GMT_ · paywall: `False`
 - **The Guardian** — [US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans](https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees)  
   _Tue, 19 May 2026 09:43:24 GMT_ · paywall: `False`
-- **The Guardian** — [WHO head ‘deeply concerned’ by Ebola outbreak as cases and deaths rise in DRC](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)  
-  _Tue, 19 May 2026 09:03:11 GMT_ · paywall: `False`
 - **The Guardian** — [Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’](https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech)  
   _Tue, 19 May 2026 08:00:06 GMT_ · paywall: `False`
-- **The Guardian** — [‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC](https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court)  
-  _Tue, 19 May 2026 04:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [‘It’s heartbreaking’: panic in eastern DRC over return of Ebola](https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear)  
-  _Mon, 18 May 2026 18:33:12 GMT_ · paywall: `False`
+- **The Guardian** — [Did Trump really rescue Venezuela? – podcast](https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast)  
+  _Wed, 20 May 2026 02:00:19 GMT_ · paywall: `False`
+- **The Guardian** — [Three Toronto police officers arrested over sexual assault in Barcelona](https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona)  
+  _Tue, 19 May 2026 17:13:14 GMT_ · paywall: `False`
+- **The Guardian** — [Woman shot dead by police in Jamaica at protest over previous police shooting](https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest)  
+  _Tue, 19 May 2026 16:41:20 GMT_ · paywall: `False`
+- **The Guardian** — [Defense department watchdog opens inquiry into US airstrikes on alleged drug boats](https://www.theguardian.com/us-news/2026/may/19/defense-department-inquiry-airstrikes-alleged-drug-boats)  
+  _Tue, 19 May 2026 15:53:27 GMT_ · paywall: `False`
 - **The Guardian** — [Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties](https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties)  
   _Mon, 18 May 2026 17:06:10 GMT_ · paywall: `False`
-- **The Guardian** — [Cuba warns US of ‘bloodbath’ if military action follows drone claims](https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim)  
-  _Mon, 18 May 2026 14:42:04 GMT_ · paywall: `False`
-- **The Guardian** — [Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup](https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup)  
-  _Mon, 18 May 2026 14:00:49 GMT_ · paywall: `False`
-- **The Guardian** — [Drones reshape war in Colombia as deaths and injuries mount](https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled)  
-  _Mon, 18 May 2026 09:00:04 GMT_ · paywall: `False`
-- **The Guardian** — [‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era](https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela)  
-  _Sun, 17 May 2026 05:00:29 GMT_ · paywall: `False`
-- **The Guardian** — [Fears of new China shock as EU industry’s reliance on imports grows](https://www.theguardian.com/business/2026/may/19/china-shock-eu-european-union-industry-imports)  
-  _Tue, 19 May 2026 06:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [Trump’s shifting remarks on Taiwan are perfect for China to exploit](https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis)  
-  _Tue, 19 May 2026 00:22:53 GMT_ · paywall: `False`
+- **The Guardian** — [‘How are we going to survive this?’ Wellington faces six-month wait to halt sewage spill](https://www.theguardian.com/world/2026/may/20/wellington-sewage-spill-moa-point-update-six-month-wait)  
+  _Wed, 20 May 2026 03:44:43 GMT_ · paywall: `False`
+- **The Guardian** — [Thailand tightens visa rules for tourists, citing crime by foreigners](https://www.theguardian.com/world/2026/may/20/thailand-cuts-visa-free-stays-tourists)  
+  _Wed, 20 May 2026 00:58:39 GMT_ · paywall: `False`
