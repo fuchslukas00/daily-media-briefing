@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-05-21 10:10 UTC_
+_Generated: 2026-05-22 09:57 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Wirtschaft - EU-Kommission senkt Wachstumsprognose - Erwartung für Deutschland halbiert](https://www.deutschlandfunk.de/eu-kommission-senkt-wachstumsprognose-erwartung-fuer-deutschland-halbiert-102.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach "Bild"-Bericht - Kritische Reaktionen auf Veröffentlichung zu möglichen Vorschlägen der Expertenkommission für eine Rentenreform](https://www.deutschlandfunk.de/kritische-reaktionen-auf-veroeffentlichung-zu-moeglichen-vorschlaegen-der-expertenkommission-fuer-ei-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Altersversorgung - Wichtige Kennzahl in der Renten-Debatte: Was das Rentenniveau bedeutet](https://www.deutschlandfunk.de/wichtige-kennzahl-in-der-renten-debatte-was-das-rentenniveau-bedeutet-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesanwaltschaft - Mutmaßliche China-Spione in Untersuchungshaft](https://www.deutschlandfunk.de/mutmassliche-china-spione-in-untersuchungshaft-102.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Brief an EU-Spitzen - Merz schlägt Sonderstatus der Ukraine auf dem Weg zum EU-Beitritt vor](https://www.deutschlandfunk.de/merz-schlaegt-sonderstatus-der-ukraine-auf-dem-weg-zum-eu-beitritt-vor-102.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Tote bei Drohnenangriff auf russische Stadt Sysran](https://www.deutschlandfunk.de/tote-bei-drohnenangriff-auf-russische-stadt-sysran-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Mecklenburg-Vorpommern - Nach Eklat um Auftritt des jüdischen Publizisten Friedemann: Literaturhaus Klütz hat neue Leiterin](https://www.deutschlandfunk.de/nach-eklat-um-auftritt-des-juedischen-publizisten-friedemann-literaturhaus-kluetz-hat-neue-leiterin-102.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Trotz Protest der Regierung - 76. Sudetendeutscher Tag beginnt im tschechischen Brünn](https://www.deutschlandfunk.de/76-sudetendeutscher-tag-beginnt-im-tschechischen-bruenn-102.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Kabinettsbeschluss - Änderungen beim Führerschein: Verkehrsminister Schnieder warnt vor zu hohen Erwartungen bei Preissenkungen](https://www.deutschlandfunk.de/aenderungen-beim-fuehrerschein-verkehrsminister-schnieder-warnt-vor-zu-hohen-erwartungen-bei-preisse-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energie - CDU-Bundestagsabgeordneter Rohwer: Auch der Osten soll neue Gaskraftwerke enthalten](https://www.deutschlandfunk.de/cdu-bundestagsabgeordneter-rohwer-auch-der-osten-soll-neue-gaskraftwerke-enthalten-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach IGH-Entscheidung - UNO-Generalversammlung nimmt Resolution für strengere Klimaschutzverpflichtungen an](https://www.deutschlandfunk.de/uno-generalversammlung-nimmt-resolution-fuer-strengere-klimaschutzverpflichtungen-an-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Digitalisierung - Bundesdigitalminister Wildberger will bei Online-Portal für Sozialleistungen auf europäische KI-Lösungen setzen](https://www.deutschlandfunk.de/bundesdigitalminister-wildberger-will-bei-online-portal-fuer-sozialleistungen-auf-europaeische-ki-lo-100.html)  
-  _Thu, 21 May 2026 11:55:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [NATO-Treffen - Rubio: Stationierung von Soldaten kein Druckmittel](https://www.deutschlandfunk.de/rubio-stationierung-von-soldaten-kein-druckmittel-102.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vorschläge der Rentenexperten - Gewerkschafter für längere Lebensarbeitszeit - wenn die Menschen wollen und können](https://www.deutschlandfunk.de/gewerkschafter-fuer-laengere-lebensarbeitszeit-wenn-die-menschen-wollen-und-koennen-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Bundestag berät über antragslose Kindergeld-Auszahlung - Grüne und Linke begrüßen Pläne grundsätzlich](https://www.deutschlandfunk.de/bundestag-beraet-ueber-antragslose-kindergeld-auszahlung-gruene-und-linke-begruessen-plaene-grundsae-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [NATO-Treffen - Wadephul: Deutschland bewegt sich auf fünf Prozent Rüstungsausgaben zu](https://www.deutschlandfunk.de/wadephul-deutschland-bewegt-sich-auf-fuenf-prozent-ruestungsausgaben-zu-102.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Proteste in Kuba - Warum klagen die USA Raúl Castro an?](https://www.deutschlandfunk.de/warum-klagen-die-usa-ra-l-castro-an-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Türkei - Erdogan lässt liberale Universität in Istanbul schließen](https://www.deutschlandfunk.de/erdogan-laesst-liberale-universitaet-in-istanbul-schliessen-102.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Demokratische Republik Kongo - Zahl der Ebola-Infektionen steigt - Klinikzelte im Ostkongo angezündet](https://www.deutschlandfunk.de/zahl-der-ebola-infektionen-steigt-klinikzelte-im-ostkongo-angezuendet-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Cyberangriff - Daten von zehntausenden Uniklinik-Patienten gestohlen](https://www.deutschlandfunk.de/daten-von-zehntausenden-uniklinik-patienten-gestohlen-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - 2025 wurden knapp 207.000 Wohnungen gebaut - niedrigster Wert seit 2012](https://www.deutschlandfunk.de/2025-wurden-knapp-207-000-wohnungen-gebaut-niedrigster-wert-seit-102.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Unicredit-Angebot - Ex-Chefvolkswirt der Deutschen Bank befürwortet Übernahme der Commerzbank](https://www.deutschlandfunk.de/ex-chefvolkswirt-der-deutschen-bank-befuerwortet-uebernahme-der-commerzbank-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Bundestag beschließt niedrigere Ticketsteuer für Flugreisende und billigt drei Bahnprojekte](https://www.deutschlandfunk.de/bundestag-beschliesst-niedrigere-ticketsteuer-fuer-flugreisende-und-billigt-drei-bahnprojekte-108.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schweden - NATO-Außenministertreffen begonnen - Rubio kritisiert erneut mangelnde Unterstützung](https://www.deutschlandfunk.de/nato-aussenministertreffen-begonnen-rubio-kritisiert-erneut-mangelnde-unterstuetzung-100.html)  
+  _Fri, 22 May 2026 11:55:29 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’](https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan)  
+  _Thu, 21 May 2026 17:41:51 GMT_ · paywall: `False`
+- **The Guardian** — [Macron says France must address issue of reparations for its role in slave trade](https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement)  
+  _Thu, 21 May 2026 15:05:15 GMT_ · paywall: `False`
 - **The Guardian** — [US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say](https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health)  
   _Thu, 21 May 2026 10:00:08 GMT_ · paywall: `False`
 - **The Guardian** — [US doctor who contracted Ebola in DRC flown to Germany for treatment](https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany)  
   _Wed, 20 May 2026 12:28:43 GMT_ · paywall: `False`
 - **The Guardian** — [Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts](https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola)  
   _Tue, 19 May 2026 18:44:54 GMT_ · paywall: `False`
-- **The Guardian** — [WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)  
-  _Tue, 19 May 2026 16:06:56 GMT_ · paywall: `False`
-- **The Guardian** — [As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?](https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again)  
-  _Tue, 19 May 2026 12:51:20 GMT_ · paywall: `False`
+- **The Guardian** — [Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action](https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action)  
+  _Fri, 22 May 2026 09:29:02 GMT_ · paywall: `False`
+- **The Guardian** — [Cubans outraged at US charges against Raúl Castro as fears of military strikes grow](https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment)  
+  _Thu, 21 May 2026 16:15:51 GMT_ · paywall: `False`
+- **The Guardian** — [‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row](https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois)  
+  _Thu, 21 May 2026 12:38:35 GMT_ · paywall: `False`
+- **The Guardian** — [Colombia’s climate crossroads: Trumpism casts shadow over presidential battle](https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election)  
+  _Thu, 21 May 2026 10:41:10 GMT_ · paywall: `False`
 - **The Guardian** — [US indicts former Cuban president Raúl Castro as it seeks to oust regime](https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment)  
   _Wed, 20 May 2026 22:40:24 GMT_ · paywall: `False`
-- **The Guardian** — [Bolivia rocked by protests as US warns of ‘coup d’état’](https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira)  
-  _Wed, 20 May 2026 20:28:28 GMT_ · paywall: `False`
-- **The Guardian** — [Canada faces calls for investigation into death of woman after plasma donation](https://www.theguardian.com/world/2026/may/20/canada-plasma-death)  
-  _Wed, 20 May 2026 19:06:51 GMT_ · paywall: `False`
-- **The Guardian** — [Totó la Momposina, vocalist and Colombian music legend, dies aged 85](https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85)  
-  _Wed, 20 May 2026 11:39:49 GMT_ · paywall: `False`
-- **The Guardian** — [Did Trump really rescue Venezuela? – podcast](https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast)  
-  _Wed, 20 May 2026 02:00:19 GMT_ · paywall: `False`
-- **The Guardian** — [Papua New Guinea warns against fishing in New Ireland after mystery deaths of marine life](https://www.theguardian.com/world/2026/may/21/png-dead-fish-dying-new-ireland-province-fishing-warning-papua-new-guinea)  
-  _Thu, 21 May 2026 00:52:55 GMT_ · paywall: `False`
-- **The Guardian** — [Are Xi and Putin still ‘best friends’? – The Latest](https://www.theguardian.com/news/audio/2026/may/20/are-xi-and-putin-still-best-friends-the-latest)  
-  _Wed, 20 May 2026 16:17:15 GMT_ · paywall: `False`
+- **The Guardian** — [US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief](https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief)  
+  _Fri, 22 May 2026 09:08:29 GMT_ · paywall: `False`
+- **The Guardian** — [Slow-moving bands of heavy rain trigger flooding and landslides in parts of China](https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china)  
+  _Fri, 22 May 2026 08:04:33 GMT_ · paywall: `False`
