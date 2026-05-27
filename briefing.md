@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-05-26 10:34 UTC_
+_Generated: 2026-05-27 10:38 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Iran-Krieg - Revolutionsgarde droht mit Vergeltung](https://www.deutschlandfunk.de/revolutionsgarde-droht-mit-vergeltung-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach langer Feuerpause - US-Armee greift wieder Ziele im Iran an](https://www.deutschlandfunk.de/us-armee-greift-wieder-ziele-im-iran-an-104.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ankara - CHP-Chef Özel abgesetzt, Parteizentrale gestürmt: Will Erdogan die Opposition in der Türkei endgültig zerschlagen?](https://www.deutschlandfunk.de/chp-chef-oezel-abgesetzt-parteizentrale-gestuermt-will-erdogan-die-opposition-in-der-tuerkei-endguel-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Türkei - Abgesetzter CHP-Chef Özel will Kundgebung in Izmir abhalten](https://www.deutschlandfunk.de/abgesetzter-chp-chef-oezel-will-kundgebung-in-izmir-abhalten-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Belgien - Mehrere Tote bei Zugunglück mit Schulbus](https://www.deutschlandfunk.de/mehrere-tote-bei-zugunglueck-mit-schulbus-102.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vapes und Nikotinbeutel - Anteil jugendlicher Raucher gestiegen](https://www.deutschlandfunk.de/anteil-jugendlicher-raucher-gestiegen-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Konjunkturumfrage - DIHK zu Folgen des Iran-Kriegs: Energie- und Rohstoffpreise sind das größte Geschäftsrisiko](https://www.deutschlandfunk.de/dihk-zu-folgen-des-iran-kriegs-energie-und-rohstoffpreise-sind-das-groesste-geschaeftsrisiko-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Zwölf Menschen bei israelischem Angriff im Libanon getötet](https://www.deutschlandfunk.de/zwoelf-menschen-bei-israelischem-angriff-im-libanon-getoetet-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Baden-Württemberg - Finanzminister Bayaz hält schwarz-grüne Koalition im Bund für möglich](https://www.deutschlandfunk.de/finanzminister-bayaz-haelt-schwarz-gruene-koalition-im-bund-fuer-moeglich-102.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kein Zugang seit 88 Tagen - Irans Präsident ordnet offenbar Ende der Internetsperre an](https://www.deutschlandfunk.de/irans-praesident-ordnet-offenbar-ende-der-internetsperre-an-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Mützenich (SPD): Russland kann auf dem Schlachtfeld nicht so einfach besiegt werden - erneute Forderung nach europäischer Initiative](https://www.deutschlandfunk.de/muetzenich-spd-russland-kann-auf-dem-schlachtfeld-nicht-so-einfach-besiegt-werden-erneute-forderung--102.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Friedensforschung - Greenpeace: Europa ist Russland auch ohne die USA militärisch überlegen - Warnung vor Geldverschwendung im Rüstungsbereich](https://www.deutschlandfunk.de/greenpeace-europa-ist-russland-auch-ohne-die-usa-militaerisch-ueberlegen-warnung-vor-geldverschwendu-100.html)  
-  _Tue, 26 May 2026 12:11:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Raubüberfälle - Mutmaßliche Ex-RAF-Terroristin Daniela Klette zu 13 Jahren Haft verurteilt](https://www.deutschlandfunk.de/mutmassliche-ex-raf-terroristin-daniela-klette-zu-13-jahren-haft-verurteilt-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sachverständigenrat - Wirtschaftsweise rechnen nur noch mit 0,5 Prozent Wachstum - Warnung vor steigenden Sozialbeiträgen](https://www.deutschlandfunk.de/wirtschaftsweise-rechnen-nur-noch-mit-0-5-prozent-wachstum-warnung-vor-steigenden-sozialbeitraegen-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Spanien - Polizei durchsucht Zentrale der regierenden Sozialisten](https://www.deutschlandfunk.de/polizei-durchsucht-zentrale-der-regierenden-sozialisten-102.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Welthandel - Reiche pocht in Peking auf verlässliche Rohstoff-Zugänge](https://www.deutschlandfunk.de/reiche-pocht-in-peking-auf-verlaessliche-rohstoff-zugaenge-102.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Israel bestätigt Tod des neuen Hamas-Führers in Gaza](https://www.deutschlandfunk.de/israel-bestaetigt-tod-des-neuen-hamas-fuehrers-in-gaza-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wohnungsbau - Bauministerin Hubertz stellt neues Baugesetzbuch vor](https://www.deutschlandfunk.de/bauministerin-hubertz-stellt-neues-baugesetzbuch-vor-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bilanz - Mehr "Superreiche" in Deutschland - Rund 5.000 Menschen gehört mehr als ein Viertel des gesamten Vermögens](https://www.deutschlandfunk.de/mehr-superreiche-in-deutschland-rund-5-000-menschen-gehoert-mehr-als-ein-viertel-des-gesamten-vermoe-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - In den EU-Ländern werden wieder mehr Fahrzeuge verkauft - Anteil von E-Autos steigt an](https://www.deutschlandfunk.de/in-den-eu-laendern-werden-wieder-mehr-fahrzeuge-verkauft-anteil-von-e-autos-steigt-an-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Südamerika - Parlament in Bolivien lockert Vorgaben für Einsatz der Armee gegen Demonstranten](https://www.deutschlandfunk.de/parlament-in-bolivien-lockert-vorgaben-fuer-einsatz-der-armee-gegen-demonstranten-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - South Carolina und Alabama: Neuordnung von Wahlkreisen in zwei Bundesstaaten gescheitert](https://www.deutschlandfunk.de/south-carolina-und-alabama-neuordnung-von-wahlkreisen-in-zwei-bundesstaaten-gescheitert-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kanada - Pistorius zu Gesprächen über Sicherheit und Rüstung nach Ottawa gereist](https://www.deutschlandfunk.de/pistorius-zu-gespraechen-ueber-sicherheit-und-ruestung-nach-ottawa-gereist-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistisches Bundesamt - Teilzeit-Arbeit nimmt in Deutschland weiter zu](https://www.deutschlandfunk.de/teilzeit-arbeit-nimmt-in-deutschland-weiter-zu-100.html)  
+  _Wed, 27 May 2026 11:44:48 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sun, 24 May 2026 06:00:49 GMT_ · paywall: `False`
 - **The Guardian** — [White House pauses removal of detainees to DRC as Ebola outbreak widens](https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola)  
   _Sat, 23 May 2026 14:33:05 GMT_ · paywall: `False`
+- **The Guardian** — [President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal](https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team)  
+  _Tue, 26 May 2026 00:02:46 GMT_ · paywall: `False`
 - **The Guardian** — [Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse](https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses)  
   _Mon, 25 May 2026 06:20:46 GMT_ · paywall: `False`
 - **The Guardian** — [‘Canada is handing people over to ICE’: refugees rejected at border face US detention](https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 22 May 2026 21:16:28 GMT_ · paywall: `False`
 - **The Guardian** — [PM says Alberta ‘essential’ to Canada as separatists push for independence](https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession)  
   _Fri, 22 May 2026 16:41:09 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’](https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum)  
-  _Fri, 22 May 2026 10:00:56 GMT_ · paywall: `False`
-- **The Guardian** — [Thai rescuers join effort to free seven people trapped in Laos cave](https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers)  
-  _Mon, 25 May 2026 14:24:26 GMT_ · paywall: `False`
-- **The Guardian** — [China mine death toll at least 82 after gas blast](https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping)  
-  _Sat, 23 May 2026 15:58:40 GMT_ · paywall: `False`
+- **The Guardian** — [Dissident detained in South Korea after fleeing China in rubber boat](https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat)  
+  _Wed, 27 May 2026 09:37:43 GMT_ · paywall: `False`
+- **The Guardian** — [‘Makes no sense’: experts doubt pause in US arms sale to Taiwan is due to Iran war](https://www.theguardian.com/world/2026/may/27/us-arms-sales-to-taiwan-pause-unlikely-due-to-iran-war-experts)  
+  _Wed, 27 May 2026 01:24:14 GMT_ · paywall: `False`
