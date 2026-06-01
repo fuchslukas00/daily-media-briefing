@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-05-31 09:34 UTC_
+_Generated: 2026-06-01 12:17 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **ZDF heute** — [Affäre oder Abstand: Wie viel hält Liebe wirklich aus?](https://www.zdfheute.de/panorama/affaere-liebe-beziehung-trennung-paar-100.html)  
-  _Sun, 31 May 2026 11:21:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Ballsaal und Golddeko: Wie Trump das Weiße Haus umbaut](https://3d.zdf.de/trump-weisses-haus-umbau/)  
-  _Sun, 31 May 2026 11:33:09 +0200_ · paywall: `False`
-- **ZDF heute** — [Havertz trotz Frust voller WM-Vorfreude](https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-finale-arsenal-psg-kai-havertz-100.html)  
-  _Sun, 31 May 2026 09:40:03 +0200_ · paywall: `False`
-- **ZDF heute** — [Demonstration auf der Brennerautobahn](https://www.zdfheute.de/video/heute-journal/demonstratin-brennerautobahn-rechenberg-100.html)  
-  _Sat, 30 May 2026 22:20:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Blue-Origin-Rakete explodiert bei Test](https://www.zdfheute.de/video/panorama-blue-origin-explosion-100.html)  
-  _Fri, 29 May 2026 16:20:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Drei chinesische Raumfahrer zurückgekehrt](https://www.zdfheute.de/video/zdfheute-xpress/china-raumfahrer-rueckkehr-shenzhou21-video-100.html)  
-  _Fri, 29 May 2026 20:00:00 +0200_ · paywall: `False`
-- **ZDF heute** — [KI bis Medizin: Finale von "Jugend forscht"](https://www.zdfheute.de/video/zdfheute-xpress/finale-von-jugend-forscht-wettbewerb-video-100.html)  
-  _Fri, 29 May 2026 20:20:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Nicholas Galitzine als neuer He-Man](https://www.zdfheute.de/video/hallo-deutschland/masters-of-universe-galitzine-100.html)  
-  _Fri, 29 May 2026 17:10:00 +0200_ · paywall: `False`
-- **ZDF heute** — ["Toy Story 5": Premiere mit Tom Hanks](https://www.zdfheute.de/video/hallo-deutschland/toy-story-premiere-100.html)  
-  _Fri, 29 May 2026 16:16:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Büffel "Donald Trump" jetzt im Zoo](https://www.zdfheute.de/video/zdfheute-xpress/albino-bueffel-donald-trump-video-100.html)  
-  _Thu, 28 May 2026 16:55:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Eichhörnchenbaby auf Waldboden gefunden](https://www.zdfheute.de/video/hallo-deutschland/eichhoernchen-baby-hilflos-odenwald-100.html)  
-  _Fri, 29 May 2026 12:55:00 +0200_ · paywall: `False`
-- **ZDF heute** — [TV-Comeback: Robert Atzorn kehrt zurück](https://www.zdfheute.de/video/hallo-deutschland/vater-sohn-atzorn-100.html)  
-  _Thu, 28 May 2026 17:10:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Entwicklungsministerin Alabali Radovan bricht Libanon-Reise aus Sicherheitsgründen ab](https://www.deutschlandfunk.de/entwicklungsministerin-alabali-radovan-bricht-libanon-reise-aus-sicherheitsgruenden-ab-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Opposition unter Druck - Razzia gegen von der CHP regierte Gemeinde in der Türkei](https://www.deutschlandfunk.de/razzia-gegen-von-der-chp-regierte-gemeinde-in-der-tuerkei-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Migrations-Deal - Großbritannien muss Ruanda nicht wegen gekündigtem Flüchtlings-Abkommen entschädigen](https://www.deutschlandfunk.de/grossbritannien-muss-ruanda-nicht-wegen-gekuendigtem-fluechtlings-abkommen-entschaedigen-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ausbruch in Ostafrika - Impf-Allianz stellt 50 Millionen Dollar gegen Ebola bereit](https://www.deutschlandfunk.de/impf-allianz-stellt-50-millionen-dollar-gegen-ebola-bereit-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Angriffskrieg - Russland stoppt wegen ukrainischer Angriffe auf Raffinerien Export von Flugtreibstoff](https://www.deutschlandfunk.de/russland-stoppt-wegen-ukrainischer-angriffe-auf-raffinerien-export-von-flugtreibstoff-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienbericht - Rücknahme der Abmeldepflicht für wehrfähige Männer durch Ministerium war laut Gutachten rechtswidrig](https://www.deutschlandfunk.de/ruecknahme-der-abmeldepflicht-fuer-wehrfaehige-maenner-durch-ministerium-war-laut-gutachten-rechtswi-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rechtsextremismus - Anschläge gegen Parteibüros in Flensburg: 40-Jähriger in U-Haft](https://www.deutschlandfunk.de/anschlaege-gegen-parteibueros-in-flensburg-40-jaehriger-in-u-haft-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nordrhein-Westfalen - Terroranschlag von Bielefeld: Höchststrafe für 36-jährigen Syrer](https://www.deutschlandfunk.de/terroranschlag-von-bielefeld-hoechststrafe-fuer-36-jaehrigen-syrer-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Bundesparteitag - AfD lobt Kubicki für Neupositionierung der FDP - Linke spricht von "letztem Sargnagel"](https://www.deutschlandfunk.de/afd-lobt-kubicki-fuer-neupositionierung-der-fdp-linke-spricht-von-letztem-sargnagel-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - Weniger Zuwanderung nach Deutschland](https://www.deutschlandfunk.de/weniger-zuwanderung-nach-deutschland-102.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verkehr - Italien zahlt ab sofort bei Stau auf Autobahnen Maut zurück](https://www.deutschlandfunk.de/italien-zahlt-ab-sofort-bei-stau-auf-autobahnen-maut-zurueck-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistisches Bundesamt - Abfallmenge in Deutschland sinkt auf niedrigsten Stand seit 15 Jahren](https://www.deutschlandfunk.de/abfallmenge-in-deutschland-sinkt-auf-niedrigsten-stand-seit-15-jahren-100.html)  
+  _Mon, 01 Jun 2026 13:40:22 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Bound by blood: new film highlights Jamaica’s outlawed obeah belief system](https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition)  
-  _Sat, 30 May 2026 11:00:18 GMT_ · paywall: `False`
-- **The Guardian** — [WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC](https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic)  
-  _Fri, 29 May 2026 16:38:47 GMT_ · paywall: `False`
-- **The Guardian** — [Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?](https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc)  
-  _Fri, 29 May 2026 05:44:22 GMT_ · paywall: `False`
-- **The Guardian** — [Dormitory fire at Kenyan girls’ school kills at least 16 students](https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil)  
-  _Thu, 28 May 2026 14:57:11 GMT_ · paywall: `False`
-- **The Guardian** — [US building Ebola quarantine center in Kenya for Americans amid outbreak](https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya)  
-  _Wed, 27 May 2026 18:00:41 GMT_ · paywall: `False`
+- **The Guardian** — [People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity](https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity)  
+  _Mon, 01 Jun 2026 11:59:11 GMT_ · paywall: `False`
+- **The Guardian** — [UK will not have to pay Rwanda £100m over failed asylum scheme, court rules](https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme)  
+  _Mon, 01 Jun 2026 10:50:51 GMT_ · paywall: `False`
+- **The Guardian** — [Wildfires devastating richer areas but fewer hectares burned globally – study](https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study)  
+  _Mon, 01 Jun 2026 06:00:09 GMT_ · paywall: `False`
+- **The Guardian** — [WHO calls for community cooperation to contain Ebola outbreak in DRC](https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak)  
+  _Sun, 31 May 2026 15:49:47 GMT_ · paywall: `False`
+- **The Guardian** — [Death of Congolese man renews scrutiny of race relations in Ireland](https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations)  
+  _Sun, 31 May 2026 13:59:34 GMT_ · paywall: `False`
+- **The Guardian** — [Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff](https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff)  
+  _Mon, 01 Jun 2026 10:35:40 GMT_ · paywall: `False`
+- **The Guardian** — [Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates](https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates)  
+  _Sun, 31 May 2026 11:23:36 GMT_ · paywall: `False`
 - **The Guardian** — [Colombia prepares to go to polls in election shadowed by resurgence of political violence](https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence)  
   _Sat, 30 May 2026 09:00:14 GMT_ · paywall: `False`
 - **The Guardian** — [Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’](https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment)  
   _Fri, 29 May 2026 17:33:35 GMT_ · paywall: `False`
 - **The Guardian** — [Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists](https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio)  
   _Fri, 29 May 2026 17:13:27 GMT_ · paywall: `False`
-- **The Guardian** — [Canadian man admits sending ‘suicide packets’ to hundreds of people around world](https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world)  
-  _Fri, 29 May 2026 16:46:42 GMT_ · paywall: `False`
-- **The Guardian** — [Anger at decision not to prosecute Canadian suicide kit supplier in UK](https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice)  
-  _Fri, 29 May 2026 14:45:59 GMT_ · paywall: `False`
+- **The Guardian** — [Typhoon Jangmi threatens Japan as Europe swelters](https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia)  
+  _Mon, 01 Jun 2026 07:17:53 GMT_ · paywall: `False`
 - **The Guardian** — [Japan defence minister rebuffs claims of ‘new militarism’ levelled by China](https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china)  
   _Sun, 31 May 2026 05:02:39 GMT_ · paywall: `False`
-- **The Guardian** — [New Aukus drone tech to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’](https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth)  
-  _Sat, 30 May 2026 22:10:04 GMT_ · paywall: `False`
