@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-06-02 11:05 UTC_
+_Generated: 2026-06-03 11:28 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Wirtschafts- und Sozialpolitik - Bundeskanzler Merz appelliert an Bereitschaft der Bevölkerung zu Reformen](https://www.deutschlandfunk.de/bundeskanzler-merz-appelliert-an-bereitschaft-der-bevoelkerung-zu-reformen-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [DDR-Gedenken - Bundespräsident besucht früheres Stasi-Gefängnis](https://www.deutschlandfunk.de/bundespraesident-besucht-frueheres-stasi-gefaengnis-102.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Altersbezüge - Arbeitsministerin Bas (SPD) dringt auf Einbeziehung von Beamten in die gesetzliche Rentenversicherung - wie realistisch ist das?](https://www.deutschlandfunk.de/arbeitsministerin-bas-spd-dringt-auf-einbeziehung-von-beamten-in-die-gesetzliche-rentenversicherung--100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Weltkulturerbe - Kölner Dom kostet ab Juli 12 Euro Eintritt](https://www.deutschlandfunk.de/koelner-dom-kostet-ab-juli-12-euro-eintritt-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Paritätischer Wohlfahrtsverband - 16 Prozent der Bevölkerung in Deutschland leben in Armut - höchster Wert seit 2020](https://www.deutschlandfunk.de/16-prozent-der-bevoelkerung-in-deutschland-leben-in-armut-hoechster-wert-seit-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Inflation im Euroraum steigt im Mai auf 3,2 Prozent](https://www.deutschlandfunk.de/inflation-im-euroraum-steigt-im-mai-auf-3-2-prozent-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Axtangriff in ICE - 21-Jähriger in Regensburg vor Gericht](https://www.deutschlandfunk.de/21-jaehriger-in-regensburg-vor-gericht-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niedersachsen - Kultusministerin verteidigt neues Schulfach "Christliche Religion"](https://www.deutschlandfunk.de/kultusministerin-verteidigt-neues-schulfach-christliche-religion-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Brüssel - "Return Hubs": EU einigt sich auf Abschiebezentren in Drittstaaten](https://www.deutschlandfunk.de/return-hubs-eu-einigt-sich-auf-abschiebezentren-in-drittstaaten-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ostdeutschland - Ost-Beauftragte der Bundesregierung Kaiser beklagt zu wenig Investitionen in Ostdeutschland](https://www.deutschlandfunk.de/ost-beauftragte-der-bundesregierung-kaiser-beklagt-zu-wenig-investitionen-in-ostdeutschland-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Starker Anstieg - Mehr als 13.000 Menschen wenden sich an Antidiskriminierungsstelle des Bundes](https://www.deutschlandfunk.de/mehr-als-13-000-menschen-wenden-sich-an-antidiskriminierungsstelle-des-bundes-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Geld bei Verspätungen - EU-Staaten und Europaparlament verhandeln über Fluggastrechte](https://www.deutschlandfunk.de/eu-staaten-und-europaparlament-verhandeln-ueber-fluggastrechte-100.html)  
-  _Tue, 02 Jun 2026 13:02:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hausarztverband - Protestkampagne gegen Sparpläne der Bundesregierung](https://www.deutschlandfunk.de/protestkampagne-gegen-sparplaene-der-bundesregierung-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Recycling - Bundesregierung beschließt Programm für mehr Kreislaufwirtschaft](https://www.deutschlandfunk.de/bundesregierung-beschliesst-programm-fuer-mehr-kreislaufwirtschaft-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bericht - Höchststand antisemitischer Vorfälle in NRW - Um 17 Prozent gestiegen](https://www.deutschlandfunk.de/hoechststand-antisemitischer-vorfaelle-in-nrw-um-17-prozent-gestiegen-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Buchhandlungspreis - Urteil rechtskräftig: Kulturstaatsminister Weimer darf Buchhandlung nicht mehr extremistisch nennen](https://www.deutschlandfunk.de/urteil-rechtskraeftig-kulturstaatsminister-weimer-darf-buchhandlung-nicht-mehr-extremistisch-nennen-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Drohnenangriffe - Ukraine beschießt Ölterminal in St. Petersburg - kurz vor Beginn des dortigen Wirtschaftsforums](https://www.deutschlandfunk.de/ukraine-beschiesst-oelterminal-in-st-petersburg-kurz-vor-beginn-des-dortigen-wirtschaftsforums-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Kuwait nimmt nach Drohnenangriff Flugverkehr teilweise wieder auf](https://www.deutschlandfunk.de/kuwait-nimmt-nach-drohnenangriff-flugverkehr-teilweise-wieder-auf-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [FAZ-Interview - Magyar: Ungarn wird keine Migranten ohne Aufenthaltsrecht übernehmen](https://www.deutschlandfunk.de/magyar-ungarn-wird-keine-migranten-ohne-aufenthaltsrecht-uebernehmen-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Dlf-Interview - Wadephul wirbt für deutschen Sitz im UNO-Sicherheitsrat: "Wollen als Anwalt des Völkerrechts auftreten"](https://www.deutschlandfunk.de/wadephul-wirbt-fuer-deutschen-sitz-im-uno-sicherheitsrat-wollen-als-anwalt-des-voelkerrechts-auftret-102.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Georgien - Ex-Präsidentin Surabischwili hofft auf Erstarken der Opposition](https://www.deutschlandfunk.de/ex-praesidentin-surabischwili-hofft-auf-erstarken-der-opposition-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Konkurrenz aus Portugal und Österreich - Deutschland will in den UNO-Sicherheitsrat - was bei der Wahl wichtig wird](https://www.deutschlandfunk.de/deutschland-will-in-den-uno-sicherheitsrat-was-bei-der-wahl-wichtig-wird-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - OECD senkt Wachstumsprognose für Deutschland erneut](https://www.deutschlandfunk.de/oecd-senkt-wachstumsprognose-fuer-deutschland-erneut-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [EU-Gericht - Meta muss sich mit Messenger an schärfere Wettbewerbsregeln halten](https://www.deutschlandfunk.de/meta-muss-sich-mit-messenger-an-schaerfere-wettbewerbsregeln-halten-100.html)  
+  _Wed, 03 Jun 2026 13:16:00 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site](https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site)  
+  _Tue, 02 Jun 2026 18:13:20 GMT_ · paywall: `False`
 - **The Guardian** — [Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa](https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa)  
   _Tue, 02 Jun 2026 07:29:36 GMT_ · paywall: `False`
 - **The Guardian** — [People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity](https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity)  
@@ -41,18 +43,16 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 01 Jun 2026 10:50:51 GMT_ · paywall: `False`
 - **The Guardian** — [Wildfires devastating richer areas but fewer hectares burned globally – study](https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study)  
   _Mon, 01 Jun 2026 06:00:09 GMT_ · paywall: `False`
-- **The Guardian** — [WHO calls for community cooperation to contain Ebola outbreak in DRC](https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak)  
-  _Sun, 31 May 2026 15:49:47 GMT_ · paywall: `False`
+- **The Guardian** — [Kidnappings, threats and ‘protection fees’: how can Mexico confront rise in deadly extortion?](https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion)  
+  _Wed, 03 Jun 2026 11:00:04 GMT_ · paywall: `False`
+- **The Guardian** — [Trump administration proposes 25% tariffs on Brazil despite US trade surplus](https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs)  
+  _Tue, 02 Jun 2026 18:56:55 GMT_ · paywall: `False`
+- **The Guardian** — [Cricket Canada suspended over allegations of gang-linked corruption](https://www.theguardian.com/world/2026/jun/02/cricket-canada-suspension)  
+  _Tue, 02 Jun 2026 18:10:07 GMT_ · paywall: `False`
 - **The Guardian** — [Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas](https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas)  
   _Tue, 02 Jun 2026 08:00:42 GMT_ · paywall: `False`
 - **The Guardian** — [Mexico City police teargas teachers’ protest 10 days before World Cup](https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest)  
   _Mon, 01 Jun 2026 22:59:39 GMT_ · paywall: `False`
-- **The Guardian** — [Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives](https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives)  
-  _Mon, 01 Jun 2026 14:44:45 GMT_ · paywall: `False`
-- **The Guardian** — [Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff](https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff)  
-  _Mon, 01 Jun 2026 10:35:40 GMT_ · paywall: `False`
-- **The Guardian** — [Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates](https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates)  
-  _Sun, 31 May 2026 11:23:36 GMT_ · paywall: `False`
 - **The Guardian** — [Typhoon Jangmi threatens Japan as Europe swelters](https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia)  
   _Mon, 01 Jun 2026 07:17:53 GMT_ · paywall: `False`
 - **The Guardian** — [Japan defence minister rebuffs claims of ‘new militarism’ levelled by China](https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china)  
