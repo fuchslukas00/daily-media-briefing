@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-06-05 10:33 UTC_
+_Generated: 2026-06-06 09:08 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Der Spiegel** — [Uno-Sicherheitsrat: Deutschland plant angeblich erneute Bewerbung ab 2035](https://www.spiegel.de/politik/deutschland/uno-sicherheitsrat-deutschland-plant-angeblich-erneute-bewerbung-ab-2035-a-fc47a390-714c-48ff-b67a-9fbbef6c90e9#ref=rss)  
-  _Fri, 5 Jun 2026 12:27:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Aue-Bad Schlema: Freie Sachsen bezwingen AfD – gewinnen sie nun auch die OB-Wahl?](https://www.spiegel.de/politik/deutschland/aue-bad-schlema-freie-sachsen-bezwingen-afd-gewinnen-sie-nun-auch-die-ob-wahl-a-b71f17bc-4e53-4ff9-ac70-2a417b300352#ref=rss)  
-  _Fri, 5 Jun 2026 12:19:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Eurozone: Wirtschaft schrumpft im ersten Quartal überraschend](https://www.spiegel.de/wirtschaft/unternehmen/eurozone-wirtschaft-schrumpft-im-ersten-quartal-ueberraschend-a-b225dbdb-47e9-4ba1-b5bd-ca359f40878c#ref=rss)  
-  _Fri, 5 Jun 2026 12:15:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Nastassja Kinski reagiert auf Debatte über Nacktszene in Wim Wenders' »Falsche Bewegung«](https://www.spiegel.de/kultur/kino/nastassja-kinski-reagiert-auf-debatte-ueber-nacktszene-in-wim-wenders-falsche-bewegung-a-9ba27f0c-ace5-4540-9b51-0732bc79deb6#ref=rss)  
-  _Fri, 5 Jun 2026 12:08:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Deutschland hat bislang 52.000 Opfer des NS-Regimes oder ihre Nachkommen eingebürgert](https://www.spiegel.de/politik/deutschland/deutschland-hat-bislang-52-000-opfer-des-ns-regimes-oder-ihre-nachkommen-eingebuergert-a-35b0503a-80af-4bc8-9636-0e0c387aa93f#ref=rss)  
-  _Fri, 5 Jun 2026 12:05:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Norwegen: Kronprinzessin Mette-Marit auf Warteliste für Lungentransplantation](https://www.spiegel.de/panorama/leute/norwegen-kronprinzessin-mette-marit-auf-warteliste-fuer-lungentransplantation-a-6e98e8c7-ed01-451b-af7c-e468051e009e#ref=rss)  
-  _Fri, 5 Jun 2026 11:49:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [NBA-Finals: Lebenslanges Stadionverbot für Fan, der auf das Spielfeld stürmte, um Selfie zu machen](https://www.spiegel.de/sport/basketball/nba-finals-lebenslanges-stadionverbot-fuer-fan-der-auf-das-spielfeld-stuermte-um-selfie-zu-machen-a-b3263e05-005a-456e-8fee-2e35604fbfe9#ref=rss)  
-  _Fri, 5 Jun 2026 11:28:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Hannover: Feuerwehrmann stirbt nach Wettkampf »FireFit European Championships«](https://www.spiegel.de/panorama/hannover-feuerwehrmann-stirbt-nach-wettkampf-firefit-european-championships-a-d8305134-d710-453e-a8a1-558486e336c8#ref=rss)  
-  _Fri, 5 Jun 2026 10:30:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Sankt Petersburg: Wie reagiert Wladimir Putin nach Brief von Wolodymyr Selenskyj?](https://www.spiegel.de/ausland/sankt-petersburg-wie-reagiert-wladimir-putin-nach-brief-von-wolodymyr-selenskyj-a-80d27b34-b332-4e56-8343-60b335fb1077#ref=rss)  
-  _Fri, 5 Jun 2026 10:03:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [James Handy: Schauspieler aus »Jumanji«, »Top Gun: Maverick« erstochen](https://www.spiegel.de/kultur/kino/james-handy-schauspieler-aus-jumanji-top-gun-maverick-erstochen-a-e068a248-e93b-4b4c-bef3-ab05cdfa85c0#ref=rss)  
-  _Fri, 5 Jun 2026 10:01:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Australien: Mehr als 100.000 exotische Kakerlaken bei Züchter beschlagnahmt](https://www.spiegel.de/panorama/justiz/australien-mehr-als-100-000-exotische-kakerlaken-bei-zuechter-beschlagnahmt-a-3bb31095-7866-4520-900f-f3a8012d09d5#ref=rss)  
-  _Fri, 5 Jun 2026 09:35:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Rente: Alice Schwarzer warnt vor Benachteiligung von Frauen im Alter](https://www.spiegel.de/panorama/rente-alice-schwarzer-warnt-vor-benachteiligung-von-frauen-im-alter-a-b29936e9-09e7-494a-b86d-29ab3eea3452#ref=rss)  
-  _Fri, 5 Jun 2026 08:57:00 +0200_ · paywall: `mixed`
+- **Deutschlandfunk** — [EU-Kommission - Arbeitgeberverband Gesamtmetall fordert mehr Folgenabschätzungen für neue EU-Richtlinien](https://www.deutschlandfunk.de/arbeitgeberverband-gesamtmetall-fordert-mehr-folgenabschaetzungen-fuer-neue-eu-richtlinien-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kurz vor geplantem Börsengang - SpaceX schließt Milliarden-Vertrag mit Google](https://www.deutschlandfunk.de/spacex-schliesst-milliarden-vertrag-mit-google-102.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Extremismus - Fälle politisch motivierter Kriminalität laut Medienbericht auf neuem Höchststand](https://www.deutschlandfunk.de/faelle-politisch-motivierter-kriminalitaet-laut-medienbericht-auf-neuem-hoechststand-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - Offenbar 155 Schiffe mit deutschem Bezug vom Iran-Krieg betroffen](https://www.deutschlandfunk.de/offenbar-155-schiffe-mit-deutschem-bezug-vom-iran-krieg-betroffen-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sperrung der Bonner Nordbrücke - Al-Wazir (Grüne) wirft Bundesverkehrsministerium falsche Prioritäten bei Infrastrukturprojekten vor](https://www.deutschlandfunk.de/al-wazir-gruene-wirft-bundesverkehrsministerium-falsche-prioritaeten-bei-infrastrukturprojekten-vor-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Russischer Angriffskrieg - Sankt Petersburg warnt Bevölkerung vor ukrainischen Drohnen](https://www.deutschlandfunk.de/sankt-petersburg-warnt-bevoelkerung-vor-ukrainischen-drohnen-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reformpläne - Pflegeforscher: Warken wird Sparziel nicht erreichen](https://www.deutschlandfunk.de/pflegeforscher-warken-wird-sparziel-nicht-erreichen-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Landtagswahl - CDU-Landeschef Peters warnt vor Fortsetzung von Rot-Rot in Mecklenburg-Vorpommern](https://www.deutschlandfunk.de/cdu-landeschef-peters-warnt-vor-fortsetzung-von-rot-rot-in-mecklenburg-vorpommern-102.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Karibik - Landesweiter Stromausfall auf Jamaika](https://www.deutschlandfunk.de/landesweiter-stromausfall-auf-jamaika-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Entgelttransparenz-Richtlinie - Hostert (SPD) kritisiert Blockade durch CDU/CSU](https://www.deutschlandfunk.de/hostert-spd-kritisiert-blockade-durch-cdu-csu-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Interview der Woche - EU-Migrationskommissar Brunner: Neues Asylsystem darf nicht scheitern](https://www.deutschlandfunk.de/eu-migrationskommissar-brunner-neues-asylsystem-darf-nicht-scheitern-108.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gesundheitswesen - Bundesregierung verteidigt Sparpläne gegenüber Pharmakonzernen](https://www.deutschlandfunk.de/bundesregierung-verteidigt-sparplaene-gegenueber-pharmakonzernen-100.html)  
+  _Sat, 06 Jun 2026 10:55:41 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Ebola spread in central Africa could match 2014 record outbreak, US health officials say](https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say)  
+  _Sat, 06 Jun 2026 04:21:37 GMT_ · paywall: `False`
 - **The Guardian** — [‘Family values’ African charter condemned by rights groups as regressive and dangerous](https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights)  
   _Fri, 05 Jun 2026 08:00:29 GMT_ · paywall: `False`
 - **The Guardian** — [Experts criticise plan for American-only Ebola quarantine centre in Kenya](https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya)  
@@ -41,8 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 04 Jun 2026 11:52:13 GMT_ · paywall: `False`
 - **The Guardian** — [Rebel attacks in eastern DRC kill 30 people and hamper Ebola response](https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response)  
   _Thu, 04 Jun 2026 04:00:25 GMT_ · paywall: `False`
-- **The Guardian** — [DRC Ebola outbreak could have begun as early as January, WHO chief says](https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says)  
-  _Wed, 03 Jun 2026 17:29:55 GMT_ · paywall: `False`
+- **The Guardian** — [Aviation industry looks skywards as leaders fly in for Rio summit](https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit)  
+  _Sat, 06 Jun 2026 09:00:05 GMT_ · paywall: `False`
 - **The Guardian** — [US imposes new sanctions on Cuban president and Castro family members](https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family)  
   _Fri, 05 Jun 2026 01:07:15 GMT_ · paywall: `False`
 - **The Guardian** — [Canada endorses embattled marine park’s plan to relocate 30 beluga whales](https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 04 Jun 2026 16:55:33 GMT_ · paywall: `False`
 - **The Guardian** — [Jamaican police officer charged with murder after woman shot during protest](https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest)  
   _Thu, 04 Jun 2026 16:38:28 GMT_ · paywall: `False`
-- **The Guardian** — [Dead but deportable: US immigration judge signed order to eject teen murder victim](https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim)  
-  _Wed, 03 Jun 2026 18:04:53 GMT_ · paywall: `False`
+- **The Guardian** — [Typhoon Jangmi sweeps northwards leaving 23 injured in Japan](https://www.theguardian.com/environment/2026/jun/05/typhoon-jangmi-no-6-japan)  
+  _Fri, 05 Jun 2026 10:31:02 GMT_ · paywall: `False`
 - **The Guardian** — [Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens](https://www.theguardian.com/australia-news/2026/jun/04/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb)  
   _Thu, 04 Jun 2026 15:00:09 GMT_ · paywall: `False`
-- **The Guardian** — [Europe’s far right exploit Henry Nowak murder in UK with populist rhetoric on race](https://www.theguardian.com/world/2026/jun/04/polish-far-right-nowak-britain-descent-depths-earth)  
-  _Thu, 04 Jun 2026 11:10:57 GMT_ · paywall: `False`
