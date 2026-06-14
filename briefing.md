@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-06-13 09:43 UTC_
+_Generated: 2026-06-14 10:04 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Vor Landtagswahlen - Führende CDU-Politiker warnen vor Zusammenarbeit mit AfD](https://www.deutschlandfunk.de/fuehrende-cdu-politiker-warnen-vor-zusammenarbeit-mit-afd-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Israel führt erneut Angriffe im Südlibanon aus - Drohnenangriffe der Hisbollah](https://www.deutschlandfunk.de/israel-fuehrt-erneut-angriffe-im-suedlibanon-aus-drohnenangriffe-der-hisbollah-102.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Schiffverkehr - US-Militär: Iranische Drohnenangriffe auf Schiffe in Straße von Hormus abgewehrt](https://www.deutschlandfunk.de/us-militaer-iranische-drohnenangriffe-auf-schiffe-in-strasse-von-hormus-abgewehrt-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Interview der Woche" - Bundesbankpräsident Nagel zeigt sich offen für begrenzte Lockerung der Schuldenregeln in der EU](https://www.deutschlandfunk.de/bundesbankpraesident-nagel-zeigt-sich-offen-fuer-begrenzte-lockerung-der-schuldenregeln-in-der-eu-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - Arbeitskräftemangel in Deutschland verschärft sich laut IW-Studie](https://www.deutschlandfunk.de/arbeitskraeftemangel-in-deutschland-verschaerft-sich-laut-iw-studie-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Künstliche Intelligenz - Anthropic nimmt neue KI-Modelle auf Anordnung der Trump-Regierung vom Netz](https://www.deutschlandfunk.de/anthropic-nimmt-neue-ki-modelle-auf-anordnung-der-trump-regierung-vom-netz-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Einstweilige Verfügung - US-Regierung muss Erinnerungen an die Sklaverei in Nationalparks und an öffentlichen Plätzen wieder anbringen](https://www.deutschlandfunk.de/us-regierung-muss-erinnerungen-an-die-sklaverei-in-nationalparks-und-an-oeffentlichen-plaetzen-wiede-102.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ab Montag - EU-Botschafter machen Weg für Beitrittsgespräche mit Ukraine und Moldau frei](https://www.deutschlandfunk.de/eu-botschafter-machen-weg-fuer-beitrittsgespraeche-mit-ukraine-und-moldau-frei-114.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Rüstung - Rheinmetall-Chef hält französischen Ausstieg aus dem gemeinsamen Panzer-Projekt MGCS für möglich](https://www.deutschlandfunk.de/rheinmetall-chef-haelt-franzoesischen-ausstieg-aus-dem-gemeinsamen-panzer-projekt-mgcs-fuer-moeglich-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sicherheitspolitik - Linken-Politikerin Becker beklagt mangelnde Transparenz bei der Personalplanung der Bundeswehr](https://www.deutschlandfunk.de/linken-politikerin-becker-beklagt-mangelnde-transparenz-bei-der-personalplanung-der-bundeswehr-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg - Russland meldet Abschuss von 185 ukrainischen Drohnen](https://www.deutschlandfunk.de/russland-meldet-abschuss-von-185-ukrainischen-drohnen-100.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukrainekrieg - UNO: Höchststand ziviler Opfer in der Ukraine seit April 2022](https://www.deutschlandfunk.de/uno-hoechststand-ziviler-opfer-in-der-ukraine-seit-april-102.html)  
-  _Sat, 13 Jun 2026 11:15:31 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Volksinitiative gegen Zuwanderung - 10-Millionen-Marke: Schweiz stimmt über Begrenzung der Einwohnerzahl ab](https://www.deutschlandfunk.de/10-millionen-marke-schweiz-stimmt-ueber-begrenzung-der-einwohnerzahl-ab-102.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundespräsident - Steinmeier gratuliert Trump zum 80. Geburtstag](https://www.deutschlandfunk.de/steinmeier-gratuliert-trump-zum-80-geburtstag-102.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [NS-Vernichtungslager - Gedenken an ersten Häftlingstransport nach Auschwitz vor 86 Jahren](https://www.deutschlandfunk.de/gedenken-an-ersten-haeftlingstransport-nach-auschwitz-vor-86-jahren-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg - Ukraine greift erneut Industrieanlagen in Russland an](https://www.deutschlandfunk.de/ukraine-greift-erneut-industrieanlagen-in-russland-an-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg im Nahen Osten - Hisbollah im Libanon beschießt Israels Norden mit Sprengstoff-Drohnen](https://www.deutschlandfunk.de/hisbollah-im-libanon-beschiesst-israels-norden-mit-sprengstoff-drohnen-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg in Nahost - Widersprüchliche Angaben zu Abkommensunterzeichnung von USA, Iran und Pakistan](https://www.deutschlandfunk.de/widerspruechliche-angaben-zu-abkommensunterzeichnung-von-usa-iran-und-pakistan-110.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Houston - Deutschland startet gegen Curacao in die Fußball-WM](https://www.deutschlandfunk.de/deutschland-startet-gegen-curacao-in-die-fussball-wm-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ärmelkanal - Britische Armee hat laut Premier Starmer russischen Schattenflotte-Tanker gestoppt](https://www.deutschlandfunk.de/britische-armee-hat-laut-premier-starmer-russischen-schattenflotte-tanker-gestoppt-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rumänien - Staatspräsident Dan ernennt Liberalen Vestea zum neuen Regierungschef](https://www.deutschlandfunk.de/staatspraesident-dan-ernennt-liberalen-vestea-zum-neuen-regierungschef-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Tirana - Erneut Proteste in Albanien gegen Luxusresort in Naturschutzgebiet - Trump-Schwiegersohn Kushner unter den Investoren](https://www.deutschlandfunk.de/erneut-proteste-in-albanien-gegen-luxusresort-in-naturschutzgebiet-trump-schwiegersohn-kushner-unter-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rom - Tausende demonstrieren in Italien für "Remigration" - Gründung von neuer Rechtspartei "Futuro Nazionale"](https://www.deutschlandfunk.de/tausende-demonstrieren-in-italien-fuer-remigration-gruendung-von-neuer-rechtspartei-futuro-nazionale-102.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Qualitätsoffensive" - Bahnstrecke Hamburg-Berlin wieder frei - Strecke Hamburg-Hannover wegen Bauarbeiten gesperrt](https://www.deutschlandfunk.de/bahnstrecke-hamburg-berlin-wieder-frei-strecke-hamburg-hannover-wegen-bauarbeiten-gesperrt-100.html)  
+  _Sun, 14 Jun 2026 12:00:50 +0200_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 12 Jun 2026 08:40:14 GMT_ · paywall: `False`
 - **The Guardian** — [Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself](https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit)  
   _Thu, 11 Jun 2026 19:14:46 GMT_ · paywall: `False`
+- **The Guardian** — [Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha](https://www.theguardian.com/world/2026/jun/13/bangkok-thailand-princess-bha-royal-funeral-procession-mourners)  
+  _Sat, 13 Jun 2026 15:18:46 GMT_ · paywall: `False`
 - **The Guardian** — [Jessie J’s triumphant return puts lucrative Chinese market in spotlight](https://www.theguardian.com/world/2026/jun/13/jessie-j-lucrative-chinese-market-westlife-charli-xcx)  
   _Sat, 13 Jun 2026 05:00:05 GMT_ · paywall: `False`
-- **The Guardian** — [China arrests US academic at conference for ‘espionage activities’](https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage)  
-  _Fri, 12 Jun 2026 10:27:08 GMT_ · paywall: `False`
