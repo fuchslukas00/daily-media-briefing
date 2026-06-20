@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-06-19 11:05 UTC_
+_Generated: 2026-06-20 09:50 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Gipfel in Brüssel - Merz weist Vorschlag zu EU-Haushalt "als viel zu hoch" zurück](https://www.deutschlandfunk.de/merz-weist-vorschlag-zu-eu-haushalt-als-viel-zu-hoch-zurueck-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bertelsmann Stiftung - Kommunaler Finanzreport 2025: Rekorddefizit bei Städten, Landkreisen und Gemeinden](https://www.deutschlandfunk.de/kommunaler-finanzreport-2025-rekorddefizit-bei-staedten-landkreisen-und-gemeinden-102.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Schäden zu groß - Bonner Rheinbrücke bleibt gesperrt - teilweise Neubau nötig](https://www.deutschlandfunk.de/bonner-rheinbruecke-bleibt-gesperrt-teilweise-neubau-noetig-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Naher Osten - Mindestens 18 Tote bei neuen israelischen Angriffen im Süden des Libanon - Israels Militär meldet vier getötete Soldaten](https://www.deutschlandfunk.de/mindestens-18-tote-bei-neuen-israelischen-angriffen-im-sueden-des-libanon-israels-militaer-meldet-vi-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Großbritannien - Nach Einzug ins Unterhaus: Labour-Politiker Burnham verlangt umfassenden Wandel](https://www.deutschlandfunk.de/nach-einzug-ins-unterhaus-labour-politiker-burnham-verlangt-umfassenden-wandel-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Extremwetter - Immer mehr Menschen müssen wegen Naturkatastrophen Heimat verlassen](https://www.deutschlandfunk.de/immer-mehr-menschen-muessen-wegen-naturkatastrophen-heimat-verlassen-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Erhebung - Reichstes zehn Prozent für Billionenschäden an der Umwelt verantwortlich](https://www.deutschlandfunk.de/reichstes-zehn-prozent-fuer-billionenschaeden-an-der-umwelt-verantwortlich-102.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Castor-Behälter - Rückholung von deutschem Atommüll aus dem Ausland abgeschlossen](https://www.deutschlandfunk.de/rueckholung-von-deutschem-atommuell-aus-dem-ausland-abgeschlossen-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Mehrere Verletzte nach russischem Bombardement in Charkiw](https://www.deutschlandfunk.de/mehrere-verletzte-nach-russischem-bombardement-in-charkiw-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Außenpolitischer Lapsus" - Republikanische US-Senatoren kritisieren Absichtsklärung mit dem Iran - Trump reagiert harsch](https://www.deutschlandfunk.de/republikanische-us-senatoren-kritisieren-absichtsklaerung-mit-dem-iran-trump-reagiert-harsch-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Schweiz - Geplante Gespräche zwischen USA und Iran abgesagt](https://www.deutschlandfunk.de/geplante-gespraeche-zwischen-usa-und-iran-abgesagt-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vergleichbare Deals? - Abkommen mit dem Iran 2026 und 2015: Was die Vereinbarungen von Trump und Obama gemeinsam haben - und was nicht](https://www.deutschlandfunk.de/abkommen-mit-dem-iran-2026-und-2015-was-die-vereinbarungen-von-trump-und-obama-gemeinsam-haben-und-w-100.html)  
-  _Fri, 19 Jun 2026 13:01:48 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Trotz neuer Waffenruhe: Israelische Angriffe im Südlibanon gemeldet - Bericht über Sorge von US-Geheimdiensten](https://www.deutschlandfunk.de/trotz-neuer-waffenruhe-israelische-angriffe-im-suedlibanon-gemeldet-bericht-ueber-sorge-von-us-gehei-100.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Naher Osten - Bericht: US-Sondergesandter Witkoff soll auf dem Weg in die Schweiz sein](https://www.deutschlandfunk.de/bericht-us-sondergesandter-witkoff-soll-auf-dem-weg-in-die-schweiz-sein-102.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - SPD-Verteidigungsexperte Schmid: "Halte Mehrheit im Bundestag für einen Bundeswehr-Einsatz perspektivisch für realistisch"](https://www.deutschlandfunk.de/spd-verteidigungsexperte-schmid-halte-mehrheit-im-bundestag-fuer-einen-bundeswehr-einsatz-perspektiv-102.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesparteitag - Die Linke stimmt für Bezeichnung von Israels Vorgehen im Gazakrieg als "Völkermord"](https://www.deutschlandfunk.de/die-linke-stimmt-fuer-bezeichnung-von-israels-vorgehen-im-gazakrieg-als-voelkermord-108.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bayern - Ein Toter nach Güterzug-Unfall in München](https://www.deutschlandfunk.de/ein-toter-nach-gueterzug-unfall-in-muenchen-100.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Giftiges Gas - Chempark Dormagen: 25 Menschen nach Austritt von phosgenhaltiger Lösung in Krankenhäuser gebracht](https://www.deutschlandfunk.de/chempark-dormagen-25-menschen-nach-austritt-von-phosgenhaltiger-loesung-in-krankenhaeuser-gebracht-100.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Unwetter - Neun Verletzte nach Blitzeinschlag auf Sportplatz in Rastatt - Festival in Schleswig-Holstein geräumt](https://www.deutschlandfunk.de/neun-verletzte-nach-blitzeinschlag-auf-sportplatz-in-rastatt-festival-in-schleswig-holstein-geraeumt-100.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bis zu 40 Grad - Meteorologen warnen vor Hitzewelle über Teilen Westeuropas](https://www.deutschlandfunk.de/meteorologen-warnen-vor-hitzewelle-ueber-teilen-westeuropas-106.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Interview der Woche - Ukrainischer Schriftsteller Zhadan sieht auch russische Gesellschaft für Krieg gegen die Ukraine in der Verantwortung](https://www.deutschlandfunk.de/ukrainischer-schriftsteller-zhadan-sieht-auch-russische-gesellschaft-fuer-krieg-gegen-die-ukraine-in-100.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj wirft Belarus Unterstützung russischer Drohnenangriffe vor](https://www.deutschlandfunk.de/selenskyj-wirft-belarus-unterstuetzung-russischer-drohnenangriffe-vor-100.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Debatte um Militärgruppe - Konflikt zwischen Polen und der Ukraine wegen Aberkennung eines Ordens für Selenskyj](https://www.deutschlandfunk.de/konflikt-zwischen-polen-und-der-ukraine-wegen-aberkennung-eines-ordens-fuer-selenskyj-102.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gipfeltreffen - EU-Debatte über mögliche Verhandlungen mit Russland](https://www.deutschlandfunk.de/eu-debatte-ueber-moegliche-verhandlungen-mit-russland-102.html)  
+  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Global framework for reparatory justice adopted at landmark conference in Ghana](https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana)  
+  _Fri, 19 Jun 2026 17:26:45 GMT_ · paywall: `False`
 - **The Guardian** — [CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda](https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding)  
   _Thu, 18 Jun 2026 18:55:09 GMT_ · paywall: `False`
 - **The Guardian** — [Barbados prime minister announces manifesto for slavery reparations](https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations)  
@@ -41,8 +43,6 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 18 Jun 2026 16:15:31 GMT_ · paywall: `False`
 - **The Guardian** — [Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk](https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack)  
   _Wed, 17 Jun 2026 09:00:27 GMT_ · paywall: `False`
-- **The Guardian** — [Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms](https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms)  
-  _Wed, 17 Jun 2026 05:00:23 GMT_ · paywall: `False`
 - **The Guardian** — [Cannabis commercialisation not decriminalisation drives up usage, study finds](https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study)  
   _Wed, 17 Jun 2026 22:30:46 GMT_ · paywall: `False`
 - **The Guardian** — [Titan sub: design flaws and company groupthink central to catastrophe, report finds](https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report)  
