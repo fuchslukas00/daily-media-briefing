@@ -1,39 +1,41 @@
 # Daily Briefing
 
-_Generated: 2026-06-20 09:50 UTC_
+_Generated: 2026-06-21 10:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Nahost - Trotz neuer Waffenruhe: Israelische Angriffe im Südlibanon gemeldet - Bericht über Sorge von US-Geheimdiensten](https://www.deutschlandfunk.de/trotz-neuer-waffenruhe-israelische-angriffe-im-suedlibanon-gemeldet-bericht-ueber-sorge-von-us-gehei-100.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Naher Osten - Bericht: US-Sondergesandter Witkoff soll auf dem Weg in die Schweiz sein](https://www.deutschlandfunk.de/bericht-us-sondergesandter-witkoff-soll-auf-dem-weg-in-die-schweiz-sein-102.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Straße von Hormus - SPD-Verteidigungsexperte Schmid: "Halte Mehrheit im Bundestag für einen Bundeswehr-Einsatz perspektivisch für realistisch"](https://www.deutschlandfunk.de/spd-verteidigungsexperte-schmid-halte-mehrheit-im-bundestag-fuer-einen-bundeswehr-einsatz-perspektiv-102.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesparteitag - Die Linke stimmt für Bezeichnung von Israels Vorgehen im Gazakrieg als "Völkermord"](https://www.deutschlandfunk.de/die-linke-stimmt-fuer-bezeichnung-von-israels-vorgehen-im-gazakrieg-als-voelkermord-108.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bayern - Ein Toter nach Güterzug-Unfall in München](https://www.deutschlandfunk.de/ein-toter-nach-gueterzug-unfall-in-muenchen-100.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Giftiges Gas - Chempark Dormagen: 25 Menschen nach Austritt von phosgenhaltiger Lösung in Krankenhäuser gebracht](https://www.deutschlandfunk.de/chempark-dormagen-25-menschen-nach-austritt-von-phosgenhaltiger-loesung-in-krankenhaeuser-gebracht-100.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Unwetter - Neun Verletzte nach Blitzeinschlag auf Sportplatz in Rastatt - Festival in Schleswig-Holstein geräumt](https://www.deutschlandfunk.de/neun-verletzte-nach-blitzeinschlag-auf-sportplatz-in-rastatt-festival-in-schleswig-holstein-geraeumt-100.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bis zu 40 Grad - Meteorologen warnen vor Hitzewelle über Teilen Westeuropas](https://www.deutschlandfunk.de/meteorologen-warnen-vor-hitzewelle-ueber-teilen-westeuropas-106.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - Ukrainischer Schriftsteller Zhadan sieht auch russische Gesellschaft für Krieg gegen die Ukraine in der Verantwortung](https://www.deutschlandfunk.de/ukrainischer-schriftsteller-zhadan-sieht-auch-russische-gesellschaft-fuer-krieg-gegen-die-ukraine-in-100.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj wirft Belarus Unterstützung russischer Drohnenangriffe vor](https://www.deutschlandfunk.de/selenskyj-wirft-belarus-unterstuetzung-russischer-drohnenangriffe-vor-100.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Debatte um Militärgruppe - Konflikt zwischen Polen und der Ukraine wegen Aberkennung eines Ordens für Selenskyj](https://www.deutschlandfunk.de/konflikt-zwischen-polen-und-der-ukraine-wegen-aberkennung-eines-ordens-fuer-selenskyj-102.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gipfeltreffen - EU-Debatte über mögliche Verhandlungen mit Russland](https://www.deutschlandfunk.de/eu-debatte-ueber-moegliche-verhandlungen-mit-russland-102.html)  
-  _Sat, 20 Jun 2026 11:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Altersvorsorge - Ökonom Fratzscher gehen Vorschläge zur Rentenreform nicht weit genug](https://www.deutschlandfunk.de/oekonom-fratzscher-gehen-vorschlaege-zur-rentenreform-nicht-weit-genug-100.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rentenreform - Die Vorschläge der Rentenkommission im Überblick](https://www.deutschlandfunk.de/die-vorschlaege-der-rentenkommission-im-ueberblick-102.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sozialleistungs-Debatte - Söder (CSU) fordert Bürgergeld-Kürzung](https://www.deutschlandfunk.de/soeder-csu-fordert-buergergeld-kuerzung-102.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Parteitag - Linken-Co-Chef Pantisano wirbt nach Wahl um Vertrauen der Delegierten](https://www.deutschlandfunk.de/linken-co-chef-pantisano-wirbt-nach-wahl-um-vertrauen-der-delegierten-102.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-USA-Gespräche - Vance in der Schweiz angekommen - Iranische Delegation bereits vor Ort](https://www.deutschlandfunk.de/vance-in-der-schweiz-angekommen-iranische-delegation-bereits-vor-ort-100.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Israels Armee schränkt nach eigenen Angaben Libanon-Einsätze ein](https://www.deutschlandfunk.de/israels-armee-schraenkt-nach-eigenen-angaben-libanon-einsaetze-ein-100.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Präsident Selenskyj meldet ukrainische Drohnenangriffe auf Öl- und Militäranlagen auf der von Russland besetzten Krim und Krasnodar](https://www.deutschlandfunk.de/praesident-selenskyj-meldet-ukrainische-drohnenangriffe-auf-oel-und-militaeranlagen-auf-der-von-russ-104.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rückführungen - Bericht: Innenministerium weitet Abschiebungen nach Afghanistan aus](https://www.deutschlandfunk.de/bericht-innenministerium-weitet-abschiebungen-nach-afghanistan-aus-102.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Feuerwehr - Mehrere Verletze bei Brand in Hotel in Hamburg](https://www.deutschlandfunk.de/mehrere-verletze-bei-brand-in-hotel-in-hamburg-102.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Großbritannien - Starmers Umfeld weist Bericht über Rücktrittspläne zurück](https://www.deutschlandfunk.de/starmers-umfeld-weist-bericht-ueber-ruecktrittsplaene-zurueck-100.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schottland - Mann in Edinburgh nach mutmaßlich muslimfeindlichen Angriffen festgenommen](https://www.deutschlandfunk.de/mann-in-edinburgh-nach-mutmasslich-muslimfeindlichen-angriffen-festgenommen-100.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [New York - UNO-Sicherheitsrat warnt vor Gräueltaten im Sudan](https://www.deutschlandfunk.de/uno-sicherheitsrat-warnt-vor-graeueltaten-im-sudan-106.html)  
+  _Sun, 21 Jun 2026 11:48:28 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Global framework for reparatory justice adopted at landmark conference in Ghana](https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana)  
+- **The Guardian** — [Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon](https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa)  
+  _Sun, 21 Jun 2026 08:00:24 GMT_ · paywall: `False`
+- **The Guardian** — [Global framework for reparatory justice adopted at landmark Ghana conference](https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana)  
   _Fri, 19 Jun 2026 17:26:45 GMT_ · paywall: `False`
 - **The Guardian** — [CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda](https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding)  
   _Thu, 18 Jun 2026 18:55:09 GMT_ · paywall: `False`
@@ -41,18 +43,16 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 18 Jun 2026 17:52:08 GMT_ · paywall: `False`
 - **The Guardian** — [South African men sentenced in ‘world’s largest’ rhino horn trafficking case](https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case)  
   _Thu, 18 Jun 2026 16:15:31 GMT_ · paywall: `False`
-- **The Guardian** — [Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk](https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack)  
-  _Wed, 17 Jun 2026 09:00:27 GMT_ · paywall: `False`
+- **The Guardian** — [Canada’s policies force asylum seekers into US to face deportation, critics say](https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation)  
+  _Sun, 21 Jun 2026 07:00:24 GMT_ · paywall: `False`
+- **The Guardian** — [Colombia’s runoff election expected to trigger shift in decades-long armed conflict](https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict)  
+  _Sun, 21 Jun 2026 05:00:22 GMT_ · paywall: `False`
+- **The Guardian** — [Bolivian president declares state of emergency and deploys military to quell anti-government protests](https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests)  
+  _Sun, 21 Jun 2026 04:23:30 GMT_ · paywall: `False`
+- **The Guardian** — [Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote](https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff)  
+  _Sat, 20 Jun 2026 12:00:01 GMT_ · paywall: `False`
 - **The Guardian** — [Cannabis commercialisation not decriminalisation drives up usage, study finds](https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study)  
   _Wed, 17 Jun 2026 22:30:46 GMT_ · paywall: `False`
-- **The Guardian** — [Titan sub: design flaws and company groupthink central to catastrophe, report finds](https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report)  
-  _Wed, 17 Jun 2026 18:24:06 GMT_ · paywall: `False`
-- **The Guardian** — [Protesters to rally against World Cup sponsor Hyundai before Mexico game](https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game)  
-  _Wed, 17 Jun 2026 13:04:58 GMT_ · paywall: `False`
-- **The Guardian** — [Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial](https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair)  
-  _Tue, 16 Jun 2026 21:44:54 GMT_ · paywall: `False`
-- **The Guardian** — [Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network](https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network)  
-  _Tue, 16 Jun 2026 17:47:30 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Severe thunderstorms sweep Europe and east Asia](https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france)  
   _Fri, 19 Jun 2026 08:34:27 GMT_ · paywall: `False`
 - **The Guardian** — [Lululemon apologises after Japanese drum row at Great Wall yoga event](https://www.theguardian.com/media/2026/jun/17/lululemon-apologises-japanese-drum-great-wall-china-yoga-event)  
