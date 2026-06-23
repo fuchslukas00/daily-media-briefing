@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-06-22 12:35 UTC_
+_Generated: 2026-06-23 10:11 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Frankfurter Allgemeine Zeitung** — [Litauen-Brigade: Hier probt die Bundeswehr den Ernstfall](https://www.faz.net/aktuell/politik/inland/litauen-brigade-hier-probt-die-bundeswehr-den-ernstfall-200952276.html)  
-  _Mon, 22 Jun 2026 10:35:00 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Liveblog Ukrainekrieg: Ukraine greift Satellitenzentrum bei Moskau an](https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukraine-greift-satellitenzentrum-bei-moskau-an-faz-110683325.html)  
-  _Mon, 22 Jun 2026 10:18:18 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Nach ukrainischen Angriffen: Russland verbietet Benzinverkauf auf der Krim](https://www.faz.net/aktuell/politik/ausland/russen-verbieten-benzinverkauf-auf-der-krim-accg-200953756.html)  
-  _Mon, 22 Jun 2026 11:14:38 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Starmer kündigt Rücktritt an: „Das Land, das ich liebe, stand immer an erster Stelle“](https://www.faz.net/aktuell/politik/ausland/keir-starmer-kuendigt-ruecktritt-an-accg-200953483.html)  
-  _Mon, 22 Jun 2026 10:33:03 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Starmers Herausforderer: Der König des Nordens will den Thron in London](https://www.faz.net/aktuell/politik/ausland/will-keir-starmer-abloesen-wer-ist-andy-burnham-200946644.html)  
-  _Mon, 22 Jun 2026 08:52:06 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Liveblog Fußball-WM 2026: Bänderriss: WM-Aus für Schlotterbeck](https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-baenderriss-wm-aus-fuer-schlotterbeck-faz-200749933.html)  
-  _Mon, 22 Jun 2026 11:48:27 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Frankfurter Bahnhofsviertel: „Wer das einmal gesehen hat, kommt nicht wieder“](https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-bahnhofsviertel-wie-es-zu-wirtschaftlichen-schaeden-durch-drogenszene-kommt-accg-200942947.html)  
-  _Mon, 22 Jun 2026 05:32:39 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Skandal um neuen Chef der Linken: Sie nennen die CDU faschistisch](https://www.faz.net/aktuell/feuilleton/debatten/faschismus-vorwurf-an-cdu-ist-pervers-sentimental-200954170.html)  
-  _Mon, 22 Jun 2026 11:55:32 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Uhren für Motorsportfans: Jede Sekunde zählt](https://www.faz.net/aktuell/technik-motor/technik/jede-sekunde-zaehlt-uhren-fuer-motorsportfans-accg-200947175.html)  
-  _Mon, 22 Jun 2026 08:45:34 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Hitze-Liveblog: Wird im Südwesten die 40-Grad-Marke überschritten?](https://www.faz.net/aktuell/gesellschaft/menschen/hitze-im-liveticker-wird-im-suedwesten-heute-die-40-grad-marke-ueberschritten-faz-200949959.html)  
-  _Mon, 22 Jun 2026 09:27:38 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Hund entlaufen: Nach dem Unfall verschwand Eddy in die Büsche](https://www.faz.net/aktuell/gesellschaft/hund-nach-unfall-entlaufen-nervenaufreibende-suche-nach-eddy-auf-der-autobahn-accg-200919953.html)  
-  _Mon, 22 Jun 2026 12:10:26 GMT_ · paywall: `hard`
-- **Frankfurter Allgemeine Zeitung** — [Argentiniens Lionel Messi: Sein Land, sein Spiel, seine Rekorde](https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-lionel-messi-und-argentinien-begeistern-accg-200935458.html)  
-  _Mon, 22 Jun 2026 12:27:05 GMT_ · paywall: `hard`
+- **Deutschlandfunk** — [Berlin - Merz will Vorschläge der Rentenkommission "vollumfänglich" umsetzen](https://www.deutschlandfunk.de/merz-will-vorschlaege-der-rentenkommission-vollumfaenglich-umsetzen-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Appell von Verbänden - Verzicht auf neue Autobahnen und Bundesstraßen bringt 20 Milliarden Euro](https://www.deutschlandfunk.de/verzicht-auf-neue-autobahnen-und-bundesstrassen-bringt-20-milliarden-euro-104.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Auskunftei Creditreform - Zahl der Insolvenzen steigt auf höchsten Stand seit 2013](https://www.deutschlandfunk.de/zahl-der-insolvenzen-steigt-auf-hoechsten-stand-seit-102.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - Jeder Fünfte kann sich keine Woche Urlaub leisten](https://www.deutschlandfunk.de/jeder-fuenfte-kann-sich-keine-woche-urlaub-leisten-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Visa-Vergabe - Grüne kritisieren Einladung von Taliban-Vertretern nach Brüssel scharf](https://www.deutschlandfunk.de/gruene-kritisieren-einladung-von-taliban-vertretern-nach-bruessel-scharf-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Digitaler Euro - Sparkassen- und Giroverband fordert mehr Mitsprache beim Digitalen Euro](https://www.deutschlandfunk.de/sparkassen-und-giroverband-fordert-mehr-mitsprache-beim-digitalen-euro-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Karlsruhe - Beschwerde gegen ausbleibende Erhöhung des Rundfunkbeitrags vor dem Bundesverfassungsgericht](https://www.deutschlandfunk.de/beschwerde-gegen-ausbleibende-erhoehung-des-rundfunkbeitrags-vor-dem-bundesverfassungsgericht-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wetter & Klima - Meteorologen erwarten Rekordtemperaturen in den kommenden Tagen](https://www.deutschlandfunk.de/meteorologen-erwarten-rekordtemperaturen-in-den-kommenden-tagen-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Verhandlungen in der Schweiz - Iran will Verwaltung der Straße von Hormus übernehmen](https://www.deutschlandfunk.de/iran-will-verwaltung-der-strasse-von-hormus-uebernehmen-102.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Offenbar erneut Ölterminal auf der Krim attackiert](https://www.deutschlandfunk.de/offenbar-erneut-oelterminal-auf-der-krim-attackiert-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Versorgungskrise - Mexikos Präsidentin will Öllieferungen nach Kuba wieder aufnehmen](https://www.deutschlandfunk.de/mexikos-praesidentin-will-oellieferungen-nach-kuba-wieder-aufnehmen-100.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Absatz von Elektroautos in EU steigt deutlich](https://www.deutschlandfunk.de/absatz-von-elektroautos-in-eu-steigt-deutlich-102.html)  
+  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 18 Jun 2026 17:52:08 GMT_ · paywall: `False`
 - **The Guardian** — [South African men sentenced in ‘world’s largest’ rhino horn trafficking case](https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case)  
   _Thu, 18 Jun 2026 16:15:31 GMT_ · paywall: `False`
+- **The Guardian** — [Whistleblower investigating Ecuadorian president’s family business was murdered, activists say](https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business)  
+  _Tue, 23 Jun 2026 06:00:33 GMT_ · paywall: `False`
+- **The Guardian** — [Montreal mayor calls for end to random police checks amid racial profiling investigation](https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation)  
+  _Mon, 22 Jun 2026 17:49:55 GMT_ · paywall: `False`
+- **The Guardian** — [Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off](https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off)  
+  _Mon, 22 Jun 2026 17:30:23 GMT_ · paywall: `False`
+- **The Guardian** — [‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia](https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump)  
+  _Mon, 22 Jun 2026 16:29:48 GMT_ · paywall: `False`
 - **The Guardian** — [Far-right millionaire wins Colombia’s razor-tight presidential election](https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff)  
   _Mon, 22 Jun 2026 00:27:07 GMT_ · paywall: `False`
-- **The Guardian** — [Colombians vote in runoff election expected to trigger shift in decades-long armed conflict](https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict)  
-  _Sun, 21 Jun 2026 14:44:36 GMT_ · paywall: `False`
-- **The Guardian** — [Canada’s policies force asylum seekers into US to face deportation, critics say](https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation)  
-  _Sun, 21 Jun 2026 07:00:24 GMT_ · paywall: `False`
-- **The Guardian** — [Bolivian president declares state of emergency and deploys military to quell anti-government protests](https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests)  
-  _Sun, 21 Jun 2026 04:23:30 GMT_ · paywall: `False`
-- **The Guardian** — [Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote](https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff)  
-  _Sat, 20 Jun 2026 12:00:01 GMT_ · paywall: `False`
+- **The Guardian** — [Lost memoir of Hiroshima survivor found after decades in US archive](https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive)  
+  _Tue, 23 Jun 2026 00:00:25 GMT_ · paywall: `False`
 - **The Guardian** — [Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence](https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence)  
   _Sun, 21 Jun 2026 15:18:53 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Severe thunderstorms sweep Europe and east Asia](https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france)  
-  _Fri, 19 Jun 2026 08:34:27 GMT_ · paywall: `False`
