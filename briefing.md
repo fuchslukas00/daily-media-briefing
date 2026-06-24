@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-06-23 10:11 UTC_
+_Generated: 2026-06-24 09:58 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Berlin - Merz will Vorschläge der Rentenkommission "vollumfänglich" umsetzen](https://www.deutschlandfunk.de/merz-will-vorschlaege-der-rentenkommission-vollumfaenglich-umsetzen-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Appell von Verbänden - Verzicht auf neue Autobahnen und Bundesstraßen bringt 20 Milliarden Euro](https://www.deutschlandfunk.de/verzicht-auf-neue-autobahnen-und-bundesstrassen-bringt-20-milliarden-euro-104.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Auskunftei Creditreform - Zahl der Insolvenzen steigt auf höchsten Stand seit 2013](https://www.deutschlandfunk.de/zahl-der-insolvenzen-steigt-auf-hoechsten-stand-seit-102.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistik - Jeder Fünfte kann sich keine Woche Urlaub leisten](https://www.deutschlandfunk.de/jeder-fuenfte-kann-sich-keine-woche-urlaub-leisten-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Visa-Vergabe - Grüne kritisieren Einladung von Taliban-Vertretern nach Brüssel scharf](https://www.deutschlandfunk.de/gruene-kritisieren-einladung-von-taliban-vertretern-nach-bruessel-scharf-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Digitaler Euro - Sparkassen- und Giroverband fordert mehr Mitsprache beim Digitalen Euro](https://www.deutschlandfunk.de/sparkassen-und-giroverband-fordert-mehr-mitsprache-beim-digitalen-euro-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Karlsruhe - Beschwerde gegen ausbleibende Erhöhung des Rundfunkbeitrags vor dem Bundesverfassungsgericht](https://www.deutschlandfunk.de/beschwerde-gegen-ausbleibende-erhoehung-des-rundfunkbeitrags-vor-dem-bundesverfassungsgericht-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wetter & Klima - Meteorologen erwarten Rekordtemperaturen in den kommenden Tagen](https://www.deutschlandfunk.de/meteorologen-erwarten-rekordtemperaturen-in-den-kommenden-tagen-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Verhandlungen in der Schweiz - Iran will Verwaltung der Straße von Hormus übernehmen](https://www.deutschlandfunk.de/iran-will-verwaltung-der-strasse-von-hormus-uebernehmen-102.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Offenbar erneut Ölterminal auf der Krim attackiert](https://www.deutschlandfunk.de/offenbar-erneut-oelterminal-auf-der-krim-attackiert-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Versorgungskrise - Mexikos Präsidentin will Öllieferungen nach Kuba wieder aufnehmen](https://www.deutschlandfunk.de/mexikos-praesidentin-will-oellieferungen-nach-kuba-wieder-aufnehmen-100.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Absatz von Elektroautos in EU steigt deutlich](https://www.deutschlandfunk.de/absatz-von-elektroautos-in-eu-steigt-deutlich-102.html)  
-  _Tue, 23 Jun 2026 12:03:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rüstung - Verteidigungsministerium beendet Projekt für Fregatte F126](https://www.deutschlandfunk.de/verteidigungsministerium-beendet-projekt-fuer-fregatte-f-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [CLAIM - Mehr als 4.000 Fälle registriert: Allianz legt Lagebild zum Ausmaß der Islamfeindlichkeit in Deutschland vor](https://www.deutschlandfunk.de/mehr-als-4-000-faelle-registriert-allianz-legt-lagebild-zum-ausmass-der-islamfeindlichkeit-in-deutsc-102.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Altersversorgung - Viel Zustimmung für Vorschläge der Rentenkommission](https://www.deutschlandfunk.de/viel-zustimmung-fuer-vorschlaege-der-rentenkommission-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Funk-Störung bei der Bahn - Minister Schnieder (CDU) fordert Aufklärung](https://www.deutschlandfunk.de/minister-schnieder-cdu-fordert-aufklaerung-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Rheinland-Pfalz - Prozess im Fall des getöteten Zugbegleiters begonnen](https://www.deutschlandfunk.de/prozess-im-fall-des-getoeteten-zugbegleiters-begonnen-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Messwoche - Bundesnetzagentur will Funklöcher in Deutschland aufspüren und bittet Mobilfunknutzer um Mithilfe](https://www.deutschlandfunk.de/bundesnetzagentur-will-funkloecher-in-deutschland-aufspueren-und-bittet-mobilfunknutzer-um-mithilfe-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Internationale Atomenergieagentur - Inspektionen im Iran werden kommen](https://www.deutschlandfunk.de/inspektionen-im-iran-werden-kommen-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Gefährliches Signal" - SPD-Europaabgeordnete Sippel kritisiert Gespräche der EU-Kommission mit Taliban-Regierung](https://www.deutschlandfunk.de/spd-europaabgeordnete-sippel-kritisiert-gespraeche-der-eu-kommission-mit-taliban-regierung-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Iran-Krieg treibt Preise für Baumaterialien in Deutschland](https://www.deutschlandfunk.de/iran-krieg-treibt-preise-fuer-baumaterialien-in-deutschland-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistik - Anteil der Alleinlebenden in Deutschland auf rund 21 Prozent gestiegen](https://www.deutschlandfunk.de/anteil-der-alleinlebenden-in-deutschland-auf-rund-21-prozent-gestiegen-102.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Frankreich - Wegen Hitze: Tausende Haushalte ohne Strom](https://www.deutschlandfunk.de/wegen-hitze-tausende-haushalte-ohne-strom-100.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Altersversorgung - Grünen-Vorsitzender Banaszak: "Die Abschaffung der Rente mit 63 ist richtig"](https://www.deutschlandfunk.de/gruenen-vorsitzender-banaszak-die-abschaffung-der-rente-mit-63-ist-richtig-102.html)  
+  _Wed, 24 Jun 2026 11:46:49 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Play puts spotlight on Kenya’s crisis of gender-based violence](https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence)  
+  _Wed, 24 Jun 2026 04:00:35 GMT_ · paywall: `False`
+- **The Guardian** — [Kenyan minister orders halt to construction of US Ebola facility](https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility)  
+  _Tue, 23 Jun 2026 13:22:39 GMT_ · paywall: `False`
+- **The Guardian** — [UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told](https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond)  
+  _Tue, 23 Jun 2026 13:15:28 GMT_ · paywall: `False`
 - **The Guardian** — [Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon](https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa)  
   _Sun, 21 Jun 2026 08:00:24 GMT_ · paywall: `False`
 - **The Guardian** — [Ghana conference calls for formal apology for transatlantic slave trade](https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana)  
   _Fri, 19 Jun 2026 17:26:45 GMT_ · paywall: `False`
-- **The Guardian** — [CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda](https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding)  
-  _Thu, 18 Jun 2026 18:55:09 GMT_ · paywall: `False`
-- **The Guardian** — [Barbados prime minister announces manifesto for slavery reparations](https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations)  
-  _Thu, 18 Jun 2026 17:52:08 GMT_ · paywall: `False`
-- **The Guardian** — [South African men sentenced in ‘world’s largest’ rhino horn trafficking case](https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case)  
-  _Thu, 18 Jun 2026 16:15:31 GMT_ · paywall: `False`
+- **The Guardian** — [Canadian police warn of possible copycat attacks after deadly shootout in Montreal](https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting)  
+  _Tue, 23 Jun 2026 17:34:43 GMT_ · paywall: `False`
+- **The Guardian** — [Former Pinochet agents convicted over 1976 Washington DC carbomb murder](https://www.theguardian.com/world/2026/jun/23/conviction-chile-washington-dc-car-bomb-attack-1976)  
+  _Tue, 23 Jun 2026 15:31:01 GMT_ · paywall: `False`
 - **The Guardian** — [Whistleblower investigating Ecuadorian president’s family business was murdered, activists say](https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business)  
   _Tue, 23 Jun 2026 06:00:33 GMT_ · paywall: `False`
 - **The Guardian** — [Montreal mayor calls for end to random police checks amid racial profiling investigation](https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation)  
   _Mon, 22 Jun 2026 17:49:55 GMT_ · paywall: `False`
-- **The Guardian** — [Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off](https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off)  
+- **The Guardian** — [‘Cruel hoax’: Canadian healthcare staff decry employer’s email promising fake day off](https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off)  
   _Mon, 22 Jun 2026 17:30:23 GMT_ · paywall: `False`
-- **The Guardian** — [‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia](https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump)  
-  _Mon, 22 Jun 2026 16:29:48 GMT_ · paywall: `False`
-- **The Guardian** — [Far-right millionaire wins Colombia’s razor-tight presidential election](https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff)  
-  _Mon, 22 Jun 2026 00:27:07 GMT_ · paywall: `False`
-- **The Guardian** — [Lost memoir of Hiroshima survivor found after decades in US archive](https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive)  
-  _Tue, 23 Jun 2026 00:00:25 GMT_ · paywall: `False`
-- **The Guardian** — [Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence](https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence)  
-  _Sun, 21 Jun 2026 15:18:53 GMT_ · paywall: `False`
+- **The Guardian** — [Dettol apologises after ‘toxic men’ advert sparks backlash in China](https://www.theguardian.com/world/2026/jun/24/dettol-apologises-toxic-men-advert-backlash-china)  
+  _Wed, 24 Jun 2026 07:16:22 GMT_ · paywall: `False`
+- **The Guardian** — [Philippines blocks GoreBox gaming app after school shooting kills three, injures 20](https://www.theguardian.com/world/2026/jun/24/philippines-blocks-gorebox-gaming-app-after-school-shooting-kills-three-injures-20)  
+  _Wed, 24 Jun 2026 06:27:51 GMT_ · paywall: `False`
