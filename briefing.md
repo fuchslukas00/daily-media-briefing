@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-06-25 09:54 UTC_
+_Generated: 2026-06-26 09:58 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Südamerika - Mindestens 32 Tote nach Erdbeben in Venezuela - sehr viel höhere Opferzahlen befürchtet](https://www.deutschlandfunk.de/mindestens-32-tote-nach-erdbeben-in-venezuela-sehr-viel-hoehere-opferzahlen-befuerchtet-100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Juristisches Gutachten - AfD ist verfassungswidrig](https://www.deutschlandfunk.de/afd-ist-verfassungswidrig-100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Frankfurt am Main - Französisch-britischer Menschenrechtsanwalt Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels](https://www.deutschlandfunk.de/franzoesisch-britischer-menschenrechtsanwalt-philippe-sands-erhaelt-den-friedenspreis-des-deutschen--100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Funk-Störung bei der Bahn - Pro-Bahn-Sprecher Neuß fordert neues Funksystem](https://www.deutschlandfunk.de/pro-bahn-sprecher-neuss-fordert-neues-funksystem-100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Danzig - Wiederaufbaukonferenz zur Ukraine](https://www.deutschlandfunk.de/wiederaufbaukonferenz-zur-ukraine-102.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Föderalismus - Länderchefs und Bund verhandeln über Finanzfragen](https://www.deutschlandfunk.de/laenderchefs-und-bund-verhandeln-ueber-finanzfragen-102.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Altersverifikation - Kulturstaatsminister Weimer will Social-Media-Plattformen beim Jugendschutz in die Pflicht nehmen](https://www.deutschlandfunk.de/kulturstaatsminister-weimer-will-social-media-plattformen-beim-jugendschutz-in-die-pflicht-nehmen-100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bund-Länder-Treffen - Rechtsstaatpakt zur Stärkung der Justiz soll geschlossen werden - 450 Millionen Euro für Personal und Digitalisierung](https://www.deutschlandfunk.de/rechtsstaatpakt-zur-staerkung-der-justiz-soll-geschlossen-werden-450-millionen-euro-fuer-personal-un-100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Literatur - Jubiläums-Wettlesen um Bachmann-Preis beginnt](https://www.deutschlandfunk.de/jubilaeums-wettlesen-um-bachmann-preis-beginnt-102.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Türkei - Zwei weitere oppositionelle Bürgermeister in Izmir festgenommen](https://www.deutschlandfunk.de/zwei-weitere-oppositionelle-buergermeister-in-izmir-festgenommen-102.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vorbereitung auf NATO-Gipfel - Merz: Allianz soll erneuert werden](https://www.deutschlandfunk.de/merz-allianz-soll-erneuert-werden-114.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Rentenreform - Ministerpräsidentin Schwesig (SPD) gegen Kopplung des Rentenalters an Lebenserwartung](https://www.deutschlandfunk.de/ministerpraesidentin-schwesig-spd-gegen-kopplung-des-rentenalters-an-lebenserwartung-100.html)  
-  _Thu, 25 Jun 2026 11:03:01 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienbericht - Volkswagen will offenbar bis zu 100.000 Stellen streichen](https://www.deutschlandfunk.de/volkswagen-will-offenbar-bis-zu-100-000-stellen-streichen-100.html)  
+  _Fri, 26 Jun 2026 11:51:04 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hitzewelle in Westeuropa - Rekorde und weitreichende Einschränkungen](https://www.deutschlandfunk.de/rekorde-und-weitreichende-einschraenkungen-100.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Landgericht - Höchststrafe für Attentäter auf Magdeburger Weihnachtsmarkt](https://www.deutschlandfunk.de/hoechststrafe-fuer-attentaeter-auf-magdeburger-weihnachtsmarkt-100.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brüssel - EU will wehrfähigen Ukrainern keinen Schutzstatus mehr gewähren](https://www.deutschlandfunk.de/eu-will-wehrfaehigen-ukrainern-keinen-schutzstatus-mehr-gewaehren-102.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundestag - Bundesverkehrsminister Schnieder verteidigt Infrastruktur-Zukunftsgesetz](https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-verteidigt-infrastruktur-zukunftsgesetz-102.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bericht - Stuttgart 21 wird nochmals teurer - Gesamtkosten von bei 14,5 Milliarden Euro erwartet](https://www.deutschlandfunk.de/stuttgart-21-wird-nochmals-teurer-gesamtkosten-von-bei-14-5-milliarden-euro-erwartet-100.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Öffentliche Finanzen - Bund und Länder einigen sich auf finanzielle Entlastungen der Kommunen - Schwesig spricht von "kleiner Revolution"](https://www.deutschlandfunk.de/bund-und-laender-einigen-sich-auf-finanzielle-entlastungen-der-kommunen-schwesig-spricht-von-kleiner-100.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Zentrale Hilfenummer geplant - Warken will Suizidprävention stärken](https://www.deutschlandfunk.de/warken-will-suizidpraevention-staerken-100.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundestag - Recht auf Reparatur von Elektrogeräten beschlossen](https://www.deutschlandfunk.de/recht-auf-reparatur-von-elektrogeraeten-beschlossen-102.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [UNO-Bericht - Neue Drogen überschwemmen den Markt - Deutschland wichtiger Umschlagplatz für Ketamin](https://www.deutschlandfunk.de/neue-drogen-ueberschwemmen-den-markt-deutschland-wichtiger-umschlagplatz-fuer-ketamin-100.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sparmaßnahme - Bericht: 14 Monate Elterngeld künftig nur bei hälftiger Aufteilung der Partnermonate](https://www.deutschlandfunk.de/bericht-14-monate-elterngeld-kuenftig-nur-bei-haelftiger-aufteilung-der-partnermonate-108.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [New York - Mieten für eine Million Wohnungen werden eingefroren](https://www.deutschlandfunk.de/mieten-fuer-eine-million-wohnungen-werden-eingefroren-102.html)  
+  _Fri, 26 Jun 2026 11:27:53 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term](https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term)  
+  _Thu, 25 Jun 2026 16:04:41 GMT_ · paywall: `False`
 - **The Guardian** — [France confirms first Ebola case in doctor who had worked in DRC](https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc)  
   _Wed, 24 Jun 2026 12:11:21 GMT_ · paywall: `False`
 - **The Guardian** — [Play puts spotlight on Kenya’s crisis of gender-based violence](https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Tue, 23 Jun 2026 13:22:39 GMT_ · paywall: `False`
 - **The Guardian** — [UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told](https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond)  
   _Tue, 23 Jun 2026 13:15:28 GMT_ · paywall: `False`
-- **The Guardian** — [Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon](https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa)  
-  _Sun, 21 Jun 2026 08:00:24 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela earthquakes leave at least 32 dead, 700 injured and dozens of buildings collapsed – latest updates](https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest)  
-  _Thu, 25 Jun 2026 09:28:33 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela capital hit by double earthquake as experts warn of high death toll](https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks)  
-  _Thu, 25 Jun 2026 09:25:38 GMT_ · paywall: `False`
-- **The Guardian** — [Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban](https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup)  
-  _Thu, 25 Jun 2026 01:08:05 GMT_ · paywall: `False`
-- **The Guardian** — [Brazilian federal police arrest Spanish citizen at São Paulo airport for racism](https://www.theguardian.com/world/2026/jun/24/brazilian-police-arrest-spanish-citizen-racism)  
-  _Wed, 24 Jun 2026 17:34:36 GMT_ · paywall: `False`
-- **The Guardian** — [Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire](https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella)  
-  _Wed, 24 Jun 2026 15:48:34 GMT_ · paywall: `False`
-- **The Guardian** — [Papua New Guinea at risk of food shortages as El Niño brings frost and drought](https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages)  
-  _Thu, 25 Jun 2026 03:54:03 GMT_ · paywall: `False`
-- **The Guardian** — [Philippines blocks GoreBox gaming app after school shooting kills three](https://www.theguardian.com/world/2026/jun/24/philippines-blocks-gorebox-gaming-app-after-school-shooting-kills-three-injures-20)  
-  _Wed, 24 Jun 2026 10:18:00 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuela earthquakes: frantic search for survivors continues, with 235 confirmed dead so far – latest updates](https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates)  
+  _Fri, 26 Jun 2026 09:25:07 GMT_ · paywall: `False`
+- **The Guardian** — [Mexico’s new UK ambassador from ‘party of poor’ has 10 houses and £1m of jewellery](https://www.theguardian.com/world/2026/jun/26/luxury-assets-mexico-new-ambassador-uk-alejandro-gertz-manero)  
+  _Fri, 26 Jun 2026 08:00:12 GMT_ · paywall: `False`
+- **The Guardian** — [Rescue teams race to Venezuela amid fears thousands killed in earthquakes](https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes)  
+  _Fri, 26 Jun 2026 01:34:30 GMT_ · paywall: `False`
+- **The Guardian** — [Experts say three recent powerful earthquakes are not related](https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related)  
+  _Fri, 26 Jun 2026 00:01:12 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 188 – as it happened](https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest)  
+  _Thu, 25 Jun 2026 19:47:19 GMT_ · paywall: `False`
+- **The Guardian** — [Weather tracker: Heatwave expected to bring Germany and Poland to 40C](https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures)  
+  _Fri, 26 Jun 2026 08:22:52 GMT_ · paywall: `False`
+- **The Guardian** — [South Korea to train half a million military personnel to become ‘drone warriors’](https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training)  
+  _Fri, 26 Jun 2026 06:04:05 GMT_ · paywall: `False`
