@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-06-29 11:32 UTC_
+_Generated: 2026-06-30 10:08 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Hitzeschutz - Umweltminister Schneider: Geld aus Sondervermögen reicht aus](https://www.deutschlandfunk.de/umweltminister-schneider-geld-aus-sondervermoegen-reicht-aus-102.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hitzewochenende - 26 Männer und Jungen beim Baden gestorben - Rekordtemperaturen, überlastete Rettungskräfte und Stromausfälle](https://www.deutschlandfunk.de/26-maenner-und-jungen-beim-baden-gestorben-rekordtemperaturen-ueberlastete-rettungskraefte-und-strom-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Trockenheit - Waldbrände in mehreren Regionen unter Kontrolle](https://www.deutschlandfunk.de/waldbraende-in-mehreren-regionen-unter-kontrolle-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Waldbrände - Warum es so viele munitionsbelastete Gebiete in Deutschland gibt](https://www.deutschlandfunk.de/warum-es-so-viele-munitionsbelastete-gebiete-in-deutschland-gibt-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiepreise - Verbraucherzentrale fordert neue Stromsteuersenkung - Tankrabatt laut Ifo-Institut nur bedingt weitergegeben worden](https://www.deutschlandfunk.de/verbraucherzentrale-fordert-neue-stromsteuersenkung-tankrabatt-laut-ifo-institut-nur-bedingt-weiterg-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Konferenz in Hamburg - Steinmeier warnt vor Verringerung des Einsatzes für UNO](https://www.deutschlandfunk.de/steinmeier-warnt-vor-verringerung-des-einsatzes-fuer-uno-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Tote in Dnipro, Stromausfälle in besetzten Gebieten](https://www.deutschlandfunk.de/tote-in-dnipro-stromausfaelle-in-besetzten-gebieten-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vanuatu - Inselstaat unterschreibt lang erwarteten Pakt mit Australien](https://www.deutschlandfunk.de/inselstaat-unterschreibt-lang-erwarteten-pakt-mit-australien-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Erdbebenkatastrophe - Kampf gegen die Zeit in Venezuela - 60-Jährige nach drei Tagen aus Trümmern gerettet - weiterhin Zehntausende Vermisste](https://www.deutschlandfunk.de/kampf-gegen-die-zeit-in-venezuela-60-jaehrige-nach-drei-tagen-aus-truemmern-gerettet-weiterhin-zehnt-110.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Strafrecht - Bundesbeauftragte gegen Missbrauch sieht Gesetzeslücke beim Grooming](https://www.deutschlandfunk.de/bundesbeauftragte-gegen-missbrauch-sieht-gesetzesluecke-beim-grooming-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Laboruntersuchung - Auf Shein angebotene Kleidungsstücke zum Teil stark mit Chemikalien belastet](https://www.deutschlandfunk.de/auf-shein-angebotene-kleidungsstuecke-zum-teil-stark-mit-chemikalien-belastet-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistik - Staatliche Investitionen in 2025 durch Rüstungsausgaben besonders stark gestiegen](https://www.deutschlandfunk.de/staatliche-investitionen-in-2025-durch-ruestungsausgaben-besonders-stark-gestiegen-100.html)  
-  _Mon, 29 Jun 2026 13:28:34 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Fußball-WM - Deutschland im Sechzehntelfinale ausgeschieden](https://www.deutschlandfunk.de/deutschland-im-sechzehntelfinale-ausgeschieden-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Fußball-WM - Verheerendes Presseecho nach deutschem Ausscheiden - Nagelsmann in der Kritik](https://www.deutschlandfunk.de/verheerendes-presseecho-nach-deutschem-ausscheiden-nagelsmann-in-der-kritik-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - Iran weist Vorstoß zu internationaler Minenräumung zurück](https://www.deutschlandfunk.de/iran-weist-vorstoss-zu-internationaler-minenraeumung-zurueck-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Haushalt - Bundesbeteiligungen bringen laut Bericht rund 1,1 Milliarden Euro Gewinn](https://www.deutschlandfunk.de/bundesbeteiligungen-bringen-laut-bericht-rund-1-1-milliarden-euro-gewinn-102.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [NATO - Deutsch-Niederländisches Korps übernimmt heute Verantwortung an der "Ostflanke" in Estland](https://www.deutschlandfunk.de/deutsch-niederlaendisches-korps-uebernimmt-heute-verantwortung-an-der-ostflanke-in-estland-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Unwetter - Großeinsätze nach Überflutungen in Bayern](https://www.deutschlandfunk.de/grosseinsaetze-nach-ueberflutungen-in-bayern-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reformkurs - Vor Koalitionsausschuss - Unions-Parlamentsgeschäftsführer Bilger: "Entlastung der Wirtschaft muss im Mittelpunkt stehen"](https://www.deutschlandfunk.de/vor-koalitionsausschuss-unions-parlamentsgeschaeftsfuehrer-bilger-entlastung-der-wirtschaft-muss-im--102.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Extremismus - Dobrindt und Selen stellen heute Verfassungsschutzbericht vor](https://www.deutschlandfunk.de/dobrindt-und-selen-stellen-heute-verfassungsschutzbericht-vor-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Regierungsdaten - Zahl der Ebola-Toten in DR Kongo auf 377 gestiegen](https://www.deutschlandfunk.de/zahl-der-ebola-toten-in-dr-kongo-auf-377-gestiegen-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesarbeitsministerin - Bas zu neuer Grundsicherung: "Wer arbeiten kann, muss sich um Arbeit bemühen"](https://www.deutschlandfunk.de/bas-zu-neuer-grundsicherung-wer-arbeiten-kann-muss-sich-um-arbeit-bemuehen-102.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kraftstoffpreise - Heute letzter Tag mit "Tankrabatt"](https://www.deutschlandfunk.de/heute-letzter-tag-mit-tankrabatt-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Russischer Angriffskrieg - Ukraine meldet zahlreiche Tote nach neuen Attacken](https://www.deutschlandfunk.de/ukraine-meldet-zahlreiche-tote-nach-neuen-attacken-100.html)  
+  _Tue, 30 Jun 2026 09:55:59 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 25 Jun 2026 16:04:41 GMT_ · paywall: `False`
 - **The Guardian** — [France confirms first Ebola case in doctor who had worked in DRC](https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc)  
   _Wed, 24 Jun 2026 12:11:21 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela in ‘critical hours’ to find earthquake survivors as more search and rescue teams arrive – latest updates](https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates)  
-  _Mon, 29 Jun 2026 11:18:13 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500](https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive)  
-  _Mon, 29 Jun 2026 01:09:09 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID](https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid)  
-  _Sun, 28 Jun 2026 09:32:47 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela earthquakes: death toll rises again to more than 1,400](https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez)  
-  _Sun, 28 Jun 2026 05:27:30 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’](https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll)  
-  _Fri, 26 Jun 2026 22:44:43 GMT_ · paywall: `False`
-- **The Guardian** — [Shares in chipmakers underpinning AI boom rocket in first half of 2026](https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026)  
-  _Mon, 29 Jun 2026 03:00:26 GMT_ · paywall: `False`
-- **The Guardian** — [Australian man charged with murder in Thailand after teenage girl’s body found in suitcase](https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb)  
-  _Sun, 28 Jun 2026 09:25:27 GMT_ · paywall: `False`
+- **The Guardian** — [Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right](https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff)  
+  _Tue, 30 Jun 2026 00:18:15 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuelans newly deported from US missing after hotel collapse](https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake)  
+  _Mon, 29 Jun 2026 23:10:15 GMT_ · paywall: `False`
+- **The Guardian** — [Strong aftershock terrifies Venezuelans days after devastating twin quakes](https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes)  
+  _Mon, 29 Jun 2026 17:37:01 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuela earthquakes aftershock hits near capital city as man rescued from rubble after being trapped for 106 hours – as it happened](https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates)  
+  _Mon, 29 Jun 2026 16:56:14 GMT_ · paywall: `False`
+- **The Guardian** — [Families of two football players killed and injured in Venezuela earthquakes](https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes)  
+  _Mon, 29 Jun 2026 13:21:27 GMT_ · paywall: `False`
+- **The Guardian** — [Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases](https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb)  
+  _Tue, 30 Jun 2026 08:28:35 GMT_ · paywall: `False`
+- **The Guardian** — [Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud](https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud)  
+  _Tue, 30 Jun 2026 04:22:07 GMT_ · paywall: `False`
