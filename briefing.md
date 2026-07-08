@@ -1,48 +1,50 @@
 # Daily Briefing
 
-_Generated: 2026-07-07 10:06 UTC_
+_Generated: 2026-07-08 09:07 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Importausfälle und andere Krisen - Regierungskreise: Bundeswirtschaftsministerium plant strategische Gasreserve](https://www.deutschlandfunk.de/regierungskreise-bundeswirtschaftsministerium-plant-strategische-gasreserve-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Syrien - Explosionen in Damaskus während Besuch Macrons](https://www.deutschlandfunk.de/explosionen-in-damaskus-waehrend-besuch-macrons-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vor NATO-Gipfel - Kanadas Premier Carney bestätigt: Deutsches Rüstungsunternehmen TKMS erhält Großauftrag zum Bau von U-Booten](https://www.deutschlandfunk.de/kanadas-premier-carney-bestaetigt-deutsches-ruestungsunternehmen-tkms-erhaelt-grossauftrag-zum-bau-v-104.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vor dem NATO-Treffen - Niederlande kündigen Rüstungsprojekte für mehr als drei Milliarden Euro an](https://www.deutschlandfunk.de/niederlande-kuendigen-ruestungsprojekte-fuer-mehr-als-drei-milliarden-euro-an-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Frankreich - Urteil gegen Le Pen wird heute erwartet - Entscheidung über künftige Präsidentschaftskandidatur](https://www.deutschlandfunk.de/urteil-gegen-le-pen-wird-heute-erwartet-entscheidung-ueber-kuenftige-praesidentschaftskandidatur-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Feuerwehreinsätze - Waldfläche bei Köln brennt - große Feuer in Südfrankreich, Portugal und Griechenland](https://www.deutschlandfunk.de/waldflaeche-bei-koeln-brennt-grosse-feuer-in-suedfrankreich-portugal-und-griechenland-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Neues "Unicorn" - Münchner Start-up sammelt 411 Millionen Euro für Fusionsreaktor](https://www.deutschlandfunk.de/muenchner-start-up-sammelt-411-millionen-euro-fuer-fusionsreaktor-104.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Altersforschung - Lebenserwartung in Deutschland auf neuem Höchstwert](https://www.deutschlandfunk.de/lebenserwartung-in-deutschland-auf-neuem-hoechstwert-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medizin - "Die Chirurginnen" fordern mehr Frauen in Führungspositionen](https://www.deutschlandfunk.de/die-chirurginnen-fordern-mehr-frauen-in-fuehrungspositionen-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Trockenheit in Deutschland - Weitere Kommunen verbieten Wasserentnahme aus Flüssen, Bächen und Seen](https://www.deutschlandfunk.de/weitere-kommunen-verbieten-wasserentnahme-aus-fluessen-baechen-und-seen-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [PFAS - Beseitigung von Ewigkeitschemikalien laut Studie fast wirkungslos und zudem sehr teuer](https://www.deutschlandfunk.de/beseitigung-von-ewigkeitschemikalien-laut-studie-fast-wirkungslos-und-zudem-sehr-teuer-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistik - Verkehrsunfälle: Acht Tote und mehr als 1000 Verletzte pro Tag](https://www.deutschlandfunk.de/verkehrsunfaelle-acht-tote-und-mehr-als-1000-verletzte-pro-tag-100.html)  
-  _Tue, 07 Jul 2026 11:29:10 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [NATO-Gipfeltreffen - Trump zum Iran: "Die Feuerpause ist vorbei" - Verteidigungsminister Pistorius hofft auf Geschlossenheit](https://www.deutschlandfunk.de/trump-zum-iran-die-feuerpause-ist-vorbei-verteidigungsminister-pistorius-hofft-auf-geschlossenheit-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krankenkassen-Beiträge - Grüne beantragen Abstimmungsstopp im Bundestag - Dahmen kündigt Klage vor Verfassungsgericht an](https://www.deutschlandfunk.de/gruene-beantragen-abstimmungsstopp-im-bundestag-dahmen-kuendigt-klage-vor-verfassungsgericht-an-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Großbank - Unicredit baut Anteil an der Commerzbank aus](https://www.deutschlandfunk.de/unicredit-baut-anteil-an-der-commerzbank-aus-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Russland greift erneut Kiew und andere Städte mit Raketen an](https://www.deutschlandfunk.de/russland-greift-erneut-kiew-und-andere-staedte-mit-raketen-an-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Beschuss von Tankern - US-Armee greift erneut Ziele im Iran an](https://www.deutschlandfunk.de/us-armee-greift-erneut-ziele-im-iran-an-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vor Bundestags-Beratungen - Reul: "Neue Digitalbefugnisse für Polizei zwingend notwendig" - Kritik von Datenschützern](https://www.deutschlandfunk.de/reul-neue-digitalbefugnisse-fuer-polizei-zwingend-notwendig-kritik-von-datenschuetzern-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Investitionen - Deutsche Bahn stellt Sofortprogramm für bessere Kundeninformation vor](https://www.deutschlandfunk.de/deutsche-bahn-stellt-sofortprogramm-fuer-bessere-kundeninformation-vor-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Frankreich - Marine Le Pen will trotz bestätigter Verurteilung bei Präsidentschaftswahl antreten](https://www.deutschlandfunk.de/marine-le-pen-will-trotz-bestaetigter-verurteilung-bei-praesidentschaftswahl-antreten-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - ICE-Beamter erschießt mexikanischen Einwanderer](https://www.deutschlandfunk.de/ice-beamter-erschiesst-mexikanischen-einwanderer-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Marktmacht großer Digitalunternehmen - EU-Gericht weist Apple-Klagen gegen strengere Regeln ab](https://www.deutschlandfunk.de/eu-gericht-weist-apple-klagen-gegen-strengere-regeln-ab-102.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [NRW - Razzia nach Gewalt bei pro-kurdischen Demonstration](https://www.deutschlandfunk.de/razzia-nach-gewalt-bei-pro-kurdischen-demonstration-100.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Achtelfinale - Nach Argentinien auch Schweiz im Viertelfinale - Sieg im Elfmeterschießen gegen Kolumbien](https://www.deutschlandfunk.de/nach-argentinien-auch-schweiz-im-viertelfinale-sieg-im-elfmeterschiessen-gegen-kolumbien-102.html)  
+  _Wed, 08 Jul 2026 10:57:41 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Catnip lotion as effective as Deet at repelling mosquitoes, study finds](https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds)  
+  _Tue, 07 Jul 2026 15:17:19 GMT_ · paywall: `False`
+- **The Guardian** — [What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs](https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola)  
+  _Tue, 07 Jul 2026 11:00:06 GMT_ · paywall: `False`
 - **The Guardian** — [Five charged in Liberia after more than 200kg of cocaine seized in drug bust](https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust)  
   _Tue, 07 Jul 2026 06:30:31 GMT_ · paywall: `False`
 - **The Guardian** — [Archaeologists uncover ancient Byzantine city in Egypt’s western desert](https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert)  
   _Sat, 04 Jul 2026 20:32:52 GMT_ · paywall: `False`
 - **The Guardian** — [‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes](https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes)  
   _Sat, 04 Jul 2026 15:14:18 GMT_ · paywall: `False`
-- **The Guardian** — [Overseas education project for women and girls axed by UK after two years](https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years)  
-  _Sat, 04 Jul 2026 08:00:08 GMT_ · paywall: `False`
-- **The Guardian** — [‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips](https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips)  
-  _Fri, 03 Jul 2026 00:00:13 GMT_ · paywall: `False`
+- **The Guardian** — [French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator](https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe)  
+  _Tue, 07 Jul 2026 15:06:41 GMT_ · paywall: `False`
 - **The Guardian** — [‘Living like this is agony’: Cuba suffers third nationwide blackout in six months](https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months)  
   _Mon, 06 Jul 2026 19:30:09 GMT_ · paywall: `False`
 - **The Guardian** — [Canada to buy 12 hi-tech German submarines after bidding war](https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 06 Jul 2026 15:58:26 GMT_ · paywall: `False`
 - **The Guardian** — [Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar](https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar)  
   _Sun, 05 Jul 2026 21:50:42 GMT_ · paywall: `False`
-- **The Guardian** — [Florida Republican says deporting Haitians with TPS would be ‘huge mistake’](https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez)  
-  _Sun, 05 Jul 2026 19:54:38 GMT_ · paywall: `False`
+- **The Guardian** — [‘Software glitch’ blamed for mass outage – as it happened](https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb)  
+  _Wed, 08 Jul 2026 08:35:29 GMT_ · paywall: `False`
 - **The Guardian** — [Severe storms in China bring tornadoes and landslides that have killed 15 people](https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes)  
   _Tue, 07 Jul 2026 06:51:54 GMT_ · paywall: `False`
-- **The Guardian** — [Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised](https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows)  
-  _Tue, 07 Jul 2026 04:28:02 GMT_ · paywall: `False`
