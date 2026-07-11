@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-07-10 10:01 UTC_
+_Generated: 2026-07-11 08:21 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Gesundheitssystem - Bundestag beschließt Reform der gesetzlichen Krankenversicherung](https://www.deutschlandfunk.de/bundestag-beschliesst-reform-der-gesetzlichen-krankenversicherung-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundestag - Diese Einsparungen sind in der Gesundheitsreform vorgesehen](https://www.deutschlandfunk.de/diese-einsparungen-sind-in-der-gesundheitsreform-vorgesehen-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Mehr Tempo bei Verkehrsprojekten: Auch Bundesrat stimmt Gesetz zu](https://www.deutschlandfunk.de/mehr-tempo-bei-verkehrsprojekten-auch-bundesrat-stimmt-gesetz-zu-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [ADAC-Angaben - Nahost-Spannungen: Spritpreise steigen wieder deutlich - Diesel und E10 über zwei Euro](https://www.deutschlandfunk.de/nahost-spannungen-spritpreise-steigen-wieder-deutlich-diesel-und-e10-ueber-zwei-euro-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Spanien - Mindestens zwölf Tote bei Waldbrand in Andalusien](https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-waldbrand-in-andalusien-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [In eigener Sache - Appell von Umweltverbänden zur Deutschlandfunk-Programmreform](https://www.deutschlandfunk.de/appell-von-umweltverbaenden-zur-deutschlandfunk-programmreform-102.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Versagen auf allen Ebenen" - Lauterbach: Gefahr von Hitze wird von Bund, Ländern und Kommunen noch immer stark unterschätzt](https://www.deutschlandfunk.de/lauterbach-gefahr-von-hitze-wird-von-bund-laendern-und-kommunen-noch-immer-stark-unterschaetzt-102.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Autoindustrie - Kritik aus betroffenen Bundesländern an Sparplänen bei VW](https://www.deutschlandfunk.de/kritik-aus-betroffenen-bundeslaendern-an-sparplaenen-bei-vw-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Zu wenig männlicher Nachwuchs - Japanisches Parlament bringt Reform des Kaiserhauses zur Sicherung der Thronfolge auf den Weg](https://www.deutschlandfunk.de/japanisches-parlament-bringt-reform-des-kaiserhauses-zur-sicherung-der-thronfolge-auf-den-weg-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Explosionen während Macron-Besuch - Verdächtige nach Anschlägen in Syrien festgenommen](https://www.deutschlandfunk.de/verdaechtige-nach-anschlaegen-in-syrien-festgenommen-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Studie: Angestrebte Investitionen in verteidigungsrelevante Infrastruktur könnten hunderttausende neue Jobs bringen](https://www.deutschlandfunk.de/studie-angestrebte-investitionen-in-verteidigungsrelevante-infrastruktur-koennten-hunderttausende-ne-102.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Abwehrkampf - Neue ukrainische Luftangriffe - Russland meldet Brände in Energieanlagen](https://www.deutschlandfunk.de/neue-ukrainische-luftangriffe-russland-meldet-braende-in-energieanlagen-100.html)  
-  _Fri, 10 Jul 2026 11:55:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienbericht - Missbrauch von Sozialleistungen: Ministerium vermutet hohe Dunkelziffer](https://www.deutschlandfunk.de/missbrauch-von-sozialleistungen-ministerium-vermutet-hohe-dunkelziffer-100.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [VW-Sparpläne - Bedrohter Audi-Standort Neckarsulm: Oberbürgermeister fordert Klarheit von Volkswagen](https://www.deutschlandfunk.de/bedrohter-audi-standort-neckarsulm-oberbuergermeister-fordert-klarheit-von-volkswagen-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Abgeordnetenhaus-Wahl im September - Berliner CDU-Politiker Dregger fordert nach Verzicht von Wegner Rückkehr zur Sachpolitik](https://www.deutschlandfunk.de/berliner-cdu-politiker-dregger-fordert-nach-verzicht-von-wegner-rueckkehr-zur-sachpolitik-100.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienberichte - USA fordern vom Iran Bekenntnis zur Öffnung der Straße von Hormus](https://www.deutschlandfunk.de/usa-fordern-vom-iran-bekenntnis-zur-oeffnung-der-strasse-von-hormus-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Berichten - Trump droht Iran mit Zerstörung bei möglichem Attentat auf ihn](https://www.deutschlandfunk.de/trump-droht-iran-mit-zerstoerung-bei-moeglichem-attentat-auf-ihn-100.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Atomprogramm - US-Forschungsinstitut vermutet neue Arbeiten an iranischen Nuklearanlagen](https://www.deutschlandfunk.de/us-forschungsinstitut-vermutet-neue-arbeiten-an-iranischen-nuklearanlagen-100.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Interview der Woche - AfD-Co-Vorsitzender Chrupalla wirft Bundesregierung erneut "Rüstungsrausch" vor](https://www.deutschlandfunk.de/afd-co-vorsitzender-chrupalla-wirft-bundesregierung-erneut-ruestungsrausch-vor-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigungspolitik - Kiesewetter (CDU): Soziales und Sicherheit nicht gegeneinander ausspielen](https://www.deutschlandfunk.de/kiesewetter-cdu-soziales-und-sicherheit-nicht-gegeneinander-ausspielen-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Konzerte und Veranstaltungen - Gesetzentwurf gegen "Ticketwucher" soll nach Sommerpause vorliegen](https://www.deutschlandfunk.de/gesetzentwurf-gegen-ticketwucher-soll-nach-sommerpause-vorliegen-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brandenburg - Erhöhte Sicherheitsvorkehrungen bei CSD in Cottbus](https://www.deutschlandfunk.de/erhoehte-sicherheitsvorkehrungen-bei-csd-in-cottbus-100.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Debatten - Parlamentarische Geschäftsführer von Union und SPD rufen Abgeordnete zu Zurückhaltung während Sommerpause auf](https://www.deutschlandfunk.de/parlamentarische-geschaeftsfuehrer-von-union-und-spd-rufen-abgeordnete-zu-zurueckhaltung-waehrend-so-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Kompetenzwirrwarr" in der EU-Außenpolitik - Wadephul kündigt gemeinsame Initiative mit Frankreich zur Befriedung von Konflikten an](https://www.deutschlandfunk.de/wadephul-kuendigt-gemeinsame-initiative-mit-frankreich-zur-befriedung-von-konflikten-an-102.html)  
+  _Sat, 11 Jul 2026 10:03:47 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 09 Jul 2026 12:20:09 GMT_ · paywall: `False`
 - **The Guardian** — [Catnip lotion as effective as Deet at repelling mosquitoes, study finds](https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds)  
   _Tue, 07 Jul 2026 15:17:19 GMT_ · paywall: `False`
+- **The Guardian** — [Venezuela quake death toll passes 4,000 as scale of recovery effort looms large](https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort)  
+  _Sat, 11 Jul 2026 00:37:54 GMT_ · paywall: `False`
 - **The Guardian** — [Mexico investigates whether US lied about role in capture of drug lord](https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation)  
   _Thu, 09 Jul 2026 18:17:49 GMT_ · paywall: `False`
 - **The Guardian** — [UK judges begin hearing appeal over Trinidad and Tobago anti-gay law](https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law)  
@@ -51,8 +53,6 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Tue, 07 Jul 2026 15:06:41 GMT_ · paywall: `False`
 - **The Guardian** — [‘Living like this is agony’: Cuba suffers third nationwide blackout in six months](https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months)  
   _Mon, 06 Jul 2026 19:30:09 GMT_ · paywall: `False`
-- **The Guardian** — [Canada to buy 12 hi-tech German submarines after bidding war](https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war)  
-  _Mon, 06 Jul 2026 16:41:47 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Typhoon leaves people stranded on rooftops in China](https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china)  
   _Fri, 10 Jul 2026 09:18:01 GMT_ · paywall: `False`
 - **The Guardian** — [South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing](https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing)  
