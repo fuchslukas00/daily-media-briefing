@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-07-12 08:39 UTC_
+_Generated: 2026-07-13 09:54 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Scharfer Kritiker Russlands - US-Senator Lindsey Graham gestorben - Trump würdigt langjährigen Verbündeten](https://www.deutschlandfunk.de/us-senator-lindsey-graham-gestorben-trump-wuerdigt-langjaehrigen-verbuendeten-102.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gesetzentwurf angekündigt - Prien will Kommunen entlasten: Unterhaltsvorschuss nur noch bis zum 15. Lebensjahr](https://www.deutschlandfunk.de/prien-will-kommunen-entlasten-unterhaltsvorschuss-nur-noch-bis-zum-15-lebensjahr-102.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Mit Drohnen - Ukraine greift erneut russische Ölraffinerie an](https://www.deutschlandfunk.de/ukraine-greift-erneut-russische-oelraffinerie-an-102.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Naher Osten - US-Militär startet neue Angriffe gegen den Iran - Straße von Hormus gesperrt](https://www.deutschlandfunk.de/us-militaer-startet-neue-angriffe-gegen-den-iran-strasse-von-hormus-gesperrt-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach US-Attacken - Iran beschießt wieder Ziele in den Golfstaaten](https://www.deutschlandfunk.de/iran-beschiesst-wieder-ziele-in-den-golfstaaten-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Tropischer Wirbelsturm - Taifun Bavi bringt heftige Regenfälle in Ostchina](https://www.deutschlandfunk.de/taifun-bavi-bringt-heftige-regenfaelle-in-ostchina-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Venezuela - Regierung kündigt Bau provisorischer Häuser an](https://www.deutschlandfunk.de/regierung-kuendigt-bau-provisorischer-haeuser-an-102.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Deutscher Wetterdienst - Waldbrandgefahr in Deutschland steigt](https://www.deutschlandfunk.de/waldbrandgefahr-in-deutschland-steigt-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [DLRG - So viele Badetote im Juni wie seit mehr als 20 Jahren nicht mehr - 90 Prozent der Opfer männlich](https://www.deutschlandfunk.de/so-viele-badetote-im-juni-wie-seit-mehr-als-20-jahren-nicht-mehr-90-prozent-der-opfer-maennlich-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gescheiterte Richterwahl - Brosius-Gersdorf: Verantwortliche müssen aus Fehlern lernen](https://www.deutschlandfunk.de/brosius-gersdorf-verantwortliche-muessen-aus-fehlern-lernen-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Golfstaaten - Früherer Emir Katars mit 74 Jahren gestorben](https://www.deutschlandfunk.de/frueherer-emir-katars-mit-74-jahren-gestorben-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gegen Hotelprojekt - Proteste in Albanien halten an](https://www.deutschlandfunk.de/proteste-in-albanien-halten-an-100.html)  
-  _Sun, 12 Jul 2026 10:34:23 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Europäische Union - EU-Experten empfehlen Social-Media-Verbot für Kinder unter 13 Jahren](https://www.deutschlandfunk.de/eu-experten-empfehlen-social-media-verbot-fuer-kinder-unter-13-jahren-100.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach "Vergeltungsliste" - Sicherheitspolitiker warnen vor iranischen Anschlägen in Deutschland](https://www.deutschlandfunk.de/sicherheitspolitiker-warnen-vor-iranischen-anschlaegen-in-deutschland-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Russland greift Hafen Tschonomorsk an - Ukraine beschießt Tanker im Asowschen Meer](https://www.deutschlandfunk.de/russland-greift-hafen-tschonomorsk-an-ukraine-beschiesst-tanker-im-asowschen-meer-100.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [OLG München - Lebenslange Haft wegen Versklavung jesidischer Mädchen](https://www.deutschlandfunk.de/lebenslange-haft-wegen-versklavung-jesidischer-maedchen-100.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - Nouripour: Rückkehr an den Verhandlungstisch wird schwer](https://www.deutschlandfunk.de/nouripour-rueckkehr-an-den-verhandlungstisch-wird-schwer-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - US-Streitkräfte fliegen neue Angriffswelle gegen den Iran, Teheran meldet Gegenangriffe](https://www.deutschlandfunk.de/us-streitkraefte-fliegen-neue-angriffswelle-gegen-den-iran-teheran-meldet-gegenangriffe-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schaden an Brücke - Erneut Zugausfälle auf Strecke zwischen Köln, Wuppertal und Hagen](https://www.deutschlandfunk.de/erneut-zugausfaelle-auf-strecke-zwischen-koeln-wuppertal-und-hagen-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Statistisches Bundesamt - Fast jeder zehnte Mensch in Deutschland lebt mit einer schweren Behinderung](https://www.deutschlandfunk.de/fast-jeder-zehnte-mensch-in-deutschland-lebt-mit-einer-schweren-behinderung-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Koalition der Willigen - Unterstützer der Ukraine wollen über Waffenproduktion in dem angegriffenen Land sprechen](https://www.deutschlandfunk.de/unterstuetzer-der-ukraine-wollen-ueber-waffenproduktion-in-dem-angegriffenen-land-sprechen-100.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Jahresbericht - "Einschränkungen sind die Regel": Arbeitsbedingungen für Auslandskorrespondenten in China bleiben schwierig](https://www.deutschlandfunk.de/einschraenkungen-sind-die-regel-arbeitsbedingungen-fuer-auslandskorrespondenten-in-china-bleiben-sch-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Zigaretten-Konsum - Koalition will Tabaksteuer offenbar stärker anheben als bisher geplant](https://www.deutschlandfunk.de/koalition-will-tabaksteuer-offenbar-staerker-anheben-als-bisher-geplant-102.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gesetzespläne - SPD will kürzere Unterhaltsvorschuss-Zeiten nicht mittragen](https://www.deutschlandfunk.de/spd-will-kuerzere-unterhaltsvorschuss-zeiten-nicht-mittragen-114.html)  
+  _Mon, 13 Jul 2026 11:21:38 +0200_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 09 Jul 2026 18:17:49 GMT_ · paywall: `False`
 - **The Guardian** — [UK judges begin hearing appeal over Trinidad and Tobago anti-gay law](https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law)  
   _Wed, 08 Jul 2026 14:01:35 GMT_ · paywall: `False`
+- **The Guardian** — [At least 27 killed in fire at Bangkok pub with another 22 critically injured](https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say)  
+  _Mon, 13 Jul 2026 08:34:57 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Typhoon leaves people stranded on rooftops in China](https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china)  
   _Fri, 10 Jul 2026 09:18:01 GMT_ · paywall: `False`
-- **The Guardian** — [South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing](https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing)  
-  _Fri, 10 Jul 2026 05:06:57 GMT_ · paywall: `False`
