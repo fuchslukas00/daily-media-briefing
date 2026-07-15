@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-07-14 08:37 UTC_
+_Generated: 2026-07-15 08:56 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Wiederaufbau nach Hochwasserkatastrophe - Erst ein Fünftel der Fluthilfe-Gelder ausgezahlt](https://www.deutschlandfunk.de/erst-ein-fuenftel-der-fluthilfe-gelder-ausgezahlt-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Jahrestag der Ahrtal-Flut - Meteorologe Kachelmann: Deutschland ist weiter schlecht auf Extremsituationen vorbereitet](https://www.deutschlandfunk.de/meteorologe-kachelmann-deutschland-ist-weiter-schlecht-auf-extremsituationen-vorbereitet-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - "Qualifizierungsgeld" für Umschulung im Betrieb wird kaum genutzt](https://www.deutschlandfunk.de/qualifizierungsgeld-fuer-umschulung-im-betrieb-wird-kaum-genutzt-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Außenhandel - China legt bei Exporten nach Deutschland kräftig zu](https://www.deutschlandfunk.de/china-legt-bei-exporten-nach-deutschland-kraeftig-zu-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Gerichtsurteil - US-Regierung zahlt 81 Milliarden Dollar Zollgebühren an Unternehmen zurück](https://www.deutschlandfunk.de/us-regierung-zahlt-81-milliarden-dollar-zollgebuehren-an-unternehmen-zurueck-102.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Straße von Hormus - Deutsche Reeder kritisieren von Trump geplante Schutzgebühr für sichere Durchfahrt](https://www.deutschlandfunk.de/deutsche-reeder-kritisieren-von-trump-geplante-schutzgebuehr-fuer-sichere-durchfahrt-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Straße von Hormus - US-Militär fliegt erneut Angriffswelle, Iran greift Öltanker an](https://www.deutschlandfunk.de/us-militaer-fliegt-erneut-angriffswelle-iran-greift-oeltanker-an-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Unwetter - Hagel und Starkregen richten Schäden in Norddeutschland an - zahlreiche Feuerwehreinsätze](https://www.deutschlandfunk.de/hagel-und-starkregen-richten-schaeden-in-norddeutschland-an-zahlreiche-feuerwehreinsaetze-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Jahrestag - Gedenken an Flutkatastrophe 2021 in Rheinland-Pfalz und Nordrhein-Westfalen](https://www.deutschlandfunk.de/gedenken-an-flutkatastrophe-2021-in-rheinland-pfalz-und-nordrhein-westfalen-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Tabaksteuer - Drogenbeauftragter Streeck spricht sich für höhere Besteuerung auch von Vapes und E-Zigaretten aus](https://www.deutschlandfunk.de/drogenbeauftragter-streeck-spricht-sich-fuer-hoehere-besteuerung-auch-von-vapes-und-e-zigaretten-aus-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verband der Ersatzkassen - Eigenanteil für Pflegeheim im Schnitt bei inzwischen 3.360 Euro](https://www.deutschlandfunk.de/eigenanteil-fuer-pflegeheim-im-schnitt-bei-inzwischen-3-360-euro-102.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krise in der Automobilindustrie - VDA-Chefin Müller fordert mehr Entgegenkommen von Gewerkschaften und bessere Standortbedingungen](https://www.deutschlandfunk.de/vda-chefin-mueller-fordert-mehr-entgegenkommen-von-gewerkschaften-und-bessere-standortbedingungen-100.html)  
-  _Tue, 14 Jul 2026 10:34:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Digitalminister Wildberger - Arztüberweisung auf Papier bald Geschichte - "Entlastungskabinett" will Bürokratieabbau vorantreiben](https://www.deutschlandfunk.de/arztueberweisung-auf-papier-bald-geschichte-entlastungskabinett-will-buerokratieabbau-vorantreiben-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg - Iran meldet mehr als 30 Tote bei US-Luftangriffen](https://www.deutschlandfunk.de/iran-meldet-mehr-als-30-tote-bei-us-luftangriffen-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Von der Leyen zum 11. Mal in Kiew - engere Rüstungskooperation angestrebt](https://www.deutschlandfunk.de/von-der-leyen-zum-11-mal-in-kiew-engere-ruestungskooperation-angestrebt-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Jahrestag in der Türkei - Ein Putschversuch, der Erdogans Macht festigte](https://www.deutschlandfunk.de/ein-putschversuch-der-erdogans-macht-festigte-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Recherche von NDR und SZ - Schufa speichert Verbraucherdaten länger als gedacht](https://www.deutschlandfunk.de/schufa-speichert-verbraucherdaten-laenger-als-gedacht-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Familienpolitik - SPD-Politiker Reichardt: Pläne bei Elterngeld setzen falsche Anreize](https://www.deutschlandfunk.de/spd-politiker-reichardt-plaene-bei-elterngeld-setzen-falsche-anreize-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Umweltpolitik - Dürre und Hitze: Baden-Württemberg fordert effizientere Nutzung von Wasser](https://www.deutschlandfunk.de/duerre-und-hitze-baden-wuerttemberg-fordert-effizientere-nutzung-von-wasser-102.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [5. Jahrestag - Gedenkveranstaltung zur Hochwasserkatastrophe im Ahrtal: Ministerpräsident Schnieder bittet um Entschuldigung für staatliches Versagen](https://www.deutschlandfunk.de/gedenkveranstaltung-zur-hochwasserkatastrophe-im-ahrtal-ministerpraesident-schnieder-bittet-um-entsc-106.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bayern - Mehrere Verletzte bei Unwetter rund um Nürnberg - Flughafen muss kurzzeitig Betrieb einstellen](https://www.deutschlandfunk.de/mehrere-verletzte-bei-unwetter-rund-um-nuernberg-flughafen-muss-kurzzeitig-betrieb-einstellen-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gesundheit - Glücksspielforscher fordert Werbeverbot für Sportwetten](https://www.deutschlandfunk.de/gluecksspielforscher-fordert-werbeverbot-fuer-sportwetten-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Dinosaurier - T-Rex-Fossil "Gus" für Rekordwert von mehr als 50 Millionen Dollar versteigert](https://www.deutschlandfunk.de/t-rex-fossil-gus-fuer-rekordwert-von-mehr-als-50-millionen-dollar-versteigert-100.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Fußball-Weltmeisterschaft - Spanien erreicht mit Sieg gegen Frankreich das Endspiel](https://www.deutschlandfunk.de/spanien-erreicht-mit-sieg-gegen-frankreich-das-endspiel-104.html)  
+  _Wed, 15 Jul 2026 10:42:18 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [New US Ebola patient arrives in Germany for treatment](https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany)  
+  _Tue, 14 Jul 2026 12:27:06 GMT_ · paywall: `False`
 - **The Guardian** — [Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security](https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s)  
   _Mon, 13 Jul 2026 14:00:49 GMT_ · paywall: `False`
 - **The Guardian** — [First patients enrolled in record-breaking Ebola treatment trial in DRC](https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 11 Jul 2026 11:59:11 GMT_ · paywall: `False`
 - **The Guardian** — [Developing countries spend more repaying foreign debt than on education, UN reveals](https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco)  
   _Fri, 10 Jul 2026 07:00:14 GMT_ · paywall: `False`
-- **The Guardian** — [Furore in Nigeria over fake federal agency set up in government HQ](https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm)  
-  _Thu, 09 Jul 2026 16:20:41 GMT_ · paywall: `False`
-- **The Guardian** — [Mexico to file criminal complaints over migrants killed by ICE in US](https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths)  
+- **The Guardian** — [Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition](https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton)  
+  _Wed, 15 Jul 2026 08:00:49 GMT_ · paywall: `False`
+- **The Guardian** — [Derision at US chain Chipotle’s plan to sell its Mexican food in Mexico](https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico)  
+  _Tue, 14 Jul 2026 18:23:45 GMT_ · paywall: `False`
+- **The Guardian** — [‘God is punishing the politicians’: anger at earthquake response grows in Venezuela](https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela)  
+  _Tue, 14 Jul 2026 09:00:26 GMT_ · paywall: `False`
+- **The Guardian** — [Mexico to demand criminal complaints over migrants killed by ICE in US](https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths)  
   _Mon, 13 Jul 2026 22:06:01 GMT_ · paywall: `False`
 - **The Guardian** — [Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay](https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry)  
   _Sun, 12 Jul 2026 11:00:17 GMT_ · paywall: `False`
-- **The Guardian** — [A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela](https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela)  
-  _Sun, 12 Jul 2026 05:00:09 GMT_ · paywall: `False`
-- **The Guardian** — [Toronto shooting: two dead and four injured at Salsa on St Clair street festival](https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter)  
-  _Sun, 12 Jul 2026 04:00:31 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela quake death toll passes 4,300 as scale of recovery effort looms large](https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort)  
-  _Sat, 11 Jul 2026 17:23:19 GMT_ · paywall: `False`
-- **The Guardian** — [Bangkok bar fire: death toll reaches 30 as police investigate negligence as ‘primary theory’](https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand)  
-  _Tue, 14 Jul 2026 05:06:28 GMT_ · paywall: `False`
-- **The Guardian** — [Japan admits growing need to counter espionage after Russian ‘den of spies’ report](https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies)  
-  _Tue, 14 Jul 2026 01:10:26 GMT_ · paywall: `False`
+- **The Guardian** — [Japan officials hunt bear that raided couple’s fridge amid string of break-ins](https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge)  
+  _Wed, 15 Jul 2026 04:27:29 GMT_ · paywall: `False`
+- **The Guardian** — [Singapore court orders Bloomberg to pay ministers $356,000 in defamation case](https://www.theguardian.com/world/2026/jul/15/bloomberg-singapore-defamation-case)  
+  _Wed, 15 Jul 2026 02:03:57 GMT_ · paywall: `False`
