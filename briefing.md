@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-07-21 09:11 UTC_
+_Generated: 2026-07-22 09:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Lagebild des BKA - Fallzahlen bei sexualisierter Gewalt gegen Minderjährige gestiegen](https://www.deutschlandfunk.de/fallzahlen-bei-sexualisierter-gewalt-gegen-minderjaehrige-gestiegen-100.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Libanesische Armee beginnt Einsatz zur Entwaffnung der Hisbollah](https://www.deutschlandfunk.de/libanesische-armee-beginnt-einsatz-zur-entwaffnung-der-hisbollah-102.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verteidigung - Schwarz (SPD): Ukrainische Armee arbeitet pragmatisch und effizient - Bundeswehr könnte profitieren](https://www.deutschlandfunk.de/schwarz-spd-ukrainische-armee-arbeitet-pragmatisch-und-effizient-bundeswehr-koennte-profitieren-100.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bindung an altruistische Motive? - Ethikrat-Vorsitzender Frister: Leihmutterschaft müsste gut reguliert werden - Prien: CDU wird Haltung nicht ändern](https://www.deutschlandfunk.de/ethikrat-vorsitzender-frister-leihmutterschaft-muesste-gut-reguliert-werden-prien-cdu-wird-haltung-n-100.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gedenkstunde im Bendlerblock - Stiftung: Empörung über AfD-Kranzniederlegung beim Gedenken an Hitler-Attentat verständlich](https://www.deutschlandfunk.de/stiftung-empoerung-ueber-afd-kranzniederlegung-beim-gedenken-an-hitler-attentat-verstaendlich-102.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Die Anstalt" - ZDF-Intendant verteidigt Ausladung von Danger Dan und räumt Fehler ein](https://www.deutschlandfunk.de/zdf-intendant-verteidigt-ausladung-von-danger-dan-und-raeumt-fehler-ein-102.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sicherheit - Deutsche Bahn will Alkohol an allen Bahnhöfen verbieten](https://www.deutschlandfunk.de/deutsche-bahn-will-alkohol-an-allen-bahnhoefen-verbieten-102.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Regierungspläne - Von Streichung des Kindersofortzuschlags wären rund 1,9 Millionen Familien betroffen](https://www.deutschlandfunk.de/von-streichung-des-kindersofortzuschlags-waeren-rund-1-9-millionen-familien-betroffen-100.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Naher Osten - Neue US-Luftangriffe auf den Iran, Revolutionsgarden attackieren Ziele in Golfstaaten](https://www.deutschlandfunk.de/neue-us-luftangriffe-auf-den-iran-revolutionsgarden-attackieren-ziele-in-golfstaaten-100.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Brasilien - Waldbrände im Amazonas-Regenwald 2025 auf tiefstem Stand seit Jahrzehnten](https://www.deutschlandfunk.de/waldbraende-im-amazonas-regenwald-2025-auf-tiefstem-stand-seit-jahrzehnten-104.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Zusammenstößen mit der Polizei - Indische Jugendbewegung "Kakerlaken-Volkspartei" plant vorerst keine Demonstrationen mehr](https://www.deutschlandfunk.de/indische-jugendbewegung-kakerlaken-volkspartei-plant-vorerst-keine-demonstrationen-mehr-100.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Weltwirtschaft - Trump will 50-Prozent-Zölle auf kanadische Waren verhängen](https://www.deutschlandfunk.de/trump-will-50-prozent-zoelle-auf-kanadische-waren-verhaengen-112.html)  
-  _Tue, 21 Jul 2026 11:07:51 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Künstliche Intelligenz - KI-Modell von OpenAI startet selbstständig Cyberangriff](https://www.deutschlandfunk.de/ki-modell-von-openai-startet-selbststaendig-cyberangriff-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Energie - Bartsch wirft Bundesregierung Untätigkeit angesichts hoher Spritpreise vor - Klüssendorf plädiert für Spritpreisdeckel](https://www.deutschlandfunk.de/bartsch-wirft-bundesregierung-untaetigkeit-angesichts-hoher-spritpreise-vor-kluessendorf-plaediert-f-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ostdeutschland - Kretschmer (CDU): "Wer noch über Brandmauern redet, hat die Zeichen der Zeit nicht erkannt"](https://www.deutschlandfunk.de/kretschmer-cdu-wer-noch-ueber-brandmauern-redet-hat-die-zeichen-der-zeit-nicht-erkannt-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Erneut Angriffe auf russischen Onlinehändler Wildberries](https://www.deutschlandfunk.de/erneut-angriffe-auf-russischen-onlinehaendler-wildberries-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj entlässt Armeechef Syrskyj und ernennt Nachfolger](https://www.deutschlandfunk.de/selenskyj-entlaesst-armeechef-syrskyj-und-ernennt-nachfolger-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Terrorgefahr - CDU-Sicherheitspolitiker Henrichmann sieht ebenfalls konkrete Bedrohungslage in Deutschland](https://www.deutschlandfunk.de/cdu-sicherheitspolitiker-henrichmann-sieht-ebenfalls-konkrete-bedrohungslage-in-deutschland-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Forschung - Weniger Frauen in Deutschland schließen Habilitation ab](https://www.deutschlandfunk.de/weniger-frauen-in-deutschland-schliessen-habilitation-ab-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Investitionen in Startups in Deutschland im ersten Halbjahr gestiegen](https://www.deutschlandfunk.de/investitionen-in-startups-in-deutschland-im-ersten-halbjahr-gestiegen-102.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [JVA Siegburg - Durchsuchung nach Hinweis auf geplanten Gefangenenaufstand](https://www.deutschlandfunk.de/durchsuchung-nach-hinweis-auf-geplanten-gefangenenaufstand-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Protesten Anfang des Jahres - Weitere Hinrichtung im Iran](https://www.deutschlandfunk.de/weitere-hinrichtung-im-iran-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Mittelamerika - USA schicken trotz diplomatischer Spannungen Hilfsmittel nach Kuba](https://www.deutschlandfunk.de/usa-schicken-trotz-diplomatischer-spannungen-hilfsmittel-nach-kuba-102.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [US-Senat - Hegseth schätzt Kosten des Iran-Kriegs auf 37,5 Milliarden US-Dollar](https://www.deutschlandfunk.de/hegseth-schaetzt-kosten-des-iran-kriegs-auf-37-5-milliarden-us-dollar-100.html)  
+  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Health worker monitored for Ebola in London hospital after working in DRC](https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc)  
+  _Tue, 21 Jul 2026 22:39:00 GMT_ · paywall: `False`
+- **The Guardian** — [Healthy diet too expensive for one in three people globally, UN report finds](https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds)  
+  _Tue, 21 Jul 2026 10:00:42 GMT_ · paywall: `False`
 - **The Guardian** — [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)  
   _Sun, 19 Jul 2026 04:00:16 GMT_ · paywall: `False`
 - **The Guardian** — [‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art](https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art)  
   _Sat, 18 Jul 2026 04:00:47 GMT_ · paywall: `False`
 - **The Guardian** — [Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group](https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya)  
   _Fri, 17 Jul 2026 12:17:14 GMT_ · paywall: `False`
-- **The Guardian** — [UK aid cuts ‘reduce bilateral support to some African countries by 90%’](https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries)  
-  _Thu, 16 Jul 2026 15:20:58 GMT_ · paywall: `False`
-- **The Guardian** — [Uganda calls for travel restrictions to be lifted after last Ebola patient discharged](https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged)  
-  _Thu, 16 Jul 2026 11:33:27 GMT_ · paywall: `False`
-- **The Guardian** — [Donald Trump to impose 50% tariff on most Canadian goods, White House says](https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs)  
-  _Tue, 21 Jul 2026 02:29:47 GMT_ · paywall: `False`
-- **The Guardian** — [‘Front groups and fellow travelers’: state department attacks US left over Cuba](https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba)  
-  _Mon, 20 Jul 2026 22:50:46 GMT_ · paywall: `False`
-- **The Guardian** — [Nicaragua’s president says country will not hold any more elections](https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections)  
-  _Mon, 20 Jul 2026 21:36:47 GMT_ · paywall: `False`
-- **The Guardian** — [Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court](https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence)  
-  _Mon, 20 Jul 2026 15:58:42 GMT_ · paywall: `False`
-- **The Guardian** — [Canada issues air quality warnings over US wildfire smoke after Trump tariff threat](https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs)  
-  _Mon, 20 Jul 2026 15:52:58 GMT_ · paywall: `False`
+- **The Guardian** — [Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened](https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates)  
+  _Wed, 22 Jul 2026 01:57:35 GMT_ · paywall: `False`
+- **The Guardian** — [Canada cancels joint bridge-opening celebration with US amid trade tensions](https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled)  
+  _Wed, 22 Jul 2026 00:58:40 GMT_ · paywall: `False`
+- **The Guardian** — [Spanish hotel chain ceases operations in Cuba under pressure from Washington](https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump)  
+  _Tue, 21 Jul 2026 15:10:35 GMT_ · paywall: `False`
+- **The Guardian** — [US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts](https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba)  
+  _Tue, 21 Jul 2026 13:33:35 GMT_ · paywall: `False`
+- **The Guardian** — [We received no alert, say leaders of First Nations communities razed by Canadian wildfires](https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government)  
+  _Tue, 21 Jul 2026 11:45:30 GMT_ · paywall: `False`
+- **The Guardian** — [Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat](https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather)  
+  _Wed, 22 Jul 2026 03:48:04 GMT_ · paywall: `False`
 - **The Guardian** — [Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?](https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing)  
   _Mon, 20 Jul 2026 04:43:37 GMT_ · paywall: `False`
-- **The Guardian** — [Australia updates travel advice for Laos as charges announced over mass methanol poisoning](https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers)  
-  _Fri, 17 Jul 2026 21:36:05 GMT_ · paywall: `False`
