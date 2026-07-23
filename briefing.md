@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-07-22 09:10 UTC_
+_Generated: 2026-07-23 09:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Künstliche Intelligenz - KI-Modell von OpenAI startet selbstständig Cyberangriff](https://www.deutschlandfunk.de/ki-modell-von-openai-startet-selbststaendig-cyberangriff-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energie - Bartsch wirft Bundesregierung Untätigkeit angesichts hoher Spritpreise vor - Klüssendorf plädiert für Spritpreisdeckel](https://www.deutschlandfunk.de/bartsch-wirft-bundesregierung-untaetigkeit-angesichts-hoher-spritpreise-vor-kluessendorf-plaediert-f-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ostdeutschland - Kretschmer (CDU): "Wer noch über Brandmauern redet, hat die Zeichen der Zeit nicht erkannt"](https://www.deutschlandfunk.de/kretschmer-cdu-wer-noch-ueber-brandmauern-redet-hat-die-zeichen-der-zeit-nicht-erkannt-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Erneut Angriffe auf russischen Onlinehändler Wildberries](https://www.deutschlandfunk.de/erneut-angriffe-auf-russischen-onlinehaendler-wildberries-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj entlässt Armeechef Syrskyj und ernennt Nachfolger](https://www.deutschlandfunk.de/selenskyj-entlaesst-armeechef-syrskyj-und-ernennt-nachfolger-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Terrorgefahr - CDU-Sicherheitspolitiker Henrichmann sieht ebenfalls konkrete Bedrohungslage in Deutschland](https://www.deutschlandfunk.de/cdu-sicherheitspolitiker-henrichmann-sieht-ebenfalls-konkrete-bedrohungslage-in-deutschland-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Forschung - Weniger Frauen in Deutschland schließen Habilitation ab](https://www.deutschlandfunk.de/weniger-frauen-in-deutschland-schliessen-habilitation-ab-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Investitionen in Startups in Deutschland im ersten Halbjahr gestiegen](https://www.deutschlandfunk.de/investitionen-in-startups-in-deutschland-im-ersten-halbjahr-gestiegen-102.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [JVA Siegburg - Durchsuchung nach Hinweis auf geplanten Gefangenenaufstand](https://www.deutschlandfunk.de/durchsuchung-nach-hinweis-auf-geplanten-gefangenenaufstand-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Protesten Anfang des Jahres - Weitere Hinrichtung im Iran](https://www.deutschlandfunk.de/weitere-hinrichtung-im-iran-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Mittelamerika - USA schicken trotz diplomatischer Spannungen Hilfsmittel nach Kuba](https://www.deutschlandfunk.de/usa-schicken-trotz-diplomatischer-spannungen-hilfsmittel-nach-kuba-102.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [US-Senat - Hegseth schätzt Kosten des Iran-Kriegs auf 37,5 Milliarden US-Dollar](https://www.deutschlandfunk.de/hegseth-schaetzt-kosten-des-iran-kriegs-auf-37-5-milliarden-us-dollar-100.html)  
-  _Wed, 22 Jul 2026 10:55:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Karlsruhe - Bundesverfassungsgericht weist Beschwerde zum Heizungsgesetz ab](https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-zum-heizungsgesetz-ab-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - EU-Staaten einigen sich auf neue Sanktionen gegen Russland](https://www.deutschlandfunk.de/eu-staaten-einigen-sich-auf-neue-sanktionen-gegen-russland-124.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Washington - Nur zivile Nutzung der Kernkraft: USA und Saudi-Arabien unterzeichnen Atomabkommen](https://www.deutschlandfunk.de/nur-zivile-nutzung-der-kernkraft-usa-und-saudi-arabien-unterzeichnen-atomabkommen-106.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Proteste in Indien - Ministerpräsident Modi kündigt harte Strafen für Prüfungsbetrug an](https://www.deutschlandfunk.de/ministerpraesident-modi-kuendigt-harte-strafen-fuer-pruefungsbetrug-an-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Iran-Krieg - US-Militär greift erneut iranische Ziele an - Huthi-Rebellen attackieren saudische Tanker im Roten Meer](https://www.deutschlandfunk.de/us-militaer-greift-erneut-iranische-ziele-an-huthi-rebellen-attackieren-saudische-tanker-im-roten-me-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Streit in der AfD - Gottschalk: AfD-Landesverband NRW werde sich "gegen Übergriffigkeit zu Wehr setzen"](https://www.deutschlandfunk.de/gottschalk-afd-landesverband-nrw-werde-sich-gegen-uebergriffigkeit-zu-wehr-setzen-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Debatte um "Brandmauer" - Arbeitgeberpräsident Dulger: AfD hat keine Lösungen, Bilger (CDU): Auf Bundesebene keinesfalls Gespräche mit AfD](https://www.deutschlandfunk.de/arbeitgeberpraesident-dulger-afd-hat-keine-loesungen-bilger-cdu-auf-bundesebene-keinesfalls-gespraec-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Manila - Lawrow und Rubio sprechen in Manila über Ukraine](https://www.deutschlandfunk.de/lawrow-und-rubio-sprechen-in-manila-ueber-ukraine-102.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [London - Britischer Premier Burnham senkt Gewerbesteuer für Pubs](https://www.deutschlandfunk.de/britischer-premier-burnham-senkt-gewerbesteuer-fuer-pubs-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bordeaux - 12.000 Menschen wegen Waldbrands in Frankreich in Sicherheit gebracht](https://www.deutschlandfunk.de/12-000-menschen-wegen-waldbrands-in-frankreich-in-sicherheit-gebracht-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - Brot für die Welt fordert unabhängige Ernährungssysteme](https://www.deutschlandfunk.de/brot-fuer-die-welt-fordert-unabhaengige-ernaehrungssysteme-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Technischer Defekt - Zehnter Castor-Transport nach Ahaus abgesagt](https://www.deutschlandfunk.de/zehnter-castor-transport-nach-ahaus-abgesagt-100.html)  
+  _Thu, 23 Jul 2026 11:05:14 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 18 Jul 2026 04:00:47 GMT_ · paywall: `False`
 - **The Guardian** — [Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group](https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya)  
   _Fri, 17 Jul 2026 12:17:14 GMT_ · paywall: `False`
+- **The Guardian** — [Canada cancels joint bridge-opening celebration with US amid trade tensions](https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled)  
+  _Wed, 22 Jul 2026 16:35:02 GMT_ · paywall: `False`
+- **The Guardian** — [Nicaragua’s congress announces ‘work plan’ to suspend elections](https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections)  
+  _Wed, 22 Jul 2026 13:33:35 GMT_ · paywall: `False`
+- **The Guardian** — [Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover](https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti)  
+  _Wed, 22 Jul 2026 13:00:15 GMT_ · paywall: `False`
 - **The Guardian** — [Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened](https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates)  
   _Wed, 22 Jul 2026 01:57:35 GMT_ · paywall: `False`
-- **The Guardian** — [Canada cancels joint bridge-opening celebration with US amid trade tensions](https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled)  
-  _Wed, 22 Jul 2026 00:58:40 GMT_ · paywall: `False`
-- **The Guardian** — [Spanish hotel chain ceases operations in Cuba under pressure from Washington](https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump)  
-  _Tue, 21 Jul 2026 15:10:35 GMT_ · paywall: `False`
-- **The Guardian** — [US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts](https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba)  
-  _Tue, 21 Jul 2026 13:33:35 GMT_ · paywall: `False`
-- **The Guardian** — [We received no alert, say leaders of First Nations communities razed by Canadian wildfires](https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government)  
-  _Tue, 21 Jul 2026 11:45:30 GMT_ · paywall: `False`
-- **The Guardian** — [Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat](https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather)  
-  _Wed, 22 Jul 2026 03:48:04 GMT_ · paywall: `False`
-- **The Guardian** — [Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?](https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing)  
-  _Mon, 20 Jul 2026 04:43:37 GMT_ · paywall: `False`
+- **The Guardian** — [Trump defends 50% tariffs on Canada, saying ‘they need us to survive’](https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada)  
+  _Tue, 21 Jul 2026 19:36:51 GMT_ · paywall: `False`
+- **The Guardian** — [Total solar eclipse books out hotels two years in advance in New Zealand city](https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin)  
+  _Thu, 23 Jul 2026 04:59:08 GMT_ · paywall: `False`
+- **The Guardian** — [British woman jailed in Hong Kong for blackmail after accusing banker of rape](https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations)  
+  _Wed, 22 Jul 2026 12:28:15 GMT_ · paywall: `False`
