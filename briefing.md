@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-07-26 08:58 UTC_
+_Generated: 2026-07-27 10:27 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Christopher Street Day - Nach Gewalttat bei CSD in Berlin - eine Tote und 16 Verletzte - Polizei fahndet nach Verdächtigem aus islamistischer Szene](https://www.deutschlandfunk.de/nach-gewalttat-bei-csd-in-berlin-eine-tote-und-16-verletzte-polizei-fahndet-nach-verdaechtigem-aus-i-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Abscheuliche Tat" - Mutmaßlicher Anschlag auf Berliner CSD: Entsetzte Reaktionen aus der Politik](https://www.deutschlandfunk.de/mutmasslicher-anschlag-auf-berliner-csd-entsetzte-reaktionen-aus-der-politik-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Südeuropa - Waldbrände: Weitere massenhafte Evakuierungen in Frankreich und Spanien](https://www.deutschlandfunk.de/waldbraende-weitere-massenhafte-evakuierungen-in-frankreich-und-spanien-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kabinettsumbildung - Kritik innerhalb der CDU an Merz wegen des Umgangs mit Verkehrsminister Schnieder](https://www.deutschlandfunk.de/kritik-innerhalb-der-cdu-an-merz-wegen-des-umgangs-mit-verkehrsminister-schnieder-102.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Geheimdienstinformationen - Selenskyj: Russland plant den Einsatz zehntausender nordkoreanischer Soldaten](https://www.deutschlandfunk.de/selenskyj-russland-plant-den-einsatz-zehntausender-nordkoreanischer-soldaten-110.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kaspisches Meer - Iran legt Ukraine Angriff auf Frachtschiff zur Last](https://www.deutschlandfunk.de/iran-legt-ukraine-angriff-auf-frachtschiff-zur-last-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Immunschwächekrankheit - Organisation Ärzte ohne Grenzen fordert auf Welt-Aids-Konferenz günstigeren HIV-Schutz](https://www.deutschlandfunk.de/organisation-aerzte-ohne-grenzen-fordert-auf-welt-aids-konferenz-guenstigeren-hiv-schutz-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [China - Taifun "Noul" trifft erreicht Provinz Guangdong - 340.000 Menschen in Sicherheit gebracht](https://www.deutschlandfunk.de/taifun-noul-trifft-erreicht-provinz-guangdong-340-000-menschen-in-sicherheit-gebracht-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bayreuth - Richard-Wagner-Urenkelin und Festspielleiterin Katharina Wagner spricht sich gegen Rassismus und Verharmlosung der Geschichte aus](https://www.deutschlandfunk.de/richard-wagner-urenkelin-und-festspielleiterin-katharina-wagner-spricht-sich-gegen-rassismus-und-ver-104.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Brasilien - Sohn des inhaftierten Ex-Präsidenten Bolsonaro zum Präsidentschaftskandidaten gekürt](https://www.deutschlandfunk.de/sohn-des-inhaftierten-ex-praesidenten-bolsonaro-zum-praesidentschaftskandidaten-gekuert-104.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Nach Vergewaltigungsvorwürfen gegen Graham Platner: US-Demokraten nominieren neuen Kandidaten für wichtigen Senatssitz in Maine](https://www.deutschlandfunk.de/nach-vergewaltigungsvorwuerfen-gegen-graham-platner-us-demokraten-nominieren-neuen-kandidaten-fuer-w-100.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Guterres in Damaskus - erster Besuch eines UNO-Generalsekretärs in Syrien seit mehr als 15 Jahren](https://www.deutschlandfunk.de/guterres-in-damaskus-erster-besuch-eines-uno-generalsekretaers-in-syrien-seit-mehr-als-15-jahren-108.html)  
-  _Sun, 26 Jul 2026 09:50:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Deutsche Wirtschaft - Ifo-Index: Unternehmen zwar weniger pessimistisch, neue Unsicherheit im Iran-Krieg aber noch nicht berücksichtigt](https://www.deutschlandfunk.de/ifo-index-unternehmen-zwar-weniger-pessimistisch-neue-unsicherheit-im-iran-krieg-aber-noch-nicht-ber-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [CSD-Angriff - Bundesanwaltschaft: Zweiter Verdächtiger wieder auf freiem Fuß](https://www.deutschlandfunk.de/bundesanwaltschaft-zweiter-verdaechtiger-wieder-auf-freiem-fuss-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach CSD-Anschlag - Debatte über Vorgehen der Justiz - Fiedler (SPD): "Bewährungsentscheidung ist Schlüsselfrage"](https://www.deutschlandfunk.de/debatte-ueber-vorgehen-der-justiz-fiedler-spd-bewaehrungsentscheidung-ist-schluesselfrage-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Erfinder von "Körperwelten" - Leichenpräparator Gunther von Hagens gestorben](https://www.deutschlandfunk.de/leichenpraeparator-gunther-von-hagens-gestorben-104.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kabinettsumbildung - Bundeskanzler Merz äußert sich zu weiteren Personalwechseln](https://www.deutschlandfunk.de/bundeskanzler-merz-aeussert-sich-zu-weiteren-personalwechseln-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ifo-Index - Wirtschaft trotz Unsicherheit weniger pessimistisch](https://www.deutschlandfunk.de/wirtschaft-trotz-unsicherheit-weniger-pessimistisch-102.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Südeuropa - Feuerwehr kämpft weiter gegen Waldbrände in Frankreich und Spanien - Bundesumweltminister Schneider fordert mehr Einsatz für den Klimaschutz](https://www.deutschlandfunk.de/feuerwehr-kaempft-weiter-gegen-waldbraende-in-frankreich-und-spanien-bundesumweltminister-schneider--100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Justiz und Geheimdienste - Welche Konsequenzen nach dem Anschlag in Berlin gefordert werden](https://www.deutschlandfunk.de/welche-konsequenzen-nach-dem-anschlag-in-berlin-gefordert-werden-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Anschlag auf CSD in Berlin - Zentralrat der Muslime verurteilt Gewalttat und wirbt für gesellschaftlichen Zusammehalt](https://www.deutschlandfunk.de/zentralrat-der-muslime-verurteilt-gewalttat-und-wirbt-fuer-gesellschaftlichen-zusammehalt-102.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Angriff auf CSD in Berlin - Neuköllns Integrationsbeauftragte Balci fordert entschlosseneres Vorgehen gegen Islamismus und Homophobie](https://www.deutschlandfunk.de/neukoellns-integrationsbeauftragte-balci-fordert-entschlosseneres-vorgehen-gegen-islamismus-und-homo-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Literatur - Japanischer Schriftsteller Keigo Higashino mit 68 Jahren gestorben](https://www.deutschlandfunk.de/japanischer-schriftsteller-keigo-higashino-mit-68-jahren-gestorben-102.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [DJV - Deutscher Journalisten-Verband warnt vor Verschärfung der Sicherheitsgesetze](https://www.deutschlandfunk.de/deutscher-journalisten-verband-warnt-vor-verschaerfung-der-sicherheitsgesetze-100.html)  
+  _Mon, 27 Jul 2026 12:12:59 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Uganda begins emergency food handouts after 19 die from hunger](https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger)  
+  _Mon, 27 Jul 2026 07:00:34 GMT_ · paywall: `False`
 - **The Guardian** — [Two Russian men jailed in Angola for terrorism and spying](https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying)  
   _Thu, 23 Jul 2026 14:24:01 GMT_ · paywall: `False`
 - **The Guardian** — [MoD cancels army training in Kenya over powers to prosecute British soldiers](https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute)  
@@ -41,9 +43,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Tue, 21 Jul 2026 22:39:00 GMT_ · paywall: `False`
 - **The Guardian** — [Healthy diet too expensive for one in three people globally, UN report finds](https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds)  
   _Tue, 21 Jul 2026 10:00:42 GMT_ · paywall: `False`
-- **The Guardian** — [São Tomé and Príncipe heads to polls in tense presidential election](https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election)  
-  _Sun, 19 Jul 2026 04:00:16 GMT_ · paywall: `False`
-- **The Guardian** — [Venezuela men sue aviation firms who flew them to notorious Salvadorian jail](https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation)  
+- **The Guardian** — [Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail](https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation)  
   _Sun, 26 Jul 2026 05:00:03 GMT_ · paywall: `False`
 - **The Guardian** — [Thousands of lightning strikes trigger fresh wildfires in western Canada](https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada)  
   _Fri, 24 Jul 2026 17:58:00 GMT_ · paywall: `False`
