@@ -1,48 +1,48 @@
 # Daily Briefing
 
-_Generated: 2026-07-30 09:14 UTC_
+_Generated: 2026-07-31 09:24 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Konjunktur - Deutsche Wirtschaft wächst im zweiten Quartal trotz Iran-Krieg](https://www.deutschlandfunk.de/deutsche-wirtschaft-waechst-im-zweiten-quartal-trotz-iran-krieg-100.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fed - US-Notenbank lässt Zinssatz erneut unverändert](https://www.deutschlandfunk.de/us-notenbank-laesst-zinssatz-erneut-unveraendert-108.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Finanzwissenschaftler - "Unter den reichsten Ländern dürften die Deutschen wohl das risikoscheueste Volk der Erde sein"](https://www.deutschlandfunk.de/unter-den-reichsten-laendern-duerften-die-deutschen-wohl-das-risikoscheueste-volk-der-erde-sein-100.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Robert Koch-Institut - Fast 10.000 hitzebedingte Tote in diesem Jahr](https://www.deutschlandfunk.de/fast-10-000-hitzebedingte-tote-in-diesem-jahr-100.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wahlrecht - Union lehnt Absenkung der Fünf-Prozent-Hürde ab, Linke dafür](https://www.deutschlandfunk.de/union-lehnt-absenkung-der-fuenf-prozent-huerde-ab-linke-dafuer-102.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niedersachsen - Mehrere AfD-Bewerber von Kommunalwahl ausgeschlossen](https://www.deutschlandfunk.de/mehrere-afd-bewerber-von-kommunalwahl-ausgeschlossen-106.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Neue Waldbrände in Südeuropa - Zahlreiche Menschen fliehen vor den Flammen](https://www.deutschlandfunk.de/zahlreiche-menschen-fliehen-vor-den-flammen-102.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Globaler Fußabdruck - Heute ist "Erdüberlastungstag"](https://www.deutschlandfunk.de/heute-ist-erdueberlastungstag-100.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Massaker an Artenvielfalt" - Trump-Schwiegersohn Kushner richtet in Albanien große Umweltschäden mit Bauprojekt an](https://www.deutschlandfunk.de/trump-schwiegersohn-kushner-richtet-in-albanien-grosse-umweltschaeden-mit-bauprojekt-an-100.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Migration - Hunderte Migranten schwimmen von Marokko aus zu spanischer Exklave Ceuta](https://www.deutschlandfunk.de/hunderte-migranten-schwimmen-von-marokko-aus-zu-spanischer-exklave-ceuta-104.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Japan - Zahl der Opfer durch Erdbeben steigt - Bisher 28 Tote](https://www.deutschlandfunk.de/zahl-der-opfer-durch-erdbeben-steigt-bisher-28-tote-102.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [WM-Teilprivatisierung - Afrikanischer Fußballverband CAF offen für FIFA-Pläne](https://www.deutschlandfunk.de/afrikanischer-fussballverband-caf-offen-fuer-fifa-plaene-100.html)  
-  _Thu, 30 Jul 2026 10:41:29 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sport - Investorenplan der FIFA für WM vor dem Aus](https://www.deutschlandfunk.de/investorenplan-der-fifa-fuer-wm-vor-dem-aus-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Arbeitslosenzahl steigt auf über drei Millionen](https://www.deutschlandfunk.de/arbeitslosenzahl-steigt-auf-ueber-drei-millionen-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nordafrika - Schätzungsweise 49.000 Migranten erreichen spanische Exklave Ceuta](https://www.deutschlandfunk.de/schaetzungsweise-49-000-migranten-erreichen-spanische-exklave-ceuta-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Migranten in Ceuta - Italien will Ausschluss Spaniens aus Schengen-Raum](https://www.deutschlandfunk.de/italien-will-ausschluss-spaniens-aus-schengen-raum-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [EU-Katastrophenschutz - Ukraine unterstützt Löscharbeiten in Frankreich: 70 Feuerwehrleute in Waldbrandgebiete aufgebrochen](https://www.deutschlandfunk.de/ukraine-unterstuetzt-loescharbeiten-in-frankreich-70-feuerwehrleute-in-waldbrandgebiete-aufgebrochen-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Luftverkehr - Syrien-Öffnung geht weiter: Nun auch Direktflüge nach Aleppo](https://www.deutschlandfunk.de/syrien-oeffnung-geht-weiter-nun-auch-direktfluege-nach-aleppo-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Regierungspläne - Sachsens Ministerpräsident Kretschmer (CDU) droht mit Ablehnung von Rente- und Pflegereform im Bundesrat](https://www.deutschlandfunk.de/sachsens-ministerpraesident-kretschmer-cdu-droht-mit-ablehnung-von-rente-und-pflegereform-im-bundesr-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundestagsvizepräsident - Auch Ramelow (Linke) gegen 5-Prozent-Hürde: "Wir sind nicht mehr das alte Westdeutschland"](https://www.deutschlandfunk.de/auch-ramelow-linke-gegen-5-prozent-huerde-wir-sind-nicht-mehr-das-alte-westdeutschland-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Finanzwissenschaftler - "Unter den reichsten Ländern dürften die Deutschen wohl das risikoscheueste Volk der Erde sein"](https://www.deutschlandfunk.de/unter-den-reichsten-laendern-duerften-die-deutschen-wohl-das-risikoscheueste-volk-der-erde-sein-102.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienbericht - Ölkonzerne verklagen Bundeskartellamt wegen Benzinpreis-Prüfung](https://www.deutschlandfunk.de/oelkonzerne-verklagen-bundeskartellamt-wegen-benzinpreis-pruefung-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ölpreise - Portugiesische Regierung plant Übergewinnsteuer für Ölkonzerne im laufenden Jahr](https://www.deutschlandfunk.de/portugiesische-regierung-plant-uebergewinnsteuer-fuer-oelkonzerne-im-laufenden-jahr-100.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bayern - Feuerwehr kämpft weiter gegen den Waldbrand in den Chiemgauer Alpen](https://www.deutschlandfunk.de/feuerwehr-kaempft-weiter-gegen-den-waldbrand-in-den-chiemgauer-alpen-102.html)  
+  _Fri, 31 Jul 2026 11:19:40 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [A quarter of young Africans believe USAID cuts could be positive, survey finds](https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds)  
-  _Thu, 30 Jul 2026 05:00:53 GMT_ · paywall: `False`
-- **The Guardian** — [Kenya investigating unexpected deaths of 15 elephants in national park](https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park)  
-  _Wed, 29 Jul 2026 00:48:07 GMT_ · paywall: `False`
-- **The Guardian** — [Uganda begins emergency food handouts after 19 die from hunger](https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger)  
-  _Mon, 27 Jul 2026 07:00:34 GMT_ · paywall: `False`
-- **The Guardian** — [Two Russian men jailed in Angola for terrorism and spying](https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying)  
-  _Thu, 23 Jul 2026 14:24:01 GMT_ · paywall: `False`
-- **The Guardian** — [MoD cancels army training in Kenya over powers to prosecute British soldiers](https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute)  
-  _Thu, 23 Jul 2026 14:06:01 GMT_ · paywall: `False`
+- **The Guardian** — [Ebola outbreak in DRC the fastest growing in the history of the virus](https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus)  
+  _Fri, 31 Jul 2026 08:00:08 GMT_ · paywall: `False`
+- **The Guardian** — [At least 18 die as 49,000 cross to Spanish enclave of Ceuta from Morocco](https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths)  
+  _Fri, 31 Jul 2026 07:59:08 GMT_ · paywall: `False`
+- **The Guardian** — [US government map of Africa mislabels every country at global conference](https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries)  
+  _Thu, 30 Jul 2026 22:48:02 GMT_ · paywall: `False`
+- **The Guardian** — [Fifteen elephant deaths at Kenya park may be due to cyanide poisoning](https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife)  
+  _Thu, 30 Jul 2026 12:46:50 GMT_ · paywall: `False`
+- **The Guardian** — [Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation](https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation)  
+  _Thu, 30 Jul 2026 12:36:02 GMT_ · paywall: `False`
 - **The Guardian** — [Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office](https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump)  
   _Tue, 28 Jul 2026 16:46:05 GMT_ · paywall: `False`
 - **The Guardian** — [Past fires suggest effects of Europe and North America wildfires may linger for years](https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects)  
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 27 Jul 2026 16:27:44 GMT_ · paywall: `False`
 - **The Guardian** — [Shots fired near US consulate in Canada for second time in four months](https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto)  
   _Mon, 27 Jul 2026 16:20:56 GMT_ · paywall: `False`
+- **The Guardian** — [UK petrol prices expected to rise to highest this year as US attacks Iran – business live](https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates)  
+  _Fri, 31 Jul 2026 08:38:27 GMT_ · paywall: `False`
 - **The Guardian** — [Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts](https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises)  
   _Thu, 30 Jul 2026 06:49:55 GMT_ · paywall: `False`
-- **The Guardian** — [Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened](https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates)  
-  _Wed, 29 Jul 2026 14:27:33 GMT_ · paywall: `False`
