@@ -1,48 +1,48 @@
 # Daily Briefing
 
-_Generated: 2026-08-03 10:24 UTC_
+_Generated: 2026-08-04 09:22 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Nahost - Mindestens 17 Tote bei israelischen Angriffen im Gazastreifen](https://www.deutschlandfunk.de/mindestens-17-tote-bei-israelischen-angriffen-im-gazastreifen-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Dax mit über 26.000 Punkten auf Rekordhoch](https://www.deutschlandfunk.de/dax-mit-ueber-26-000-punkten-auf-rekordhoch-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kultusminister Jung - Rechtsanspruch von Erstklässlern auf Ganztagsbetreuung wird in Baden-Württemberg "ganz überwiegend" erfüllt](https://www.deutschlandfunk.de/rechtsanspruch-von-erstklaesslern-auf-ganztagsbetreuung-wird-in-baden-wuerttemberg-ganz-ueberwiegend-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Migranten in Ceuta - Europaabgeordnete Sippel (SPD) wirft EU-Staaten mangelnde Solidarität mit Spanien vor](https://www.deutschlandfunk.de/europaabgeordnete-sippel-spd-wirft-eu-staaten-mangelnde-solidaritaet-mit-spanien-vor-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Asien - Regierung von Südkorea ordnet wegen Temperaturen von 42 Grad Schutzmaßnahmen an](https://www.deutschlandfunk.de/regierung-von-suedkorea-ordnet-wegen-temperaturen-von-42-grad-schutzmassnahmen-an-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Reformdebatte - DIW-Präsident hält Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren für finanziell zwingend](https://www.deutschlandfunk.de/diw-praesident-haelt-abschaffung-der-abschlagsfreien-rente-nach-45-beitragsjahren-fuer-finanziell-zw-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bildung - Chefin des Oetinger-Verlages beklagt mangelnde Lesekompetenz von Kindern und fordert "Elternführerschein"](https://www.deutschlandfunk.de/chefin-des-oetinger-verlages-beklagt-mangelnde-lesekompetenz-von-kindern-und-fordert-elternfuehrersc-102.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Karibik - Kuba erneut von landesweitem Stromausfall getroffen](https://www.deutschlandfunk.de/kuba-erneut-von-landesweitem-stromausfall-getroffen-102.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg am Golf - Trump kündigt neue Gespräche mit dem Iran an](https://www.deutschlandfunk.de/trump-kuendigt-neue-gespraeche-mit-dem-iran-an-102.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Spionagevorwurf: Zwei weitere Hinrichtungen im Iran](https://www.deutschlandfunk.de/spionagevorwurf-zwei-weitere-hinrichtungen-im-iran-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Trockenheit - Waldbrand westlich von Athen weiter außer Kontrolle](https://www.deutschlandfunk.de/waldbrand-westlich-von-athen-weiter-ausser-kontrolle-100.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine - Logistikzentrale des russischen Online-Händlers Wildberries angegriffen](https://www.deutschlandfunk.de/logistikzentrale-des-russischen-online-haendlers-wildberries-angegriffen-104.html)  
-  _Mon, 03 Aug 2026 11:17:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Waldbrände und Niedrigpegel - "Hitzegipfel" gefordert - Proteste vor Kanzleramt angekündigt](https://www.deutschlandfunk.de/hitzegipfel-gefordert-proteste-vor-kanzleramt-angekuendigt-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Russisches Amazon" - Warum die Ukraine den Versandhändler Wildberries angreift](https://www.deutschlandfunk.de/warum-die-ukraine-den-versandhaendler-wildberries-angreift-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Ukrainische Armee greift erneut Lagerhäuser von Online-Händler an - russische Behörden melden fünf Tote](https://www.deutschlandfunk.de/ukrainische-armee-greift-erneut-lagerhaeuser-von-online-haendler-an-russische-behoerden-melden-fuenf-102.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hitze und Dürre - Europas Landwirte rechnen mit erheblichen Ernteeinbußen](https://www.deutschlandfunk.de/europas-landwirte-rechnen-mit-erheblichen-ernteeinbussen-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Trockenheit - Niedrigwasser bedroht deutsches Wirtschaftswachstum - Stromproduktion in mehreren Ländern beeinträchtigt](https://www.deutschlandfunk.de/niedrigwasser-bedroht-deutsches-wirtschaftswachstum-stromproduktion-in-mehreren-laendern-beeintraech-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Videokonferenz - Migranten-Ansturm auf Ceuta: EU-Innenminister beraten über Konsequenzen - Marquardt (Grüne) weist Kritik an Spanien zurück](https://www.deutschlandfunk.de/migranten-ansturm-auf-ceuta-eu-innenminister-beraten-ueber-konsequenzen-marquardt-gruene-weist-kriti-102.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigung - Unionsfraktionschef Frei: Bundesregierung bereitet neuen Zivildienst vor](https://www.deutschlandfunk.de/unionsfraktionschef-frei-bundesregierung-bereitet-neuen-zivildienst-vor-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Debatte um abschlagsfreie Rente - Ökonom Werding warnt vor Aufschnüren des Rentenpakets](https://www.deutschlandfunk.de/oekonom-werding-warnt-vor-aufschnueren-des-rentenpakets-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Unwetter - Sperrung für Teile der Sächsischen Schweiz für Besucher bis Ende August verlängert](https://www.deutschlandfunk.de/sperrung-fuer-teile-der-saechsischen-schweiz-fuer-besucher-bis-ende-august-verlaengert-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Waldbrand - Niederlande: Feuer in Naturschutzgebiet nahe der Grenze zu Nordrhein-Westfalen - Campingplatz geräumt](https://www.deutschlandfunk.de/niederlande-feuer-in-naturschutzgebiet-nahe-der-grenze-zu-nordrhein-westfalen-campingplatz-geraeumt-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Slowakei - Verfahren gegen Attentäter von Ministerpräsident Fico abgeschlossen - kein Zusammenhang mit Opposition festgestellt](https://www.deutschlandfunk.de/verfahren-gegen-attentaeter-von-ministerpraesident-fico-abgeschlossen-kein-zusammenhang-mit-oppositi-100.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Guatemala - Zweithöchste Warnstufe nach Vulkanausbruch ausgerufen](https://www.deutschlandfunk.de/zweithoechste-warnstufe-nach-vulkanausbruch-ausgerufen-102.html)  
+  _Tue, 04 Aug 2026 11:15:09 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Stronger EU borders needed after Ceuta crisis, von der Leyen says](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)  
+  _Mon, 03 Aug 2026 17:44:01 GMT_ · paywall: `False`
+- **The Guardian** — [How Ceuta migrant crisis exposes divisions within Europe - The Latest](https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest)  
+  _Mon, 03 Aug 2026 16:05:20 GMT_ · paywall: `False`
+- **The Guardian** — [Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing](https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain)  
+  _Mon, 03 Aug 2026 14:13:01 GMT_ · paywall: `False`
 - **The Guardian** — [Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets](https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco)  
   _Sun, 02 Aug 2026 13:11:56 GMT_ · paywall: `False`
 - **The Guardian** — [Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn](https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn)  
   _Sun, 02 Aug 2026 04:00:11 GMT_ · paywall: `False`
-- **The Guardian** — [EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis](https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing)  
-  _Sat, 01 Aug 2026 19:03:39 GMT_ · paywall: `False`
-- **The Guardian** — [At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco](https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths)  
-  _Fri, 31 Jul 2026 17:52:11 GMT_ · paywall: `False`
-- **The Guardian** — [Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement](https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement)  
-  _Fri, 31 Jul 2026 11:38:46 GMT_ · paywall: `False`
 - **The Guardian** — [Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin](https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin)  
   _Mon, 03 Aug 2026 08:16:38 GMT_ · paywall: `False`
 - **The Guardian** — [Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13](https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines)  
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Tue, 28 Jul 2026 16:46:05 GMT_ · paywall: `False`
 - **The Guardian** — [Past fires suggest effects of Europe and North America wildfires may linger for years](https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects)  
   _Tue, 28 Jul 2026 13:00:04 GMT_ · paywall: `False`
-- **The Guardian** — [Nauru officially changes its name to Naoero](https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero)  
-  _Mon, 03 Aug 2026 09:45:45 GMT_ · paywall: `False`
-- **The Guardian** — [Yen hits three-month high after Trump helps prop up currency](https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan)  
-  _Mon, 03 Aug 2026 08:34:06 GMT_ · paywall: `False`
+- **The Guardian** — [Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters](https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave)  
+  _Tue, 04 Aug 2026 05:46:06 GMT_ · paywall: `False`
+- **The Guardian** — [Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years](https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped)  
+  _Tue, 04 Aug 2026 05:45:57 GMT_ · paywall: `False`
