@@ -1,48 +1,50 @@
 # Daily Briefing
 
-_Generated: 2026-08-06 09:23 UTC_
+_Generated: 2026-08-07 07:52 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Niedrigwasser - Bundesverkehrsminister Bilger erwägt Aufhebung des Sonntagsfahrverbots für Lkw](https://www.deutschlandfunk.de/bundesverkehrsminister-bilger-erwaegt-aufhebung-des-sonntagsfahrverbots-fuer-lkw-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wasserrettung - DLRG meldet 262 Badetote bis Ende Juli](https://www.deutschlandfunk.de/dlrg-meldet-262-badetote-bis-ende-juli-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg gegen die Ukraine - Mindestens sechs Tote bei russischen Angriffen](https://www.deutschlandfunk.de/mindestens-sechs-tote-bei-russischen-angriffen-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hitze - RKI: Rund 9.600 Tote allein durch extrem heiße Juni-Woche](https://www.deutschlandfunk.de/rki-rund-9-600-tote-allein-durch-extrem-heisse-juni-woche-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Monatsbilanz - Deutsche Industrie verzeichnet im Juni stärkeres Auftragsplus als erwartet](https://www.deutschlandfunk.de/deutsche-industrie-verzeichnet-im-juni-staerkeres-auftragsplus-als-erwartet-102.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Drohnen-Vorfall in Leipzig/Halle - Grüne fordern Einberufung des Nationalen Sicherheitsrates](https://www.deutschlandfunk.de/gruene-fordern-einberufung-des-nationalen-sicherheitsrates-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bonn - Vor Niedrigwasser-Krisensitzung: Nordrhein-Westfalens Verkehrsminister Krischer fordert mehr Anstrengungen vom Bund](https://www.deutschlandfunk.de/vor-niedrigwasser-krisensitzung-nordrhein-westfalens-verkehrsminister-krischer-fordert-mehr-anstreng-102.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hohe Temperaturen - Europäische Gesundheitsorganisationen mahnen verbindliche Maßnahmen der EU für mehr Hitzeschutz an](https://www.deutschlandfunk.de/europaeische-gesundheitsorganisationen-mahnen-verbindliche-massnahmen-der-eu-fuer-mehr-hitzeschutz-a-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Asylantrag im März - Zwei iranische Fußballerinnen in Australien eingebürgert](https://www.deutschlandfunk.de/zwei-iranische-fussballerinnen-in-australien-eingebuergert-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Japan - Hiroshima gedenkt der Opfer des Atombombenabwurfs vor 81 Jahren](https://www.deutschlandfunk.de/hiroshima-gedenkt-der-opfer-des-atombombenabwurfs-vor-81-jahren-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Israel meldet Tod zweier Soldaten im Südlibanon - Vergeltungsschläge gegen Hisbollah angekündigt](https://www.deutschlandfunk.de/israel-meldet-tod-zweier-soldaten-im-suedlibanon-vergeltungsschlaege-gegen-hisbollah-angekuendigt-102.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Rentendebatte - Unionsfraktionschef Frei hält raschen Gesetzesentwurf von Sozialministerin Bas für nötig](https://www.deutschlandfunk.de/unionsfraktionschef-frei-haelt-raschen-gesetzesentwurf-von-sozialministerin-bas-fuer-noetig-100.html)  
-  _Thu, 06 Aug 2026 11:19:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Drohne am Flughafen Leipzig/Halle - CDU-Verteidigungspolitiker Röwekamp: Innenministerium muss zentral für Drohnenabwehr zuständig sein](https://www.deutschlandfunk.de/cdu-verteidigungspolitiker-roewekamp-innenministerium-muss-zentral-fuer-drohnenabwehr-zustaendig-sei-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nutzfahrzeughersteller - Quartalsgewinn bei Daimler Truck um fast 50 Prozent eingebrochen](https://www.deutschlandfunk.de/quartalsgewinn-bei-daimler-truck-um-fast-50-prozent-eingebrochen-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Unternehmen fahren Produktion hoch - Analyst: "Talfahrt der Industrie scheint beendet"](https://www.deutschlandfunk.de/unternehmen-fahren-produktion-hoch-analyst-talfahrt-der-industrie-scheint-beendet-102.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Dekrete unterzeichnet - US-Präsident Donald Trump schränkt Staatsbürgerschaftsrecht ein](https://www.deutschlandfunk.de/us-praesident-donald-trump-schraenkt-staatsbuergerschaftsrecht-ein-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Facebook-Mutterkonzern - Meta zu Millionenstrafe verurteilt, Gericht sieht Kinder gefährdet](https://www.deutschlandfunk.de/meta-zu-millionenstrafe-verurteilt-gericht-sieht-kinder-gefaehrdet-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Persischer Golf - Schiffsverkehr durch Straße von Hormus deutlich zurückgegangen](https://www.deutschlandfunk.de/schiffsverkehr-durch-strasse-von-hormus-deutlich-zurueckgegangen-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Tanker auf Grund gelaufen - Vor der Küste des Oman droht eine Ölkatastrophe](https://www.deutschlandfunk.de/vor-der-kueste-des-oman-droht-eine-oelkatastrophe-102.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Neue russische Angriffe auf landwirtschaftliche Anlagen – Online-Händler Wildberries meldet Brand in Logistikzentrum in Jekaterinburg](https://www.deutschlandfunk.de/neue-russische-angriffe-auf-landwirtschaftliche-anlagen-online-haendler-wildberries-meldet-brand-in--100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Strack-Zimmermann (FDP): "Europäische Verbündete müssen mehr Patriots liefern"](https://www.deutschlandfunk.de/strack-zimmermann-fdp-europaeische-verbuendete-muessen-mehr-patriots-liefern-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Südostasien - Mindestens sechs Tote bei Schusswaffenangriff auf Schule in Thailand](https://www.deutschlandfunk.de/mindestens-sechs-tote-bei-schusswaffenangriff-auf-schule-in-thailand-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schutzmaßnahmen gefordert - Ärzte-Präsident Reinhardt: Viele Todesfälle durch Hitze wären vermeidbar](https://www.deutschlandfunk.de/aerzte-praesident-reinhardt-viele-todesfaelle-durch-hitze-waeren-vermeidbar-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [US-Vermittlung - Regierung und Opposition in Venezuela beginnen offiziellen Dialog, aber ohne Machado](https://www.deutschlandfunk.de/regierung-und-opposition-in-venezuela-beginnen-offiziellen-dialog-aber-ohne-machado-100.html)  
+  _Fri, 07 Aug 2026 09:44:08 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Ebola virus behind massive outbreak in DRC could be mutating, officials say](https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating)  
+  _Thu, 06 Aug 2026 16:18:46 GMT_ · paywall: `False`
 - **The Guardian** — [US to shut five consulates as critics fear China could fill diplomatic vacuum](https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures)  
-  _Wed, 05 Aug 2026 19:20:28 GMT_ · paywall: `False`
-- **The Guardian** — [El Niño could push 50m people into acute hunger before end of next year](https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year)  
-  _Wed, 05 Aug 2026 08:00:13 GMT_ · paywall: `False`
-- **The Guardian** — [Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint](https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint)  
-  _Wed, 05 Aug 2026 05:54:54 GMT_ · paywall: `False`
-- **The Guardian** — [Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones](https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones)  
-  _Wed, 05 Aug 2026 04:00:08 GMT_ · paywall: `False`
-- **The Guardian** — [Stronger EU borders needed after Ceuta crisis, von der Leyen says](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)  
-  _Mon, 03 Aug 2026 17:44:01 GMT_ · paywall: `False`
+  _Thu, 06 Aug 2026 15:41:29 GMT_ · paywall: `False`
+- **The Guardian** — [Top Ugandan footballer killed by robbers armed with paving stones](https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala)  
+  _Thu, 06 Aug 2026 14:30:32 GMT_ · paywall: `False`
+- **The Guardian** — [Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’](https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants)  
+  _Thu, 06 Aug 2026 12:40:32 GMT_ · paywall: `False`
+- **The Guardian** — [‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster](https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster)  
+  _Thu, 06 Aug 2026 09:45:54 GMT_ · paywall: `False`
+- **The Guardian** — [Colombia on the brink: ELN guerrilla group prepares for return to war](https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war)  
+  _Fri, 07 Aug 2026 07:00:11 GMT_ · paywall: `False`
 - **The Guardian** — [Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia](https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf)  
   _Wed, 05 Aug 2026 22:16:20 GMT_ · paywall: `False`
 - **The Guardian** — [Mexican influencer shot dead while streaming live on social media](https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 05 Aug 2026 10:40:03 GMT_ · paywall: `False`
 - **The Guardian** — [Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating](https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal)  
   _Wed, 05 Aug 2026 09:00:15 GMT_ · paywall: `False`
-- **The Guardian** — [US revokes Brazil ambassador’s visa in escalation of diplomatic feud](https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa)  
-  _Wed, 05 Aug 2026 01:41:07 GMT_ · paywall: `False`
+- **The Guardian** — [‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo](https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo)  
+  _Thu, 06 Aug 2026 11:11:46 GMT_ · paywall: `False`
 - **The Guardian** — [Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage](https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre)  
   _Thu, 06 Aug 2026 07:45:32 GMT_ · paywall: `False`
-- **The Guardian** — [New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street](https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street)  
-  _Wed, 05 Aug 2026 03:27:37 GMT_ · paywall: `False`
