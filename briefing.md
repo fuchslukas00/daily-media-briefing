@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-08-09 07:35 UTC_
+_Generated: 2026-08-10 08:13 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Persischer Golf - Schnelle Wiedereröffnung der Straße von Hormus ungewiss](https://www.deutschlandfunk.de/schnelle-wiedereroeffnung-der-strasse-von-hormus-ungewiss-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Arbeitgeberpräsident - Dulger pocht auf wöchentliche Höchstarbeitszeit](https://www.deutschlandfunk.de/dulger-pocht-auf-woechentliche-hoechstarbeitszeit-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niedrigwasser - Heute dürfen Lkw erstmals trotz des Sonntagsfahrverbotes auf die Straßen](https://www.deutschlandfunk.de/heute-duerfen-lkw-erstmals-trotz-des-sonntagsfahrverbotes-auf-die-strassen-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Mangelnde Pünktlichkeit - Verspätungen bei der Bahn: Verkehrsminister Bilger will Bonus-Zahlungen an Ziele koppeln](https://www.deutschlandfunk.de/verspaetungen-bei-der-bahn-verkehrsminister-bilger-will-bonus-zahlungen-an-ziele-koppeln-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Drohnen-Vorfall in Leipzig/Halle - Dobrindt: "Wir sind tägliches Ziel hybrider Kriegsführung"](https://www.deutschlandfunk.de/dobrindt-wir-sind-taegliches-ziel-hybrider-kriegsfuehrung-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verteidigungspakt - Türkei rechnet mit baldigem Anschluss Ägyptens an "Abkommen von Mekka"](https://www.deutschlandfunk.de/tuerkei-rechnet-mit-baldigem-anschluss-aegyptens-an-abkommen-von-mekka-104.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kolumbien - Zwei Bombenanschläge an erstem Tag im Amt des neuen Präsidenten Espriella](https://www.deutschlandfunk.de/zwei-bombenanschlaege-an-erstem-tag-im-amt-des-neuen-praesidenten-espriella-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Einwanderungsbehörde ICE will Mitarbeiter mit Bodycams ausstatten](https://www.deutschlandfunk.de/einwanderungsbehoerde-ice-will-mitarbeiter-mit-bodycams-ausstatten-100.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fußball-Weltverband - FIFA stärkt Infantino den Rücken - und wirft Gegnern Desinformation vor](https://www.deutschlandfunk.de/fifa-staerkt-infantino-den-ruecken-und-wirft-gegnern-desinformation-vor-102.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Flughafen Leipzig/Halle - US-Medien sehen Hinweise auf russische Herkunft von Sprengstoff-Drohne](https://www.deutschlandfunk.de/us-medien-sehen-hinweise-auf-russische-herkunft-von-sprengstoff-drohne-110.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Südosteuropa - Bulgarien bestellt wegen abgestürzter Drohne ukrainische Botschafterin ein](https://www.deutschlandfunk.de/bulgarien-bestellt-wegen-abgestuerzter-drohne-ukrainische-botschafterin-ein-106.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Debatte - Gewerkschaften kritisieren geplantes Aus für abschlagsfreie Rente nach 45 Versicherungsjahren](https://www.deutschlandfunk.de/gewerkschaften-kritisieren-geplantes-aus-fuer-abschlagsfreie-rente-nach-45-versicherungsjahren-100.html)  
-  _Sun, 09 Aug 2026 09:29:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Drohnen am Leipziger Flughafen - Medienbericht: Videoaufmnahmen zeigen offenbar gezielte Attacke auf ukrainische Frachtmaschine](https://www.deutschlandfunk.de/medienbericht-videoaufmnahmen-zeigen-offenbar-gezielte-attacke-auf-ukrainische-frachtmaschine-102.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [EU-Klimadienst - "Copernicus" misst den heißesten Sommer der Geschichte in Westeuropa](https://www.deutschlandfunk.de/copernicus-misst-den-heissesten-sommer-der-geschichte-in-westeuropa-100.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Feuer - Neue Waldbrände in Spanien und Frankreich - Notstand in West-Kanada](https://www.deutschlandfunk.de/neue-waldbraende-in-spanien-und-frankreich-notstand-in-west-kanada-108.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berechnungen - DGB: 64 Milliarden Euro Schaden durch Mindestlohn-Betrug seit dessen Einführung](https://www.deutschlandfunk.de/dgb-64-milliarden-euro-schaden-durch-mindestlohn-betrug-seit-dessen-einfuehrung-100.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Drohnen - Ministerpräsident Günther: Bundeswehr soll Flughäfen gegen Drohen schützen](https://www.deutschlandfunk.de/ministerpraesident-guenther-bundeswehr-soll-flughaefen-gegen-drohen-schuetzen-102.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sicherheit - Innenpolitiker Baldy (SPD): Gesetz für mehr Befugnisse der Geheimdienste zieht bessere Kontrolle nach sich](https://www.deutschlandfunk.de/innenpolitiker-baldy-spd-gesetz-fuer-mehr-befugnisse-der-geheimdienste-zieht-bessere-kontrolle-nach--100.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Irreguläre Migration - EVP-Fraktionschef Weber fordert rasche Einrichtung von Abschiebezentren in Afrika und Stärkung von EU-Grenzschutzbehörde Frontex](https://www.deutschlandfunk.de/evp-fraktionschef-weber-fordert-rasche-einrichtung-von-abschiebezentren-in-afrika-und-staerkung-von--100.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Aid Worker Security Database" - 350 humanitäre Helfer starben im vergangenen Jahr im Einsatz](https://www.deutschlandfunk.de/350-humanitaere-helfer-starben-im-vergangenen-jahr-im-einsatz-102.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost-Konflikt - Israelisches Militär sperrt palästinensisches Dorf wegen Siedlergewalt](https://www.deutschlandfunk.de/israelisches-militaer-sperrt-palaestinensisches-dorf-wegen-siedlergewalt-102.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Taifun "Dolphin" - Behörden in China bringen mehr als eine Million Menschen in Sicherheit](https://www.deutschlandfunk.de/behoerden-in-china-bringen-mehr-als-eine-million-menschen-in-sicherheit-100.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Niedrigwasser - Binnenschiffer warnen vor Zweiteilung des Transports auf den Flüssen](https://www.deutschlandfunk.de/binnenschiffer-warnen-vor-zweiteilung-des-transports-auf-den-fluessen-102.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Landgericht Saarbrücken - Urteil im Prozess um getöteten Gerichtsvollzieher im Saarland erwartet](https://www.deutschlandfunk.de/urteil-im-prozess-um-getoeteten-gerichtsvollzieher-im-saarland-erwartet-102.html)  
+  _Mon, 10 Aug 2026 10:04:19 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 06 Aug 2026 15:41:29 GMT_ · paywall: `False`
 - **The Guardian** — [Top Ugandan footballer killed by robbers armed with paving stones](https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala)  
   _Thu, 06 Aug 2026 14:30:32 GMT_ · paywall: `False`
+- **The Guardian** — [Canadian government steps in as ‘out of control’ wildfires force thousands to flee](https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires)  
+  _Sun, 09 Aug 2026 18:20:25 GMT_ · paywall: `False`
 - **The Guardian** — [Costa Rican diplomat emerges as strong contender to be first female head of UN](https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un)  
   _Sun, 09 Aug 2026 07:00:08 GMT_ · paywall: `False`
 - **The Guardian** — [‘I couldn’t breathe’: the deadly health burden of wildfire smoke](https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sat, 08 Aug 2026 04:08:18 GMT_ · paywall: `False`
 - **The Guardian** — [US police officer accused of killing three people in Mexico arrested at border](https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings)  
   _Fri, 07 Aug 2026 20:49:24 GMT_ · paywall: `False`
-- **The Guardian** — [Colombia on the brink: ELN guerrilla group prepares for return to war](https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war)  
-  _Fri, 07 Aug 2026 14:00:32 GMT_ · paywall: `False`
-- **The Guardian** — [Thailand school shooting toll rises to nine after 12-year-old dies, police say](https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say)  
-  _Sun, 09 Aug 2026 02:11:34 GMT_ · paywall: `False`
-- **The Guardian** — [Thailand school shooting: eight killed including suspected attacker, police say](https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok)  
-  _Fri, 07 Aug 2026 14:16:01 GMT_ · paywall: `False`
+- **The Guardian** — [Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai](https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations)  
+  _Mon, 10 Aug 2026 04:55:18 GMT_ · paywall: `False`
+- **The Guardian** — [Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave](https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin)  
+  _Mon, 10 Aug 2026 01:24:13 GMT_ · paywall: `False`
