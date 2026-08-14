@@ -1,48 +1,48 @@
 # Daily Briefing
 
-_Generated: 2026-08-13 08:01 UTC_
+_Generated: 2026-08-14 07:57 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Deutsche Teilung - Berlin erinnert an Mauerbau vor 65 Jahren](https://www.deutschlandfunk.de/berlin-erinnert-an-mauerbau-vor-65-jahren-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hitze - Skepsis aus der Union nach Vorschlag von Bundesumweltminister Schneider zu Grundgesetzänderung zu Klimaanpassung](https://www.deutschlandfunk.de/skepsis-aus-der-union-nach-vorschlag-von-bundesumweltminister-schneider-zu-grundgesetzaenderung-zu-k-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Deutsche Bahn - Auch Personal in Bahnhöfen sollen Bodycams erhalten](https://www.deutschlandfunk.de/auch-personal-in-bahnhoefen-sollen-bodycams-erhalten-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [SPD - Lauterbach hält Personaldiskussionen in der Partei für falsch](https://www.deutschlandfunk.de/lauterbach-haelt-personaldiskussionen-in-der-partei-fuer-falsch-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Rechtsstreit mit Böhmermann - Amtsgericht Chemnitz erlässt Haftbefehl gegen AfD-Bundestagsabgeordneten Krah](https://www.deutschlandfunk.de/amtsgericht-chemnitz-erlaesst-haftbefehl-gegen-afd-bundestagsabgeordneten-krah-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Geplante Reform - Warken: Aufgabenbereiche von Nachrichtendiensten und Polizei bleiben getrennt](https://www.deutschlandfunk.de/warken-aufgabenbereiche-von-nachrichtendiensten-und-polizei-bleiben-getrennt-102.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ausgleich unfairer Vorteile - Volkmann plädiert für Ausgleichszölle gegen China](https://www.deutschlandfunk.de/volkmann-plaediert-fuer-ausgleichszoelle-gegen-china-102.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistik - Zahl der Kindeswohlgefährdungen gestiegen](https://www.deutschlandfunk.de/zahl-der-kindeswohlgefaehrdungen-gestiegen-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niedrigwasser - Binnenschifffahrts-Gesellschaft: Brauchen Klarheit bei Flottenerneuerung](https://www.deutschlandfunk.de/binnenschifffahrts-gesellschaft-brauchen-klarheit-bei-flottenerneuerung-102.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Astronomie - Sonnenfinsternis in Teilen Europas - partielle Verdunklung in Deutschland](https://www.deutschlandfunk.de/sonnenfinsternis-in-teilen-europas-partielle-verdunklung-in-deutschland-102.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Eurovision - Länder im Kriegszustand dürfen den ESC künftig nicht ausrichten](https://www.deutschlandfunk.de/laender-im-kriegszustand-duerfen-den-esc-kuenftig-nicht-ausrichten-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundeshaushalt - SPD-Landeschefs fordern Verzicht auf Kürzungen beim Wohngeld](https://www.deutschlandfunk.de/spd-landeschefs-fordern-verzicht-auf-kuerzungen-beim-wohngeld-100.html)  
-  _Thu, 13 Aug 2026 08:57:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Landtagswahlen in Ostdeutschland - BSW-Vorsitzende Mohamed Ali schließt Koalition mit AfD aus](https://www.deutschlandfunk.de/bsw-vorsitzende-mohamed-ali-schliesst-koalition-mit-afd-aus-102.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Wirtschaft - Jobabbau in der Autoindustrie verschärft sich](https://www.deutschlandfunk.de/jobabbau-in-der-autoindustrie-verschaerft-sich-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kindeswohlgefährdungen - Präsidentin des Deutschen Kinderschutzbundes: "Wachsamkeit in der Gesellschaft gestiegen"](https://www.deutschlandfunk.de/praesidentin-des-deutschen-kinderschutzbundes-wachsamkeit-in-der-gesellschaft-gestiegen-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Trockenheit - Bauernverband befürchtet Ernteeinbußen bis hin zum Totalausfall](https://www.deutschlandfunk.de/bauernverband-befuerchtet-ernteeinbussen-bis-hin-zum-totalausfall-108.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Trockenheit - Waldbrände in mehreren Bundesländern](https://www.deutschlandfunk.de/waldbraende-in-mehreren-bundeslaendern-108.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Trockenheit - Evakuierungen wegen Waldbränden in Griechenland und Kroatien](https://www.deutschlandfunk.de/evakuierungen-wegen-waldbraenden-in-griechenland-und-kroatien-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hitze und Dürre - Umweltbundesamt-Präsident Messner: "Klimaschutz ist Demokratieschutz"](https://www.deutschlandfunk.de/umweltbundesamt-praesident-messner-klimaschutz-ist-demokratieschutz-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Großbritannien - Farage gewinnt durch Nachwahl in Clacton Sitz im Parlament zurück](https://www.deutschlandfunk.de/farage-gewinnt-durch-nachwahl-in-clacton-sitz-im-parlament-zurueck-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kriminalität - Schweden senkt Alter der Strafmündigkeit auf 14 Jahre](https://www.deutschlandfunk.de/schweden-senkt-alter-der-strafmuendigkeit-auf-14-jahre-102.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahender Tropensturm - Hawaii ruft Notstand aus](https://www.deutschlandfunk.de/hawaii-ruft-notstand-aus-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ätna-Ausbruch - Flughafen Catania weiter gesperrt](https://www.deutschlandfunk.de/flughafen-catania-weiter-gesperrt-100.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Erdbeben - Zahl der Toten in Kolumbien steigt weiter](https://www.deutschlandfunk.de/zahl-der-toten-in-kolumbien-steigt-weiter-110.html)  
+  _Fri, 14 Aug 2026 09:26:27 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province)  
+  _Thu, 13 Aug 2026 15:17:13 GMT_ · paywall: `False`
+- **The Guardian** — [French ambassador to CAR investigated over claims he hosted dozens of women](https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher)  
+  _Thu, 13 Aug 2026 14:21:52 GMT_ · paywall: `False`
 - **The Guardian** — [Zambia elections haunted by ghost of incumbent president’s arch-rival](https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu)  
   _Thu, 13 Aug 2026 04:00:49 GMT_ · paywall: `False`
 - **The Guardian** — [At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe](https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize)  
   _Wed, 12 Aug 2026 12:21:08 GMT_ · paywall: `False`
 - **The Guardian** — [Halting the march of the African armyworm: a natural cure offers hope to farmers](https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers)  
   _Wed, 12 Aug 2026 11:00:27 GMT_ · paywall: `False`
-- **The Guardian** — [Spain to introduce temporary border checks on visitors from Italy](https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy)  
-  _Fri, 07 Aug 2026 21:44:38 GMT_ · paywall: `False`
-- **The Guardian** — [Judge approves Trump effort to end South Sudan TPS protections](https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps)  
-  _Fri, 07 Aug 2026 18:34:34 GMT_ · paywall: `False`
 - **The Guardian** — [Former Mexican governor charged in case of 43 students who vanished in 2014](https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014)  
   _Wed, 12 Aug 2026 18:46:30 GMT_ · paywall: `False`
 - **The Guardian** — [Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action](https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action)  
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Tue, 11 Aug 2026 10:14:01 GMT_ · paywall: `False`
 - **The Guardian** — [Colombia quake leaves more than 110 dead – as it happened](https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news)  
   _Tue, 11 Aug 2026 05:32:08 GMT_ · paywall: `False`
-- **The Guardian** — [Thailand suspends gun licences as teen shooter and grandparents he killed are cremated](https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated)  
-  _Wed, 12 Aug 2026 05:28:05 GMT_ · paywall: `False`
-- **The Guardian** — [Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China](https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall)  
-  _Wed, 12 Aug 2026 04:43:19 GMT_ · paywall: `False`
+- **The Guardian** — [‘Unprecedented’ rain kills four in Japan as thousands stranded at airport](https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather)  
+  _Fri, 14 Aug 2026 04:14:17 GMT_ · paywall: `False`
+- **The Guardian** — [Indonesia wildfires threaten orangutans rescued from animal traffickers](https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers)  
+  _Fri, 14 Aug 2026 04:00:16 GMT_ · paywall: `False`
