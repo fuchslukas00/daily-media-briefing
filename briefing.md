@@ -1,48 +1,48 @@
 # Daily Briefing
 
-_Generated: 2026-08-15 07:07 UTC_
+_Generated: 2026-08-16 07:09 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Nordrhein-Westfalen - Weitere Ausbreitung des Waldbrands in der Eifel vorerst verhindert](https://www.deutschlandfunk.de/weitere-ausbreitung-des-waldbrands-in-der-eifel-vorerst-verhindert-100.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fünf Jahre nach Machtübernahme - Neumann (Grüne): Bundesregierung lässt sich von Taliban erpressen](https://www.deutschlandfunk.de/neumann-gruene-bundesregierung-laesst-sich-von-taliban-erpressen-102.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns](https://www.deutschlandfunk.de/iran-nach-trump-vorstoss-strasse-von-hormus-gehoert-uns-102.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Straße von Hormus - Satellitenbilder zeigen neue Ölverschmutzung](https://www.deutschlandfunk.de/satellitenbilder-zeigen-neue-oelverschmutzung-106.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Jemen - Weitere gegenseitige Angriffe von Huthi-Miliz und Regierungstruppen](https://www.deutschlandfunk.de/weitere-gegenseitige-angriffe-von-huthi-miliz-und-regierungstruppen-110.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - BA-Vorstandsvorsitzende Nahles: Noch 162.000 freie Ausbildungsstellen für dieses Jahr](https://www.deutschlandfunk.de/ba-vorstandsvorsitzende-nahles-noch-162-000-freie-ausbildungsstellen-fuer-dieses-jahr-102.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Koalition - SPD zum Steuerstreit: Union muss Kritik unterbinden](https://www.deutschlandfunk.de/spd-zum-steuerstreit-union-muss-kritik-unterbinden-102.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheit - Intensivmediziner gehen von mehr Hitzetoten aus](https://www.deutschlandfunk.de/intensivmediziner-gehen-von-mehr-hitzetoten-aus-100.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Plagiatsvorwürfen - Medienberichte: Cambridge-Professor Jason Arday tot aufgefunden](https://www.deutschlandfunk.de/medienberichte-cambridge-professor-jason-arday-tot-aufgefunden-112.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Asien - Tote bei schwerem Erdbeben in Indonesien](https://www.deutschlandfunk.de/tote-bei-schwerem-erdbeben-in-indonesien-102.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Brasilien und Italien - Gestohlene Gemälde von Renoir, Cézanne und Matisse wiedergefunden](https://www.deutschlandfunk.de/gestohlene-gemaelde-von-renoir-c-zanne-und-matisse-wiedergefunden-104.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Techno-Parade "Rave the Planet" unter erhöhten Sicherheitsvorkehrungen](https://www.deutschlandfunk.de/techno-parade-rave-the-planet-unter-erhoehten-sicherheitsvorkehrungen-100.html)  
-  _Sat, 15 Aug 2026 09:00:28 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Klimawandel - Niedrigwasser bringt Chemieindustrie in Bedrängnis](https://www.deutschlandfunk.de/niedrigwasser-bringt-chemieindustrie-in-bedraengnis-102.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Indonesien - Nach Erdbeben: Zahl der Toten steigt auf über 50](https://www.deutschlandfunk.de/nach-erdbeben-zahl-der-toten-steigt-auf-ueber-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brand im Hohen Venn - Lage bei Monschau spitzt sich zu - Flammen nur noch drei Kilometer von deutscher Grenze entfernt](https://www.deutschlandfunk.de/lage-bei-monschau-spitzt-sich-zu-flammen-nur-noch-drei-kilometer-von-deutscher-grenze-entfernt-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Assad-Sturz - Immer mehr Syrer in Deutschland verlieren Schutzstatus](https://www.deutschlandfunk.de/immer-mehr-syrer-in-deutschland-verlieren-schutzstatus-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kiew - Russland greift ukrainische Hauptstadt erneut mit ballistischen Raketen an](https://www.deutschlandfunk.de/russland-greift-ukrainische-hauptstadt-erneut-mit-ballistischen-raketen-an-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Debatte über Immobilienkonzerne - Ökonomin Grimm warnt vor Berlin-Wahl vor "Enteignungsfantasien"](https://www.deutschlandfunk.de/oekonomin-grimm-warnt-vor-berlin-wahl-vor-enteignungsfantasien-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Kanzleramtsministerin Warken will Geheimdienst-Reform schnell voranbringen](https://www.deutschlandfunk.de/kanzleramtsministerin-warken-will-geheimdienst-reform-schnell-voranbringen-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Erdbeben - Zahl der Toten in Kolumbien bei fast 300](https://www.deutschlandfunk.de/zahl-der-toten-in-kolumbien-bei-fast-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet](https://www.deutschlandfunk.de/iran-kaempft-gegen-oelverschmutzung-im-kuestengebiet-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Hurrikan "Lala" bringt Starkregen und Stromausfälle nach Hawaii](https://www.deutschlandfunk.de/hurrikan-lala-bringt-starkregen-und-stromausfaelle-nach-hawaii-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nordafrika-Exklave - Marokko nimmt mehr als 100 Migranten vor Ceuta fest](https://www.deutschlandfunk.de/marokko-nimmt-mehr-als-100-migranten-vor-ceuta-fest-106.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Haiti - Bundeswehr unterstützt UNO-Einsatz mit Lufttransport](https://www.deutschlandfunk.de/bundeswehr-unterstuetzt-uno-einsatz-mit-lufttransport-100.html)  
+  _Sun, 16 Aug 2026 09:05:02 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered](https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident)  
+  _Sat, 15 Aug 2026 19:39:07 GMT_ · paywall: `False`
+- **The Guardian** — [Moroccan police arrest more than 100 people as they attempt to enter Ceuta](https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta)  
+  _Sat, 15 Aug 2026 18:08:21 GMT_ · paywall: `False`
 - **The Guardian** — [American missionary kidnapped in Niger freed after nine months](https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping)  
   _Fri, 14 Aug 2026 14:55:17 GMT_ · paywall: `False`
 - **The Guardian** — [DRC’s fast-growing Ebola outbreak spreads to sixth province](https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province)  
   _Thu, 13 Aug 2026 15:17:13 GMT_ · paywall: `False`
 - **The Guardian** — [French ambassador to CAR investigated over claims he hosted dozens of women](https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher)  
   _Thu, 13 Aug 2026 14:21:52 GMT_ · paywall: `False`
-- **The Guardian** — [Zambia elections haunted by ghost of incumbent president’s arch-rival](https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu)  
-  _Thu, 13 Aug 2026 04:00:49 GMT_ · paywall: `False`
-- **The Guardian** — [At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe](https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize)  
-  _Wed, 12 Aug 2026 12:21:08 GMT_ · paywall: `False`
 - **The Guardian** — [Ontario free to axe Toronto bike lanes, region’s top court rules](https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules)  
   _Fri, 14 Aug 2026 21:03:43 GMT_ · paywall: `False`
 - **The Guardian** — [Canadian plasma clinics pause collections after deaths of two donors](https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols)  
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 12 Aug 2026 18:46:30 GMT_ · paywall: `False`
 - **The Guardian** — [Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action](https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action)  
   _Wed, 12 Aug 2026 14:40:36 GMT_ · paywall: `False`
-- **The Guardian** — [Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five](https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake)  
-  _Fri, 14 Aug 2026 23:43:18 GMT_ · paywall: `False`
-- **The Guardian** — [‘Unprecedented’ rain kills five in Japan as thousands stranded at airport](https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather)  
-  _Fri, 14 Aug 2026 13:11:48 GMT_ · paywall: `False`
+- **The Guardian** — [Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy](https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy)  
+  _Sun, 16 Aug 2026 04:44:30 GMT_ · paywall: `False`
+- **The Guardian** — [Rescue teams search for survivors in Indonesia after powerful earthquake](https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake)  
+  _Sun, 16 Aug 2026 03:57:34 GMT_ · paywall: `False`
