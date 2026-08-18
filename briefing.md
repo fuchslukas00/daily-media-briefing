@@ -1,43 +1,43 @@
 # Daily Briefing
 
-_Generated: 2026-08-17 07:34 UTC_
+_Generated: 2026-08-18 07:21 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Hitze und Dürre - Waldbrände in Belgien und Deutschland dauern an, Evakuierungen in Monschau in Nordrhein-Westfalen](https://www.deutschlandfunk.de/waldbraende-in-belgien-und-deutschland-dauern-an-evakuierungen-in-monschau-in-nordrhein-westfalen-102.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Bundesfinanzminister Klingbeil will Startups mit besseren steuerlichen Bedingungen unterstützen](https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-will-startups-mit-besseren-steuerlichen-bedingungen-unterstuetzen-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Arbeitgeberverband Gesamtmetall spricht von größter Krise der Nachkriegszeit](https://www.deutschlandfunk.de/arbeitgeberverband-gesamtmetall-spricht-von-groesster-krise-der-nachkriegszeit-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistisches Bundesamt - Anteil junger Menschen gestiegen, die nicht in Beschäftigung oder Ausbildung sind](https://www.deutschlandfunk.de/anteil-junger-menschen-gestiegen-die-nicht-in-beschaeftigung-oder-ausbildung-sind-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ben-Gvir - Israels Sicherheitsminister: Jede Nacht 30 bis 40 Menschen in Gaza töten](https://www.deutschlandfunk.de/israels-sicherheitsminister-jede-nacht-30-bis-40-menschen-in-gaza-toeten-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gazastreifen - US-Unterhändler Kushner zu Gesprächen in Ägypten, auch Hamas-Führer getroffen](https://www.deutschlandfunk.de/us-unterhaendler-kushner-zu-gespraechen-in-aegypten-auch-hamas-fuehrer-getroffen-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bilanz - Deutschland holt bei Leichtathletik-EM so viele Medaillen wie seit 28 Jahren nicht mehr](https://www.deutschlandfunk.de/deutschland-holt-bei-leichtathletik-em-so-viele-medaillen-wie-seit-28-jahren-nicht-mehr-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ex-Verlobte von Klitschko - US-Schauspielerin Hayden Panettiere im Alter von 36 Jahren gestorben](https://www.deutschlandfunk.de/us-schauspielerin-hayden-panettiere-im-alter-von-36-jahren-gestorben-104.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["EU-Ziel nicht realistisch" - Europäischer Diakonieverband: Wohnungslosigkeit in Europa hat zugenommen](https://www.deutschlandfunk.de/europaeischer-diakonieverband-wohnungslosigkeit-in-europa-hat-zugenommen-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Parteien - Wagenknecht ruft Höcke erneut zu Gespräch auf](https://www.deutschlandfunk.de/wagenknecht-ruft-hoecke-erneut-zu-gespraech-auf-106.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Grünen-Chef - Vor Ost-Landtagswahlen: Banaszak fordert Gesprächsbereitschaft von CDU und Linken](https://www.deutschlandfunk.de/vor-ost-landtagswahlen-banaszak-fordert-gespraechsbereitschaft-von-cdu-und-linken-108.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - Zahl freiwilliger Ausreisen aus Deutschland nimmt zu](https://www.deutschlandfunk.de/zahl-freiwilliger-ausreisen-aus-deutschland-nimmt-zu-100.html)  
-  _Mon, 17 Aug 2026 09:21:06 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Israel - Itamar Ben-Gvir: Welche Bedeutung der radikale Minister für Netanjahu hat](https://www.deutschlandfunk.de/itamar-ben-gvir-welche-bedeutung-der-radikale-minister-fuer-netanjahu-hat-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Tötungen" im Gazastreifen - Aussagen von Israels Minister Ben-Gvir lösen in Deutschland Empörung aus - Forderungen nach EU-Sanktionen](https://www.deutschlandfunk.de/aussagen-von-israels-minister-ben-gvir-loesen-in-deutschland-empoerung-aus-forderungen-nach-eu-sankt-102.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sonderparteitag in Thüringen - BSW-Richtungsstreit vor Landtagswahlen - Politikwissenschaftler: "Auch Wählerschaft ist gespalten"](https://www.deutschlandfunk.de/bsw-richtungsstreit-vor-landtagswahlen-politikwissenschaftler-auch-waehlerschaft-ist-gespalten-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Magdeburg-Cochstedt - Neues Zentrum für Drohnen-Sicherheit wird an Testflughafen in Sachsen-Anhalt eröffnet](https://www.deutschlandfunk.de/neues-zentrum-fuer-drohnen-sicherheit-wird-an-testflughafen-in-sachsen-anhalt-eroeffnet-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Moskau droht London nach Bericht über Einsatz britischer Drohnen in Russland](https://www.deutschlandfunk.de/moskau-droht-london-nach-bericht-ueber-einsatz-britischer-drohnen-in-russland-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Klimafreundlicher Wiederaufbau - Bundesumweltminister Schneider reist in die Ukraine](https://www.deutschlandfunk.de/bundesumweltminister-schneider-reist-in-die-ukraine-102.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berichte über Baumängel - Ägyptens Atombehörde wirft russischem Rosatom-Konzern "vorsätzliche Fahrlässigkeit" vor](https://www.deutschlandfunk.de/aegyptens-atombehoerde-wirft-russischem-rosatom-konzern-vorsaetzliche-fahrlaessigkeit-vor-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Vorbeugender Brandschutz" - Feuerwehr-Gewerkschaft fordert bessere Vorbereitung auf Waldbrände - mit Schneisen und Wasserdepots](https://www.deutschlandfunk.de/feuerwehr-gewerkschaft-fordert-bessere-vorbereitung-auf-waldbraende-mit-schneisen-und-wasserdepots-102.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Waldbrand - Einsatz im Hohen Venn dauert an](https://www.deutschlandfunk.de/einsatz-im-hohen-venn-dauert-an-102.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berliner Senatsverwaltung - Hackerangriff auf Berliner Landesnetz: laut RBB sensible Daten abgeflossen](https://www.deutschlandfunk.de/hackerangriff-auf-berliner-landesnetz-laut-rbb-sensible-daten-abgeflossen-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Klimaanpassung - CDU-Umweltpolitiker Helfrich reagiert zurückhaltend auf Diskussion um Aufnahme der Klimaanpassung ins Grundgesetz](https://www.deutschlandfunk.de/cdu-umweltpolitiker-helfrich-reagiert-zurueckhaltend-auf-diskussion-um-aufnahme-der-klimaanpassung-i-102.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Irankrieg - Erdogan appelliert an Trump, Gespräche mit Iran fortzusetzen](https://www.deutschlandfunk.de/erdogan-appelliert-an-trump-gespraeche-mit-iran-fortzusetzen-100.html)  
+  _Tue, 18 Aug 2026 09:12:08 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)  
-  _Mon, 17 Aug 2026 00:09:57 GMT_ · paywall: `False`
+- **The Guardian** — [Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)  
+  _Mon, 17 Aug 2026 14:07:31 GMT_ · paywall: `False`
 - **The Guardian** — [Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered](https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident)  
   _Sat, 15 Aug 2026 19:39:07 GMT_ · paywall: `False`
-- **The Guardian** — [Moroccan police arrest more than 100 people as they attempt to enter Ceuta](https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta)  
+- **The Guardian** — [Moroccan police arrest more than 100 people attempting to enter Ceuta](https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta)  
   _Sat, 15 Aug 2026 18:08:21 GMT_ · paywall: `False`
 - **The Guardian** — [American missionary kidnapped in Niger freed after nine months](https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping)  
   _Fri, 14 Aug 2026 14:55:17 GMT_ · paywall: `False`
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 14 Aug 2026 14:04:49 GMT_ · paywall: `False`
 - **The Guardian** — [Former Mexican governor charged in case of 43 students who vanished in 2014](https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014)  
   _Wed, 12 Aug 2026 18:46:30 GMT_ · paywall: `False`
-- **The Guardian** — [Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience](https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un)  
-  _Mon, 17 Aug 2026 04:07:57 GMT_ · paywall: `False`
-- **The Guardian** — [Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy](https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy)  
-  _Sun, 16 Aug 2026 04:44:30 GMT_ · paywall: `False`
+- **The Guardian** — [South Korea president calls for military independence in wake of Trump call to cut joint drills](https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un)  
+  _Tue, 18 Aug 2026 05:50:33 GMT_ · paywall: `False`
+- **The Guardian** — [South Korea city deluged by almost a metre of rain, triggering deadly landslide](https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding)  
+  _Tue, 18 Aug 2026 00:37:42 GMT_ · paywall: `False`
