@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-08-21 07:25 UTC_
+_Generated: 2026-08-22 07:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **ZDF heute** — [Und was folgt auf Trumps "wirtschaftlichen D-Day"?](https://www.zdfheute.de/politik/ausland/trump-iran-d-day-wirtschaftskrieg-sanktionen-100.html)  
-  _Fri, 21 Aug 2026 05:04:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Wie geht's der US-Wirtschaft unter Donald Trump?](https://www.zdfheute.de/wirtschaft/usa-donald-trump-wirtschaft-daten-100.html)  
-  _Mon, 17 Aug 2026 09:33:00 +0200_ · paywall: `False`
-- **ZDF heute** — [EBM-Papst: Wie das Unternehmen vom Verkauf profitieren kann](https://www.zdfheute.de/wirtschaft/ebm-papst-deutschland-verkauf-usa-100.html)  
-  _Fri, 21 Aug 2026 06:35:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Arbeitet Merz an seiner Work-Life-Balance?](https://www.zdfheute.de/politik/deutschland/sommerurlaub-bundeskanzler-merz-100.html)  
-  _Thu, 20 Aug 2026 21:45:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Auto mit acht Jugendlichen crasht gegen LKW](https://www.zdfheute.de/video/hallo-deutschland/toedlicher-unfall-bei-nidda-100.html)  
-  _Thu, 20 Aug 2026 14:26:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Bürgermeister: Feuer im Hürtgenwald gelöscht](https://www.zdfheute.de/video/zdfheute-xpress/waldbrand-huertgenwald-eifel-geloescht-video-100.html)  
-  _Fri, 21 Aug 2026 06:30:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Trump will jährlich 1.000 US-Raketenstarts](https://www.zdfheute.de/video/zdfheute-xpress/usa-trump-private-raumfahrt-ankuendigung-ausbau-video-100.html)  
-  _Fri, 21 Aug 2026 07:00:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Wenn Bowie auf Industriekultur trifft](https://www.zdfheute.de/video/zdf-morgenmagazin/ruhrtriennale-124.html)  
-  _Fri, 21 Aug 2026 05:30:00 +0200_ · paywall: `False`
-- **ZDF heute** — [KI-Brillen: Heimlich gefilmt im Alltag](https://www.zdfheute.de/video/zdf-morgenmagazin/smart-glasses-106.html)  
-  _Fri, 21 Aug 2026 05:30:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Céline Dion: Vorbereitung auf Bühnen-Comeback](https://www.zdfheute.de/video/hallo-deutschland/celine-dion-vorbereitung-comeback-100.html)  
-  _Thu, 20 Aug 2026 16:39:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Crack-Sucht: Warum Hilfe Räume braucht](https://www.zdfheute.de/video/zdf-morgenmagazin/suchthilfe-wiebke-voigt-100.html)  
-  _Thu, 20 Aug 2026 05:30:00 +0200_ · paywall: `False`
-- **ZDF heute** — [Wie aus Katzenvideos ein Kinofilm entsteht](https://www.zdfheute.de/video/zdfheute-xpress/katzen-video-fest-video-100.html)  
-  _Thu, 20 Aug 2026 09:44:00 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Besuch in Kiew - Wadephul sichert Ukraine Unterstützung zu](https://www.deutschlandfunk.de/wadephul-sichert-ukraine-unterstuetzung-zu-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Handelskonflikt - Neue US-Strafzölle gegen Kanada in Kraft getreten](https://www.deutschlandfunk.de/neue-us-strafzoelle-gegen-kanada-in-kraft-getreten-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Energiemarkt - CSU-Wirtschaftspolitiker Lenz spricht sich gegen staatliche Eingriffe aus](https://www.deutschlandfunk.de/csu-wirtschaftspolitiker-lenz-spricht-sich-gegen-staatliche-eingriffe-aus-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Höchstes Staatsamt - SPD besteht bei Nachfolge von Bundespräsident Steinmeier auf Nominierung einer Frau](https://www.deutschlandfunk.de/spd-besteht-bei-nachfolge-von-bundespraesident-steinmeier-auf-nominierung-einer-frau-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Einwanderung - US-Bundesrichterin kippt Trumps Visa-Stopp für Staatsangehörige aus 75 Ländern](https://www.deutschlandfunk.de/us-bundesrichterin-kippt-trumps-visa-stopp-fuer-staatsangehoerige-aus-75-laendern-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medien - Pentagon entlässt Leitung der US-Militärzeitung "Stars and Stripes" - Chefredakteur pocht auf redaktionelle Unabhängigkeit](https://www.deutschlandfunk.de/pentagon-entlaesst-leitung-der-us-militaerzeitung-stars-and-stripes-chefredakteur-pocht-auf-redaktio-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Epidemie - Erste 16.000 Ebola-Impfdosen von der WHO im Kongo eingetroffen](https://www.deutschlandfunk.de/erste-16-000-ebola-impfdosen-von-der-who-im-kongo-eingetroffen-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Accounts für 13-Jährige ohne Eltern-Zustimmung - Tiktok zahlt wegen Datenschutz-Verstößen 400 Millionen Dollar](https://www.deutschlandfunk.de/tiktok-zahlt-wegen-datenschutz-verstoessen-400-millionen-dollar-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vor dem Amtsende - Auch Antisemitismusbeauftragter Klein warnt vor drohender Auswanderung von Juden bei AfD-Erfolg bei Landtagswahlen](https://www.deutschlandfunk.de/auch-antisemitismusbeauftragter-klein-warnt-vor-drohender-auswanderung-von-juden-bei-afd-erfolg-bei--102.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Streit um Reformen - US-Regierung will UNO 725 Mio Dollar an ausstehenden Beiträgen zahlen](https://www.deutschlandfunk.de/us-regierung-will-uno-725-mio-dollar-an-ausstehenden-beitraegen-zahlen-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Anschlag bei Berliner CSD - Schutz queerer Menschen: Bundesjustizministerin Hubig drängt auf Grundgesetz-Änderung](https://www.deutschlandfunk.de/schutz-queerer-menschen-bundesjustizministerin-hubig-draengt-auf-grundgesetz-aenderung-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Thüringen - Landesparteitag der CDU - Ministerpräsident Voigt kandidiert heute erneut für Parteivorsitz](https://www.deutschlandfunk.de/landesparteitag-der-cdu-ministerpraesident-voigt-kandidiert-heute-erneut-fuer-parteivorsitz-100.html)  
+  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 19 Aug 2026 14:33:24 GMT_ · paywall: `False`
 - **The Guardian** — [Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)  
   _Mon, 17 Aug 2026 14:07:31 GMT_ · paywall: `False`
+- **The Guardian** — [Canada vows to match Trump’s 50% tariffs after trade deal talks fail](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail)  
+  _Sat, 22 Aug 2026 06:05:58 GMT_ · paywall: `False`
+- **The Guardian** — [JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade](https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade)  
+  _Fri, 21 Aug 2026 15:22:48 GMT_ · paywall: `False`
+- **The Guardian** — [Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’](https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees)  
+  _Fri, 21 Aug 2026 10:00:31 GMT_ · paywall: `False`
 - **The Guardian** — [Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend](https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend)  
   _Wed, 19 Aug 2026 13:44:57 GMT_ · paywall: `False`
 - **The Guardian** — [Activist forced out of US after criticising Trump-aligned Colombian politician](https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician)  
   _Wed, 19 Aug 2026 09:00:12 GMT_ · paywall: `False`
-- **The Guardian** — [Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline](https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline)  
-  _Wed, 19 Aug 2026 03:47:12 GMT_ · paywall: `False`
-- **The Guardian** — [Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way](https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro)  
-  _Sun, 16 Aug 2026 18:44:41 GMT_ · paywall: `False`
-- **The Guardian** — [Ontario free to axe Toronto bike lanes, region’s top court rules](https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules)  
-  _Fri, 14 Aug 2026 21:03:43 GMT_ · paywall: `False`
-- **The Guardian** — [Russia’s missile tests around disputed islands anger Japan](https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan)  
-  _Fri, 21 Aug 2026 04:54:01 GMT_ · paywall: `False`
-- **The Guardian** — [Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’](https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung)  
-  _Fri, 21 Aug 2026 03:28:02 GMT_ · paywall: `False`
+- **The Guardian** — [Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’](https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung)  
+  _Fri, 21 Aug 2026 10:43:59 GMT_ · paywall: `False`
+- **The Guardian** — [Weather tracker: Extreme rain deluges Japan and South Korea](https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea)  
+  _Fri, 21 Aug 2026 08:19:21 GMT_ · paywall: `False`
