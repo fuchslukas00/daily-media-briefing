@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-08-22 07:10 UTC_
+_Generated: 2026-08-23 07:11 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Besuch in Kiew - Wadephul sichert Ukraine Unterstützung zu](https://www.deutschlandfunk.de/wadephul-sichert-ukraine-unterstuetzung-zu-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Handelskonflikt - Neue US-Strafzölle gegen Kanada in Kraft getreten](https://www.deutschlandfunk.de/neue-us-strafzoelle-gegen-kanada-in-kraft-getreten-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiemarkt - CSU-Wirtschaftspolitiker Lenz spricht sich gegen staatliche Eingriffe aus](https://www.deutschlandfunk.de/csu-wirtschaftspolitiker-lenz-spricht-sich-gegen-staatliche-eingriffe-aus-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Höchstes Staatsamt - SPD besteht bei Nachfolge von Bundespräsident Steinmeier auf Nominierung einer Frau](https://www.deutschlandfunk.de/spd-besteht-bei-nachfolge-von-bundespraesident-steinmeier-auf-nominierung-einer-frau-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Einwanderung - US-Bundesrichterin kippt Trumps Visa-Stopp für Staatsangehörige aus 75 Ländern](https://www.deutschlandfunk.de/us-bundesrichterin-kippt-trumps-visa-stopp-fuer-staatsangehoerige-aus-75-laendern-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medien - Pentagon entlässt Leitung der US-Militärzeitung "Stars and Stripes" - Chefredakteur pocht auf redaktionelle Unabhängigkeit](https://www.deutschlandfunk.de/pentagon-entlaesst-leitung-der-us-militaerzeitung-stars-and-stripes-chefredakteur-pocht-auf-redaktio-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Epidemie - Erste 16.000 Ebola-Impfdosen von der WHO im Kongo eingetroffen](https://www.deutschlandfunk.de/erste-16-000-ebola-impfdosen-von-der-who-im-kongo-eingetroffen-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Accounts für 13-Jährige ohne Eltern-Zustimmung - Tiktok zahlt wegen Datenschutz-Verstößen 400 Millionen Dollar](https://www.deutschlandfunk.de/tiktok-zahlt-wegen-datenschutz-verstoessen-400-millionen-dollar-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vor dem Amtsende - Auch Antisemitismusbeauftragter Klein warnt vor drohender Auswanderung von Juden bei AfD-Erfolg bei Landtagswahlen](https://www.deutschlandfunk.de/auch-antisemitismusbeauftragter-klein-warnt-vor-drohender-auswanderung-von-juden-bei-afd-erfolg-bei--102.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Streit um Reformen - US-Regierung will UNO 725 Mio Dollar an ausstehenden Beiträgen zahlen](https://www.deutschlandfunk.de/us-regierung-will-uno-725-mio-dollar-an-ausstehenden-beitraegen-zahlen-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Anschlag bei Berliner CSD - Schutz queerer Menschen: Bundesjustizministerin Hubig drängt auf Grundgesetz-Änderung](https://www.deutschlandfunk.de/schutz-queerer-menschen-bundesjustizministerin-hubig-draengt-auf-grundgesetz-aenderung-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Thüringen - Landesparteitag der CDU - Ministerpräsident Voigt kandidiert heute erneut für Parteivorsitz](https://www.deutschlandfunk.de/landesparteitag-der-cdu-ministerpraesident-voigt-kandidiert-heute-erneut-fuer-parteivorsitz-100.html)  
-  _Sat, 22 Aug 2026 08:59:24 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vor Kabinetts-Klausur - Merz: "Reform-Beschlüsse so schnell wie möglich umsetzen"](https://www.deutschlandfunk.de/merz-reform-beschluesse-so-schnell-wie-moeglich-umsetzen-100.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Zoll-Konflikt - Kanada kündigt Gegenzölle auf US-Güter an](https://www.deutschlandfunk.de/kanada-kuendigt-gegenzoelle-auf-us-gueter-an-120.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medienbericht - Telegraph: Iran nahestehende Hacker sollen britisches Kraftwerk lahmgelegt haben](https://www.deutschlandfunk.de/telegraph-iran-nahestehende-hacker-sollen-britisches-kraftwerk-lahmgelegt-haben-102.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Zentralasien - Ex-Sowjetrepublik Kasachstan wählt neu geschaffenes Parlament](https://www.deutschlandfunk.de/ex-sowjetrepublik-kasachstan-waehlt-neu-geschaffenes-parlament-100.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Angriffe auf Zugbegleiter - EVG droht mit bundesweiten Streiks im Regionalverkehr](https://www.deutschlandfunk.de/evg-droht-mit-bundesweiten-streiks-im-regionalverkehr-102.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Waldbrand - Bundeskanzler Merz dankt Einsatzkräften in Hürtgenwald - Buhrufe aus dem Publikum](https://www.deutschlandfunk.de/bundeskanzler-merz-dankt-einsatzkraeften-in-huertgenwald-buhrufe-aus-dem-publikum-102.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Mittlerer Osten - Iran: "Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet"](https://www.deutschlandfunk.de/iran-wer-sich-an-wirtschaftskrieg-der-usa-beteiligt-wird-als-feind-betrachtet-100.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg in der Ukraine - "Büchse der Pandora" geöffnet: Putin droht Ukraine mit schweren Angriffen](https://www.deutschlandfunk.de/buechse-der-pandora-geoeffnet-putin-droht-ukraine-mit-schweren-angriffen-100.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Antisemitismusbeauftragter Klein nennt israelische Siedlungspolitik "völkerrechtswidrig"](https://www.deutschlandfunk.de/antisemitismusbeauftragter-klein-nennt-israelische-siedlungspolitik-voelkerrechtswidrig-100.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vor der Landtagswahl in Sachsen-Anhalt - Sachsens Kultusminister warnt vor Bildungsplänen der AfD](https://www.deutschlandfunk.de/sachsens-kultusminister-warnt-vor-bildungsplaenen-der-afd-102.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Konflikt zwischen Rom und Berlin - Italien will weiterhin keine weitergereisten Migranten aus Deutschland zurücknehmen](https://www.deutschlandfunk.de/italien-will-weiterhin-keine-weitergereisten-migranten-aus-deutschland-zuruecknehmen-104.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Afrika - Islamisten töten und entführen dutzende Menschen in Nigeria](https://www.deutschlandfunk.de/islamisten-toeten-und-entfuehren-dutzende-menschen-in-nigeria-100.html)  
+  _Sun, 23 Aug 2026 08:51:14 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,8 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 19 Aug 2026 14:33:24 GMT_ · paywall: `False`
 - **The Guardian** — [Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history](https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history)  
   _Mon, 17 Aug 2026 14:07:31 GMT_ · paywall: `False`
-- **The Guardian** — [Canada vows to match Trump’s 50% tariffs after trade deal talks fail](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail)  
-  _Sat, 22 Aug 2026 06:05:58 GMT_ · paywall: `False`
+- **The Guardian** — [Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail)  
+  _Sat, 22 Aug 2026 14:04:57 GMT_ · paywall: `False`
 - **The Guardian** — [JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade](https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade)  
   _Fri, 21 Aug 2026 15:22:48 GMT_ · paywall: `False`
 - **The Guardian** — [Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’](https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees)  
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 19 Aug 2026 13:44:57 GMT_ · paywall: `False`
 - **The Guardian** — [Activist forced out of US after criticising Trump-aligned Colombian politician](https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician)  
   _Wed, 19 Aug 2026 09:00:12 GMT_ · paywall: `False`
+- **The Guardian** — [Man leaves young son on Mount Fuji before ascending Japan’s highest peak](https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan)  
+  _Sat, 22 Aug 2026 12:25:16 GMT_ · paywall: `False`
 - **The Guardian** — [Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’](https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung)  
   _Fri, 21 Aug 2026 10:43:59 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Extreme rain deluges Japan and South Korea](https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea)  
-  _Fri, 21 Aug 2026 08:19:21 GMT_ · paywall: `False`
