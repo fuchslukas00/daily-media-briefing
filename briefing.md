@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-08-29 12:48 UTC_
+_Generated: 2026-08-30 12:09 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Russischer Angriffskrieg - Mindestens 37 Tote nach Drohnenattacken auf ukrainische Region Kiew](https://www.deutschlandfunk.de/mindestens-37-tote-nach-drohnenattacken-auf-ukrainische-region-kiew-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran - Präsident Peseschkian: "US-Sanktionen schaden unserer Wirtschaft"](https://www.deutschlandfunk.de/praesident-peseschkian-us-sanktionen-schaden-unserer-wirtschaft-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - Bundeskongress der AfD-Nachwuchsorganisation "Generation Deutschland"](https://www.deutschlandfunk.de/bundeskongress-der-afd-nachwuchsorganisation-generation-deutschland-102.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niger - Sicherheitskreise: Aufständische Soldaten greifen Präsidentenpalast und Flughafen an](https://www.deutschlandfunk.de/sicherheitskreise-aufstaendische-soldaten-greifen-praesidentenpalast-und-flughafen-an-104.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach der Sturzflut - Mehr als 600 Tote in Nepal bestätigt - "Save the Children" verteilt Hilfsgüter in Katastrophengebiet](https://www.deutschlandfunk.de/mehr-als-600-tote-in-nepal-bestaetigt-save-the-children-verteilt-hilfsgueter-in-katastrophengebiet-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wüstenbildung - UNO-Konferenz endet ohne gemeinsames Abkommen](https://www.deutschlandfunk.de/uno-konferenz-endet-ohne-gemeinsames-abkommen-102.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Niamey - Schüsse und Explosionen in Hauptstadt von Niger](https://www.deutschlandfunk.de/schuesse-und-explosionen-in-hauptstadt-von-niger-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Meerenge - Seeschiffahrtsorganisation IMO: In der Straße von Hormus stecken noch immer 400 Schiffe fest - 6.000 Seeleute betroffen](https://www.deutschlandfunk.de/seeschiffahrtsorganisation-imo-in-der-strasse-von-hormus-stecken-noch-immer-400-schiffe-fest-6-000-s-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Rheinische Post" - Umweltminister Schneider will Wiedervernässung von Mooren weiter beschleunigen](https://www.deutschlandfunk.de/umweltminister-schneider-will-wiedervernaessung-von-mooren-weiter-beschleunigen-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Abkommen - USA sichern sich riesige Ölvorkommen in Venezuela](https://www.deutschlandfunk.de/usa-sichern-sich-riesige-oelvorkommen-in-venezuela-102.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - EVP-Fraktionsvorsitzender Weber fordert mehr Frontex-Beamte für EU-Außengrenzschutz](https://www.deutschlandfunk.de/evp-fraktionsvorsitzender-weber-fordert-mehr-frontex-beamte-fuer-eu-aussengrenzschutz-100.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Iranische Künstlerin Forouhar bezweifelt Krieg als Mittel zum Umsturz des Regimes](https://www.deutschlandfunk.de/iranische-kuenstlerin-forouhar-bezweifelt-krieg-als-mittel-zum-umsturz-des-regimes-102.html)  
-  _Sat, 29 Aug 2026 14:19:51 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krankschreibung - Debatte über Attestpflicht ab Tag eins geht weiter](https://www.deutschlandfunk.de/debatte-ueber-attestpflicht-ab-tag-eins-geht-weiter-102.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Drohnenangriff in Leipzig - Nouripour fordert Bundesregierung zu mehr Entschlossenheit auf](https://www.deutschlandfunk.de/nouripour-fordert-bundesregierung-zu-mehr-entschlossenheit-auf-100.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Referendum - Isländer sprechen sich gegen Wiederaufnahme von EU-Beitrittsverhandlungen aus](https://www.deutschlandfunk.de/islaender-sprechen-sich-gegen-wiederaufnahme-von-eu-beitrittsverhandlungen-aus-100.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schweiz - Schüsse bei einer Techno-Party in Aarau, ein Todesopfer und mehrere Verletzte - genaue Hintergründe noch unklar](https://www.deutschlandfunk.de/schuesse-bei-einer-techno-party-in-aarau-ein-todesopfer-und-mehrere-verletzte-genaue-hintergruende-n-106.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Sturzflut - Mehr als 750 Tote im Himalaya bestätigt - Suche nach Verschütteten gestaltet sich schwierig](https://www.deutschlandfunk.de/mehr-als-750-tote-im-himalaya-bestaetigt-suche-nach-verschuetteten-gestaltet-sich-schwierig-102.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Appell aus dem Iran - Chamenei wirbt für gemeinsame Front gegen USA und Israel](https://www.deutschlandfunk.de/chamenei-wirbt-fuer-gemeinsame-front-gegen-usa-und-israel-102.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Feuer in Ölraffinerie im Nordwesten Russlands nach Drohnen-Einschlag](https://www.deutschlandfunk.de/feuer-in-oelraffinerie-im-nordwesten-russlands-nach-drohnen-einschlag-100.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Interview - Finnischer Präsident Stubb: "Glaube nicht an russischen Angriff auf die NATO"](https://www.deutschlandfunk.de/finnischer-praesident-stubb-glaube-nicht-an-russischen-angriff-auf-die-nato-100.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Umbau des Militärs - Kim tauscht Nordkoreas Verteidigungsminister aus](https://www.deutschlandfunk.de/kim-tauscht-nordkoreas-verteidigungsminister-aus-100.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Perspektivwechsel - Ostdeutsche Grüne fordern neue Sichtweise: "Protagonisten mutiger Neuanfänge"](https://www.deutschlandfunk.de/ostdeutsche-gruene-fordern-neue-sichtweise-protagonisten-mutiger-neuanfaenge-100.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vor Landtagswahlen - Ex-Kanzlerin Merkel: "Müssen für diese Demokratie kämpfen" - Historiker Frei fordert AfD-Verbotsverfahren](https://www.deutschlandfunk.de/ex-kanzlerin-merkel-muessen-fuer-diese-demokratie-kaempfen-historiker-frei-fordert-afd-verbotsverfah-102.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Generation Deutschland" - Jubel für Landes-Spitzenkandidat Siegmund beim Bundeskongress der AfD-Jugend - Rufe nach Massenabschiebungen](https://www.deutschlandfunk.de/jubel-fuer-landes-spitzenkandidat-siegmund-beim-bundeskongress-der-afd-jugend-rufe-nach-massenabschi-102.html)  
+  _Sun, 30 Aug 2026 13:57:36 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war](https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid)  
+  _Sun, 30 Aug 2026 06:00:48 GMT_ · paywall: `False`
 - **The Guardian** — [Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid](https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid)  
   _Fri, 28 Aug 2026 14:46:25 GMT_ · paywall: `False`
 - **The Guardian** — [What could Meta’s US settlement mean around the world – and what now for other claims against firm?](https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact)  
@@ -41,9 +43,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 27 Aug 2026 08:00:09 GMT_ · paywall: `False`
 - **The Guardian** — [South African police arrest two Thai men for allegedly smuggling parrot eggs](https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs)  
   _Wed, 26 Aug 2026 15:09:58 GMT_ · paywall: `False`
-- **The Guardian** — [Mpox is back – and in new countries. How can this outbreak be contained?](https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children)  
-  _Wed, 26 Aug 2026 11:00:12 GMT_ · paywall: `False`
-- **The Guardian** — [They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president](https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president)  
+- **The Guardian** — [Was it a mistake for 99 Colombian guerrillas to lay down their arms?](https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president)  
   _Sat, 29 Aug 2026 10:00:24 GMT_ · paywall: `False`
 - **The Guardian** — [Trump announces new US oil agreement with Venezuela](https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement)  
   _Fri, 28 Aug 2026 23:34:36 GMT_ · paywall: `False`
