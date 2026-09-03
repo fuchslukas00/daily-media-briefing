@@ -1,39 +1,41 @@
 # Daily Briefing
 
-_Generated: 2026-09-02 11:38 UTC_
+_Generated: 2026-09-03 11:36 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Nach Drohnenvorfall in Leipzig - EU-Außenminister beraten über europäische Reaktion - Kallas: "Merkmale von staatlich gefördertem Terrorismus"](https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-europaeische-reaktion-kallas-merkmale-von-staatlich-gefoerdertem-ter-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hybride Kriegsführung - Wie viele Beweise muss die Politik öffentlich vorlegen?](https://www.deutschlandfunk.de/wie-viele-beweise-muss-die-politik-oeffentlich-vorlegen-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - Spionagevorwürfe gegen Chinas Reederei Cosco: Frachter sollen Militärfunk an den Küsten abhören](https://www.deutschlandfunk.de/spionagevorwuerfe-gegen-chinas-reederei-cosco-frachter-sollen-militaerfunk-an-den-kuesten-abhoeren-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Kabinett beschließt Reform der Einkommensteuer - Kritik aus Wirtschaft](https://www.deutschlandfunk.de/kabinett-beschliesst-reform-der-einkommensteuer-kritik-aus-wirtschaft-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energiemarkt - EU genehmigt deutsche Milliarden für Gaskraftwerke](https://www.deutschlandfunk.de/eu-genehmigt-deutsche-milliarden-fuer-gaskraftwerke-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaftswoche - VW-Vorstand hat Aus für vier Werke beschlossen](https://www.deutschlandfunk.de/vw-vorstand-hat-aus-fuer-vier-werke-beschlossen-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Energie-Infrastruktur - Terrorermittlungen zu Brandenburg - Neuer Vorfall in Bergheim](https://www.deutschlandfunk.de/terrorermittlungen-zu-brandenburg-neuer-vorfall-in-bergheim-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [NRW - Landtag befasst sich mit Kölner Abschiebe-Affäre](https://www.deutschlandfunk.de/landtag-befasst-sich-mit-koelner-abschiebe-affaere-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Frühkindliche Bildung - Personelle Lage bringt Kitas nach wie vor ans Limit](https://www.deutschlandfunk.de/personelle-lage-bringt-kitas-nach-wie-vor-ans-limit-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bayern - Verletzte bei Explosion gegenüber Augsburger Hauptbahnhof](https://www.deutschlandfunk.de/verletzte-bei-explosion-gegenueber-augsburger-hauptbahnhof-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Thüringen - Drei Abgeordnete verlassen BSW-Fraktion im Erfurter Landtag, Brombeer-Koalition nur noch in der Minderheit](https://www.deutschlandfunk.de/drei-abgeordnete-verlassen-bsw-fraktion-im-erfurter-landtag-brombeer-koalition-nur-noch-in-der-minde-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Handel - Insolventer Discounter "Groschen-Markt": Hälfte der Filialen wird fortgeführt](https://www.deutschlandfunk.de/insolventer-discounter-groschen-markt-haelfte-der-filialen-wird-fortgefuehrt-100.html)  
-  _Wed, 02 Sep 2026 13:36:30 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Drohnenvorfall in Leipzig - Russland schließt Goethe-Institute - Moskau will aber diplomatische Beziehungen aufrechterhalten](https://www.deutschlandfunk.de/russland-schliesst-goethe-institute-moskau-will-aber-diplomatische-beziehungen-aufrechterhalten-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [35 Jahre Weimarer Dreieck - Außenminister Deutschlands, Frankreichs und Polens demonstrieren Schulterschluss gegen russische Bedrohung](https://www.deutschlandfunk.de/aussenminister-deutschlands-frankreichs-und-polens-demonstrieren-schulterschluss-gegen-russische-bed-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [UNO-Wetterorganisation warnt - Extremer El Niño lässt neue Wetterkrisen befürchten](https://www.deutschlandfunk.de/extremer-el-ni-o-laesst-neue-wetterkrisen-befuerchten-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medizinische Versorgung in Deutschland - Bundesgesundheitsministerium will Berufsausbildung ausländischer Ärzte bundesweit anerkennen](https://www.deutschlandfunk.de/bundesgesundheitsministerium-will-berufsausbildung-auslaendischer-aerzte-bundesweit-anerkennen-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Konjunktur - Ifo-Institut korrigiert Prognose für deutsche Wirtschaft deutlich nach oben](https://www.deutschlandfunk.de/ifo-institut-korrigiert-prognose-fuer-deutsche-wirtschaft-deutlich-nach-oben-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Strom, Wasser, Ernährung, Verkehr - Nach Sabotageakten an kritischer Infrastruktur: Betreiberunternehmen sollen Anlagen besser schützen](https://www.deutschlandfunk.de/nach-sabotageakten-an-kritischer-infrastruktur-betreiberunternehmen-sollen-anlagen-besser-schuetzen-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Vor Duma-Wahlen - Putin zerstreut Sorgen über russische Wirtschaft und Spekulationen zu Mobilmachungs-Plänen](https://www.deutschlandfunk.de/putin-zerstreut-sorgen-ueber-russische-wirtschaft-und-spekulationen-zu-mobilmachungs-plaenen-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Zahlreiche Verletzte bei neuem russischen Luftangriff auf Odessa](https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-neuem-russischen-luftangriff-auf-odessa-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Norwegen beschlagnahmt russisches Expeditionsschiff in der Arktis](https://www.deutschlandfunk.de/norwegen-beschlagnahmt-russisches-expeditionsschiff-in-der-arktis-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Urheberrecht - BGH erlaubt Weiterleitung von TV im Seniorenheim](https://www.deutschlandfunk.de/bgh-erlaubt-weiterleitung-von-tv-im-seniorenheim-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Jugendschutz im Internet - EU-Abgeordnete fordern strengere Regeln nach US-Vorbild](https://www.deutschlandfunk.de/eu-abgeordnete-fordern-strengere-regeln-nach-us-vorbild-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesinstitut für Öffentliche Gesundheit - Fast die Hälfte der jungen Männner in Deutschland konsumiert zeitweise exzessiv Alkohol](https://www.deutschlandfunk.de/fast-die-haelfte-der-jungen-maennner-in-deutschland-konsumiert-zeitweise-exzessiv-alkohol-100.html)  
+  _Thu, 03 Sep 2026 13:27:40 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Guinea-Bissau voters approve new constitution expanding presidential powers](https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections)  
+- **The Guardian** — [Victims sue South African government over 1961 Sharpeville massacre that left 91 dead](https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid)  
+  _Thu, 03 Sep 2026 10:11:37 GMT_ · paywall: `False`
+- **The Guardian** — [New constitution in Guinea-Bissau will undermine democracy, opponents say](https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections)  
   _Wed, 02 Sep 2026 09:20:55 GMT_ · paywall: `False`
 - **The Guardian** — [Almost half of world’s farmers poisoned by pesticides every year, experts find](https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts)  
   _Wed, 02 Sep 2026 06:00:25 GMT_ · paywall: `False`
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 31 Aug 2026 13:44:39 GMT_ · paywall: `False`
 - **The Guardian** — [Countries legally obliged to consider slavery reparations, says UN committee](https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee)  
   _Mon, 31 Aug 2026 11:54:16 GMT_ · paywall: `False`
-- **The Guardian** — [Morocco not to blame for Ceuta border breach, says Spanish PM](https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez)  
-  _Mon, 31 Aug 2026 10:21:56 GMT_ · paywall: `False`
-- **The Guardian** — [Mark Carney tells US to ‘start being serious’ amid escalating trade war](https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada)  
-  _Tue, 01 Sep 2026 15:48:27 GMT_ · paywall: `False`
-- **The Guardian** — [MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order](https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump)  
-  _Tue, 01 Sep 2026 13:49:33 GMT_ · paywall: `False`
-- **The Guardian** — [Echoes of cold war as US accused of meddling in another Brazilian election](https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election)  
-  _Tue, 01 Sep 2026 12:00:57 GMT_ · paywall: `False`
-- **The Guardian** — [Trump suggests he is reviewing US support for UK over Falkland Islands](https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands)  
-  _Tue, 01 Sep 2026 08:31:35 GMT_ · paywall: `False`
-- **The Guardian** — [Canada’s ruling Liberals sweep byelections in boost to Mark Carney](https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney)  
-  _Tue, 01 Sep 2026 07:42:50 GMT_ · paywall: `False`
-- **The Guardian** — [Japan halves speed limit to 30km/h on all narrow city streets](https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets)  
-  _Wed, 02 Sep 2026 05:15:00 GMT_ · paywall: `False`
-- **The Guardian** — [Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case](https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china)  
-  _Wed, 02 Sep 2026 04:57:27 GMT_ · paywall: `False`
+- **The Guardian** — [The US and Venezuela: a century-old relationship drenched in oil](https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil)  
+  _Thu, 03 Sep 2026 10:00:50 GMT_ · paywall: `False`
+- **The Guardian** — [Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order](https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america)  
+  _Wed, 02 Sep 2026 21:15:12 GMT_ · paywall: `False`
+- **The Guardian** — [Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism](https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright)  
+  _Wed, 02 Sep 2026 14:44:39 GMT_ · paywall: `False`
+- **The Guardian** — [Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’](https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post)  
+  _Wed, 02 Sep 2026 14:44:31 GMT_ · paywall: `False`
+- **The Guardian** — [Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI](https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting)  
+  _Wed, 02 Sep 2026 13:22:57 GMT_ · paywall: `False`
+- **The Guardian** — [Yen soars as Bank of Japan tipped to raise interest rates](https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates)  
+  _Thu, 03 Sep 2026 11:28:45 GMT_ · paywall: `False`
+- **The Guardian** — [China’s falling emissions amid Iran war spark hope of decarbonisation watershed](https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war)  
+  _Wed, 02 Sep 2026 23:01:37 GMT_ · paywall: `False`
