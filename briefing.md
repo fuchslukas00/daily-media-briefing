@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-09-11 11:43 UTC_
+_Generated: 2026-09-12 11:10 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Tag der wohnungslosen Menschen - Steinmeier mahnt mehr Einsatz an](https://www.deutschlandfunk.de/steinmeier-mahnt-mehr-einsatz-an-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Dobrindt-Vorstoß - Netzbetreiber Amprion: Drohnenabwehr nicht Unternehmensaufgabe](https://www.deutschlandfunk.de/netzbetreiber-amprion-drohnenabwehr-nicht-unternehmensaufgabe-102.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bab al-Mandab - Huthi erobern Insel in strategisch wichtiger Meerenge](https://www.deutschlandfunk.de/huthi-erobern-insel-in-strategisch-wichtiger-meerenge-102.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Unterstützungsleistungen - Gaskrise 2022 kostete Bund mindestens 50 Milliarden Euro](https://www.deutschlandfunk.de/gaskrise-2022-kostete-bund-mindestens-50-milliarden-euro-102.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundestag - Arbeitsministerin Bas verteidigt geplante Rentenreform, Opposition kritisiert Kürzungen](https://www.deutschlandfunk.de/arbeitsministerin-bas-verteidigt-geplante-rentenreform-opposition-kritisiert-kuerzungen-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Klingbeil-Pläne - Geschäfte und Gastronomie sollen künftig Kartenzahlung anbieten müssen](https://www.deutschlandfunk.de/geschaefte-und-gastronomie-sollen-kuenftig-kartenzahlung-anbieten-muessen-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [25 Jahre nach dem Terroranschlag - Gedenken an Opfer des 11. September](https://www.deutschlandfunk.de/gedenken-an-opfer-des-11-september-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Künstliche Intelligenz - Debatte über strengere Vorschriften in den USA - KI-Forscher warnen vor Auslöschen der Menschheit](https://www.deutschlandfunk.de/debatte-ueber-strengere-vorschriften-in-den-usa-ki-forscher-warnen-vor-ausloeschen-der-menschheit-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Italien - Ehemalige EU-Kommissarin Emma Bonino gestorben](https://www.deutschlandfunk.de/ehemalige-eu-kommissarin-emma-bonino-gestorben-102.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Kanton Graubünden - Fünf Tote und 40 Verletzte bei Reisebus-Unfall](https://www.deutschlandfunk.de/fuenf-tote-und-40-verletzte-bei-reisebus-unfall-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Statistisches Bundesamt - Zahl der Insolvenzen im Juni deutlich gestiegen](https://www.deutschlandfunk.de/zahl-der-insolvenzen-im-juni-deutlich-gestiegen-102.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Chef der Atlantik Brücke - Gabriel sieht 9/11 als Beginn einer Entfremdung zwischen Deutschland und den USA](https://www.deutschlandfunk.de/gabriel-sieht-9-11-als-beginn-einer-entfremdung-zwischen-deutschland-und-den-usa-100.html)  
-  _Fri, 11 Sep 2026 13:35:51 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Sachsen-Anhalt-Wahl - "Zeichen der Zeit erkennen": SPD-Generalsekretär Klüssendorf fordert Kurswechsel im Bund](https://www.deutschlandfunk.de/zeichen-der-zeit-erkennen-spd-generalsekretaer-kluessendorf-fordert-kurswechsel-im-bund-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sachsen-Anhalt - Justizministerin Hubig und Unionsfraktionschef Frei bringen "Bundeszwang" gegen mögliche Rechtsverstöße einer künftigen Landesregierung wieder ins Gespräch](https://www.deutschlandfunk.de/justizministerin-hubig-und-unionsfraktionschef-frei-bringen-bundeszwang-gegen-moegliche-rechtsversto-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Angriffen - Saudische Ölindustrie durch Abschaltung von Pipeline unter Druck - weltweite Folgen befürchtet](https://www.deutschlandfunk.de/saudische-oelindustrie-durch-abschaltung-von-pipeline-unter-druck-weltweite-folgen-befuerchtet-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [DLF-Interview - Grünen-Politiker Schäfer für Senkung der Stromsteuer "für alle"](https://www.deutschlandfunk.de/gruenen-politiker-schaefer-fuer-senkung-der-stromsteuer-fuer-alle-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Innere Sicherheit - Neue Erkenntnisse zu Hintermännern des versuchten Drohnenangriffs von Leipzig](https://www.deutschlandfunk.de/neue-erkenntnisse-zu-hintermaennern-des-versuchten-drohnenangriffs-von-leipzig-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [CDU - Parteiinterne Kritik an Merz' Kurs wird lauter - Arbeitnehmerflügel CDA wirft dem Bundeskanzler falschen Kurs vor](https://www.deutschlandfunk.de/parteiinterne-kritik-an-merz-kurs-wird-lauter-arbeitnehmerfluegel-cda-wirft-dem-bundeskanzler-falsch-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Deutsche Bahn - Generalsanierungen sollen länger dauern - Unions-Obmann für Verkehr Donth wertet Verzögerung als positiv](https://www.deutschlandfunk.de/generalsanierungen-sollen-laenger-dauern-unions-obmann-fuer-verkehr-donth-wertet-verzoegerung-als-po-102.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Reaktion auf AfD-Erfolg - Italiens Regierungschefin Meloni: Strategie der Brandmauer funktioniert nicht](https://www.deutschlandfunk.de/italiens-regierungschefin-meloni-strategie-der-brandmauer-funktioniert-nicht-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gesundheitsreform - Kassenärzte-Chef Gassen hält schnellere Vergaben von Facharztterminen in dringenden Fällen für möglich](https://www.deutschlandfunk.de/kassenaerzte-chef-gassen-haelt-schnellere-vergaben-von-facharztterminen-in-dringenden-faellen-fuer-m-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg Russlands gegen die Ukraine - Selenskyj offenbar zu Treffen mit Putin bei G20-Gipfel bereit](https://www.deutschlandfunk.de/selenskyj-offenbar-zu-treffen-mit-putin-bei-g20-gipfel-bereit-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [EMCO - Erneut Brand in Munitionsfabrik in Bulgarien](https://www.deutschlandfunk.de/erneut-brand-in-munitionsfabrik-in-bulgarien-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Chile - Gedenken an Opfer des Militärputschs von 1973 - Ausschreitungen am Rande der Kundgebungen](https://www.deutschlandfunk.de/gedenken-an-opfer-des-militaerputschs-von-1973-ausschreitungen-am-rande-der-kundgebungen-100.html)  
+  _Sat, 12 Sep 2026 12:54:05 +0200_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 09 Sep 2026 08:00:03 GMT_ · paywall: `False`
 - **The Guardian** — [‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies](https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb)  
   _Wed, 09 Sep 2026 04:46:23 GMT_ · paywall: `False`
-- **The Guardian** — [Japan seeks change to new UN world map over Russia 'misconception'](https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception)  
-  _Thu, 10 Sep 2026 12:55:03 GMT_ · paywall: `False`
-- **The Guardian** — [Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role](https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit)  
-  _Thu, 10 Sep 2026 05:57:31 GMT_ · paywall: `False`
+- **The Guardian** — [Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations](https://www.theguardian.com/world/2026/sep/12/xi-jinping-brics-summit-delhi-india-china-relations)  
+  _Sat, 12 Sep 2026 10:37:48 GMT_ · paywall: `False`
+- **The Guardian** — [Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow](https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow)  
+  _Sat, 12 Sep 2026 04:53:10 GMT_ · paywall: `False`
