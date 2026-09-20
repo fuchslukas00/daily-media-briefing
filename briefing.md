@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-09-19 11:23 UTC_
+_Generated: 2026-09-20 11:44 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Fragen und Anworten - Tankrabatt und Preisdeckel - Was die Bundesregierung gegen die hohen Spritpreise plant](https://www.deutschlandfunk.de/tankrabatt-und-preisdeckel-was-die-bundesregierung-gegen-die-hohen-spritpreise-plant-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["O'zapft is" - Münchner Oberbürgermeister Krause eröffnet mit Fassanstich das Oktoberfest](https://www.deutschlandfunk.de/muenchner-oberbuergermeister-krause-eroeffnet-mit-fassanstich-das-oktoberfest-102.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach langem Streit - Einigung mit Dänemark und Grönland: USA wollen Militärpräsenz ausweiten](https://www.deutschlandfunk.de/einigung-mit-daenemark-und-groenland-usa-wollen-militaerpraesenz-ausweiten-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - USA verhängen neue Sanktionen gegen Russland - Selenskyj dankt Trump](https://www.deutschlandfunk.de/usa-verhaengen-neue-sanktionen-gegen-russland-selenskyj-dankt-trump-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Brüssel - CDU-Außenpolitiker McAllister begrüßt engere Partnerschaft mit Kanada und wirbt für Ceta-Handelsabkommen](https://www.deutschlandfunk.de/cdu-aussenpolitiker-mcallister-begruesst-engere-partnerschaft-mit-kanada-und-wirbt-fuer-ceta-handels-102.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheit - Linnemann: Krankenkassen sollen doch wieder über Anhebung von Zusatzbeitrag informieren müssen](https://www.deutschlandfunk.de/linnemann-krankenkassen-sollen-doch-wieder-ueber-anhebung-von-zusatzbeitrag-informieren-muessen-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gesetzentwürfe im Bundestag - Organspende: SPD-Abgeordneter Castelucci kritisiert mögliche Widerspruchslösung](https://www.deutschlandfunk.de/organspende-spd-abgeordneter-castelucci-kritisiert-moegliche-widerspruchsloesung-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [NRW - Sozialmissbrauch: Hagens Oberbürgermeister begrüßt Aktionsplan der Bundesregierung und fordert neue EU-Gesetze](https://www.deutschlandfunk.de/sozialmissbrauch-hagens-oberbuergermeister-begruesst-aktionsplan-der-bundesregierung-und-fordert-neu-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Landtagswahlen - Parteien beenden Wahlkampf in Mecklenburg-Vorpommern und Berlin](https://www.deutschlandfunk.de/parteien-beenden-wahlkampf-in-mecklenburg-vorpommern-und-berlin-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nazi-Devotionalien gefunden - Durchsuchung bei Mitarbeiter von AfD-Spitzenkandidatin Brinker in Berlin](https://www.deutschlandfunk.de/durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin-brinker-in-berlin-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Entlastungspaket - "Regierung greift erneut zur Gießkanne": Verbraucherschützer kritisieren Tankrabatt - Lob vom Bauernverband](https://www.deutschlandfunk.de/regierung-greift-erneut-zur-giesskanne-verbraucherschuetzer-kritisieren-tankrabatt-lob-vom-bauernver-100.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Hohe Kraftstoffpreise - Einigung zwischen Bund und Ländern über Tankrabatt und Spritpreisdeckel](https://www.deutschlandfunk.de/einigung-zwischen-bund-und-laendern-ueber-tankrabatt-und-spritpreisdeckel-104.html)  
-  _Sat, 19 Sep 2026 13:18:44 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schulen, Straßen, Klimafolgen - Städte- und Gemeindebund fordert doppelt so viel Geld aus dem Sondervermögen](https://www.deutschlandfunk.de/staedte-und-gemeindebund-fordert-doppelt-so-viel-geld-aus-dem-sondervermoegen-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Abstimmung - In Berlin und Mecklenburg-Vorpommern werden neue Parlamente gewählt](https://www.deutschlandfunk.de/in-berlin-und-mecklenburg-vorpommern-werden-neue-parlamente-gewaehlt-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kanzler unter Druck - Merz berät mit CDU-Spitze am Abend über Ergebnisse von Landtagswahlen](https://www.deutschlandfunk.de/merz-beraet-mit-cdu-spitze-am-abend-ueber-ergebnisse-von-landtagswahlen-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Präsident Trump kündigt "AI Force" zur KI-Regulierung an](https://www.deutschlandfunk.de/praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an-102.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Angriffe auf Riad - US-Außenministerium warnt vor Eskalation zwischen Saudi-Arabien und der Huthi-Miliz](https://www.deutschlandfunk.de/us-aussenministerium-warnt-vor-eskalation-zwischen-saudi-arabien-und-der-huthi-miliz-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Meerenge - Iranischer Parlamentspräsident Ghalibaf bekräftigt Bedingungen für Freigabe der Straße von Hormus](https://www.deutschlandfunk.de/iranischer-parlamentspraesident-ghalibaf-bekraeftigt-bedingungen-fuer-freigabe-der-strasse-von-hormu-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigung - General Breuer wird Vorsitzender des NATO-Militärausschusses](https://www.deutschlandfunk.de/general-breuer-wird-vorsitzender-des-nato-militaerausschusses-114.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verteidigungspolitik - Forderung an Pistorius: Posten des Generalinspekteurs schnell neu besetzen](https://www.deutschlandfunk.de/forderung-an-pistorius-posten-des-generalinspekteurs-schnell-neu-besetzen-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Duma - Russische Parlamentswahl geht zu Ende - Zwei Tote bei Drohnenangriffen auf Moskau](https://www.deutschlandfunk.de/russische-parlamentswahl-geht-zu-ende-zwei-tote-bei-drohnenangriffen-auf-moskau-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nahost - Tote bei israelischen Angriffen im Gazastreifen](https://www.deutschlandfunk.de/tote-bei-israelischen-angriffen-im-gazastreifen-118.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Den Haag - Gewaltsame Zusammenstöße bei rechtsextremer Demonstration in den Niederlanden](https://www.deutschlandfunk.de/gewaltsame-zusammenstoesse-bei-rechtsextremer-demonstration-in-den-niederlanden-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Konflikt - Südkorea: Nordkorea feuert Geschoss in Richtung Meer](https://www.deutschlandfunk.de/suedkorea-nordkorea-feuert-geschoss-in-richtung-meer-100.html)  
+  _Sun, 20 Sep 2026 13:00:15 +0200_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 16 Sep 2026 13:15:02 GMT_ · paywall: `False`
 - **The Guardian** — [People protecting nature and land set up self-defence units amid threat of murder](https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime)  
   _Wed, 16 Sep 2026 05:00:10 GMT_ · paywall: `False`
+- **The Guardian** — [Why China is pushing back on US warnings over rapid AI development](https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development)  
+  _Sun, 20 Sep 2026 06:00:09 GMT_ · paywall: `False`
 - **The Guardian** — [Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty](https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb)  
   _Fri, 18 Sep 2026 10:00:35 GMT_ · paywall: `False`
-- **The Guardian** — [Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon](https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon)  
-  _Fri, 18 Sep 2026 08:36:50 GMT_ · paywall: `False`
