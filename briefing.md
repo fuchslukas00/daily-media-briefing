@@ -1,48 +1,50 @@
 # Daily Briefing
 
-_Generated: 2026-09-26 11:42 UTC_
+_Generated: 2026-09-27 12:21 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Bundesweiter Aktionstag - DGB demonstriert in 15 Städten gegen Sozialabbau - Kritik von Arbeitgebern](https://www.deutschlandfunk.de/dgb-demonstriert-in-15-staedten-gegen-sozialabbau-kritik-von-arbeitgebern-102.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Koalition - Widerstand der SPD gegen Leistungskürzungen bei Pflegereform](https://www.deutschlandfunk.de/widerstand-der-spd-gegen-leistungskuerzungen-bei-pflegereform-106.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gelsenkirchen - Zahlreiche Bahnverbindungen nach Kabeldiebstahl unterbrochen](https://www.deutschlandfunk.de/zahlreiche-bahnverbindungen-nach-kabeldiebstahl-unterbrochen-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [DOSB - München oder Köln-Rhein-Ruhr? Entscheidung über deutschen Olympiabewerber](https://www.deutschlandfunk.de/muenchen-oder-koeln-rhein-ruhr-entscheidung-ueber-deutschen-olympiabewerber-102.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Oktoberfest - München erinnert an Opfer des rechtsextremistischen Terroranschlags von 1980](https://www.deutschlandfunk.de/muenchen-erinnert-an-opfer-des-rechtsextremistischen-terroranschlags-von-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Fachkräftemangel - Krankenhausgesellschaft fordert schnellere Anerkennung von ausländischen Abschlüssen](https://www.deutschlandfunk.de/krankenhausgesellschaft-fordert-schnellere-anerkennung-von-auslaendischen-abschluessen-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Künstliche Intelligenz - USA und China planen Austausch über Zwischenfälle - Wildberger fordert internationale Kontrolle](https://www.deutschlandfunk.de/usa-und-china-planen-austausch-ueber-zwischenfaelle-wildberger-fordert-internationale-kontrolle-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Unionsfraktionschef Frei warnt vor Zusammenarbeit mit der Linken - Eralp stellt sich gegen Antisemitismus](https://www.deutschlandfunk.de/unionsfraktionschef-frei-warnt-vor-zusammenarbeit-mit-der-linken-eralp-stellt-sich-gegen-antisemitis-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Frankreich-Besuch - Hunderttausende zu Papstmesse in Paris erwartet](https://www.deutschlandfunk.de/hunderttausende-zu-papstmesse-in-paris-erwartet-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Offenbacher Verein Connection - Kriegsdienstverweigerer-Netzwerk mit neuem Friedenspreis geehrt](https://www.deutschlandfunk.de/kriegsdienstverweigerer-netzwerk-mit-neuem-friedenspreis-geehrt-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine und Russland - Tote bei gegenseitigen Drohnenangriffen](https://www.deutschlandfunk.de/tote-bei-gegenseitigen-drohnenangriffen-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach der Wahl in Sachsen-Anhalt - AfD und BSW sprechen laut Bericht über MDR und Corona-Ausschuss](https://www.deutschlandfunk.de/afd-und-bsw-sprechen-laut-bericht-ueber-mdr-und-corona-ausschuss-100.html)  
-  _Sat, 26 Sep 2026 13:31:26 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Großbritannien - Polizei verhindert möglicherweise Anschlag auf von USA genutze Militärbasis](https://www.deutschlandfunk.de/polizei-verhindert-moeglicherweise-anschlag-auf-von-usa-genutze-militaerbasis-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Pflegereform - SPD will Überarbeitung des Vorhabens](https://www.deutschlandfunk.de/spd-will-ueberarbeitung-des-vorhabens-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Linke geht wegen kritischem Video gerichtlich gegen Bundeswirtschaftsministerin Reiche vor](https://www.deutschlandfunk.de/linke-geht-wegen-kritischem-video-gerichtlich-gegen-bundeswirtschaftsministerin-reiche-vor-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Krieg gegen die Ukraine - Selenskyj: Russland setzt 2.200 Kampfdrohnen in einer Woche ein](https://www.deutschlandfunk.de/selenskyj-russland-setzt-2-200-kampfdrohnen-in-einer-woche-ein-102.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Starkregen und Erdrutsche - Mindestens 70 Tote bei Unwettern in Nepal und Indien](https://www.deutschlandfunk.de/mindestens-70-tote-bei-unwettern-in-nepal-und-indien-102.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hochrechnung - Initiative zu strikterer Neutralität der Schweiz gescheitert](https://www.deutschlandfunk.de/initiative-zu-strikterer-neutralitaet-der-schweiz-gescheitert-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus](https://www.deutschlandfunk.de/iran-beharrt-auf-bedingungen-fuer-wiederoeffnung-der-strasse-von-hormus-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Verletzte und Brände - Ukraine meldet erneut russische Angriffe auf Odessa](https://www.deutschlandfunk.de/ukraine-meldet-erneut-russische-angriffe-auf-odessa-102.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Neue Verbraucherregeln - EU-Gesetz gegen Greenwashing in der Werbung in Kraft](https://www.deutschlandfunk.de/eu-gesetz-gegen-greenwashing-in-der-werbung-in-kraft-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Wahlniederlagen - CDU-Arbeitnehmerflügel fordert Neuaufstellung der Partei](https://www.deutschlandfunk.de/cdu-arbeitnehmerfluegel-fordert-neuaufstellung-der-partei-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Lourdes - Papst Leo XIV. feiert Messe mit 150.000 Menschen](https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-mit-150-000-menschen-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sizilien - Flughafen Catania bleibt wegen Aschewolke des Vulkans Ätna weiter geschlossen](https://www.deutschlandfunk.de/flughafen-catania-bleibt-wegen-aschewolke-des-vulkans-aetna-weiter-geschlossen-100.html)  
+  _Sun, 27 Sep 2026 14:14:43 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys](https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe)  
+  _Sun, 27 Sep 2026 11:00:03 GMT_ · paywall: `False`
+- **The Guardian** — [At least 27 dead after two mass shootings in South Africa, police say](https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town)  
+  _Sun, 27 Sep 2026 08:19:24 GMT_ · paywall: `False`
 - **The Guardian** — [Rebel offensive against Ethiopian army stokes fears of return to civil war](https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army)  
   _Thu, 24 Sep 2026 15:29:42 GMT_ · paywall: `False`
 - **The Guardian** — [Indian billionaire’s payments firm plots biggest London flotation in years](https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money)  
   _Wed, 23 Sep 2026 11:08:01 GMT_ · paywall: `False`
 - **The Guardian** — [Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl](https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming)  
   _Wed, 23 Sep 2026 09:38:06 GMT_ · paywall: `False`
-- **The Guardian** — [Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns](https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl)  
-  _Mon, 21 Sep 2026 22:33:40 GMT_ · paywall: `False`
-- **The Guardian** — [Banished to alien lands: Trump’s secret deportation deals](https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals)  
-  _Mon, 21 Sep 2026 05:00:38 GMT_ · paywall: `False`
+- **The Guardian** — [US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering](https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers)  
+  _Sat, 26 Sep 2026 16:00:39 GMT_ · paywall: `False`
 - **The Guardian** — [Lula bans fixed-odds sports betting a week before Brazilian elections](https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections)  
   _Sat, 26 Sep 2026 07:58:05 GMT_ · paywall: `False`
 - **The Guardian** — [Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters](https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo)  
@@ -51,8 +53,6 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 25 Sep 2026 16:34:05 GMT_ · paywall: `False`
 - **The Guardian** — [Hurricane Polo barrels towards Baja California region of Mexico](https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico)  
   _Fri, 25 Sep 2026 10:28:45 GMT_ · paywall: `False`
-- **The Guardian** — [Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election](https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election)  
-  _Fri, 25 Sep 2026 03:33:48 GMT_ · paywall: `False`
 - **The Guardian** — [Pomp over progress in Xi’s US summit with Trump is a win for China](https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment)  
   _Fri, 25 Sep 2026 12:41:14 GMT_ · paywall: `False`
 - **The Guardian** — [At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict](https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap)  
