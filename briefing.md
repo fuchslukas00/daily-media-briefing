@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-10-04 12:46 UTC_
+_Generated: 2026-10-05 15:11 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Ausschuss-Vorsitzende - AfD begrüßt Vorstoß von Hessens CDU-Chef Rhein - Kritik von Koalitionsvertretern](https://www.deutschlandfunk.de/afd-begruesst-vorstoss-von-hessens-cdu-chef-rhein-kritik-von-koalitionsvertretern-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Überlegungen für Dreierbündnis - Dröge (Grüne) plädiert für Koalition aus ihrer Partei mit SPD und Die Linke](https://www.deutschlandfunk.de/droege-gruene-plaediert-fuer-koalition-aus-ihrer-partei-mit-spd-und-die-linke-104.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Besuch in Kiew - Merz fordert ein Ende der russischen Angriffe: "Hören Sie diesen Krieg auf!"](https://www.deutschlandfunk.de/merz-fordert-ein-ende-der-russischen-angriffe-hoeren-sie-diesen-krieg-auf-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [2. Weltkrieg - Griechenlands Präsident bekräftigt Forderung nach deutschen Kriegsreparationen](https://www.deutschlandfunk.de/griechenlands-praesident-bekraeftigt-forderung-nach-deutschen-kriegsreparationen-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Migration - Zahl der Asylanträge in der EU um fast ein Viertel gesunken](https://www.deutschlandfunk.de/zahl-der-asylantraege-in-der-eu-um-fast-ein-viertel-gesunken-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [München - Oktoberfest endet mit neuem Besucherrekord](https://www.deutschlandfunk.de/oktoberfest-endet-mit-neuem-besucherrekord-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Thüringen - Voigts Koalition und Linke einigen sich auf neue Verfahren](https://www.deutschlandfunk.de/voigts-koalition-und-linke-einigen-sich-auf-neue-verfahren-102.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Formel 1 - Verstappen gewinnt den Großen Preis von Bahrain in Malaysia](https://www.deutschlandfunk.de/verstappen-gewinnt-den-grossen-preis-von-bahrain-in-malaysia-102.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Verkehr - Deutsche Bahn bietet Familienticket dauerhaft an](https://www.deutschlandfunk.de/deutsche-bahn-bietet-familienticket-dauerhaft-an-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Lateinamerika  - Präsidentschaftswahl in Brasilien beginnt](https://www.deutschlandfunk.de/praesidentschaftswahl-in-brasilien-beginnt-106.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [USA - Vorwurf der Gruppenvergewaltigung an Elite-Universität: Cornell-Präsident kündigt Untersuchung an](https://www.deutschlandfunk.de/vorwurf-der-gruppenvergewaltigung-an-elite-universitaet-cornell-praesident-kuendigt-untersuchung-an-100.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wegen Regierungsbildung in Sachsen-Anhalt - Hamburg behält Vorsitz der Justizministerkonferenz](https://www.deutschlandfunk.de/hamburg-behaelt-vorsitz-der-justizministerkonferenz-104.html)  
-  _Sun, 04 Oct 2026 14:43:25 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berichte - Schwarz-rote Koalition plant neue Plastiksteuer](https://www.deutschlandfunk.de/schwarz-rote-koalition-plant-neue-plastiksteuer-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Anhörung im Bundestag - Geheimdienstchefs sehen reale Gefahr eines gewaltsamen Konflikts mit Russland](https://www.deutschlandfunk.de/geheimdienstchefs-sehen-reale-gefahr-eines-gewaltsamen-konflikts-mit-russland-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Strategiepapier - AfD-Abgeordnete rücken in Aktionsplan von Austritt aus EU und Euro-Zone ab](https://www.deutschlandfunk.de/afd-abgeordnete-ruecken-in-aktionsplan-von-austritt-aus-eu-und-euro-zone-ab-102.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Konferenz in Berlin - Umweltminister Schneider will Wasserverschmutzer stärker zur Kasse bitten - "auch Verteilungsfragen von enormer Bedeutung"](https://www.deutschlandfunk.de/umweltminister-schneider-will-wasserverschmutzer-staerker-zur-kasse-bitten-auch-verteilungsfragen-vo-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Handelspolitik - Merz und Macron: EU soll schneller auf Wettbewerbsverzerrungen reagieren können](https://www.deutschlandfunk.de/merz-und-macron-eu-soll-schneller-auf-wettbewerbsverzerrungen-reagieren-koennen-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kraftstoffpreise - ADAC: "Tanken wieder so teuer wie zu Beginn des Rabatts"](https://www.deutschlandfunk.de/adac-tanken-wieder-so-teuer-wie-zu-beginn-des-rabatts-102.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Schienennetz - Bahn erhöht Trassenpreise um bis zu 12,9 Prozent](https://www.deutschlandfunk.de/bahn-erhoeht-trassenpreise-um-bis-zu-12-9-prozent-102.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Niedersachsen - Pistorius: Neuer Marinehafen soll in Emden gebaut werden](https://www.deutschlandfunk.de/pistorius-neuer-marinehafen-soll-in-emden-gebaut-werden-104.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gegenangriffe - Ukrainisches Verteidigungsministerium: Hälfte der Kapazitäten der russischen Öl-Industrie durch Angriffe ausgefallen](https://www.deutschlandfunk.de/ukrainisches-verteidigungsministerium-haelfte-der-kapazitaeten-der-russischen-oel-industrie-durch-an-102.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sicherheit - Neues System zur Drohnenerkennung an Flughäfen in Hamburg und Stuttgart eingerichtet](https://www.deutschlandfunk.de/neues-system-zur-drohnenerkennung-an-flughaefen-in-hamburg-und-stuttgart-eingerichtet-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Stockholm - Medizin-Nobelpreis geht an zwei deutsche Wissenschaftler und einen US-Amerikaner](https://www.deutschlandfunk.de/medizin-nobelpreis-geht-an-zwei-deutsche-wissenschaftler-und-einen-us-amerikaner-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Deutsche Wirtschaft - DIHK: Gewerbesteuer wird zur "stillen Standortbremse"](https://www.deutschlandfunk.de/dihk-gewerbesteuer-wird-zur-stillen-standortbremse-100.html)  
+  _Mon, 05 Oct 2026 17:00:35 +0200_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Guardian readers fund life-changing surgery for Somali boy injured in US airstrike](https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah)  
+  _Mon, 05 Oct 2026 12:00:24 GMT_ · paywall: `False`
+- **The Guardian** — [Skull fractures suggest servants of Egypt’s ancient kings were sacrificed](https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed)  
+  _Mon, 05 Oct 2026 04:00:48 GMT_ · paywall: `False`
+- **The Guardian** — [Egyptian journalist faces terrorism charges after entire newsroom detained](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom)  
+  _Sun, 04 Oct 2026 15:16:03 GMT_ · paywall: `False`
 - **The Guardian** — [Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities](https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar)  
   _Sat, 03 Oct 2026 09:00:56 GMT_ · paywall: `False`
 - **The Guardian** — [Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin](https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin)  
   _Fri, 02 Oct 2026 08:55:42 GMT_ · paywall: `False`
-- **The Guardian** — [Trump administration diverts human rights funds to push far-right agenda abroad](https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund)  
-  _Wed, 30 Sep 2026 19:51:24 GMT_ · paywall: `False`
-- **The Guardian** — [South African leader urges men to speak up on gender-based violence after series of killings](https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings)  
-  _Wed, 30 Sep 2026 14:16:33 GMT_ · paywall: `False`
-- **The Guardian** — [Burundi agrees to receive ‘third-country’ migrant deportees from US](https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration)  
-  _Wed, 30 Sep 2026 12:47:15 GMT_ · paywall: `False`
-- **The Guardian** — [Brazil goes to polls in decisive election for future of Latin America](https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro)  
-  _Sun, 04 Oct 2026 08:53:01 GMT_ · paywall: `False`
-- **The Guardian** — [US Coast Guard searches for missing air ambulance off coast of Massachusetts](https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts)  
-  _Sun, 04 Oct 2026 03:38:48 GMT_ · paywall: `False`
-- **The Guardian** — [Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc](https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump)  
-  _Sat, 03 Oct 2026 07:00:35 GMT_ · paywall: `False`
-- **The Guardian** — [Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son](https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son)  
-  _Fri, 02 Oct 2026 21:12:29 GMT_ · paywall: `False`
-- **The Guardian** — [US Coast Guard says it intercepted ship carrying fuel to Cuba](https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba)  
-  _Fri, 02 Oct 2026 15:13:23 GMT_ · paywall: `False`
-- **The Guardian** — [UK car industry faces ‘difficult trade-off’ between Chinese and EU markets](https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws)  
-  _Sun, 04 Oct 2026 05:00:18 GMT_ · paywall: `False`
-- **The Guardian** — [North Korea launches ballistic missile after Seoul demands apology over wounded soldiers](https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers)  
-  _Sat, 03 Oct 2026 05:31:08 GMT_ · paywall: `False`
+- **The Guardian** — [Quebec poised to elect separatists to power for first time more than decade](https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum)  
+  _Mon, 05 Oct 2026 09:30:52 GMT_ · paywall: `False`
+- **The Guardian** — [Sass Jordan, Canadian rock singer-songwriter, dies aged 65](https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65)  
+  _Mon, 05 Oct 2026 09:22:59 GMT_ · paywall: `False`
+- **The Guardian** — [Brazil presidential election 2026: first-round live results](https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results)  
+  _Mon, 05 Oct 2026 00:24:55 GMT_ · paywall: `False`
+- **The Guardian** — [Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula](https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro)  
+  _Mon, 05 Oct 2026 00:16:52 GMT_ · paywall: `False`
+- **The Guardian** — [Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues](https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia)  
+  _Sun, 04 Oct 2026 14:00:32 GMT_ · paywall: `False`
+- **The Guardian** — [Extreme heat warnings issued for parts of southern California](https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california)  
+  _Mon, 05 Oct 2026 08:20:52 GMT_ · paywall: `False`
+- **The Guardian** — [California woman arrested and accused of spying on Taiwan president’s son for China](https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china)  
+  _Mon, 05 Oct 2026 05:39:03 GMT_ · paywall: `False`
