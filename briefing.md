@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-10-06 13:32 UTC_
+_Generated: 2026-10-07 13:46 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Klimapolitik - Weniger deutsches Geld für Klimaschutz in ärmeren Ländern](https://www.deutschlandfunk.de/weniger-deutsches-geld-fuer-klimaschutz-in-aermeren-laendern-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Jahrestag - Israels Verteidigungsminister Katz versetzt Armee vor 7. Oktober in Alarmbereitschaft](https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-versetzt-armee-vor-7-oktober-in-alarmbereitschaft-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - AfD-Politiker Rausch zum Landtagspräsidenten gewählt](https://www.deutschlandfunk.de/afd-politiker-rausch-zum-landtagspraesidenten-gewaehlt-102.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - Erster Landtagspräsident von der AfD - Rausch: "Ich bin kein Hardliner, ich bin pragmatisch"](https://www.deutschlandfunk.de/erster-landtagspraesident-von-der-afd-rausch-ich-bin-kein-hardliner-ich-bin-pragmatisch-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Katalonien - Spaniens Justiz ermöglicht Rückkehr von Separatistenführer Puigdemont](https://www.deutschlandfunk.de/spaniens-justiz-ermoeglicht-rueckkehr-von-separatistenfuehrer-puigdemont-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Buchmesse - "Frankfurter Appell" fordert Regulierung von Künstlicher Intelligenz](https://www.deutschlandfunk.de/frankfurter-appell-fordert-regulierung-von-kuenstlicher-intelligenz-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wissenschaft - Physik-Nobelpreis an Neutrinoforscher Francis Halzen](https://www.deutschlandfunk.de/physik-nobelpreis-an-neutrinoforscher-francis-halzen-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Geheimdienste - Ehemaliger BND-Chef Hanning wegen Spionageverdachts festgenommen](https://www.deutschlandfunk.de/ehemaliger-bnd-chef-hanning-wegen-spionageverdachts-festgenommen-102.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Tarifabschluss für Beschäftigte in deutschen Seehäfen](https://www.deutschlandfunk.de/tarifabschluss-fuer-beschaeftigte-in-deutschen-seehaefen-102.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Braunschweig - Germanwings-Prozess: Gericht weist Klage Hinterbliebener ab](https://www.deutschlandfunk.de/germanwings-prozess-gericht-weist-klage-hinterbliebener-ab-102.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Möglicher Pestfall in Russland - WHO schätzt Risiko für Europa als sehr gering ein](https://www.deutschlandfunk.de/who-schaetzt-risiko-fuer-europa-als-sehr-gering-ein-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Schwarzes Meer - Drohnenangriffe auf zwei Frachtschiffe vor Bulgarien - eines gesunken, Crew vermisst](https://www.deutschlandfunk.de/drohnenangriffe-auf-zwei-frachtschiffe-vor-bulgarien-eines-gesunken-crew-vermisst-100.html)  
-  _Tue, 06 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Bundeskanzler - Merz verurteilt Wahl eines AfD-Politikers zum Landtagspräsidenten: Extremismus dringt mit Wucht in die Parlamente](https://www.deutschlandfunk.de/merz-verurteilt-wahl-eines-afd-politikers-zum-landtagspraesidenten-extremismus-dringt-mit-wucht-in-d-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Landtag - Sachsen-Anhalt: BSW will mit AfD Ukraine-Antrag verabschieden](https://www.deutschlandfunk.de/sachsen-anhalt-bsw-will-mit-afd-ukraine-antrag-verabschieden-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Spionageverdacht - Ex-BND-Präsident Hanning in U-Haft](https://www.deutschlandfunk.de/ex-bnd-praesident-hanning-in-u-haft-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Bundespräsident Steinmeier gedenkt der Terroropfer des 7. Oktobers: Schlimmster Anschlag auf jüdisches Leben seit dem Holocaust](https://www.deutschlandfunk.de/bundespraesident-steinmeier-gedenkt-der-terroropfer-des-7-oktobers-schlimmster-anschlag-auf-juedisch-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Tankrabatt kommt größtenteils bei Autofahrern an - Spritpreise deutlich gesunken](https://www.deutschlandfunk.de/tankrabatt-kommt-groesstenteils-bei-autofahrern-an-spritpreise-deutlich-gesunken-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Frankreich - Schülerproteste nehmen leicht ab - Schockgranaten vorerst tabu](https://www.deutschlandfunk.de/schuelerproteste-nehmen-leicht-ab-schockgranaten-vorerst-tabu-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Soziales - Geplante Pflegekommission verzögert sich](https://www.deutschlandfunk.de/geplante-pflegekommission-verzoegert-sich-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Brüssel - EU-Kommission fordert von Russland schnelle und transparente Informationen zu Lungenpestfall](https://www.deutschlandfunk.de/eu-kommission-fordert-von-russland-schnelle-und-transparente-informationen-zu-lungenpestfall-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Keine Zwei-Drittel-Mehrheit - AfD-Antrag zu Landtagsauflösung in Thüringen scheitert](https://www.deutschlandfunk.de/afd-antrag-zu-landtagsaufloesung-in-thueringen-scheitert-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Thüringen - Entzug des Doktortitels: Ministerpräsident Voigt zieht Klage zurück](https://www.deutschlandfunk.de/entzug-des-doktortitels-ministerpraesident-voigt-zieht-klage-zurueck-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ermittlungen - Niedersachsen: Immunität von SPD-Fraktionschef Politze aufgehoben](https://www.deutschlandfunk.de/niedersachsen-immunitaet-von-spd-fraktionschef-politze-aufgehoben-102.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Seoul - Südkorea will an die Spitze der weltweiten grünen Wirtschaft: Milliarden-Investitionen in Energiewende und Klimaschutz geplant](https://www.deutschlandfunk.de/suedkorea-will-an-die-spitze-der-weltweiten-gruenen-wirtschaft-milliarden-investitionen-in-energiewe-100.html)  
+  _Wed, 07 Oct 2026 15:41:20 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 05 Oct 2026 04:00:48 GMT_ · paywall: `False`
 - **The Guardian** — [Egyptian journalist faces terrorism charges after entire newsroom detained](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom)  
   _Sun, 04 Oct 2026 15:16:03 GMT_ · paywall: `False`
+- **The Guardian** — [Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners](https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners)  
+  _Wed, 07 Oct 2026 12:03:52 GMT_ · paywall: `False`
+- **The Guardian** — [Separatists win in Quebec – but does that bring separation from Canada any closer?](https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis)  
+  _Wed, 07 Oct 2026 11:00:08 GMT_ · paywall: `False`
+- **The Guardian** — [US man arrested as second suspect in Canada mass school shooting planned with ChatGPT](https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington)  
+  _Tue, 06 Oct 2026 22:06:04 GMT_ · paywall: `False`
+- **The Guardian** — [Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom](https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom)  
+  _Tue, 06 Oct 2026 16:53:21 GMT_ · paywall: `False`
 - **The Guardian** — [Argentina will stop Falklands exploiting offshore oilfields, foreign minister says](https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty)  
   _Tue, 06 Oct 2026 11:40:03 GMT_ · paywall: `False`
-- **The Guardian** — [Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro](https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty)  
-  _Tue, 06 Oct 2026 07:00:05 GMT_ · paywall: `False`
-- **The Guardian** — [Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory](https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory)  
-  _Mon, 05 Oct 2026 20:06:18 GMT_ · paywall: `False`
-- **The Guardian** — [Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge](https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula)  
-  _Mon, 05 Oct 2026 18:42:23 GMT_ · paywall: `False`
-- **The Guardian** — [Quebec poised to elect separatists to power for first time in more than a decade](https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum)  
-  _Mon, 05 Oct 2026 09:30:52 GMT_ · paywall: `False`
-- **The Guardian** — [From competing for food to a gold medal: the stories behind India’s Asian Games winners](https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success)  
-  _Tue, 06 Oct 2026 06:30:04 GMT_ · paywall: `False`
-- **The Guardian** — [Fuel from South Korea being shipped to Russia as Ukraine war grinds on](https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war)  
-  _Mon, 05 Oct 2026 23:50:12 GMT_ · paywall: `False`
+- **The Guardian** — [Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised](https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb)  
+  _Wed, 07 Oct 2026 05:25:10 GMT_ · paywall: `False`
+- **The Guardian** — [EU negotiators head to China hoping to curb cheap imports of hybrid electric cars](https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars)  
+  _Wed, 07 Oct 2026 04:00:34 GMT_ · paywall: `False`
