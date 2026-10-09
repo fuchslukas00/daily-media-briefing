@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-10-08 13:54 UTC_
+_Generated: 2026-10-09 13:38 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Staatsbesuch in Frankreich - Bundespräsident Steinmeier: "Die Deutschen werden gute Europäer bleiben"](https://www.deutschlandfunk.de/bundespraesident-steinmeier-die-deutschen-werden-gute-europaeer-bleiben-102.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Abgeordnetenhauswahl - Linke, Grüne und SPD in Berlin beschließen Sondierungsgespräche](https://www.deutschlandfunk.de/linke-gruene-und-spd-in-berlin-beschliessen-sondierungsgespraeche-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Peking - EU-Handelskommissar Šefčovič dringt in China auf ausgeglicheneren Handel](https://www.deutschlandfunk.de/eu-handelskommissar-ef-ovi-dringt-in-china-auf-ausgeglicheneren-handel-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bruttoinlandsprodukt - Bundesregierung erhöht Konjunktur-Prognose: "Wirtschaft widerstandsfähiger als erwartet"](https://www.deutschlandfunk.de/bundesregierung-erhoeht-konjunktur-prognose-wirtschaft-widerstandsfaehiger-als-erwartet-102.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundestag - Finanzminister Klingbeil verteidigt Steuerentlastungen; Kritik aus der Opposition](https://www.deutschlandfunk.de/finanzminister-klingbeil-verteidigt-steuerentlastungen-kritik-aus-der-opposition-102.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Marine - Haushaltsausschuss billigt Kauf vier weiterer Fregatten](https://www.deutschlandfunk.de/haushaltsausschuss-billigt-kauf-vier-weiterer-fregatten-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Literaturnobelpreis - Schwedische Akademie zeichnet die Kanadierin Anne Carson aus](https://www.deutschlandfunk.de/schwedische-akademie-zeichnet-die-kanadierin-anne-carson-aus-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Plan International - Sterblichkeit von Mädchen seit 2000 weltweit halbiert](https://www.deutschlandfunk.de/sterblichkeit-von-maedchen-seit-2000-weltweit-halbiert-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält "False-Flag"-Aktion für möglich](https://www.deutschlandfunk.de/cdu-staatssekretaerin-gueler-geht-von-cdu-stimmen-fuer-afd-landtagspraesidenten-aus-merz-haelt-false-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sachsen-Anhalt - BSW bekräftigt, AfD-Vordenker Tillschneider nicht gewählt zu haben](https://www.deutschlandfunk.de/bsw-bekraeftigt-afd-vordenker-tillschneider-nicht-gewaehlt-zu-haben-104.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesregierung - Fraktionsvorsitzende nach Koalitionsausschuss: "Sind uns bewusst, dass Demokratie vor historischer Bewährungsprobe steht"](https://www.deutschlandfunk.de/fraktionsvorsitzende-nach-koalitionsausschuss-sind-uns-bewusst-dass-demokratie-vor-historischer-bewa-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Krieg gegen die Ukraine - 30 Tote bei russischem Angriff auf Bus im Osten der Ukraine - Ukraine trifft russisches Datenzentrum](https://www.deutschlandfunk.de/30-tote-bei-russischem-angriff-auf-bus-im-osten-der-ukraine-ukraine-trifft-russisches-datenzentrum-100.html)  
-  _Thu, 08 Oct 2026 15:44:23 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [El Nino - Region in Chile nach Überflutungen zu Katastrophengebiet erklärt](https://www.deutschlandfunk.de/region-in-chile-nach-ueberflutungen-zu-katastrophengebiet-erklaert-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Oslo - Navanethem Pillay: "Widme den Friedensnobelpreis den Überlebenden internationaler Verbrechen"](https://www.deutschlandfunk.de/navanethem-pillay-widme-den-friedensnobelpreis-den-ueberlebenden-internationaler-verbrechen-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Klingbeil (SPD) - Schröder-Besuch bei Putin "völlig inakzeptabel"](https://www.deutschlandfunk.de/schroeder-besuch-bei-putin-voellig-inakzeptabel-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sachsen-Anhalt - BMW verweigert neuen AfD-Landtagspräsidenten offenbar den Dienstwagen: Rausch schreibt an Autokonzern](https://www.deutschlandfunk.de/bmw-verweigert-neuen-afd-landtagspraesidenten-offenbar-den-dienstwagen-rausch-schreibt-an-autokonzer-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Wahl in Sachsen-Anhalt - Weiter Unklarheit über Stimmabgabe für AfD-Kandidaten Rausch - Anschuldigungen gegen die CDU](https://www.deutschlandfunk.de/weiter-unklarheit-ueber-stimmabgabe-fuer-afd-kandidaten-rausch-anschuldigungen-gegen-die-cdu-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Steuersenkung - DIW: Tankrabatt kommt nicht komplett an](https://www.deutschlandfunk.de/diw-tankrabatt-kommt-nicht-komplett-an-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Halle (Saale) - Jüdische Studenten versperren neuem AfD-Landtagsvize Tillschneider Zutritt zu Synagoge bei Gedenken an Terroropfer](https://www.deutschlandfunk.de/juedische-studenten-versperren-neuem-afd-landtagsvize-tillschneider-zutritt-zu-synagoge-bei-gedenken-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Finanzmärkte - EU-Staaten einigen sich auf gemeinsame Börsenaufsicht](https://www.deutschlandfunk.de/eu-staaten-einigen-sich-auf-gemeinsame-boersenaufsicht-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Friedensnobelpreisträgerin - Israel kritisiert Entscheidung für Pillay: "Goebbels applaudiert bestimmt aus der Hölle"](https://www.deutschlandfunk.de/israel-kritisiert-entscheidung-fuer-pillay-goebbels-applaudiert-bestimmt-aus-der-hoelle-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Geplante Reform - Führerschein könnte laut Bundesverkehrsminister Bilger (CDU) bis zu 1.000 Euro günstiger werden](https://www.deutschlandfunk.de/fuehrerschein-koennte-laut-bundesverkehrsminister-bilger-cdu-bis-zu-1-000-euro-guenstiger-werden-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Deutsche Bahn - Sanierungstempo wird heruntergefahren](https://www.deutschlandfunk.de/sanierungstempo-wird-heruntergefahren-102.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hilfsorganisationen - Gaza-Waffenruhe weitgehend wirkungslos](https://www.deutschlandfunk.de/gaza-waffenruhe-weitgehend-wirkungslos-100.html)  
+  _Fri, 09 Oct 2026 15:27:18 +0200_ · paywall: `False`
 
 ## international
 
-- **The Guardian** — [Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province](https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc)  
-  _Tue, 06 Oct 2026 12:46:56 GMT_ · paywall: `False`
-- **The Guardian** — [Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads](https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes)  
-  _Tue, 06 Oct 2026 05:00:02 GMT_ · paywall: `False`
-- **The Guardian** — [Guardian readers fund life-changing surgery for Somali boy injured in US airstrike](https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah)  
-  _Mon, 05 Oct 2026 12:00:24 GMT_ · paywall: `False`
-- **The Guardian** — [Skull fractures suggest servants of Egypt’s ancient kings were sacrificed](https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed)  
-  _Mon, 05 Oct 2026 04:00:48 GMT_ · paywall: `False`
-- **The Guardian** — [Egyptian journalist faces terrorism charges after entire newsroom detained](https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom)  
-  _Sun, 04 Oct 2026 15:16:03 GMT_ · paywall: `False`
+- **The Guardian** — [ICJ judge Navi Pillay wins Nobel peace prize for promoting international law](https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize)  
+  _Fri, 09 Oct 2026 11:24:10 GMT_ · paywall: `False`
+- **The Guardian** — [Isaias strengthens to become first Atlantic hurricane of 2026 season](https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026)  
+  _Fri, 09 Oct 2026 09:59:06 GMT_ · paywall: `False`
+- **The Guardian** — [Egyptian journalists plan weekend protest over detention of six colleagues](https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions)  
+  _Fri, 09 Oct 2026 04:00:38 GMT_ · paywall: `False`
+- **The Guardian** — [Scientists discover 180,000 giant tortoises on one Seychelles island](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)  
+  _Thu, 08 Oct 2026 20:20:31 GMT_ · paywall: `False`
+- **The Guardian** — [Ethiopia launches drone attack against Eritrean troops who crossed into Tigray](https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray)  
+  _Thu, 08 Oct 2026 16:11:32 GMT_ · paywall: `False`
+- **The Guardian** — [How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find](https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia)  
+  _Fri, 09 Oct 2026 04:00:37 GMT_ · paywall: `False`
+- **The Guardian** — [Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes](https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb)  
+  _Thu, 08 Oct 2026 20:40:55 GMT_ · paywall: `False`
+- **The Guardian** — [Nicolás Maduro and his wife indicted for alleged torture of US citizens](https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court)  
+  _Thu, 08 Oct 2026 18:04:16 GMT_ · paywall: `False`
 - **The Guardian** — [Anne Carson wins Nobel prize in literature 2026](https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026)  
-  _Thu, 08 Oct 2026 13:48:59 GMT_ · paywall: `False`
+  _Thu, 08 Oct 2026 14:03:29 GMT_ · paywall: `False`
 - **The Guardian** — [Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners](https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners)  
   _Wed, 07 Oct 2026 19:23:30 GMT_ · paywall: `False`
-- **The Guardian** — [Canada to indefinitely bar mental illness as sole reason for access to euthanasia](https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness)  
-  _Wed, 07 Oct 2026 19:00:44 GMT_ · paywall: `False`
-- **The Guardian** — [‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil](https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election)  
-  _Wed, 07 Oct 2026 15:03:26 GMT_ · paywall: `False`
-- **The Guardian** — [Separatists win in Quebec – but does that bring separation from Canada any closer?](https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis)  
-  _Wed, 07 Oct 2026 11:00:08 GMT_ · paywall: `False`
-- **The Guardian** — [South Korea threatens legal action if fuel shipments to Russia found to have broken law](https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law)  
-  _Thu, 08 Oct 2026 04:45:07 GMT_ · paywall: `False`
-- **The Guardian** — [Japan beer giants raided over suspicions they colluded to set the price of beverages](https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages)  
-  _Thu, 08 Oct 2026 03:54:38 GMT_ · paywall: `False`
+- **The Guardian** — [Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence](https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato)  
+  _Fri, 09 Oct 2026 12:00:28 GMT_ · paywall: `False`
+- **The Guardian** — [Sydney trader sacked for working from Singapore without permission wins unfair dismissal case](https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case)  
+  _Fri, 09 Oct 2026 05:55:27 GMT_ · paywall: `False`
