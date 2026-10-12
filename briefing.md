@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-10-11 13:21 UTC_
+_Generated: 2026-10-12 15:57 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Initiative PRÜF - Tausende bei Demos für AfD-Verbotsverfahren - Soziologe Knaus: "Nur noch 3 Stimmen im Bundesrat fehlen"](https://www.deutschlandfunk.de/tausende-bei-demos-fuer-afd-verbotsverfahren-soziologe-knaus-nur-noch-3-stimmen-im-bundesrat-fehlen-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Union - Seehofer attackiert Merz vor CDU-Führungsklausur: "Diese pauschale Sprache geht völlig an der Realität vorbei"](https://www.deutschlandfunk.de/seehofer-attackiert-merz-vor-cdu-fuehrungsklausur-diese-pauschale-sprache-geht-voellig-an-der-realit-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [LGBTQ-Rechte - Europride 2029 kommt nach Dresden](https://www.deutschlandfunk.de/europride-2029-kommt-nach-dresden-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Vatikan - Papst Leo XIV. kündigt Lungenoperation an](https://www.deutschlandfunk.de/papst-leo-xiv-kuendigt-lungenoperation-an-102.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bevölkerung - Zu wenig Kinder in Sachsen-Anhalt: Kitas bauen Personal ab, Kündigungen drohen](https://www.deutschlandfunk.de/zu-wenig-kinder-in-sachsen-anhalt-kitas-bauen-personal-ab-kuendigungen-drohen-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - Deutsche-Bank-Chef Sewing lobt die Regierung für das Altersvorsorgedepot](https://www.deutschlandfunk.de/deutsche-bank-chef-sewing-lobt-die-regierung-fuer-das-altersvorsorgedepot-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sanktionen - BSW in Sachsen-Anhalt will Diesel aus Russland importieren](https://www.deutschlandfunk.de/bsw-in-sachsen-anhalt-will-diesel-aus-russland-importieren-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — ["Kartellverdacht" - Illegale Absprachen bei Berichterstattung über Trump? US-Regierung geht erneut gegen Medien vor](https://www.deutschlandfunk.de/illegale-absprachen-bei-berichterstattung-ueber-trump-us-regierung-geht-erneut-gegen-medien-vor-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Tennessee - Nach gescheiterter Hinrichtung: US-Todeskandidatin Christa Pike verlässt Krankenhaus](https://www.deutschlandfunk.de/nach-gescheiterter-hinrichtung-us-todeskandidatin-christa-pike-verlaesst-krankenhaus-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Migration - 109 Tote nach Schiffsunglück vor Küste von Dschibuti](https://www.deutschlandfunk.de/109-tote-nach-schiffsunglueck-vor-kueste-von-dschibuti-102.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Offenbar erneute Huthi-Attacke - Mindestens zwölf Tote bei Angriff auf Flughafen von Riad - USA prüfen Unterstützung der Koalition um Saudi-Arabien](https://www.deutschlandfunk.de/mindestens-zwoelf-tote-bei-angriff-auf-flughafen-von-riad-usa-pruefen-unterstuetzung-der-koalition-u-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Warschau - Krisensitzung in Polen wegen Anschlagsplänen auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz einberufen](https://www.deutschlandfunk.de/krisensitzung-in-polen-wegen-anschlagsplaenen-auf-regierungschef-tusk-und-verteidigungsminister-kosi-100.html)  
-  _Sun, 11 Oct 2026 14:53:56 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Klausurtagung des Präsidiums - CDU will Stromsteuer "für alle" auf europäisches Minimum absenken](https://www.deutschlandfunk.de/cdu-will-stromsteuer-fuer-alle-auf-europaeisches-minimum-absenken-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nachfolger von Bärbel Bas - Ehemaliger Ministerpräsident Schweitzer soll neuer Bundesarbeitsminister werden](https://www.deutschlandfunk.de/ehemaliger-ministerpraesident-schweitzer-soll-neuer-bundesarbeitsminister-werden-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Bas' Rückzug - Klingbeil kündigt Neuwahl der SPD-Führung an - Schwesig äußert sich nicht zu möglicher Kandidatur](https://www.deutschlandfunk.de/klingbeil-kuendigt-neuwahl-der-spd-fuehrung-an-schwesig-aeussert-sich-nicht-zu-moeglicher-kandidatur-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Berichte - Katharina von Schnurbein soll Antisemitismusbeauftragte des Bundes werden](https://www.deutschlandfunk.de/katharina-von-schnurbein-soll-antisemitismusbeauftragte-des-bundes-werden-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen](https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-102.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Köln - Sexuelle Belästigung? Polizei ermittelt in Köln nach Vorfall mit Roboter](https://www.deutschlandfunk.de/sexuelle-belaestigung-polizei-ermittelt-in-koeln-nach-vorfall-mit-roboter-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gewaltsame Demonstrationen - Acht verletzte Schulmitarbeiter bei Schülerprotesten in Frankreich](https://www.deutschlandfunk.de/acht-verletzte-schulmitarbeiter-bei-schuelerprotesten-in-frankreich-102.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Russland bestätigt von Trump angekündigte Waffenruhe nicht](https://www.deutschlandfunk.de/russland-bestaetigt-von-trump-angekuendigte-waffenruhe-nicht-102.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [50,04 Prozent - Denkbar knappe Mehrheit gegen Abschaffung der Rundfunkgebühr in Slowenien](https://www.deutschlandfunk.de/denkbar-knappe-mehrheit-gegen-abschaffung-der-rundfunkgebuehr-in-slowenien-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Stockholm - US-Ökonomen Robert E. Hall und Michael Woodford erhalten den sogenannten Wirtschaftsnobelpreis](https://www.deutschlandfunk.de/us-oekonomen-robert-e-hall-und-michael-woodford-erhalten-den-sogenannten-wirtschaftsnobelpreis-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Außenministertreffen - EU verhängt neue Sanktionen gegen Unterstützer des russischen Kriegs gegen die Ukraine](https://www.deutschlandfunk.de/eu-verhaengt-neue-sanktionen-gegen-unterstuetzer-des-russischen-kriegs-gegen-die-ukraine-104.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Gedenktafel enthüllt - Steinmeier erinnert an Verbrechen der NS-Vermögensverwertungsstelle](https://www.deutschlandfunk.de/steinmeier-erinnert-an-verbrechen-der-ns-vermoegensverwertungsstelle-100.html)  
+  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 09 Oct 2026 04:00:38 GMT_ · paywall: `False`
 - **The Guardian** — [Scientists discover 180,000 giant tortoises on one Seychelles island](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)  
   _Thu, 08 Oct 2026 20:20:31 GMT_ · paywall: `False`
+- **The Guardian** — [Fugitive businessman taken into US custody in Venezuela bribery case](https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case)  
+  _Mon, 12 Oct 2026 13:14:14 GMT_ · paywall: `False`
+- **The Guardian** — [Balkan temperatures swing as heavy rain heads for Greece](https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece)  
+  _Mon, 12 Oct 2026 10:48:26 GMT_ · paywall: `False`
+- **The Guardian** — [Thousands without power in Florida and Alabama as Isaias moves north](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages)  
+  _Sun, 11 Oct 2026 13:45:27 GMT_ · paywall: `False`
 - **The Guardian** — [Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru](https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru)  
   _Sun, 11 Oct 2026 07:45:31 GMT_ · paywall: `False`
 - **The Guardian** — [‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency)  
   _Sun, 11 Oct 2026 06:56:08 GMT_ · paywall: `False`
-- **The Guardian** — [Candidate named Hitler Mussolini elected mayor in Peru](https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor)  
-  _Sat, 10 Oct 2026 12:00:10 GMT_ · paywall: `False`
-- **The Guardian** — [‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die](https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia)  
-  _Sat, 10 Oct 2026 05:00:48 GMT_ · paywall: `False`
-- **The Guardian** — [Three men found guilty of murders of Australian surfer brothers and US friend in Mexico](https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb)  
-  _Sat, 10 Oct 2026 00:50:52 GMT_ · paywall: `False`
-- **The Guardian** — [Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence](https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato)  
-  _Fri, 09 Oct 2026 12:00:28 GMT_ · paywall: `False`
-- **The Guardian** — [Sydney trader sacked for working from Singapore without permission wins unfair dismissal case](https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case)  
-  _Fri, 09 Oct 2026 05:55:27 GMT_ · paywall: `False`
+- **The Guardian** — [EU to limit Chinese hybrid vehicle imports to 350,000 a year](https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles)  
+  _Mon, 12 Oct 2026 11:23:55 GMT_ · paywall: `False`
+- **The Guardian** — [Volkswagen boss backs EU plan to bolster domestic European industry](https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry)  
+  _Sun, 11 Oct 2026 16:53:01 GMT_ · paywall: `False`
