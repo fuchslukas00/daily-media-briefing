@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-10-12 15:57 UTC_
+_Generated: 2026-10-13 14:30 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Nach Klausurtagung des Präsidiums - CDU will Stromsteuer "für alle" auf europäisches Minimum absenken](https://www.deutschlandfunk.de/cdu-will-stromsteuer-fuer-alle-auf-europaeisches-minimum-absenken-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nachfolger von Bärbel Bas - Ehemaliger Ministerpräsident Schweitzer soll neuer Bundesarbeitsminister werden](https://www.deutschlandfunk.de/ehemaliger-ministerpraesident-schweitzer-soll-neuer-bundesarbeitsminister-werden-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Bas' Rückzug - Klingbeil kündigt Neuwahl der SPD-Führung an - Schwesig äußert sich nicht zu möglicher Kandidatur](https://www.deutschlandfunk.de/klingbeil-kuendigt-neuwahl-der-spd-fuehrung-an-schwesig-aeussert-sich-nicht-zu-moeglicher-kandidatur-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Berichte - Katharina von Schnurbein soll Antisemitismusbeauftragte des Bundes werden](https://www.deutschlandfunk.de/katharina-von-schnurbein-soll-antisemitismusbeauftragte-des-bundes-werden-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen](https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-102.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Köln - Sexuelle Belästigung? Polizei ermittelt in Köln nach Vorfall mit Roboter](https://www.deutschlandfunk.de/sexuelle-belaestigung-polizei-ermittelt-in-koeln-nach-vorfall-mit-roboter-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gewaltsame Demonstrationen - Acht verletzte Schulmitarbeiter bei Schülerprotesten in Frankreich](https://www.deutschlandfunk.de/acht-verletzte-schulmitarbeiter-bei-schuelerprotesten-in-frankreich-102.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Russland bestätigt von Trump angekündigte Waffenruhe nicht](https://www.deutschlandfunk.de/russland-bestaetigt-von-trump-angekuendigte-waffenruhe-nicht-102.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [50,04 Prozent - Denkbar knappe Mehrheit gegen Abschaffung der Rundfunkgebühr in Slowenien](https://www.deutschlandfunk.de/denkbar-knappe-mehrheit-gegen-abschaffung-der-rundfunkgebuehr-in-slowenien-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Stockholm - US-Ökonomen Robert E. Hall und Michael Woodford erhalten den sogenannten Wirtschaftsnobelpreis](https://www.deutschlandfunk.de/us-oekonomen-robert-e-hall-und-michael-woodford-erhalten-den-sogenannten-wirtschaftsnobelpreis-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Außenministertreffen - EU verhängt neue Sanktionen gegen Unterstützer des russischen Kriegs gegen die Ukraine](https://www.deutschlandfunk.de/eu-verhaengt-neue-sanktionen-gegen-unterstuetzer-des-russischen-kriegs-gegen-die-ukraine-104.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Gedenktafel enthüllt - Steinmeier erinnert an Verbrechen der NS-Vermögensverwertungsstelle](https://www.deutschlandfunk.de/steinmeier-erinnert-an-verbrechen-der-ns-vermoegensverwertungsstelle-100.html)  
-  _Mon, 12 Oct 2026 17:40:09 +0200_ · paywall: `False`
+- **Der Spiegel** — [Apple HomeView: Neue Smart-Home-Gadgets vorgestellt, nicht alle kommen in die EU](https://www.spiegel.de/netzwelt/gadgets/apple-homeview-neue-smart-home-gadgets-vorgestellt-nicht-alle-kommen-in-die-eu-a-b1025b21-5898-45db-b725-fea6049bfac3#ref=rss)  
+  _Tue, 13 Oct 2026 16:27:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Albrecht-Dürer-Airport Nürnberg: Darum schickte die Flugsicherung Eurofighter](https://www.spiegel.de/panorama/albrecht-duerer-airport-nuernberg-darum-schickte-die-flugsicherung-eurofighter-a-9a90ad57-d216-4f60-ad97-295ffb679a3b#ref=rss)  
+  _Tue, 13 Oct 2026 16:24:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Kimberly Guilfoyle: Umstrittene US-Botschafterin muss Posten in Athen räumen](https://www.spiegel.de/ausland/kimberly-guilfoyle-umstrittene-us-botschafterin-muss-posten-in-athen-raeumen-a-0169f30c-e123-448a-8636-6bd456c18ffb#ref=rss)  
+  _Tue, 13 Oct 2026 16:23:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Beschlagnahmung bei der »Zeit«: Chefredakteur Giovanni di Lorenzo fühlte sich unter Druck gesetzt](https://www.spiegel.de/panorama/justiz/beschlagnahmung-bei-der-zeit-chefredakteur-giovanni-di-lorenzo-fuehlte-sich-unter-druck-gesetzt-a-ccb204ee-7de4-45c2-83cf-209cdc75b677#ref=rss)  
+  _Tue, 13 Oct 2026 16:19:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Smart #2: Der Zweisitzer ist zurück – in aller Kürze](https://www.spiegel.de/mobilitaet/smart-2-der-zweisitzer-ist-zurueck-in-aller-kuerze-a-b0ca42ce-e865-449a-a316-e48bf8bb5d2b#ref=rss)  
+  _Tue, 13 Oct 2026 16:09:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Köln: Mutmaßlicher Übergriff auf 16-Jährige – was über den Roboter-Vorfall bekannt ist](https://www.spiegel.de/netzwelt/web/koeln-mutmasslicher-uebergriff-auf-16-jaehrige-was-ueber-den-roboter-vorfall-bekannt-ist-a-453fb09c-3ca0-4d28-89d4-0585a9fde78b#ref=rss)  
+  _Tue, 13 Oct 2026 15:54:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Tennis: Alexander Zverev und die besten deutschen Tennis-Stars der Geschichte](https://www.spiegel.de/sport/tennis/tennis-die-besten-deutschen-spieler-alexander-zverev-erreicht-weltranglistenplatz-eins-a-fe869750-ff52-428e-a893-437b869fed55#ref=rss)  
+  _Tue, 13 Oct 2026 15:50:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Sachsen-Anhalt: Wie die CDU Ulrich Siegmund ausmanövrieren will](https://www.spiegel.de/politik/sachsen-anhalt-wie-die-cdu-ulrich-siegmund-ausmanoevrieren-will-a-7ad8008f-f5b5-4420-b934-bea6966c80c2#ref=rss)  
+  _Tue, 13 Oct 2026 15:39:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Polen: Durchsuchungen in Deutschland nach Brandanschlag auf Starlink-Station](https://www.spiegel.de/panorama/polen-mehrere-durchsuchungen-nach-brandanschlag-auf-starlink-station-a-76a44b55-6a17-48f9-8893-8c3ab1a21d70#ref=rss)  
+  _Tue, 13 Oct 2026 15:13:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Gas: Bundesregierung bereitet umlagefinanzierte Reserve für Krisenfälle vor](https://www.spiegel.de/wirtschaft/gas-bundesregierung-bereitet-umlagefinanzierte-reserve-fuer-krisenfaelle-vor-a-e294c1f5-aab5-40e3-8068-074fccda3e45#ref=rss)  
+  _Tue, 13 Oct 2026 15:08:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Fifa: Gianni Infantino gerät nach Enthüllungen über sein Gehalt unter Druck](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-geraet-nach-enthuellungen-ueber-sein-gehalt-unter-druck-a-6bce191a-2e23-440d-9023-66ded6271339#ref=rss)  
+  _Tue, 13 Oct 2026 14:55:00 +0200_ · paywall: `mixed`
+- **Der Spiegel** — [Hape Kerkeling über den Erfolg der AfD: »Wer will, dass die Löwen in die Arena kommen, der will auch Blut sehen«](https://www.spiegel.de/kultur/hape-kerkeling-ueber-die-erfolge-der-afd-wer-will-dass-die-loewen-in-die-arena-kommen-der-will-auch-blut-sehen-a-b4fe49f1-abea-4849-bb1f-09ea6d9216f3#ref=rss)  
+  _Tue, 13 Oct 2026 14:42:00 +0200_ · paywall: `mixed`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 09 Oct 2026 04:00:38 GMT_ · paywall: `False`
 - **The Guardian** — [Scientists discover 180,000 giant tortoises on one Seychelles island](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)  
   _Thu, 08 Oct 2026 20:20:31 GMT_ · paywall: `False`
-- **The Guardian** — [Fugitive businessman taken into US custody in Venezuela bribery case](https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case)  
-  _Mon, 12 Oct 2026 13:14:14 GMT_ · paywall: `False`
-- **The Guardian** — [Balkan temperatures swing as heavy rain heads for Greece](https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece)  
-  _Mon, 12 Oct 2026 10:48:26 GMT_ · paywall: `False`
-- **The Guardian** — [Thousands without power in Florida and Alabama as Isaias moves north](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages)  
-  _Sun, 11 Oct 2026 13:45:27 GMT_ · paywall: `False`
-- **The Guardian** — [Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru](https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru)  
-  _Sun, 11 Oct 2026 07:45:31 GMT_ · paywall: `False`
-- **The Guardian** — [‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency)  
-  _Sun, 11 Oct 2026 06:56:08 GMT_ · paywall: `False`
+- **The Guardian** — [UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests](https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests)  
+  _Tue, 13 Oct 2026 11:00:55 GMT_ · paywall: `False`
+- **The Guardian** — [How a scandal engulfing Brazil’s top court could return the Bolsonaros to power](https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula)  
+  _Tue, 13 Oct 2026 10:00:05 GMT_ · paywall: `False`
+- **The Guardian** — [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)  
+  _Tue, 13 Oct 2026 07:00:18 GMT_ · paywall: `False`
+- **The Guardian** — [Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast](https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast)  
+  _Tue, 13 Oct 2026 04:29:46 GMT_ · paywall: `False`
+- **The Guardian** — [Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)  
+  _Tue, 13 Oct 2026 03:03:48 GMT_ · paywall: `False`
+- **The Guardian** — [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)  
+  _Tue, 13 Oct 2026 12:44:44 GMT_ · paywall: `False`
 - **The Guardian** — [EU to limit Chinese hybrid vehicle imports to 350,000 a year](https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles)  
   _Mon, 12 Oct 2026 11:23:55 GMT_ · paywall: `False`
-- **The Guardian** — [Volkswagen boss backs EU plan to bolster domestic European industry](https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry)  
-  _Sun, 11 Oct 2026 16:53:01 GMT_ · paywall: `False`
