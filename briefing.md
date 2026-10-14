@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-10-13 14:30 UTC_
+_Generated: 2026-10-14 12:16 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Der Spiegel** — [Apple HomeView: Neue Smart-Home-Gadgets vorgestellt, nicht alle kommen in die EU](https://www.spiegel.de/netzwelt/gadgets/apple-homeview-neue-smart-home-gadgets-vorgestellt-nicht-alle-kommen-in-die-eu-a-b1025b21-5898-45db-b725-fea6049bfac3#ref=rss)  
-  _Tue, 13 Oct 2026 16:27:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Albrecht-Dürer-Airport Nürnberg: Darum schickte die Flugsicherung Eurofighter](https://www.spiegel.de/panorama/albrecht-duerer-airport-nuernberg-darum-schickte-die-flugsicherung-eurofighter-a-9a90ad57-d216-4f60-ad97-295ffb679a3b#ref=rss)  
-  _Tue, 13 Oct 2026 16:24:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Kimberly Guilfoyle: Umstrittene US-Botschafterin muss Posten in Athen räumen](https://www.spiegel.de/ausland/kimberly-guilfoyle-umstrittene-us-botschafterin-muss-posten-in-athen-raeumen-a-0169f30c-e123-448a-8636-6bd456c18ffb#ref=rss)  
-  _Tue, 13 Oct 2026 16:23:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Beschlagnahmung bei der »Zeit«: Chefredakteur Giovanni di Lorenzo fühlte sich unter Druck gesetzt](https://www.spiegel.de/panorama/justiz/beschlagnahmung-bei-der-zeit-chefredakteur-giovanni-di-lorenzo-fuehlte-sich-unter-druck-gesetzt-a-ccb204ee-7de4-45c2-83cf-209cdc75b677#ref=rss)  
-  _Tue, 13 Oct 2026 16:19:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Smart #2: Der Zweisitzer ist zurück – in aller Kürze](https://www.spiegel.de/mobilitaet/smart-2-der-zweisitzer-ist-zurueck-in-aller-kuerze-a-b0ca42ce-e865-449a-a316-e48bf8bb5d2b#ref=rss)  
-  _Tue, 13 Oct 2026 16:09:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Köln: Mutmaßlicher Übergriff auf 16-Jährige – was über den Roboter-Vorfall bekannt ist](https://www.spiegel.de/netzwelt/web/koeln-mutmasslicher-uebergriff-auf-16-jaehrige-was-ueber-den-roboter-vorfall-bekannt-ist-a-453fb09c-3ca0-4d28-89d4-0585a9fde78b#ref=rss)  
-  _Tue, 13 Oct 2026 15:54:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Tennis: Alexander Zverev und die besten deutschen Tennis-Stars der Geschichte](https://www.spiegel.de/sport/tennis/tennis-die-besten-deutschen-spieler-alexander-zverev-erreicht-weltranglistenplatz-eins-a-fe869750-ff52-428e-a893-437b869fed55#ref=rss)  
-  _Tue, 13 Oct 2026 15:50:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Sachsen-Anhalt: Wie die CDU Ulrich Siegmund ausmanövrieren will](https://www.spiegel.de/politik/sachsen-anhalt-wie-die-cdu-ulrich-siegmund-ausmanoevrieren-will-a-7ad8008f-f5b5-4420-b934-bea6966c80c2#ref=rss)  
-  _Tue, 13 Oct 2026 15:39:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Polen: Durchsuchungen in Deutschland nach Brandanschlag auf Starlink-Station](https://www.spiegel.de/panorama/polen-mehrere-durchsuchungen-nach-brandanschlag-auf-starlink-station-a-76a44b55-6a17-48f9-8893-8c3ab1a21d70#ref=rss)  
-  _Tue, 13 Oct 2026 15:13:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Gas: Bundesregierung bereitet umlagefinanzierte Reserve für Krisenfälle vor](https://www.spiegel.de/wirtschaft/gas-bundesregierung-bereitet-umlagefinanzierte-reserve-fuer-krisenfaelle-vor-a-e294c1f5-aab5-40e3-8068-074fccda3e45#ref=rss)  
-  _Tue, 13 Oct 2026 15:08:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Fifa: Gianni Infantino gerät nach Enthüllungen über sein Gehalt unter Druck](https://www.spiegel.de/sport/fussball/fifa-gianni-infantino-geraet-nach-enthuellungen-ueber-sein-gehalt-unter-druck-a-6bce191a-2e23-440d-9023-66ded6271339#ref=rss)  
-  _Tue, 13 Oct 2026 14:55:00 +0200_ · paywall: `mixed`
-- **Der Spiegel** — [Hape Kerkeling über den Erfolg der AfD: »Wer will, dass die Löwen in die Arena kommen, der will auch Blut sehen«](https://www.spiegel.de/kultur/hape-kerkeling-ueber-die-erfolge-der-afd-wer-will-dass-die-loewen-in-die-arena-kommen-der-will-auch-blut-sehen-a-b4fe49f1-abea-4849-bb1f-09ea6d9216f3#ref=rss)  
-  _Tue, 13 Oct 2026 14:42:00 +0200_ · paywall: `mixed`
+- **Deutschlandfunk** — [Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer](https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Sexualisierte Gewalt - Kinderschutzbund: "Zentraler Tatort bleibt die Familie"](https://www.deutschlandfunk.de/kinderschutzbund-zentraler-tatort-bleibt-die-familie-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Soziale Medien - Bundeskabinett will TikTok, Snapchat, Instagram für Kinder unter 13 Jahren grundsätzlich untersagen](https://www.deutschlandfunk.de/bundeskabinett-will-tiktok-snapchat-instagram-fuer-kinder-unter-13-jahren-grundsaetzlich-untersagen-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Niedrigwasser - Neue "Allianz Wasserstraße" fordert rasche Modernisierung von Infrastruktur und Flotte](https://www.deutschlandfunk.de/neue-allianz-wasserstrasse-fordert-rasche-modernisierung-von-infrastruktur-und-flotte-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Tabaksteuer - Zigaretten-Packung dürfte bald bis zu 14 Euro kosten](https://www.deutschlandfunk.de/zigaretten-packung-duerfte-bald-bis-zu-14-euro-kosten-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Anpassung der Weltzeit - Aus für Schaltsekunde steht bevor](https://www.deutschlandfunk.de/aus-fuer-schaltsekunde-steht-bevor-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Kabinett - Bundesregierung setzt Pflegekommission ein](https://www.deutschlandfunk.de/bundesregierung-setzt-pflegekommission-ein-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Prozess in Hamburg - Europaabgeordneter Gahler (CDU) hält Nordstream-Pipelines für legitimes Kriegsziel der Ukraine](https://www.deutschlandfunk.de/europaabgeordneter-gahler-cdu-haelt-nordstream-pipelines-fuer-legitimes-kriegsziel-der-ukraine-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Hamburg - Prozess um Anschläge auf Nord-Stream-Pipeline begonnen](https://www.deutschlandfunk.de/prozess-um-anschlaege-auf-nord-stream-pipeline-begonnen-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Regierungsbildung - Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken](https://www.deutschlandfunk.de/gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken-112.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Medien - DJV-Chef Beuster bezeichnet die Beschlagnahmung von Tonaufnahmen der ZEIT als Angriff auf die Pressefreiheit](https://www.deutschlandfunk.de/djv-chef-beuster-bezeichnet-die-beschlagnahmung-von-tonaufnahmen-der-zeit-als-angriff-auf-die-presse-100.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
+- **Deutschlandfunk** — [Las Vegas - Drahtzieher der Todesschüsse auf Rapper Tupac muss für 40 Jahre in Haft](https://www.deutschlandfunk.de/drahtzieher-der-todesschuesse-auf-rapper-tupac-muss-fuer-40-jahre-in-haft-106.html)  
+  _Wed, 14 Oct 2026 13:47:22 +0200_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 09 Oct 2026 04:00:38 GMT_ · paywall: `False`
 - **The Guardian** — [Scientists discover 180,000 giant tortoises on one Seychelles island](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)  
   _Thu, 08 Oct 2026 20:20:31 GMT_ · paywall: `False`
+- **The Guardian** — [Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’](https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago)  
+  _Wed, 14 Oct 2026 08:39:00 GMT_ · paywall: `False`
+- **The Guardian** — [Intense waves and floods batter California waterfront homes and boardwalks](https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods)  
+  _Tue, 13 Oct 2026 21:29:08 GMT_ · paywall: `False`
 - **The Guardian** — [UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests](https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests)  
-  _Tue, 13 Oct 2026 11:00:55 GMT_ · paywall: `False`
+  _Tue, 13 Oct 2026 17:42:03 GMT_ · paywall: `False`
 - **The Guardian** — [How a scandal engulfing Brazil’s top court could return the Bolsonaros to power](https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula)  
   _Tue, 13 Oct 2026 10:00:05 GMT_ · paywall: `False`
 - **The Guardian** — [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)  
   _Tue, 13 Oct 2026 07:00:18 GMT_ · paywall: `False`
-- **The Guardian** — [Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast](https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast)  
-  _Tue, 13 Oct 2026 04:29:46 GMT_ · paywall: `False`
-- **The Guardian** — [Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)  
-  _Tue, 13 Oct 2026 03:03:48 GMT_ · paywall: `False`
-- **The Guardian** — [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)  
-  _Tue, 13 Oct 2026 12:44:44 GMT_ · paywall: `False`
-- **The Guardian** — [EU to limit Chinese hybrid vehicle imports to 350,000 a year](https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles)  
-  _Mon, 12 Oct 2026 11:23:55 GMT_ · paywall: `False`
+- **The Guardian** — [Russia arrests Japanese journalist on allegations of spying](https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying)  
+  _Wed, 14 Oct 2026 01:05:25 GMT_ · paywall: `False`
+- **The Guardian** — [Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX](https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest)  
+  _Wed, 14 Oct 2026 00:53:36 GMT_ · paywall: `False`
