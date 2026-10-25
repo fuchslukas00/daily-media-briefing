@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-10-24 11:28 UTC_
+_Generated: 2026-10-25 11:55 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [CSU-Parteitag in München - Merz wirbt für Zusammenhalt der Union gegen Extremisten "von ganz links und ganz rechts"](https://www.deutschlandfunk.de/merz-wirbt-fuer-zusammenhalt-der-union-gegen-extremisten-von-ganz-links-und-ganz-rechts-100.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Russischer Angriffskrieg - Starlink-Satellitensystem funktioniert wieder über der Ukraine - Waffenstillstand für Oleschky bestätigt](https://www.deutschlandfunk.de/starlink-satellitensystem-funktioniert-wieder-ueber-der-ukraine-waffenstillstand-fuer-oleschky-besta-100.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Israel: Netanjahu erwägt Kryptowährungen gegen mögliche Sanktionen](https://www.deutschlandfunk.de/israel-netanjahu-erwaegt-kryptowaehrungen-gegen-moegliche-sanktionen-100.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Asien - Nordkoreas Machthaber Kim besucht unangekündigt chinesische Grenzstadt](https://www.deutschlandfunk.de/nordkoreas-machthaber-kim-besucht-unangekuendigt-chinesische-grenzstadt-102.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland](https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Sozialdemokratie - Juso-Chef Türmer gegen erneute Kandidatur Klingbeils für SPD-Vorsitz](https://www.deutschlandfunk.de/juso-chef-tuermer-gegen-erneute-kandidatur-klingbeils-fuer-spd-vorsitz-108.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bayern - Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört](https://www.deutschlandfunk.de/kehlsteinhaus-am-obersalzberg-durch-brand-weitgehend-zerstoert-100.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Herbststurm "Luise" - Sturmtief sorgt für Zugausfälle und Verspätungen bei der Bahn, zwei Schwerverletzte auf Stadtfest](https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-zugausfaelle-und-verspaetungen-bei-der-bahn-zwei-schwerverletzte-auf-stadtfest-116.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Angriff auf Trauerfeier - Zahl der Toten in Jordanien auf acht gestiegen](https://www.deutschlandfunk.de/zahl-der-toten-in-jordanien-auf-acht-gestiegen-100.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Offener Brief - Gewerkschaftler und Soziologe Urban betont Recht auf Vergesellschaftung](https://www.deutschlandfunk.de/gewerkschaftler-und-soziologe-urban-betont-recht-auf-vergesellschaftung-104.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Bildung - Bundesschülerkonferenz fordert mehr Geld und kündigt Proteste im November an](https://www.deutschlandfunk.de/bundesschuelerkonferenz-fordert-mehr-geld-und-kuendigt-proteste-im-november-an-100.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
-- **Deutschlandfunk** — [Proteste - Frankreich: 70.000 Polizisten sichern Demonstrationen - Sorge vor Ausschreitungen](https://www.deutschlandfunk.de/frankreich-70-000-polizisten-sichern-demonstrationen-sorge-vor-ausschreitungen-118.html)  
-  _Sat, 24 Oct 2026 13:16:43 +0200_ · paywall: `False`
+- **Deutschlandfunk** — ["Investitionsschutzgesetz" - Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen von Wohnungen](https://www.deutschlandfunk.de/innenminister-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-von-wohnungen-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [VW-Tochter - Audi lässt Trump im Wahlkampf Bau eines US-Werks verkünden](https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nordirak - Iranische Revolutionsgarden greifen Kurden-Stützpunkt an](https://www.deutschlandfunk.de/iranische-revolutionsgarden-greifen-kurden-stuetzpunkt-an-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Delegation reist nach Moskau - EU-Staat Slowakei will enger mit Russland zusammenarbeiten](https://www.deutschlandfunk.de/eu-staat-slowakei-will-enger-mit-russland-zusammenarbeiten-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Osteuropa - Keine großen Bewegungen nach Kommunal- und Regionalwahlen in Slowakei - viele Amtsinhaber bestätigt](https://www.deutschlandfunk.de/keine-grossen-bewegungen-nach-kommunal-und-regionalwahlen-in-slowakei-viele-amtsinhaber-bestaetigt-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Migration - Frontex soll zentrale "EU-Abschiebeagentur" werden](https://www.deutschlandfunk.de/frontex-soll-zentrale-eu-abschiebeagentur-werden-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Portugal - Polizei in Lissabon löst Protestcamp gegen Wohnungsnot auf](https://www.deutschlandfunk.de/polizei-in-lissabon-loest-protestcamp-gegen-wohnungsnot-auf-102.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Baden-Württemberg - Stromausfall in Freiburg: Haushalte wieder am Netz](https://www.deutschlandfunk.de/stromausfall-in-freiburg-haushalte-wieder-am-netz-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ehrung - "Mutmacher, die zeigen, wie es positiv vorangehen kann": Umweltpreis für Juristin und Ingenieur](https://www.deutschlandfunk.de/mutmacher-die-zeigen-wie-es-positiv-vorangehen-kann-umweltpreis-fuer-juristin-und-ingenieur-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesliga - FC Augsburg verurteilt rassistische Angriffe auf Spieler Juma Bah](https://www.deutschlandfunk.de/fc-augsburg-verurteilt-rassistische-angriffe-auf-spieler-juma-bah-100.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Turn-WM in Rotterdam - Kevric gewinnt Silber, DTB mit gemischter Bilanz](https://www.deutschlandfunk.de/kevric-gewinnt-silber-dtb-mit-gemischter-bilanz-102.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Saudi-Arabien - Flughafen von Riad nimmt Betrieb nach Huthi-Angriffen wieder auf](https://www.deutschlandfunk.de/flughafen-von-riad-nimmt-betrieb-nach-huthi-angriffen-wieder-auf-102.html)  
+  _Sun, 25 Oct 2026 12:52:22 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 21 Oct 2026 13:40:08 GMT_ · paywall: `False`
 - **The Guardian** — [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)  
   _Wed, 21 Oct 2026 00:14:55 GMT_ · paywall: `False`
+- **The Guardian** — [Demand for UK government action 10 months after British man’s death in Grenada](https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada)  
+  _Sun, 25 Oct 2026 11:00:01 GMT_ · paywall: `False`
+- **The Guardian** — [Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro](https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election)  
+  _Sun, 25 Oct 2026 08:00:58 GMT_ · paywall: `False`
+- **The Guardian** — [More than one million Lula supporters rally on eve of Brazilian election runoff](https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro)  
+  _Sat, 24 Oct 2026 21:10:23 GMT_ · paywall: `False`
 - **The Guardian** — [British woman dies trying to save sons on Bahamas snorkelling trip](https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip)  
   _Sat, 24 Oct 2026 09:43:09 GMT_ · paywall: `False`
 - **The Guardian** — [Rubio tells Cubans ‘now is the time’ to act to see political change](https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump)  
   _Sat, 24 Oct 2026 00:30:02 GMT_ · paywall: `False`
-- **The Guardian** — [Brazil’s election and the battle for the Amazon – podcast](https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast)  
-  _Fri, 23 Oct 2026 02:00:56 GMT_ · paywall: `False`
-- **The Guardian** — [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)  
-  _Thu, 22 Oct 2026 15:00:29 GMT_ · paywall: `False`
-- **The Guardian** — [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)  
-  _Tue, 20 Oct 2026 16:24:05 GMT_ · paywall: `False`
-- **The Guardian** — [Kim Jong-un crosses over newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)  
-  _Sat, 24 Oct 2026 09:34:40 GMT_ · paywall: `False`
-- **The Guardian** — [Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China](https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china)  
-  _Sat, 24 Oct 2026 02:22:32 GMT_ · paywall: `False`
+- **The Guardian** — [Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister](https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation)  
+  _Sun, 25 Oct 2026 09:33:05 GMT_ · paywall: `False`
+- **The Guardian** — [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)  
+  _Sat, 24 Oct 2026 13:34:56 GMT_ · paywall: `False`
