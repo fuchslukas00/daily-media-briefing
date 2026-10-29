@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-10-28 13:26 UTC_
+_Generated: 2026-10-29 13:34 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Alterssicherung - DGB beharrt auf abschlagsfreier Rente](https://www.deutschlandfunk.de/dgb-beharrt-auf-abschlagsfreier-rente-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Region Toledo - Mehr als 60 Tote nach Kollision von zwei Zügen in Spanien](https://www.deutschlandfunk.de/mehr-als-60-tote-nach-kollision-von-zwei-zuegen-in-spanien-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Dritter Russland-Afrika-Gipfel - Präsident Putin umwirbt afrikanische Staaten](https://www.deutschlandfunk.de/praesident-putin-umwirbt-afrikanische-staaten-102.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Staatsanwaltschaft Landshut - Polizeischüsse auf Bundeswehrsoldaten: Ermittlungen eingestellt](https://www.deutschlandfunk.de/polizeischuesse-auf-bundeswehrsoldaten-ermittlungen-eingestellt-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Ausschreitung - In Frankreich sollen Randalierer künftig für Schäden zahlen](https://www.deutschlandfunk.de/in-frankreich-sollen-randalierer-kuenftig-fuer-schaeden-zahlen-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Israel - Netanjahu liegt bei Parlamentswahl vorn, aber ohne Mehrheit - beide Lager sehen Regierungsauftrag](https://www.deutschlandfunk.de/netanjahu-liegt-bei-parlamentswahl-vorn-aber-ohne-mehrheit-beide-lager-sehen-regierungsauftrag-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Regierungsbildung - Nach Parlamentswahl in Israel: Vier Szenarien, wie es politisch weitergehen könnte](https://www.deutschlandfunk.de/nach-parlamentswahl-in-israel-vier-szenarien-wie-es-politisch-weitergehen-koennte-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iranisches Regime - Regisseur Jafar Panahi zu fünf Jahren Haft verurteilt](https://www.deutschlandfunk.de/regisseur-jafar-panahi-zu-fuenf-jahren-haft-verurteilt-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Niedersachsen, Bayern und Thüringen - Unionsfraktionen drohen Berlin und Sachsen-Anhalt mit Verfassungsklagen für den Fall grundgesetzwidriger Gesetze](https://www.deutschlandfunk.de/unionsfraktionen-drohen-berlin-und-sachsen-anhalt-mit-verfassungsklagen-fuer-den-fall-grundgesetzwid-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Asienreise - Bundeskanzler Merz schlägt bei Japan-Besuch neue globale Allianz für regelgebundenen Handel vor](https://www.deutschlandfunk.de/bundeskanzler-merz-schlaegt-bei-japan-besuch-neue-globale-allianz-fuer-regelgebundenen-handel-vor-100.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Kabinettsbeschluss - Bundesregierung will Sicherheitsüberprüfungen in kritischen Bereichen verschärfen](https://www.deutschlandfunk.de/bundesregierung-will-sicherheitsueberpruefungen-in-kritischen-bereichen-verschaerfen-102.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bildung - Mehrere Universitäten durch Proteste blockiert](https://www.deutschlandfunk.de/mehrere-universitaeten-durch-proteste-blockiert-102.html)  
-  _Wed, 28 Oct 2026 13:58:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Tote und Verletzte bei russischem Luftangriff auf Bahnhof in Dnipro](https://www.deutschlandfunk.de/tote-und-verletzte-bei-russischem-luftangriff-auf-bahnhof-in-dnipro-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Dreitägige Staatstrauer - Zugunglück in Spanien: Zahl der Todesopfer steigt auf 69 - Sanchez besucht Unfallstelle](https://www.deutschlandfunk.de/zugunglueck-in-spanien-zahl-der-todesopfer-steigt-auf-69-sanchez-besucht-unfallstelle-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Mitteilung - EZB-Präsidentin Lagarde gibt ihr Amt im Februar vorzeitig auf](https://www.deutschlandfunk.de/ezb-praesidentin-lagarde-gibt-ihr-amt-im-februar-vorzeitig-auf-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Regierungsbildung in Berlin - Angst vor Hamas-Sympathisanten? - "Spiegel"-Bericht über Linken-Spitzenkandidatin Eralp löst neue Debatte aus](https://www.deutschlandfunk.de/angst-vor-hamas-sympathisanten-spiegel-bericht-ueber-linken-spitzenkandidatin-eralp-loest-neue-debat-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Konstituierende Sitzung - Berliner Abgeordnetenhaus: Linken-Politikerin Klein zur Präsidentin gewählt](https://www.deutschlandfunk.de/berliner-abgeordnetenhaus-linken-politikerin-klein-zur-praesidentin-gewaehlt-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Besuch in Peking - Steinmeier appelliert an China wegen Ukraine-Krieg und Handelskonflikt](https://www.deutschlandfunk.de/steinmeier-appelliert-an-china-wegen-ukraine-krieg-und-handelskonflikt-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Asien-Reise von Merz - Südkorea und Deutschland vereinbaren Zusammenarbeit bei Verteidigung](https://www.deutschlandfunk.de/suedkorea-und-deutschland-vereinbaren-zusammenarbeit-bei-verteidigung-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Hoher Rohölpreis - Europäische Ölkonzerne fahren hohe Milliardengewinne ein - Grüne fordern Sonderabgabe](https://www.deutschlandfunk.de/europaeische-oelkonzerne-fahren-hohe-milliardengewinne-ein-gruene-fordern-sonderabgabe-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Jugendbewegung - "Gen Z regelt": Schülervertreter distanzieren sich von Protestaufruf für 31. Oktober](https://www.deutschlandfunk.de/gen-z-regelt-schuelervertreter-distanzieren-sich-von-protestaufruf-fuer-31-oktober-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Soziale Medien - Antisemitischer Hass gegen Bildungsstätte Anne Frank nach TikTok-Video](https://www.deutschlandfunk.de/antisemitischer-hass-gegen-bildungsstaette-anne-frank-nach-tiktok-video-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Brandenburg - Rotes Kreuz eröffnet größtes Bevölkerungsschutzzentrum Deutschlands](https://www.deutschlandfunk.de/rotes-kreuz-eroeffnet-groesstes-bevoelkerungsschutzzentrum-deutschlands-102.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Wolfsburg - VW meldet Milliardenverlust im dritten Quartal](https://www.deutschlandfunk.de/vw-meldet-milliardenverlust-im-dritten-quartal-100.html)  
+  _Thu, 29 Oct 2026 14:27:52 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr](https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown)  
+  _Wed, 28 Oct 2026 14:16:24 GMT_ · paywall: `False`
 - **The Guardian** — [Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official](https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official)  
   _Wed, 28 Oct 2026 09:37:49 GMT_ · paywall: `False`
 - **The Guardian** — [UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’](https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Mon, 26 Oct 2026 11:00:40 GMT_ · paywall: `False`
 - **The Guardian** — [Sudan paramilitary drone strikes cause mass power cuts in eastern states](https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states)  
   _Mon, 26 Oct 2026 09:59:27 GMT_ · paywall: `False`
-- **The Guardian** — [UK poised to miss reduced aid spending target of 0.3% of national income](https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research)  
-  _Mon, 26 Oct 2026 06:59:36 GMT_ · paywall: `False`
-- **The Guardian** — [Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat](https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat)  
-  _Wed, 28 Oct 2026 11:32:31 GMT_ · paywall: `False`
-- **The Guardian** — [A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true](https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico)  
+- **The Guardian** — [Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami](https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat)  
+  _Wed, 28 Oct 2026 22:06:46 GMT_ · paywall: `False`
+- **The Guardian** — [EU backs away from offer to Canada to start ‘associate member’ talks](https://www.theguardian.com/world/2026/oct/28/european-union-canada)  
+  _Wed, 28 Oct 2026 21:27:33 GMT_ · paywall: `False`
+- **The Guardian** — [US ambassador suggests Trump could blame Canada if midterms don’t go his way](https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms)  
+  _Wed, 28 Oct 2026 20:15:07 GMT_ · paywall: `False`
+- **The Guardian** — [A US woman feared dead was reported alive in Mexico. But police now say that isn’t true](https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico)  
   _Wed, 28 Oct 2026 10:00:05 GMT_ · paywall: `False`
 - **The Guardian** — [King Charles to discuss legacy of slavery with Commonwealth leaders at summit](https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit)  
   _Wed, 28 Oct 2026 06:55:35 GMT_ · paywall: `False`
-- **The Guardian** — [Flávio Bolsonaro flees Brazil after presidential election loss, reports say](https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled)  
-  _Wed, 28 Oct 2026 06:36:14 GMT_ · paywall: `False`
-- **The Guardian** — [Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state](https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela)  
-  _Tue, 27 Oct 2026 23:07:06 GMT_ · paywall: `False`
-- **The Guardian** — [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)  
-  _Tue, 27 Oct 2026 04:42:50 GMT_ · paywall: `False`
-- **The Guardian** — [US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk](https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base)  
-  _Tue, 27 Oct 2026 02:50:31 GMT_ · paywall: `False`
+- **The Guardian** — [Hello Kitty company cuts ties with Japanese spy show after China outcry](https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry)  
+  _Thu, 29 Oct 2026 08:03:00 GMT_ · paywall: `False`
+- **The Guardian** — [Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges](https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international)  
+  _Thu, 29 Oct 2026 06:00:26 GMT_ · paywall: `False`
