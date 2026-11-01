@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-10-31 12:58 UTC_
+_Generated: 2026-11-01 13:43 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Ukrainekrieg - Einwohner aus russisch besetzter Stadt Oleschky in Belarus gelandet](https://www.deutschlandfunk.de/einwohner-aus-russisch-besetzter-stadt-oleschky-in-belarus-gelandet-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Iran-Krieg - Iran will auf Bedrohung geografisch unbeschränkt reagieren](https://www.deutschlandfunk.de/iran-will-auf-bedrohung-geografisch-unbeschraenkt-reagieren-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Arbeitsmarkt - IG Metall ruft zu erster Warnstreik-Welle auf](https://www.deutschlandfunk.de/ig-metall-ruft-zu-erster-warnstreik-welle-auf-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Abfangraketen - Selenskyj dringt auf schnellere Lieferung von Patriot-Systemen](https://www.deutschlandfunk.de/selenskyj-dringt-auf-schnellere-lieferung-von-patriot-systemen-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Justiz - Machtkampf um Polens Verfassungsgericht entbrannt - drei Festnahmen bei Protesten in Warschau](https://www.deutschlandfunk.de/machtkampf-um-polens-verfassungsgericht-entbrannt-drei-festnahmen-bei-protesten-in-warschau-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - Sozialer Ausgleich für Klimaschutzkosten: Ökonom Edenhofer fordert Klimageld und Absenkung der Stromsteuer statt Tankrabatt](https://www.deutschlandfunk.de/sozialer-ausgleich-fuer-klimaschutzkosten-oekonom-edenhofer-fordert-klimageld-und-absenkung-der-stro-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Gen Z regelt" - Bundesweite Jugendproteste geplant; Sprecherin Dinter weist mögliche Unterwanderung zurück](https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-sprecherin-dinter-weist-moegliche-unterwanderung-zurueck-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Afrika - UNO-Friedenseinsatz im Westsahara-Konflikt vor dem Aus](https://www.deutschlandfunk.de/uno-friedenseinsatz-im-westsahara-konflikt-vor-dem-aus-108.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach "Spiegel"-Bericht - Linken-Vorsitzende Schwerdtner kritisiert Vorwürfe gegen Berliner Spitzenkandidatin Eralp](https://www.deutschlandfunk.de/linken-vorsitzende-schwerdtner-kritisiert-vorwuerfe-gegen-berliner-spitzenkandidatin-eralp-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Eralp wirbt um Zustimmung zu Koalition mit Grünen und SPD - Kritik an "politischen Angriffen"](https://www.deutschlandfunk.de/eralp-wirbt-um-zustimmung-zu-koalition-mit-gruenen-und-spd-kritik-an-politischen-angriffen-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Diplomatie - Türkei schickt OSZE-Chef Sinirlioglu ins Rennen um Amt des UNO-Generalsekretärs](https://www.deutschlandfunk.de/tuerkei-schickt-osze-chef-sinirlioglu-ins-rennen-um-amt-des-uno-generalsekretaers-100.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gesundheit - Schon mehr als 5.000 Ebola-Tote im Kongo](https://www.deutschlandfunk.de/schon-mehr-als-5-000-ebola-tote-im-kongo-102.html)  
-  _Sat, 31 Oct 2026 13:41:31 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Vandalismus in Frankfurt - Hessens Innenminister Minister Poseck (CDU) spricht von "Gewaltexzessen" und kündigt konsequente Strafverfolgung an](https://www.deutschlandfunk.de/hessens-innenminister-minister-poseck-cdu-spricht-von-gewaltexzessen-und-kuendigt-konsequente-strafv-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Lissabon und Porto - Zusammenstöße bei Räumung von Protestcamps in Portugal](https://www.deutschlandfunk.de/zusammenstoesse-bei-raeumung-von-protestcamps-in-portugal-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Online-Shops - Neue Einfuhrgebühr macht Bestellungen aus Nicht-EU-Ländern teurer](https://www.deutschlandfunk.de/neue-einfuhrgebuehr-macht-bestellungen-aus-nicht-eu-laendern-teurer-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Halloween - Nadeln in gesammelten Süßigkeiten entdeckt](https://www.deutschlandfunk.de/nadeln-in-gesammelten-suessigkeiten-entdeckt-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Finanzen - Nach Hacker-Angriff: Binance gibt Kundenauszahlungen schrittweise frei](https://www.deutschlandfunk.de/nach-hacker-angriff-binance-gibt-kundenauszahlungen-schrittweise-frei-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Großbritannien - London: Hunderte Festnahmen bei Solidaritäts-Demo für verbotene Aktivistengruppe "Palestine Action"](https://www.deutschlandfunk.de/london-hunderte-festnahmen-bei-solidaritaets-demo-fuer-verbotene-aktivistengruppe-palestine-action-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — ["Ärzte ohne Grenzen" - Gesundheitsversorgung im Gazastreifen katastrophal](https://www.deutschlandfunk.de/gesundheitsversorgung-im-gazastreifen-katastrophal-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Moskau meldet Drohnenangriff auf Industrieunternehmen nahe Nischni Nowgorod](https://www.deutschlandfunk.de/moskau-meldet-drohnenangriff-auf-industrieunternehmen-nahe-nischni-nowgorod-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesweite Jugendproteste - Zehntausende demonstrieren friedlich - Danach kommt es teils zu Ausschreitungen](https://www.deutschlandfunk.de/zehntausende-demonstrieren-friedlich-danach-kommt-es-teils-zu-ausschreitungen-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [CDU-Generalsekretärin Hoppermann - Demonstrationen als Deckmantel für Gewalt](https://www.deutschlandfunk.de/demonstrationen-als-deckmantel-fuer-gewalt-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Jugend-Demos - SPD fordert Bildungsgipfel](https://www.deutschlandfunk.de/spd-fordert-bildungsgipfel-100.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Tarife - Erste Warnstreiks der IG Metall](https://www.deutschlandfunk.de/erste-warnstreiks-der-ig-metall-104.html)  
+  _Sun, 01 Nov 2026 14:22:43 +0100_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Thu, 29 Oct 2026 17:49:47 GMT_ · paywall: `False`
 - **The Guardian** — [Brazil’s victory for the planet and democracy: seven lessons from Lula’s win](https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win)  
   _Thu, 29 Oct 2026 17:46:38 GMT_ · paywall: `False`
-- **The Guardian** — [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)  
-  _Fri, 30 Oct 2026 17:37:46 GMT_ · paywall: `False`
-- **The Guardian** — [Beijing Queer film festival cancelled after harassment from authorities](https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment)  
-  _Fri, 30 Oct 2026 11:04:12 GMT_ · paywall: `False`
+- **The Guardian** — [The US-China trade war seems to have subsided – but the sense of calm is misleading](https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)  
+  _Sun, 01 Nov 2026 12:00:12 GMT_ · paywall: `False`
+- **The Guardian** — [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)  
+  _Sun, 01 Nov 2026 11:54:23 GMT_ · paywall: `False`
