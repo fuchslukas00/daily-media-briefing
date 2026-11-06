@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-11-05 14:53 UTC_
+_Generated: 2026-11-06 14:31 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Tod von Aiwanger - Keinerlei Anzeichen für Fremdverschulden](https://www.deutschlandfunk.de/keinerlei-anzeichen-fuer-fremdverschulden-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ungarische Außenpolitik - Premier Magyar nimmt weitere Kurskorrekturen vor](https://www.deutschlandfunk.de/premier-magyar-nimmt-weitere-kurskorrekturen-vor-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Rechtsextremismus - Bundestag debattiert über Aufarbeitung der NSU-Verbrechen](https://www.deutschlandfunk.de/bundestag-debattiert-ueber-aufarbeitung-der-nsu-verbrechen-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Halloween-Süßigkeiten - Neuer Metallfund, aber auch mehrfach Entwarnung](https://www.deutschlandfunk.de/neuer-metallfund-aber-auch-mehrfach-entwarnung-102.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [EU-Kommission - Drohungen gegen Luftverkehr nicht hinnehmbar](https://www.deutschlandfunk.de/drohungen-gegen-luftverkehr-nicht-hinnehmbar-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Russland meldet sieben Tote nach ukrainischen Angriffen im Gebiet Luhansk](https://www.deutschlandfunk.de/russland-meldet-sieben-tote-nach-ukrainischen-angriffen-im-gebiet-luhansk-102.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Reform im Bundestag - Wie der Führerschein günstiger werden soll](https://www.deutschlandfunk.de/wie-der-fuehrerschein-guenstiger-werden-soll-102.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nachfolgesuche für Schulze - Artjom Pusch will für CDU-Landesvorsitz von Sachsen-Anhalt kandidieren](https://www.deutschlandfunk.de/artjom-pusch-will-fuer-cdu-landesvorsitz-von-sachsen-anhalt-kandidieren-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [G20-Gipfel 2027 - Großbritannien will Russland nicht einladen](https://www.deutschlandfunk.de/grossbritannien-will-russland-nicht-einladen-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Bundestag debattiert über erste Pflegereform - Linnemann kündigt Nachbesserungen an Gesetzentwurf an](https://www.deutschlandfunk.de/bundestag-debattiert-ueber-erste-pflegereform-linnemann-kuendigt-nachbesserungen-an-gesetzentwurf-an-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - Dax steigt auf Rekordhoch](https://www.deutschlandfunk.de/dax-steigt-auf-rekordhoch-120.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Spionage für Russland? - Mehrere Festnahmen in Polen gemeldet](https://www.deutschlandfunk.de/mehrere-festnahmen-in-polen-gemeldet-100.html)  
-  _Thu, 05 Nov 2026 15:43:03 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach CAS-Urteil - Bund sucht nach Lösungen für Eishockey-WM 2027](https://www.deutschlandfunk.de/bund-sucht-nach-loesungen-fuer-eishockey-wm-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Europäisches Asylsystem - Migrationskommissar Brunner legt Analyse vor - Deutschland muss keine zusätzlichen Flüchtlinge aufnehmen](https://www.deutschlandfunk.de/migrationskommissar-brunner-legt-analyse-vor-deutschland-muss-keine-zusaetzlichen-fluechtlinge-aufne-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Wärmster Oktober der Messgeschichte - Copernicus: 1,5-Grad-Marke wird 2026 wohl erneut überschritten](https://www.deutschlandfunk.de/copernicus-1-5-grad-marke-wird-2026-wohl-erneut-ueberschritten-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Weltklimakonferenz ab Montag - Bundesregierung unterstützt Elektrifizierungs-Ziel - Merz begründet Abwesenheit mit "vollem Terminkalender"](https://www.deutschlandfunk.de/bundesregierung-unterstuetzt-elektrifizierungs-ziel-merz-begruendet-abwesenheit-mit-vollem-terminkal-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Wegen Suchtgefahr - EU-Kommission fordert Tiktok zu Änderungen bei schädlichem Algorithmus auf](https://www.deutschlandfunk.de/eu-kommission-fordert-tiktok-zu-aenderungen-bei-schaedlichem-algorithmus-auf-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Schon über 50 Tote nach russischem Luftangriff auf Komyschuwacha](https://www.deutschlandfunk.de/schon-ueber-50-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Trump-Äußerung - Wadephul: "Europa muss zentrale Rolle bei Ukraine-Lösung spielen"](https://www.deutschlandfunk.de/wadephul-europa-muss-zentrale-rolle-bei-ukraine-loesung-spielen-102.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Neuer Manteltarifvertrag - Zwei Jahre Tariffrieden bei Condor: Einigung auch mit Kabinenpersonal](https://www.deutschlandfunk.de/zwei-jahre-tariffrieden-bei-condor-einigung-auch-mit-kabinenpersonal-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bedrohung - USA warnen vor Hackerangriffen auf industrielle Kühlsysteme](https://www.deutschlandfunk.de/usa-warnen-vor-hackerangriffen-auf-industrielle-kuehlsysteme-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundestagsbeschluss - K.o.-Tropfen werden künftig ähnlich wie Waffen eingestuft: Was die neue Strafverschärfung bedeutet](https://www.deutschlandfunk.de/k-o-tropfen-werden-kuenftig-aehnlich-wie-waffen-eingestuft-was-die-neue-strafverschaerfung-bedeutet-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Gerichtsentscheidung - Beschluss rechtskräftig: NSU-Terroristin Zschäpe bleibt mindestens bis zum Jahr 2035 im Gefängnis](https://www.deutschlandfunk.de/beschluss-rechtskraeftig-nsu-terroristin-zschaepe-bleibt-mindestens-bis-zum-jahr-2035-im-gefaengnis-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bildung - Grüne für verpflichtendes Kita-Jahr vor der Einschulung](https://www.deutschlandfunk.de/gruene-fuer-verpflichtendes-kita-jahr-vor-der-einschulung-100.html)  
+  _Fri, 06 Nov 2026 15:27:17 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [ANC faces bruising defeat in South African local elections with 80% of ballots counted](https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections)  
+  _Fri, 06 Nov 2026 12:48:37 GMT_ · paywall: `False`
 - **The Guardian** — [British healthcare worker with Ebola evacuated from DR Congo to UK](https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows)  
   _Wed, 04 Nov 2026 18:18:37 GMT_ · paywall: `False`
 - **The Guardian** — [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Fri, 30 Oct 2026 05:00:45 GMT_ · paywall: `False`
 - **The Guardian** — [Sudanese diaspora and human rights groups denounce UAE nominee for UN top job](https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job)  
   _Fri, 30 Oct 2026 05:00:45 GMT_ · paywall: `False`
-- **The Guardian** — [Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr](https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown)  
-  _Wed, 28 Oct 2026 14:16:24 GMT_ · paywall: `False`
+- **The Guardian** — [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)  
+  _Fri, 06 Nov 2026 13:03:38 GMT_ · paywall: `False`
+- **The Guardian** — [Low pressure in US midwest brings unseasonable heat to New York and Boston](https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker)  
+  _Fri, 06 Nov 2026 09:54:12 GMT_ · paywall: `False`
+- **The Guardian** — [Paraguay’s president quits after millions of people’s savings frozen in bank crisis](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns)  
+  _Fri, 06 Nov 2026 06:16:22 GMT_ · paywall: `False`
+- **The Guardian** — [Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks](https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru)  
+  _Fri, 06 Nov 2026 01:22:49 GMT_ · paywall: `False`
 - **The Guardian** — [How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil](https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro)  
   _Thu, 05 Nov 2026 11:00:21 GMT_ · paywall: `False`
-- **The Guardian** — [Mother and daughter killed in grizzly bear attack, Canadian authorities confirm](https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed)  
-  _Wed, 04 Nov 2026 19:42:47 GMT_ · paywall: `False`
-- **The Guardian** — [One dead and another missing in suspected grizzly bear attack in Canada](https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada)  
-  _Tue, 03 Nov 2026 22:08:50 GMT_ · paywall: `False`
-- **The Guardian** — [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)  
-  _Tue, 03 Nov 2026 13:00:07 GMT_ · paywall: `False`
-- **The Guardian** — [Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists](https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone)  
-  _Mon, 02 Nov 2026 20:00:27 GMT_ · paywall: `False`
-- **The Guardian** — [Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case](https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case)  
-  _Thu, 05 Nov 2026 07:56:21 GMT_ · paywall: `False`
-- **The Guardian** — [UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI](https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy)  
-  _Thu, 05 Nov 2026 05:00:55 GMT_ · paywall: `False`
+- **The Guardian** — [Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)  
+  _Fri, 06 Nov 2026 08:58:22 GMT_ · paywall: `False`
+- **The Guardian** — [Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry](https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry)  
+  _Thu, 05 Nov 2026 17:37:27 GMT_ · paywall: `False`
