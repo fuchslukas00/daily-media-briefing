@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-11-07 13:27 UTC_
+_Generated: 2026-11-08 13:46 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Schwarz-rote Koalition - Klingbeil: "Ringen mit Union hart um Kompromisse"](https://www.deutschlandfunk.de/klingbeil-ringen-mit-union-hart-um-kompromisse-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Parlamentswahl - Kopf-an Kopf-Rennen zwischen Regierung und Opposition in Neuseeland](https://www.deutschlandfunk.de/kopf-an-kopf-rennen-zwischen-regierung-und-opposition-in-neuseeland-102.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Frankfurt am Main - Reza Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen - und kritisiert Regierung in Teheran](https://www.deutschlandfunk.de/reza-pahlavi-nimmt-freiheitspreis-fuer-iranisches-volk-entgegen-und-kritisiert-regierung-in-teheran-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Im November - Pflegeversicherung bekommt weiteren Kredit](https://www.deutschlandfunk.de/pflegeversicherung-bekommt-weiteren-kredit-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Kontrollbehörde - CDU will Klaus Müller laut Bericht für zweite Amtszeit als Netzagenturchef vorschlagen](https://www.deutschlandfunk.de/cdu-will-klaus-mueller-laut-bericht-fuer-zweite-amtszeit-als-netzagenturchef-vorschlagen-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Soldatinnen und Soldaten - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig](https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nach Entlassung von Stabschefin Wiles - Trump rückt rechten Hardliner Stephen Miller ins Zentrum des Machtzirkels](https://www.deutschlandfunk.de/trump-rueckt-rechten-hardliner-stephen-miller-ins-zentrum-des-machtzirkels-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [USA Russland China - Peking bestätigt Gespräche über Treffen von Xi, Trump und Putin](https://www.deutschlandfunk.de/peking-bestaetigt-gespraeche-ueber-treffen-von-xi-trump-und-putin-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Russen greifen ukrainische Energieversorung mit Raketen an](https://www.deutschlandfunk.de/russen-greifen-ukrainische-energieversorung-mit-raketen-an-102.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Europaweite Vorfälle - Gefährliche Metallteile in Halloween-Süßigkeiten: Polizei prüft Einfluss von Sozialen Medien oder Chatgruppen](https://www.deutschlandfunk.de/gefaehrliche-metallteile-in-halloween-suessigkeiten-polizei-prueft-einfluss-von-sozialen-medien-oder-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten](https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundespräsidentenwahl - Medienberichte: Auch CDU für Ilse Aigner - Merz schweigt weiter - CDU-Parteikollege Kiesewetter kritisiert Merz](https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-merz-schweigt-weiter-cdu-parteikollege-kiesewetter-kritisie-100.html)  
-  _Sat, 07 Nov 2026 14:17:12 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Polen - Staatstrauer nach Anschlag mit Toten und Verletzten](https://www.deutschlandfunk.de/staatstrauer-nach-anschlag-mit-toten-und-verletzten-100.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine - Von Russland kontrolliertes Atomkraftwerk Saporischschja wird mit Notstromaggregaten gekühlt](https://www.deutschlandfunk.de/von-russland-kontrolliertes-atomkraftwerk-saporischschja-wird-mit-notstromaggregaten-gekuehlt-102.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Interview - Französischer Außenminister Barrot: Europa soll durch französische Vertreter bei Ukraine-Gesprächen repräsentiert werden](https://www.deutschlandfunk.de/franzoesischer-aussenminister-barrot-europa-soll-durch-franzoesische-vertreter-bei-ukraine-gespraech-102.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bericht - Bislang kaum Geld aus Sondervermögen in Bildungs-, Betreuungs- und Wissenschaftsinfrastruktur geflossen](https://www.deutschlandfunk.de/bislang-kaum-geld-aus-sondervermoegen-in-bildungs-betreuungs-und-wissenschaftsinfrastruktur-geflosse-100.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Infrastruktur - Großbauprojekte Brennerbasistunnel und Fehmarnbelttunnel von Cyberattacken betroffen](https://www.deutschlandfunk.de/grossbauprojekte-brennerbasistunnel-und-fehmarnbelttunnel-von-cyberattacken-betroffen-102.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Berlin - Linken-Abgeordnete Emde weist Rückzugsforderung des Landesvorstands zurück](https://www.deutschlandfunk.de/linken-abgeordnete-emde-weist-rueckzugsforderung-des-landesvorstands-zurueck-100.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Digitaler Bundesparteitag - FDP-Vorsitzender Kubicki stellt Wirtschaftswachstum ins Zentrum der Parteipolitik](https://www.deutschlandfunk.de/fdp-vorsitzender-kubicki-stellt-wirtschaftswachstum-ins-zentrum-der-parteipolitik-100.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [COP31 - Schneider (SPD) hofft auf konkrete Ergebnisse bei Klimakonferenz](https://www.deutschlandfunk.de/schneider-spd-hofft-auf-konkrete-ergebnisse-bei-klimakonferenz-102.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Erneut russischer Angriff auf ukrainische Energieversorgung - 600.000 Menschen ohne Strom](https://www.deutschlandfunk.de/erneut-russischer-angriff-auf-ukrainische-energieversorgung-600-000-menschen-ohne-strom-100.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Saudi-Arabien - Gebäude des saudischen Ölkonzerns Aramco bei Huthi-Angriff beschädigt](https://www.deutschlandfunk.de/gebaeude-des-saudischen-oelkonzerns-aramco-bei-huthi-angriff-beschaedigt-102.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Iran - Drei Männer wegen des Vorwurfs der Beteiligung an regierungskritischen Protesten hingerichtet](https://www.deutschlandfunk.de/drei-maenner-wegen-des-vorwurfs-der-beteiligung-an-regierungskritischen-protesten-hingerichtet-102.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung](https://www.deutschlandfunk.de/israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung-106.html)  
+  _Sun, 08 Nov 2026 14:17:53 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [How African philosophies inspired a new approach to staging film festivals in Manchester](https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester)  
+  _Sun, 08 Nov 2026 12:00:39 GMT_ · paywall: `False`
 - **The Guardian** — [Kenyan doomsday sect leader jailed for 200 years for murder of 190 children](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)  
   _Fri, 06 Nov 2026 15:08:43 GMT_ · paywall: `False`
 - **The Guardian** — [ANC faces bruising defeat in South African local elections with 80% of ballots counted](https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections)  
@@ -41,19 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 04 Nov 2026 18:18:37 GMT_ · paywall: `False`
 - **The Guardian** — [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)  
   _Wed, 04 Nov 2026 14:50:47 GMT_ · paywall: `False`
-- **The Guardian** — [Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg](https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg)  
-  _Fri, 30 Oct 2026 05:00:45 GMT_ · paywall: `False`
+- **The Guardian** — [Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei)  
+  _Sun, 08 Nov 2026 09:00:35 GMT_ · paywall: `False`
+- **The Guardian** — [Banana producers in Latin America want better pay to cope with effects of climate crisis](https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis)  
+  _Sun, 08 Nov 2026 07:00:34 GMT_ · paywall: `False`
 - **The Guardian** — [Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts)  
   _Sat, 07 Nov 2026 01:55:11 GMT_ · paywall: `False`
 - **The Guardian** — [Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52](https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies)  
   _Fri, 06 Nov 2026 19:23:24 GMT_ · paywall: `False`
 - **The Guardian** — [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)  
   _Fri, 06 Nov 2026 13:03:38 GMT_ · paywall: `False`
-- **The Guardian** — [Low pressure in US midwest brings unseasonable heat to New York and Boston](https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker)  
-  _Fri, 06 Nov 2026 09:54:12 GMT_ · paywall: `False`
-- **The Guardian** — [Paraguay’s president quits after millions of people’s savings frozen in bank crisis](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns)  
-  _Fri, 06 Nov 2026 06:16:22 GMT_ · paywall: `False`
-- **The Guardian** — [New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)  
-  _Sat, 07 Nov 2026 12:30:26 GMT_ · paywall: `False`
-- **The Guardian** — [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)  
-  _Fri, 06 Nov 2026 21:23:54 GMT_ · paywall: `False`
+- **The Guardian** — [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)  
+  _Sun, 08 Nov 2026 03:00:28 GMT_ · paywall: `False`
+- **The Guardian** — [NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)  
+  _Sun, 08 Nov 2026 01:00:48 GMT_ · paywall: `False`
