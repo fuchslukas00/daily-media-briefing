@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-11-09 16:46 UTC_
+_Generated: 2026-11-10 15:09 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Steinmeier-Nachfolge - Nach Nominierung: CSU-Politikerin Ilse Aigner bedankt sich für parteiübergreifenden Zuspruch](https://www.deutschlandfunk.de/nach-nominierung-csu-politikerin-ilse-aigner-bedankt-sich-fuer-parteiuebergreifenden-zuspruch-102.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Mobilfunkanbieter - Vodafone will rund 2.300 Stellen streichen](https://www.deutschlandfunk.de/vodafone-will-rund-2-300-stellen-streichen-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Berlin - Gedenken an Mauerfall vor 37 Jahren - Andacht in der Kapelle der Versöhnung](https://www.deutschlandfunk.de/gedenken-an-mauerfall-vor-37-jahren-andacht-in-der-kapelle-der-versoehnung-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Antisemitismus - Steinmeier geißelt Judenhass und ruft zu Zivilcourage auf](https://www.deutschlandfunk.de/steinmeier-geisselt-judenhass-und-ruft-zu-zivilcourage-auf-102.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - US-Vermittler Kushner benennt Proritäten bei Ukraine-Verhandlungen in Abu Dhabi - EU-Kommission bestätigt Teilnahme der Europäer](https://www.deutschlandfunk.de/us-vermittler-kushner-benennt-proritaeten-bei-ukraine-verhandlungen-in-abu-dhabi-eu-kommission-besta-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Russland greift weiter ukrainische Energieinfrastruktur an - Ukraine trifft Ölraffinerie in der Nähe von Sankt Petersburg](https://www.deutschlandfunk.de/russland-greift-weiter-ukrainische-energieinfrastruktur-an-ukraine-trifft-oelraffinerie-in-der-naehe-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Türkei - Weltklimakonferenz COP31 in Antalya eröffnet](https://www.deutschlandfunk.de/weltklimakonferenz-cop31-in-antalya-eroeffnet-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Polen - Polizei: Attentäter von Krakau ist tot](https://www.deutschlandfunk.de/polizei-attentaeter-von-krakau-ist-tot-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [9. November - Zahlreiche Veranstaltungen erinnern an Reichspogromnacht und Mauerfall](https://www.deutschlandfunk.de/zahlreiche-veranstaltungen-erinnern-an-reichspogromnacht-und-mauerfall-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [9. November - Antisemitismusbeauftragte: Jüdinnen und Juden fühlen sich unsicher in Deutschland](https://www.deutschlandfunk.de/antisemitismusbeauftragte-juedinnen-und-juden-fuehlen-sich-unsicher-in-deutschland-102.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Koalition der Willigen" - Militärmanöver zur Vorbereitung von Ukraine-Schutztruppe hat begonnen - Kritik aus Russland](https://www.deutschlandfunk.de/militaermanoever-zur-vorbereitung-von-ukraine-schutztruppe-hat-begonnen-kritik-aus-russland-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Antalya - Worum es bei der Klimakonferenz CO31 geht](https://www.deutschlandfunk.de/worum-es-bei-der-klimakonferenz-co31-geht-100.html)  
-  _Mon, 09 Nov 2026 17:35:19 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Trilaterale Verhandlungen - Rubio nennt Ukraine-Gespräche in Abu Dhabi produktiv - Europäer sollen einbezogen werden](https://www.deutschlandfunk.de/rubio-nennt-ukraine-gespraeche-in-abu-dhabi-produktiv-europaeer-sollen-einbezogen-werden-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Verteidigungsminister Hegseth nennt drohendes Amtsenthebungsverfahren eine Farce](https://www.deutschlandfunk.de/verteidigungsminister-hegseth-nennt-drohendes-amtsenthebungsverfahren-eine-farce-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesfinanzministerium - Klingbeil will Steuerklassen III und V offenbar abschaffen](https://www.deutschlandfunk.de/klingbeil-will-steuerklassen-iii-und-v-offenbar-abschaffen-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Knesset - Israelisches Parlament zu erster Sitzung zusammengekommen](https://www.deutschlandfunk.de/israelisches-parlament-zu-erster-sitzung-zusammengekommen-102.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Rot-Rot-Grün - Koalitionsverhandlungen in Mecklenburg-Vorpommern abgeschlossen](https://www.deutschlandfunk.de/koalitionsverhandlungen-in-mecklenburg-vorpommern-abgeschlossen-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein](https://www.deutschlandfunk.de/iran-weist-vorwuerfe-frankreichs-zurueck-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-zu-sein-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sachsen-Anhalt - Linken-Fraktionschefin von Angern tritt bei Ministerpräsidentenwahl gegen AfD-Politiker Siegmund an](https://www.deutschlandfunk.de/linken-fraktionschefin-von-angern-tritt-bei-ministerpraesidentenwahl-gegen-afd-politiker-siegmund-an-102.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Haushalt - Verbände und Gewerkschaften warnen vor Kürzungen im sozialen Bereich](https://www.deutschlandfunk.de/verbaende-und-gewerkschaften-warnen-vor-kuerzungen-im-sozialen-bereich-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kandidatur als Bundespräsidentin - Aigner stellt sich bei Bundestagsfraktionen vor](https://www.deutschlandfunk.de/aigner-stellt-sich-bei-bundestagsfraktionen-vor-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bayern - Staatsakt für Aiwanger in München](https://www.deutschlandfunk.de/staatsakt-fuer-aiwanger-in-muenchen-102.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Humanitäre Hilfe - Nach Überschwemmungen: Welthungerhilfe fordert mehr Geld für Gaza](https://www.deutschlandfunk.de/nach-ueberschwemmungen-welthungerhilfe-fordert-mehr-geld-fuer-gaza-100.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bulgarien - Zwölf Tote und 48 Verletzte bei Massenkarambolage auf Autobahn](https://www.deutschlandfunk.de/zwoelf-tote-und-48-verletzte-bei-massenkarambolage-auf-autobahn-102.html)  
+  _Tue, 10 Nov 2026 16:06:30 +0100_ · paywall: `False`
 
 ## international
 
@@ -53,7 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sun, 08 Nov 2026 07:00:34 GMT_ · paywall: `False`
 - **The Guardian** — [Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts)  
   _Sat, 07 Nov 2026 01:55:11 GMT_ · paywall: `False`
+- **The Guardian** — [US and rest of world must follow China’s lead on green energy, says John Kerry](https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31)  
+  _Tue, 10 Nov 2026 12:08:23 GMT_ · paywall: `False`
 - **The Guardian** — [Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence](https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation)  
   _Mon, 09 Nov 2026 00:25:28 GMT_ · paywall: `False`
-- **The Guardian** — [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)  
-  _Sun, 08 Nov 2026 03:00:28 GMT_ · paywall: `False`
