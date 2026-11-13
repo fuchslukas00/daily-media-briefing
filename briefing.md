@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-11-12 15:31 UTC_
+_Generated: 2026-11-13 14:50 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Chiphersteller - Nvidia-Chef Huang verlässt nach Affären das Unternehmen](https://www.deutschlandfunk.de/nvidia-chef-huang-verlaesst-nach-affaeren-das-unternehmen-100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Haushalt 2027 - Stromsteuer für Privathaushalte wird vorerst nicht gesenkt - ​Mieterbund warnt vor Belastung ärmerer Mieter durch ausbleibende Wohngelderhöhung](https://www.deutschlandfunk.de/stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-mieterbund-warnt-vor-belastung-aermerer--100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Militärischer Internetdienst - Ukraine meldet erneut Drosselungen bei Starshield](https://www.deutschlandfunk.de/ukraine-meldet-erneut-drosselungen-bei-starshield-100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gesetzespläne - Bundestag beschließt Gesetz zur früheren Förderung von Kindern](https://www.deutschlandfunk.de/bundestag-beschliesst-gesetz-zur-frueheren-foerderung-von-kindern-100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Gesetzespläne - Bundestag beschließt mehr Befugnise für Zoll im Kampf gegen Organisierte Kriminalität](https://www.deutschlandfunk.de/bundestag-beschliesst-mehr-befugnise-fuer-zoll-im-kampf-gegen-organisierte-kriminalitaet-102.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Tarifkonflikt - IG-Metall plant ganztägige Warnstreiks](https://www.deutschlandfunk.de/ig-metall-plant-ganztaegige-warnstreiks-106.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Organisierte Kriminalität - Baden-Württemberg verbietet Ableger von Rockergruppe - Razzien auch in Bayern und Rheinland-Pfalz](https://www.deutschlandfunk.de/baden-wuerttemberg-verbietet-ableger-von-rockergruppe-razzien-auch-in-bayern-und-rheinland-pfalz-102.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Infektionskrankheit - Tuberkulose-Ziele der WHO werden verfehlt - 1,13 Millionen Tote](https://www.deutschlandfunk.de/tuberkulose-ziele-der-who-werden-verfehlt-1-13-millionen-tote-102.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Hauseinsturz in New York - Zahl der Todesopfer steigt auf acht](https://www.deutschlandfunk.de/zahl-der-todesopfer-steigt-auf-acht-100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Mitbegründer des Dadaismus - Skulptur von Hans Arp auf der Art Cologne gestohlen](https://www.deutschlandfunk.de/skulptur-von-hans-arp-auf-der-art-cologne-gestohlen-102.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Drohmails - Neue Bombendrohungen gegen Schulen in Italien - Regierung ruft zu Ruhe auf](https://www.deutschlandfunk.de/neue-bombendrohungen-gegen-schulen-in-italien-regierung-ruft-zu-ruhe-auf-100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Tarifverhandlungen - Verdi kündigt bundesweite Warnstreiks bei privaten Banken an](https://www.deutschlandfunk.de/verdi-kuendigt-bundesweite-warnstreiks-bei-privaten-banken-an-100.html)  
-  _Thu, 12 Nov 2026 16:23:34 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet](https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kinderbetreuung - Bundesregierung beschließt Veränderungen beim Elterngeld](https://www.deutschlandfunk.de/bundesregierung-beschliesst-veraenderungen-beim-elterngeld-102.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Finanzen - Kritik der Opposition an Haushalt für 2027](https://www.deutschlandfunk.de/kritik-der-opposition-an-haushalt-fuer-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesstatistiker - Zahl der Firmenpleiten im August angestiegen - Höchster Stand seit 13 Jahren](https://www.deutschlandfunk.de/zahl-der-firmenpleiten-im-august-angestiegen-hoechster-stand-seit-13-jahren-102.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Cyberattacken - BSI warnt vor anhaltenden IT-Schwachstellen in Kühlsystemen](https://www.deutschlandfunk.de/bsi-warnt-vor-anhaltenden-it-schwachstellen-in-kuehlsystemen-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Informationstechnik - Microsoft-Panne: Digitalministerium rechnet mit erheblichen Auswirkungen auf Unternehmen](https://www.deutschlandfunk.de/microsoft-panne-digitalministerium-rechnet-mit-erheblichen-auswirkungen-auf-unternehmen-102.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kriegsführung - Rotes Kreuz: Staaten müssen autonome Waffen regulieren](https://www.deutschlandfunk.de/rotes-kreuz-staaten-muessen-autonome-waffen-regulieren-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Autoindustrie - Mercedes-Benz prüft jetzt "konkret und detailliert" Werksschließungen](https://www.deutschlandfunk.de/mercedes-benz-prueft-jetzt-konkret-und-detailliert-werksschliessungen-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Winterhilfe - Bund gibt weitere 200 Millionen Euro für Ukraine frei](https://www.deutschlandfunk.de/bund-gibt-weitere-200-millionen-euro-fuer-ukraine-frei-102.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Dublin - Kushner: Europäer sollen bei nächsten Ukraine-Gesprächen dabei sein](https://www.deutschlandfunk.de/kushner-europaeer-sollen-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Russland - Medienbericht: Autoexplosion in Moskau - Exil-Ukrainer in Krankenhaus](https://www.deutschlandfunk.de/medienbericht-autoexplosion-in-moskau-exil-ukrainer-in-krankenhaus-102.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Vier Tote bei ukrainischem Luftangriff auf russische Region Wolgograd](https://www.deutschlandfunk.de/vier-tote-bei-ukrainischem-luftangriff-auf-russische-region-wolgograd-100.html)  
+  _Fri, 13 Nov 2026 15:34:29 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,6 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Sun, 08 Nov 2026 12:00:39 GMT_ · paywall: `False`
 - **The Guardian** — [Kenyan doomsday sect leader jailed for 200 years for murder of 190 children](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)  
   _Fri, 06 Nov 2026 15:08:43 GMT_ · paywall: `False`
+- **The Guardian** — [Storm Charles causes floods and flight cancellations across southern Europe](https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather)  
+  _Fri, 13 Nov 2026 08:49:19 GMT_ · paywall: `False`
 - **The Guardian** — [Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies](https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil)  
   _Wed, 11 Nov 2026 22:50:37 GMT_ · paywall: `False`
 - **The Guardian** — [Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina](https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 11 Nov 2026 16:05:45 GMT_ · paywall: `False`
 - **The Guardian** — [Killing of journalist underscores deteriorating conditions in Ecuador](https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing)  
   _Wed, 11 Nov 2026 14:00:52 GMT_ · paywall: `False`
-- **The Guardian** — [Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK](https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts)  
-  _Tue, 10 Nov 2026 19:01:33 GMT_ · paywall: `False`
-- **The Guardian** — [Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair](https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair)  
-  _Thu, 12 Nov 2026 06:43:31 GMT_ · paywall: `False`
-- **The Guardian** — [Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment](https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia)  
-  _Wed, 11 Nov 2026 05:33:27 GMT_ · paywall: `False`
+- **The Guardian** — [Nvidia scandal: Howard Lutnick under pressure over alleged lack of action](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china)  
+  _Fri, 13 Nov 2026 09:41:22 GMT_ · paywall: `False`
+- **The Guardian** — [Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast](https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast)  
+  _Fri, 13 Nov 2026 03:00:06 GMT_ · paywall: `False`
