@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-11-20 15:42 UTC_
+_Generated: 2026-11-21 14:53 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Gipfel in Brüssel - EU und Großbritannien vereinbaren Annäherung in vielen Bereichen](https://www.deutschlandfunk.de/eu-und-grossbritannien-vereinbaren-annaeherung-in-vielen-bereichen-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Antalya - Weltklimakonferenz geht in die Verlängerung - EU fordert Änderungen](https://www.deutschlandfunk.de/weltklimakonferenz-geht-in-die-verlaengerung-eu-fordert-aenderungen-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Pistorius: Einladung von Putin auszuschlagen, wäre das falsche Signal - Moskau als Ort komme aber nicht in Frage](https://www.deutschlandfunk.de/pistorius-einladung-von-putin-auszuschlagen-waere-das-falsche-signal-moskau-als-ort-komme-aber-nicht-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesverteidigungsminister - "Ziemlich dumm": Pistorius entschuldigt sich für scharfe Wortwahl zu Äußerung von US-Vertreter](https://www.deutschlandfunk.de/ziemlich-dumm-pistorius-entschuldigt-sich-fuer-scharfe-wortwahl-zu-aeusserung-von-us-vertreter-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ukraine-Krieg - Russische Flugobjekte in Polen: NATO sichert Unterstützung zu](https://www.deutschlandfunk.de/russische-flugobjekte-in-polen-nato-sichert-unterstuetzung-zu-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Gen Z regelt" und Schülerkonferenz - Junge Menschen demonstrieren in zahlreichen Städten](https://www.deutschlandfunk.de/junge-menschen-demonstrieren-in-zahlreichen-staedten-102.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesländer - Küstenländer fordern mehr Geld für Häfen](https://www.deutschlandfunk.de/kuestenlaender-fordern-mehr-geld-fuer-haefen-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Französische Justiz - Ermittlungen gegen Depardieu und Houellebecq wegen Vorwurf der gemeinschaftlichen Vergewaltigung](https://www.deutschlandfunk.de/ermittlungen-gegen-depardieu-und-houellebecq-wegen-vorwurf-der-gemeinschaftlichen-vergewaltigung-102.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesrat - Führerschein soll billiger werden](https://www.deutschlandfunk.de/fuehrerschein-soll-billiger-werden-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesrat - Sicherheitsbehörden erhalten mehr Befugnisse bei Cyberabwehr](https://www.deutschlandfunk.de/sicherheitsbehoerden-erhalten-mehr-befugnisse-bei-cyberabwehr-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Trauer - In Heidelberg gibt es das erste kirchliche Bestattungsinstitut Deutschlands](https://www.deutschlandfunk.de/in-heidelberg-gibt-es-das-erste-kirchliche-bestattungsinstitut-deutschlands-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundesrat - Reform der Notfallversorgung kann in Kraft treten](https://www.deutschlandfunk.de/reform-der-notfallversorgung-kann-in-kraft-treten-100.html)  
-  _Fri, 20 Nov 2026 16:31:43 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [EU-Haushalt - Merz gegen Kompromissvorschlag von Ratspräsident Costa](https://www.deutschlandfunk.de/merz-gegen-kompromissvorschlag-von-ratspraesident-costa-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Weltwirtschaft - EU und Indonesien besiegeln umfassendes Handelsabkommen](https://www.deutschlandfunk.de/eu-und-indonesien-besiegeln-umfassendes-handelsabkommen-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Selenskyj: "Krimbrücke wird nicht stehen bleiben"](https://www.deutschlandfunk.de/selenskyj-krimbruecke-wird-nicht-stehen-bleiben-102.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Polen-Beauftragter Abraham: Absturz russischer Flugobjekte ist Provokation Russlands](https://www.deutschlandfunk.de/polen-beauftragter-abraham-absturz-russischer-flugobjekte-ist-provokation-russlands-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Inkofen - Gestorbener Freie-Wähler-Vorsitzender Aiwanger beigesetzt](https://www.deutschlandfunk.de/gestorbener-freie-waehler-vorsitzender-aiwanger-beigesetzt-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kontrolle des Verfassungsschutzes - "3:1 für Putin": Grünenpolitiker von Notz kritisiert Wahl von AfD und BSW ins Parlamentarische Kontrollgremium in Sachsen-Anhalt](https://www.deutschlandfunk.de/3-1-fuer-putin-gruenenpolitiker-von-notz-kritisiert-wahl-von-afd-und-bsw-ins-parlamentarische-kontro-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kraftstoff-Kosten - Reiche will Autobahntankstellen von Preisdeckel ausnehmen](https://www.deutschlandfunk.de/reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Video-Plattform - Nach TikTok-Widerspruch: Kulturstaatsminister Weimer fordert Ende der Blockadepolitik](https://www.deutschlandfunk.de/nach-tiktok-widerspruch-kulturstaatsminister-weimer-fordert-ende-der-blockadepolitik-102.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Afrika - Kongo verurteilt EU-Asylpläne in Ruanda und wirft Europa Doppelmoral vor](https://www.deutschlandfunk.de/kongo-verurteilt-eu-asylplaene-in-ruanda-und-wirft-europa-doppelmoral-vor-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Mittelamerika - Hunderte abgeschobene Einwanderer ziehen zurück in Richtung US-Grenze](https://www.deutschlandfunk.de/hunderte-abgeschobene-einwanderer-ziehen-zurueck-in-richtung-us-grenze-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Antalya - Weltklimakonferenz geht in die Verlängerung - EU fordert Änderungen](https://www.deutschlandfunk.de/weltklimakonferenz-geht-in-die-verlaengerung-eu-fordert-aenderungen-114.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen](https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-auch-landwirtschaftsministerium-betroffen-100.html)  
+  _Sat, 21 Nov 2026 15:50:28 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,7 +43,9 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 18 Nov 2026 09:58:28 GMT_ · paywall: `False`
 - **The Guardian** — [European Commission accused of sugarcoating figures to release funds to Egypt](https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans)  
   _Wed, 18 Nov 2026 05:00:32 GMT_ · paywall: `False`
-- **The Guardian** — [‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack](https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding)  
+- **The Guardian** — [Haitians excited but uneasy as El Salvador troops fight gangs](https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele)  
+  _Sat, 21 Nov 2026 11:00:57 GMT_ · paywall: `False`
+- **The Guardian** — [‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike](https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding)  
   _Fri, 20 Nov 2026 11:00:31 GMT_ · paywall: `False`
 - **The Guardian** — [Race to be next UN secretary general exposes divisions among world powers](https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers)  
   _Fri, 20 Nov 2026 05:00:24 GMT_ · paywall: `False`
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 18 Nov 2026 22:31:41 GMT_ · paywall: `False`
 - **The Guardian** — [Hegseth uses Venezuela visit to boast of Maduro’s capture by US military](https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military)  
   _Wed, 18 Nov 2026 20:24:19 GMT_ · paywall: `False`
-- **The Guardian** — [Caribbean nations fear economic impact of shuttering citizenship program after EU threats](https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment)  
-  _Tue, 17 Nov 2026 21:49:29 GMT_ · paywall: `False`
-- **The Guardian** — [Anthropic shares slump on second day of trading as stock markets reel from AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)  
-  _Fri, 20 Nov 2026 13:53:13 GMT_ · paywall: `False`
-- **The Guardian** — [California investigates Nvidia over whether chip exports ended up in China](https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china)  
-  _Fri, 20 Nov 2026 09:18:30 GMT_ · paywall: `False`
+- **The Guardian** — [China commits to low-carbon electrification and help for others to improve](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)  
+  _Sat, 21 Nov 2026 09:47:57 GMT_ · paywall: `False`
+- **The Guardian** — [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)  
+  _Fri, 20 Nov 2026 21:47:41 GMT_ · paywall: `False`
