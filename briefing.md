@@ -1,59 +1,59 @@
 # Daily Briefing
 
-_Generated: 2026-11-24 18:09 UTC_
+_Generated: 2026-11-25 17:31 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — ["Vertrauensverlust" - Vanessa Emde aus Berliner Linke-Fraktion ausgeschlossen](https://www.deutschlandfunk.de/vanessa-emde-aus-berliner-linke-fraktion-ausgeschlossen-102.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Medienberichte - Taliban blockieren offenbar geplanten Abschiebeflug nach Afghanistan - Druck auf die Bundesregierung](https://www.deutschlandfunk.de/taliban-blockieren-offenbar-geplanten-abschiebeflug-nach-afghanistan-druck-auf-die-bundesregierung-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Automobilindustrie - Erste VW-Tarifverhandlungsrunde nach kurzer Zeit beendet](https://www.deutschlandfunk.de/erste-vw-tarifverhandlungsrunde-nach-kurzer-zeit-beendet-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Atomsprengköpfe im All - Bundeswehr setzt auf elektronische Abwehr](https://www.deutschlandfunk.de/bundeswehr-setzt-auf-elektronische-abwehr-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Saudi-Arabien - Jemenitische Huthi-Miliz greift erneut Wolkenkratzer in Riad an](https://www.deutschlandfunk.de/jemenitische-huthi-miliz-greift-erneut-wolkenkratzer-in-riad-an-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Menschenrechte - Urteil: Pushbacks können bei Instrumentalisierung legal sein](https://www.deutschlandfunk.de/urteil-pushbacks-koennen-bei-instrumentalisierung-legal-sein-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Wirtschaft - EU schränkt Einfuhr von Hybrid-Autos ein](https://www.deutschlandfunk.de/eu-schraenkt-einfuhr-von-hybrid-autos-ein-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Schlussdebatte - Koalition verteidigt Rekordausgaben gegen Kritik](https://www.deutschlandfunk.de/koalition-verteidigt-rekordausgaben-gegen-kritik-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [London - Großbritannien verhängt Sanktionen gegen jemenitische Huthi-Miliz](https://www.deutschlandfunk.de/grossbritannien-verhaengt-sanktionen-gegen-jemenitische-huthi-miliz-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nahost - Hamas-Sicherheitschef bei israelischem Luftangriff im Gazastreifen getötet](https://www.deutschlandfunk.de/hamas-sicherheitschef-bei-israelischem-luftangriff-im-gazastreifen-getoetet-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Lagebild - Zahl der Fälle von Gewalt gegen Frauen gestiegen](https://www.deutschlandfunk.de/zahl-der-faelle-von-gewalt-gegen-frauen-gestiegen-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Körber-Stiftung - Deutsche wollen weniger Unterstützung für die Ukraine](https://www.deutschlandfunk.de/deutsche-wollen-weniger-unterstuetzung-fuer-die-ukraine-100.html)  
-  _Tue, 24 Nov 2026 18:52:21 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Rechtsextremistische Chatgruppe "Terror 18" - Drei Teenager unter Terrorverdacht festgenommen - zwei Beschuldigte wieder auf freiem Fuß](https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-zwei-beschuldigte-wieder-auf-freiem-fuss-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Trump-Regierung - USA kündigen neue Zölle gegen EU, China und andere Handelspartner an](https://www.deutschlandfunk.de/usa-kuendigen-neue-zoelle-gegen-eu-china-und-andere-handelspartner-an-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Brüssel - EU-Kommission weist Begründung für neue US-Zölle zurück](https://www.deutschlandfunk.de/eu-kommission-weist-begruendung-fuer-neue-us-zoelle-zurueck-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Europäisches Parlament - Neue Regeln gegen Engpässe bei Medikamenten - Beipackzettel künftig auch per QR-Code](https://www.deutschlandfunk.de/neue-regeln-gegen-engpaesse-bei-medikamenten-beipackzettel-kuenftig-auch-per-qr-code-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Fachtagung in Frankfurt - Drogenbeauftragter Streeck: Kommunen mit Crack-Problemen nicht alleine lassen](https://www.deutschlandfunk.de/drogenbeauftragter-streeck-kommunen-mit-crack-problemen-nicht-alleine-lassen-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Kulturstaatsminister - Erinnerung an Opfer des deutschen Kolonialismus: Weimer schlägt Bremen als Gedenkort vor](https://www.deutschlandfunk.de/erinnerung-an-opfer-des-deutschen-kolonialismus-weimer-schlaegt-bremen-als-gedenkort-vor-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Früheres Supermodel "Veruschka" - Vera Gräfin von Lehndorff im Alter von 87 Jahren gestorben](https://www.deutschlandfunk.de/vera-graefin-von-lehndorff-im-alter-von-87-jahren-gestorben-102.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nach Luftraum-Verletzungen - Polen will Flugverbotszone an der Grenze zur Ukraine einrichten](https://www.deutschlandfunk.de/polen-will-flugverbotszone-an-der-grenze-zur-ukraine-einrichten-102.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Streit um verschleppte ukrainische Kinder - Schweiz bedauert plötzliche Schließung von diplomatischer Vertretung in Nordkorea](https://www.deutschlandfunk.de/schweiz-bedauert-ploetzliche-schliessung-von-diplomatischer-vertretung-in-nordkorea-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Gemischte Reaktionen nach ukrainischem Angriff auf russische Schiffe vor Libyen](https://www.deutschlandfunk.de/gemischte-reaktionen-nach-ukrainischem-angriff-auf-russische-schiffe-vor-libyen-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sachsen-Anhalt - AfD reicht Wahlvorschlag für Siegmund offiziell ein - Protest in Magdeburg für 8. Dezember geplant](https://www.deutschlandfunk.de/afd-reicht-wahlvorschlag-fuer-siegmund-offiziell-ein-protest-in-magdeburg-fuer-8-dezember-geplant-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Regierungsbildung Sachsen-Anhalt - Laut Linke bisher kein gemeinsamer Gegenkandidat zu AfD-Politiker Siegmund](https://www.deutschlandfunk.de/laut-linke-bisher-kein-gemeinsamer-gegenkandidat-zu-afd-politiker-siegmund-100.html)  
+  _Wed, 25 Nov 2026 18:28:08 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Swiss tourist killed and British and Americans injured by elephants in Cameroon](https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon)  
+  _Wed, 25 Nov 2026 14:03:18 GMT_ · paywall: `False`
+- **The Guardian** — [Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini](https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini)  
+  _Wed, 25 Nov 2026 11:28:05 GMT_ · paywall: `False`
 - **The Guardian** — [More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals](https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data)  
   _Tue, 24 Nov 2026 16:00:50 GMT_ · paywall: `False`
 - **The Guardian** — [Ukraine confirms it used naval drones to strike two Russian ships off Libya](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya)  
   _Mon, 23 Nov 2026 11:42:51 GMT_ · paywall: `False`
 - **The Guardian** — [Russian warship sinks in Benghazi after suspected Ukrainian drone attack](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)  
   _Sun, 22 Nov 2026 21:33:44 GMT_ · paywall: `False`
-- **The Guardian** — [California’s coastal communities on alert as biggest waves in years hit state](https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state)  
-  _Fri, 20 Nov 2026 09:03:20 GMT_ · paywall: `False`
-- **The Guardian** — [Race to replant five South African baobabs after export blocked](https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe)  
-  _Thu, 19 Nov 2026 11:03:24 GMT_ · paywall: `False`
-- **The Guardian** — [Butt of the joke: Trump impersonator mocks president at Canada press dinner](https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner)  
-  _Mon, 23 Nov 2026 22:41:48 GMT_ · paywall: `False`
-- **The Guardian** — [Barbados town’s three-year deal with Bristol ‘part of the reparative process’](https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations)  
-  _Mon, 23 Nov 2026 16:53:13 GMT_ · paywall: `False`
-- **The Guardian** — [Trump administration deported US citizen to Mexico, DoJ admits in court](https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico)  
-  _Mon, 23 Nov 2026 11:00:56 GMT_ · paywall: `False`
-- **The Guardian** — [Bank of England directors illegally profited from post-abolition enslavement in Cuba](https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba)  
-  _Sun, 22 Nov 2026 08:00:22 GMT_ · paywall: `False`
-- **The Guardian** — [Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid](https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested)  
-  _Sat, 21 Nov 2026 17:46:55 GMT_ · paywall: `False`
-- **The Guardian** — [The Nvidia case is just the latest episode of Trump disregarding intelligence](https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence)  
-  _Tue, 24 Nov 2026 14:00:48 GMT_ · paywall: `False`
-- **The Guardian** — [Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’](https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar)  
-  _Tue, 24 Nov 2026 05:54:14 GMT_ · paywall: `False`
+- **The Guardian** — [All hostages rescued after Colombian security forces storm supermarket, says president](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)  
+  _Wed, 25 Nov 2026 13:56:55 GMT_ · paywall: `False`
+- **The Guardian** — [Colombia’s president arrives at scene of supermarket hostage siege in tourist city](https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket)  
+  _Wed, 25 Nov 2026 03:57:11 GMT_ · paywall: `False`
+- **The Guardian** — [Kilmar Ábrego García, man at center of Trump deportation battle, leaves US](https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us)  
+  _Tue, 24 Nov 2026 23:50:31 GMT_ · paywall: `False`
+- **The Guardian** — [Canada says it ‘does not report to the US’ after Pentagon criticizes military spending](https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo)  
+  _Tue, 24 Nov 2026 22:02:13 GMT_ · paywall: `False`
+- **The Guardian** — [Life expectancy in Cuba falls for first time since 1950 amid economic crisis](https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline)  
+  _Tue, 24 Nov 2026 19:07:26 GMT_ · paywall: `False`
+- **The Guardian** — [China sends first foreign astronaut to ISS rival as it globalises space operations](https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space)  
+  _Wed, 25 Nov 2026 14:18:29 GMT_ · paywall: `False`
+- **The Guardian** — [UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars](https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud)  
+  _Wed, 25 Nov 2026 11:59:22 GMT_ · paywall: `False`
