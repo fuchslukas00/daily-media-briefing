@@ -1,38 +1,40 @@
 # Daily Briefing
 
-_Generated: 2026-11-26 17:14 UTC_
+_Generated: 2026-11-27 16:55 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Tarifabschluss - IG Metall und Arbeitgeber erzielen Einigung: 4,3 Prozent mehr Geld](https://www.deutschlandfunk.de/ig-metall-und-arbeitgeber-erzielen-einigung-4-3-prozent-mehr-geld-102.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Europäische Zentralbank - Spanier soll neuer EZB-Präsident werden](https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-102.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Handelspolitik - Wadephul kritisiert Ankündigung neuer US-Zölle - China und Japan protestieren gegen Zollpläne](https://www.deutschlandfunk.de/wadephul-kritisiert-ankuendigung-neuer-us-zoelle-china-und-japan-protestieren-gegen-zollplaene-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — ["Respekt-Rente" - Kompromissvorschlag aus der Union im Streit über "Rente mit 63" - gemischte Reaktionen der SPD](https://www.deutschlandfunk.de/kompromissvorschlag-aus-der-union-im-streit-ueber-rente-mit-63-gemischte-reaktionen-der-spd-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundeswehr - Erste Frau an der Spitze eines Marinestützpunkts](https://www.deutschlandfunk.de/erste-frau-an-der-spitze-eines-marinestuetzpunkts-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Bundestag - Linken-Abgeordneten drohen Konsequenzen nach Blockade-Aktion gegen Ex-Mossad-Chef Barnea](https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Vor Bundesparteitag - BSW-Chefin Mohamed Ali will Streit um Umgang mit AfD mit Kompromiss entschärfen](https://www.deutschlandfunk.de/bsw-chefin-mohamed-ali-will-streit-um-umgang-mit-afd-mit-kompromiss-entschaerfen-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Ehrung - Bundestag benennt Gebäude nach Rita Süssmuth und Gerd Poppe](https://www.deutschlandfunk.de/bundestag-benennt-gebaeude-nach-rita-suessmuth-und-gerd-poppe-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Köln - Rekord-Schmerzensgeld: Erzbistum muss 550.000 Euro an Missbrauchsopfer zahlen](https://www.deutschlandfunk.de/rekord-schmerzensgeld-erzbistum-muss-550-000-euro-an-missbrauchsopfer-zahlen-102.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Brüssel - EU-Staats- und Regierungschefs beraten über Haushalt - Bundeskanzler Merz: Costa-Vorschlag keine Grundlage für Einigung](https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-beraten-ueber-haushalt-bundeskanzler-merz-costa-vorschlag-keine-grundl-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Winterwetter - Schneechaos in Österreich - Staus bis nach Deutschland](https://www.deutschlandfunk.de/schneechaos-in-oesterreich-staus-bis-nach-deutschland-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Drogerie - Landgericht erlaubt Augenscreening in "dm"-Filialen – "ersetzt aber nicht den Arztbesuch"](https://www.deutschlandfunk.de/landgericht-erlaubt-augenscreening-in-dm-filialen-ersetzt-aber-nicht-den-arztbesuch-100.html)  
-  _Thu, 26 Nov 2026 18:02:39 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sozialpolitik - Entwurf aus Arbeitsministerium: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben](https://www.deutschlandfunk.de/entwurf-aus-arbeitsministerium-abschlagsfreie-rente-nach-45-jahren-soll-erhalten-bleiben-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Neuer Gesetzentwurf - Schweitzer wirbt für Renten-Kompromiss](https://www.deutschlandfunk.de/schweitzer-wirbt-fuer-renten-kompromiss-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Interview der Woche - Verbraucherzentrale Bundesverband: Vorständin Pop für weitere Entlastungen bei Energiekosten](https://www.deutschlandfunk.de/verbraucherzentrale-bundesverband-vorstaendin-pop-fuer-weitere-entlastungen-bei-energiekosten-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Staatsausgaben - Bundestag verabschiedet Haushalt für das kommende Jahr](https://www.deutschlandfunk.de/bundestag-verabschiedet-haushalt-fuer-das-kommende-jahr-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Finanzpolitik - Ökonom Felbermayr: Haushaltsbeschlüsse gefährden Vertrauen in Deutschland](https://www.deutschlandfunk.de/oekonom-felbermayr-haushaltsbeschluesse-gefaehrden-vertrauen-in-deutschland-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Dresden - BSW-Co-Vorsitzender De Masi schließt Koalitionen mit AfD aus - Richtungsstreit auf dem Parteitag erwartet](https://www.deutschlandfunk.de/bsw-co-vorsitzender-de-masi-schliesst-koalitionen-mit-afd-aus-richtungsstreit-auf-dem-parteitag-erwa-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Hamburg - Sadistisches Online-Netzwerk: Höchststrafe für "White Tiger" beantragt](https://www.deutschlandfunk.de/sadistisches-online-netzwerk-hoechststrafe-fuer-white-tiger-beantragt-102.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Potsdam - Bündnis gegründet: Jugendämter müssen unabhängig überwacht werden](https://www.deutschlandfunk.de/buendnis-gegruendet-jugendaemter-muessen-unabhaengig-ueberwacht-werden-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Neues Bündnis - Türkei ratifiziert Verteidigungspakt mit Saudi-Arabien und Pakistan](https://www.deutschlandfunk.de/tuerkei-ratifiziert-verteidigungspakt-mit-saudi-arabien-und-pakistan-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sicherheit - "Spiegel": Proiranische Gruppe plante auch Anschlag auf Synagoge in Schweden](https://www.deutschlandfunk.de/spiegel-proiranische-gruppe-plante-auch-anschlag-auf-synagoge-in-schweden-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Nachfolge von Stefan Raue - Verwaltungsrat schlägt Dr. Nadja Scholz als neue Deutschlandradio-Intendantin vor](https://www.deutschlandfunk.de/verwaltungsrat-schlaegt-dr-nadja-scholz-als-neue-deutschlandradio-intendantin-vor-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Medien - Verein "Informationsqualität" geht weiter juristisch gegen Deutschlandfunk-Reform vor](https://www.deutschlandfunk.de/verein-informationsqualitaet-geht-weiter-juristisch-gegen-deutschlandfunk-reform-vor-100.html)  
+  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
 
 ## international
 
+- **The Guardian** — [Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind](https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind)  
+  _Fri, 27 Nov 2026 06:00:56 GMT_ · paywall: `False`
 - **The Guardian** — [‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record](https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general)  
   _Thu, 26 Nov 2026 12:37:42 GMT_ · paywall: `False`
 - **The Guardian** — [At least 31 killed as fuel tanker crash ignites large fire on Cairo highway](https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway)  
@@ -41,8 +43,8 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 25 Nov 2026 14:03:18 GMT_ · paywall: `False`
 - **The Guardian** — [Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini](https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini)  
   _Wed, 25 Nov 2026 11:28:05 GMT_ · paywall: `False`
-- **The Guardian** — [More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals](https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data)  
-  _Tue, 24 Nov 2026 16:00:50 GMT_ · paywall: `False`
+- **The Guardian** — [Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols](https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols)  
+  _Fri, 27 Nov 2026 16:13:07 GMT_ · paywall: `False`
 - **The Guardian** — [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)  
   _Wed, 25 Nov 2026 20:20:23 GMT_ · paywall: `False`
 - **The Guardian** — [Lululemon founder stuns Canadian women’s leadership conference with sexist comments](https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference)  
@@ -51,9 +53,7 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 25 Nov 2026 03:57:11 GMT_ · paywall: `False`
 - **The Guardian** — [Kilmar Ábrego García, man at center of Trump deportation battle, leaves US](https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us)  
   _Tue, 24 Nov 2026 23:50:31 GMT_ · paywall: `False`
-- **The Guardian** — [Canada says it ‘does not report to the US’ after Pentagon criticizes military spending](https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo)  
-  _Tue, 24 Nov 2026 22:02:13 GMT_ · paywall: `False`
-- **The Guardian** — [China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals](https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat)  
-  _Thu, 26 Nov 2026 12:00:22 GMT_ · paywall: `False`
-- **The Guardian** — [‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release](https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release)  
-  _Thu, 26 Nov 2026 05:16:17 GMT_ · paywall: `False`
+- **The Guardian** — [New Zealand election: final results show ruling coalition needs minor party to govern](https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results)  
+  _Fri, 27 Nov 2026 02:38:15 GMT_ · paywall: `False`
+- **The Guardian** — [Threat from China looms large over Taiwan’s local elections](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections)  
+  _Fri, 27 Nov 2026 01:00:49 GMT_ · paywall: `False`
