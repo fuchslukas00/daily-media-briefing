@@ -1,35 +1,35 @@
 # Daily Briefing
 
-_Generated: 2026-11-27 16:55 UTC_
+_Generated: 2026-11-28 15:46 UTC_
 
 This is an RSS-based briefing (v1). Summaries are feed snippets, not full-article text.
 
 ## germany
 
-- **Deutschlandfunk** — [Sozialpolitik - Entwurf aus Arbeitsministerium: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben](https://www.deutschlandfunk.de/entwurf-aus-arbeitsministerium-abschlagsfreie-rente-nach-45-jahren-soll-erhalten-bleiben-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Neuer Gesetzentwurf - Schweitzer wirbt für Renten-Kompromiss](https://www.deutschlandfunk.de/schweitzer-wirbt-fuer-renten-kompromiss-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Interview der Woche - Verbraucherzentrale Bundesverband: Vorständin Pop für weitere Entlastungen bei Energiekosten](https://www.deutschlandfunk.de/verbraucherzentrale-bundesverband-vorstaendin-pop-fuer-weitere-entlastungen-bei-energiekosten-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Staatsausgaben - Bundestag verabschiedet Haushalt für das kommende Jahr](https://www.deutschlandfunk.de/bundestag-verabschiedet-haushalt-fuer-das-kommende-jahr-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Finanzpolitik - Ökonom Felbermayr: Haushaltsbeschlüsse gefährden Vertrauen in Deutschland](https://www.deutschlandfunk.de/oekonom-felbermayr-haushaltsbeschluesse-gefaehrden-vertrauen-in-deutschland-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Dresden - BSW-Co-Vorsitzender De Masi schließt Koalitionen mit AfD aus - Richtungsstreit auf dem Parteitag erwartet](https://www.deutschlandfunk.de/bsw-co-vorsitzender-de-masi-schliesst-koalitionen-mit-afd-aus-richtungsstreit-auf-dem-parteitag-erwa-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Hamburg - Sadistisches Online-Netzwerk: Höchststrafe für "White Tiger" beantragt](https://www.deutschlandfunk.de/sadistisches-online-netzwerk-hoechststrafe-fuer-white-tiger-beantragt-102.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Potsdam - Bündnis gegründet: Jugendämter müssen unabhängig überwacht werden](https://www.deutschlandfunk.de/buendnis-gegruendet-jugendaemter-muessen-unabhaengig-ueberwacht-werden-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Neues Bündnis - Türkei ratifiziert Verteidigungspakt mit Saudi-Arabien und Pakistan](https://www.deutschlandfunk.de/tuerkei-ratifiziert-verteidigungspakt-mit-saudi-arabien-und-pakistan-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Sicherheit - "Spiegel": Proiranische Gruppe plante auch Anschlag auf Synagoge in Schweden](https://www.deutschlandfunk.de/spiegel-proiranische-gruppe-plante-auch-anschlag-auf-synagoge-in-schweden-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Nachfolge von Stefan Raue - Verwaltungsrat schlägt Dr. Nadja Scholz als neue Deutschlandradio-Intendantin vor](https://www.deutschlandfunk.de/verwaltungsrat-schlaegt-dr-nadja-scholz-als-neue-deutschlandradio-intendantin-vor-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
-- **Deutschlandfunk** — [Medien - Verein "Informationsqualität" geht weiter juristisch gegen Deutschlandfunk-Reform vor](https://www.deutschlandfunk.de/verein-informationsqualitaet-geht-weiter-juristisch-gegen-deutschlandfunk-reform-vor-100.html)  
-  _Fri, 27 Nov 2026 17:49:48 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Juso-Bundeskongress - Heil wirbt um Unterstützung für seine Kandidatur als SPD-Chef](https://www.deutschlandfunk.de/heil-wirbt-um-unterstuetzung-fuer-seine-kandidatur-als-spd-chef-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Dresden - BSW-Parteitag lehnt scharfe Abgrenzung zur AfD ab - 30 Mitglieder erklären Austritt](https://www.deutschlandfunk.de/bsw-parteitag-lehnt-scharfe-abgrenzung-zur-afd-ab-30-mitglieder-erklaeren-austritt-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sozialpolitik - Union und SPD diskutieren weiter über Rentenreform - Kritik der Arbeitgeber](https://www.deutschlandfunk.de/union-und-spd-diskutieren-weiter-ueber-rentenreform-kritik-der-arbeitgeber-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Gosen-Neu Zittau - Brandenburg ehrt getöteten Erzieher für besonderen Mut](https://www.deutschlandfunk.de/brandenburg-ehrt-getoeteten-erzieher-fuer-besonderen-mut-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bürgerkrieg - Viele Tote nach Angriffen des Militärs in Myanmar](https://www.deutschlandfunk.de/viele-tote-nach-angriffen-des-militaers-in-myanmar-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Afghanistan - Mindestens zehn Tote bei versehentlicher Sprengstoff-Explosion - bis zu 110 Verletzte](https://www.deutschlandfunk.de/mindestens-zehn-tote-bei-versehentlicher-sprengstoff-explosion-bis-zu-110-verletzte-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Falkland-Streit - Seegerichtshof erlaubt Großbritannien Ölbohrungen vor Falklandinseln](https://www.deutschlandfunk.de/seegerichtshof-erlaubt-grossbritannien-oelbohrungen-vor-falklandinseln-104.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Erderwärmung - Umweltminister Schneider für Umbau an Rhein](https://www.deutschlandfunk.de/umweltminister-schneider-fuer-umbau-an-rhein-100.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Bundesagentur für Arbeit - Nahles: "Berufseinstieg fällt vielen Jugendlichen offenbar schwer"](https://www.deutschlandfunk.de/nahles-berufseinstieg-faellt-vielen-jugendlichen-offenbar-schwer-106.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Angaben britischer Behörde - Bewaffnete Angreifer kapern Schiff vor jemenitischer Küste](https://www.deutschlandfunk.de/bewaffnete-angreifer-kapern-schiff-vor-jemenitischer-kueste-102.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Ukraine-Krieg - Hunderte Drohnen auf dem Weg nach Moskau abgefangen](https://www.deutschlandfunk.de/hunderte-drohnen-auf-dem-weg-nach-moskau-abgefangen-102.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
+- **Deutschlandfunk** — [Sicherheit - Flugbetrieb in Köln-Bonn nach Drohnensichtung gestoppt](https://www.deutschlandfunk.de/flugbetrieb-in-koeln-bonn-nach-drohnensichtung-gestoppt-104.html)  
+  _Sat, 28 Nov 2026 16:43:51 +0100_ · paywall: `False`
 
 ## international
 
@@ -43,17 +43,17 @@ This is an RSS-based briefing (v1). Summaries are feed snippets, not full-articl
   _Wed, 25 Nov 2026 14:03:18 GMT_ · paywall: `False`
 - **The Guardian** — [Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini](https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini)  
   _Wed, 25 Nov 2026 11:28:05 GMT_ · paywall: `False`
+- **The Guardian** — [Argentina fails to block oil drilling off Falkland Islands](https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal)  
+  _Sat, 28 Nov 2026 13:22:10 GMT_ · paywall: `False`
+- **The Guardian** — [‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament](https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition)  
+  _Fri, 27 Nov 2026 21:24:10 GMT_ · paywall: `False`
 - **The Guardian** — [Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols](https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols)  
   _Fri, 27 Nov 2026 16:13:07 GMT_ · paywall: `False`
 - **The Guardian** — [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)  
   _Wed, 25 Nov 2026 20:20:23 GMT_ · paywall: `False`
 - **The Guardian** — [Lululemon founder stuns Canadian women’s leadership conference with sexist comments](https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference)  
   _Wed, 25 Nov 2026 19:57:49 GMT_ · paywall: `False`
-- **The Guardian** — [Colombia’s president arrives at scene of supermarket hostage siege in tourist city](https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket)  
-  _Wed, 25 Nov 2026 03:57:11 GMT_ · paywall: `False`
-- **The Guardian** — [Kilmar Ábrego García, man at center of Trump deportation battle, leaves US](https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us)  
-  _Tue, 24 Nov 2026 23:50:31 GMT_ · paywall: `False`
+- **The Guardian** — [‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade](https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china)  
+  _Sat, 28 Nov 2026 15:29:52 GMT_ · paywall: `False`
 - **The Guardian** — [New Zealand election: final results show ruling coalition needs minor party to govern](https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results)  
   _Fri, 27 Nov 2026 02:38:15 GMT_ · paywall: `False`
-- **The Guardian** — [Threat from China looms large over Taiwan’s local elections](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections)  
-  _Fri, 27 Nov 2026 01:00:49 GMT_ · paywall: `False`
